@@ -565,6 +565,11 @@ main { padding-top: var(--nav-h); }
 .gallery { display: grid; grid-template-columns: repeat(auto-fill, minmax(min(100%, 20rem), 1fr)); align-items: start; gap: clamp(.8rem, 2vw, 1.4rem); margin-block: clamp(2rem, 4vw, 3.5rem); }
 .gallery__item { margin: 0; background: #fff; padding: clamp(6px, .6vw, 10px); border-radius: 10px; cursor: zoom-in; box-shadow: 0 14px 36px -24px rgba(0,0,0,.5); transition: transform .5s var(--ease), box-shadow .5s var(--ease); }
 .gallery__item img { width: 100%; height: auto; display: block; border-radius: 4px; }
+/* 2026-07-13: a portrait installation shot sharing a row with landscape siblings
+   (Singapore 02, 1280×1600) renders taller than them. Fit it into the row-mate's
+   landscape box (4:3, matching Singapore 01) and letterbox on the item's white bg —
+   same height, no crop, honouring the native-aspect rule above. */
+.gallery__item--portrait img { aspect-ratio: 4 / 3; object-fit: contain; }
 .gallery__item:hover { transform: translateY(-4px); box-shadow: 0 24px 50px -26px rgba(0,0,0,.6); }
 .gallery__cap { margin-top: .6rem; font-size: .82rem; line-height: 1.5; color: var(--c-text-dim); padding: 0 .2rem .2rem; text-align: justify; text-justify: inter-ideograph; hyphens: auto; }
 
