@@ -618,7 +618,9 @@ main { padding-top: var(--nav-h); }
 .site-footer__col { display: flex; flex-direction: column; gap: .55rem; }
 .site-footer__col a { color: rgba(245,245,247,.82); font-size: .95rem; width: max-content; transition: color .25s; }
 .site-footer__col a:hover { color: #fff; }
-.site-footer__base { display: flex; flex-wrap: wrap; justify-content: space-between; gap: 1rem; padding-block: 1.6rem; border-top: 1px solid var(--c-line-invert); font-size: .82rem; color: var(--c-text-faint); }
+/* padding-bottom adds the iOS/Android safe-area inset so the © line and “back to top”
+   aren't clipped by the home indicator when viewport-fit=cover (2026-07-13). */
+.site-footer__base { display: flex; flex-wrap: wrap; justify-content: space-between; gap: 1rem; padding-top: 1.6rem; padding-bottom: calc(1.6rem + env(safe-area-inset-bottom, 0px)); border-top: 1px solid var(--c-line-invert); font-size: .82rem; color: var(--c-text-faint); }
 .site-footer__base a { color: var(--c-text-faint); transition: color .25s; }
 .site-footer__base a:hover { color: #fff; }
 @media (min-width: 760px) { .site-footer__grid { grid-template-columns: 2fr 1fr 1.3fr; } }
