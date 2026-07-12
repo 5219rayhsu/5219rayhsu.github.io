@@ -338,7 +338,7 @@ main { padding-top: var(--nav-h); }
 
 /* ---------------------------------------------------------------- breadcrumb */
 .breadcrumb { padding: clamp(1.4rem, 3vw, 2.2rem) 0 0; }
-.breadcrumb ol { list-style: none; padding: 0; display: flex; flex-wrap: wrap; align-items: center; gap: .5rem; font-size: .85rem; color: var(--c-text-dim); }
+.breadcrumb ol { list-style: none; padding-block: 0; display: flex; flex-wrap: wrap; align-items: center; gap: .5rem; font-size: .85rem; color: var(--c-text-dim); }
 .breadcrumb li { display: inline-flex; align-items: center; gap: .5rem; }
 .breadcrumb li + li::before { content: "/"; color: var(--c-text-faint); }
 .breadcrumb a { color: var(--c-text-dim); transition: color .2s; }
@@ -538,6 +538,8 @@ main { padding-top: var(--nav-h); }
    chaos-body-shop) — scope the override to exhibition titles only. */
 @media (max-width: 600px) {
   .cv-item__title .nowrap { white-space: normal; }
+  /* wrapped exhibition titles: looser line spacing + justified on phones */
+  .cv-item__title { line-height: 1.4; text-align: justify; text-justify: inter-ideograph; }
 }
 .cv-item__meta { margin-top: .35rem; font-size: .92rem; line-height: 1.55; color: var(--c-text-dim); }
 .cv-item__meta a { color: var(--c-accent-ink); text-underline-offset: 2px; }
