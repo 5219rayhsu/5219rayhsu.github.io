@@ -421,9 +421,17 @@ main { padding-top: var(--nav-h); }
 .t-title { font-weight: 600; font-style: italic; }
 /* Justified site-wide (zh/en/ja alike, per 2026-07-11B directive): CJK gets
    text-justify: inter-ideograph, Latin scripts get hyphens: auto so justify
-   doesn't blow out word-spacing in narrow EN columns. .block-head__lede's
-   own justify rule lives with the rest of the block-head component below. */
-.prose > p, .prose__lead, .manifesto__zh-body, .manifesto__en {
+   doesn't blow out word-spacing in narrow EN columns. Descendant `.prose p`
+   (not just `.prose > p`) so flowing essays whose paragraphs are wrapped in a
+   `.reveal-block` — e.g. about's 人生小記 vignettes and 簡介 — get justified too.
+   `:not(:has(br))` opts OUT any block the artist hand-broke with <br /> (event
+   info label lists, address blocks, the about intro name stack, couplets) so a
+   forced-break line is never stretched toward the right edge. work-card /
+   related-card descriptions are flowing prose and join the family here.
+   .block-head__lede's own justify rule lives with the block-head component. */
+.prose p:not(:has(br)), .prose__lead:not(:has(br)),
+.manifesto__zh-body, .manifesto__en,
+.work-card__desc, .related-card__d {
   text-align: justify; text-justify: inter-ideograph; hyphens: auto;
 }
 .prose em { font-style: italic; color: var(--c-text); }
@@ -460,6 +468,11 @@ main { padding-top: var(--nav-h); }
 .collage-item__en { color: var(--c-invert-dim); font-size: 1rem; margin-bottom: 1.4rem; }
 .collage-item__desc { font-size: .98rem; line-height: 1.6; color: rgba(245,245,247,.78); text-align: justify; text-justify: inter-ideograph; hyphens: auto; }
 .collage-item__desc span { display: block; margin-top: .3rem; color: var(--c-invert-dim); font-size: .85rem; }
+/* These CBS captions are hand-broken with <br /> (e.g. "…statue<br />× soldier
+   statue"); on a narrow column the pre-break segment wraps and justify stretched
+   its first line to the full width (measured). Left-align so the artist's manual
+   break reads cleanly — the site-wide manual-<br /> justify exclusion. */
+.collage-item__desc:has(br) { text-align: start; text-justify: auto; }
 
 /* ---------------------------------------------------------------- feature cards (home: featured works) */
 .feature-grid { list-style: none; padding: 0; margin: 0; display: grid; grid-template-columns: 1fr; gap: clamp(1.2rem, 3vw, 2rem); }
