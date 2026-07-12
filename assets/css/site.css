@@ -598,6 +598,13 @@ main { padding-top: var(--nav-h); }
 .gallery.gallery--answer { grid-template-columns: repeat(2, 1fr); }
 @media (min-width: 860px) { .gallery.gallery--answer { grid-template-columns: repeat(4, 1fr); } }
 
+/* Poland gallery (2026-07-13): 3 installation views (Łódź, 16:9). Desktop shows
+   all three in one row; ≤600px drops to 2-up so each stays legible (the 3rd wraps
+   onto its own row). max-width is widened past the old 2-up figure's 560px so three
+   columns don't shrink too far. Singapore's 2×2 figure keeps its own inline grid. */
+.gallery.gallery--3up { grid-template-columns: repeat(3, 1fr); }
+@media (max-width: 600px) { .gallery.gallery--3up { grid-template-columns: 1fr 1fr; } }
+
 /* ---------------------------------------------------------------- about preview (home) */
 .about-preview .prose__lead { color: var(--c-text); }
 .about-preview__facts { list-style: none; padding: 0; margin: clamp(1.6rem, 3vw, 2.2rem) 0 0; display: grid; gap: .7rem; }
