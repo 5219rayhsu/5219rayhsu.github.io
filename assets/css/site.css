@@ -461,7 +461,11 @@ main { padding-top: var(--nav-h); }
 .collages { margin-top: clamp(2.5rem, 6vw, 5rem); display: flex; flex-direction: column; gap: clamp(5rem, 12vw, 11rem); }
 .collage-item { display: grid; gap: clamp(1.5rem, 4vw, 3.5rem); grid-template-columns: 1fr; align-items: center; max-width: var(--wrap); margin-inline: auto; padding-inline: var(--pad-inline); }
 .collage-item__media { background: #fff; padding: clamp(8px, 1vw, 16px); border-radius: 10px; cursor: zoom-in; box-shadow: 0 40px 90px -50px rgba(0,0,0,.9); transition: transform .6s var(--ease), box-shadow .6s var(--ease); }
-.collage-item__media img { width: 100%; max-height: 80vh; object-fit: contain; display: block; border-radius: 3px; }
+/* fill the card width at native aspect (no max-height:80vh + object-fit:contain):
+   a 1100×2383 collage taller than 80vh used to letterbox, and 80vh shifts with the
+   mobile URL bar on scroll — so identical collages showed different white borders at
+   different scroll positions. width:100% + height:auto = one uniform padding frame. */
+.collage-item__media img { width: 100%; height: auto; display: block; border-radius: 3px; }
 .collage-item__media:hover { transform: scale(1.012); box-shadow: 0 52px 104px -50px rgba(0,0,0,1); }
 .collage-item__no { font-size: clamp(2.2rem, 5vw, 3.4rem); font-weight: 600; letter-spacing: -.03em; color: var(--c-accent); line-height: 1; margin-bottom: 1rem; font-feature-settings: "tnum"; }
 .collage-item__zh { font-size: var(--t-h3); color: var(--c-invert); margin-bottom: .35rem; }
