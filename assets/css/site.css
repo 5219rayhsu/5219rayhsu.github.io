@@ -438,6 +438,10 @@ main { padding-top: var(--nav-h); }
    gaps) — balance instead: wrapped lines break at ~equal lengths, no stretching. */
 .work-card__zh, .work-card__en { text-wrap: balance; }
 .prose em { font-style: italic; color: var(--c-text); }
+/* inline links inside prose (e.g. about — Open Book Is Good ↗): accent + underline,
+   matching .cv-item__meta links; without this, prose anchors are invisible. */
+.prose a { color: var(--c-accent-ink); text-decoration: underline; text-underline-offset: 3px; text-decoration-thickness: 1px; }
+.prose a:hover { color: var(--c-accent); }
 
 .sutra-quote { margin: clamp(2.5rem, 6vw, 4rem) 0; }
 .sutra-quote--center { text-align: center; margin-inline: auto; }
