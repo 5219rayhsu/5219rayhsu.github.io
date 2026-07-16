@@ -431,7 +431,8 @@ main { padding-top: var(--nav-h); }
    .block-head__lede's own justify rule lives with the block-head component. */
 .prose p:not(:has(br)), .prose__lead:not(:has(br)),
 .manifesto__zh-body, .manifesto__en,
-.work-card__desc, .related-card__d {
+.work-card__desc, .related-card__d,
+.work-card__zh, .work-card__en {
   text-align: justify; text-justify: inter-ideograph; hyphens: auto;
 }
 .prose em { font-style: italic; color: var(--c-text); }
