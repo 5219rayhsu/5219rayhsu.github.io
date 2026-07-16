@@ -431,10 +431,12 @@ main { padding-top: var(--nav-h); }
    .block-head__lede's own justify rule lives with the block-head component. */
 .prose p:not(:has(br)), .prose__lead:not(:has(br)),
 .manifesto__zh-body, .manifesto__en,
-.work-card__desc, .related-card__d,
-.work-card__zh, .work-card__en {
+.work-card__desc, .related-card__d {
   text-align: justify; text-justify: inter-ideograph; hyphens: auto;
 }
+/* card titles: justify stretched the first wrapped line to full width (huge CJK
+   gaps) — balance instead: wrapped lines break at ~equal lengths, no stretching. */
+.work-card__zh, .work-card__en { text-wrap: balance; }
 .prose em { font-style: italic; color: var(--c-text); }
 
 .sutra-quote { margin: clamp(2.5rem, 6vw, 4rem) 0; }
