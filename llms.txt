@@ -4,20 +4,39 @@
 > Personal website of Taiwanese artist HSU Che-jui (b. 2003). Photography × performance × AI mixed-media practice. Chinese is authoritative; English (/en/) and Japanese (/ja/) mirrors available.
 
 ## 作品 Works
-- [無序身體販賣所 Chaos Body Shop](https://xn--n4y.tw/works/chaos-body-shop/): 2025– 複合媒材長期計畫（攝影拼貼、AI 證件照、金剛經注音重排）；2026 SKM PHOTO 新光三越國際攝影大賽 參獎暨年度特獎
-- [答案 Answer](https://xn--n4y.tw/works/answer/): 4×5 大型黑白底片自拍系列；單幅《長大》獲 2026 全國美術展攝影類金牌獎
-- [心藥 Medicine](https://xn--n4y.tw/works/medicine/): AI 塔羅牌互動作品；2025 個展於看守所藝術空間
+- [無序身體販賣所 Chaos Body Shop](https://5219rayhsu.github.io/works/chaos-body-shop/): 2025– 複合媒材長期計畫（攝影拼貼、AI 證件照、金剛經注音重排）；2026 SKM PHOTO 新光三越國際攝影大賽 參獎暨年度特獎
+- [答案 Answer](https://5219rayhsu.github.io/works/answer/): 4×5 大型黑白底片自拍系列；單幅《長大》獲 2026 全國美術展攝影類金牌獎
+- [心藥 Medicine](https://5219rayhsu.github.io/works/medicine/): AI 塔羅牌互動作品；2025 個展於看守所藝術空間
 
 ## 參展 Exhibitions
-- [參展年表](https://xn--n4y.tw/exhibitions/): 個展、聯展、台大攝影社展完整年表
-- [《答案》基隆美術館個展 2025](https://xn--n4y.tw/exhibitions/answer-keelung-2025/)
-- [《正解：台湾の受験戦争の真剣勝負》東京 Place M 個展 2026](https://xn--n4y.tw/exhibitions/seikai-tokyo-2026/)
+- [參展年表](https://5219rayhsu.github.io/exhibitions/): 個展、聯展、台大攝影社展完整年表
+- [《答案》基隆美術館個展 2025](https://5219rayhsu.github.io/exhibitions/answer-keelung-2025/)
+- [《正解：台湾の受験戦争の真剣勝負》東京 Place M 個展 2026](https://5219rayhsu.github.io/exhibitions/seikai-tokyo-2026/)
 
 ## 文字 Texts
-- [默觀自我：「問題」與「答案」的弔詭思想行動（姜麗華）](https://xn--n4y.tw/texts/contemplating-the-self/)
-- [誰為生成之相負責（許哲睿）](https://xn--n4y.tw/texts/critique/)
+- [默觀自我：「問題」與「答案」的弔詭思想行動（姜麗華）](https://5219rayhsu.github.io/texts/contemplating-the-self/)
+- [誰為生成之相負責（許哲睿）](https://5219rayhsu.github.io/texts/critique/)
 
 ## 關於 About
-- [簡歷與聯絡](https://xn--n4y.tw/about/)
-- [English](https://xn--n4y.tw/en/)
-- [日本語](https://xn--n4y.tw/ja/)
+- [簡歷與聯絡](https://5219rayhsu.github.io/about/)
+- [English](https://5219rayhsu.github.io/en/)
+- [日本語](https://5219rayhsu.github.io/ja/)
+
+## 機器可讀 Machine-readable (OKF)
+- [OKF 全量 bundle](https://5219rayhsu.github.io/okf/index.md): 知識庫總索引，列出所有實體與可用語言。
+- [OKF 中文入口](https://5219rayhsu.github.io/okf/index.zh-Hant.md): 中文（正本）內容索引。
+- [OKF 英文入口](https://5219rayhsu.github.io/okf/index.en.md): 英文內容索引。
+- [OKF 日文入口](https://5219rayhsu.github.io/okf/index.ja.md): 日文內容索引。
+- [藝術家 Artist](https://5219rayhsu.github.io/okf/artist/index.md): 藝術家基本資料與簡歷結構化條目。
+- [作品總覽 Works index](https://5219rayhsu.github.io/okf/works/index.md): 全部作品實體清單。
+- [作品：答案 Answer](https://5219rayhsu.github.io/okf/works/answer/index.md): 《答案》作品結構化條目。
+- [作品：無序身體販賣所 Chaos Body Shop](https://5219rayhsu.github.io/okf/works/chaos-body-shop/index.md): 《無序身體販賣所》作品結構化條目。
+- [作品：心藥 Medicine](https://5219rayhsu.github.io/okf/works/medicine/index.md): 《心藥》作品結構化條目。
+- [參展總覽 Exhibitions index](https://5219rayhsu.github.io/okf/exhibitions/index.md): 全部參展實體清單。
+- [參展年表 Exhibition timeline](https://5219rayhsu.github.io/okf/exhibitions/exhibition-timeline/index.md): 個展、聯展完整年表結構化條目。
+- [參展：《答案》基隆美術館個展 2025](https://5219rayhsu.github.io/okf/exhibitions/answer-keelung-2025/index.md): 基隆美術館個展結構化條目。
+- [參展：《心藥》個展 2025](https://5219rayhsu.github.io/okf/exhibitions/medicine-2025/index.md): 看守所藝術空間個展結構化條目。
+- [參展：東京 Place M 個展 2026](https://5219rayhsu.github.io/okf/exhibitions/seikai-tokyo-2026/index.md): 東京 Place M 個展結構化條目。
+- [文字總覽 Texts index](https://5219rayhsu.github.io/okf/texts/index.md): 全部評論／自述文字清單。
+- [文字：默觀自我（姜麗華）](https://5219rayhsu.github.io/okf/texts/contemplating-the-self/index.md): 姜麗華評論文字結構化條目。
+- [文字：誰為生成之相負責（許哲睿）](https://5219rayhsu.github.io/okf/texts/who-answers-for-the-generated-image/index.md): 許哲睿自述文字結構化條目。
