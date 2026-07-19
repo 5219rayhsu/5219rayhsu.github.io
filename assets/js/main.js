@@ -220,7 +220,7 @@
     const img = srcEl.querySelector("img");
     if (!img || !lightbox) return;
     lastFocused = document.activeElement;
-    lightboxImg.src = img.currentSrc || img.src;
+    lightboxImg.src = img.dataset.full || img.currentSrc || img.src;
     lightboxImg.alt = img.alt || "";
     if (lightboxCap) {
       const figcap = srcEl.querySelector("figcaption");
