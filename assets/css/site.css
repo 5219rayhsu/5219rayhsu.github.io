@@ -554,6 +554,9 @@ main { padding-top: var(--nav-h); }
 .cv-item > div { min-width: 0; }
 .cv-item__year { font-weight: 600; color: var(--c-text-dim); font-feature-settings: "tnum"; }
 .cv-item__title { font-size: 1.1rem; font-weight: 500; }
+/* 官網連結掛在展覽標題上：低調繼承文字色，只在 hover 才變 accent，不整行變紅 */
+.cv-item__title a { color: inherit; }
+.cv-item__title a:hover { color: var(--c-accent); }
 /* 2026-07-13 sonnet A #1.2 follow-up: en/exhibitions/index.html's Seikai title
    wraps its English parenthetical in the site-wide .nowrap utility (white-space:
    nowrap). That's fine at desktop widths but is wider than a 375px viewport and
@@ -568,6 +571,8 @@ main { padding-top: var(--nav-h); }
 .cv-item__meta { margin-top: .35rem; font-size: .92rem; line-height: 1.55; color: var(--c-text-dim); }
 .cv-item__meta a { color: var(--c-accent-ink); text-underline-offset: 2px; }
 .cv-item__meta a:hover { text-decoration: underline; }
+/* 媒體報導引註連結：不用紅字，但仍可點；hover 底線行為照舊 */
+.cv-item__meta a.u-plain { color: inherit; }
 /* cv-field (2026-07-13, sonnet A #1.1): 場地／日期等原以純文字「｜」相連的同行欄位，
    拆成獨立 span 後桌機用 ::before 補回「｜」視覺（與原本外觀一致），手機（<=600px）
    改 display:block 各自成行，避免窄螢幕擠成一排、首尾相連。只影響曾以｜相連的欄位；
