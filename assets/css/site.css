@@ -572,7 +572,7 @@ main { padding-top: var(--nav-h); }
 .cv-item__meta a { color: var(--c-accent-ink); text-underline-offset: 2px; }
 .cv-item__meta a:hover { text-decoration: underline; }
 /* 媒體報導引註連結：不用紅字，但仍可點；hover 底線行為照舊 */
-.cv-item__meta a.u-plain { color: var(--c-text); }
+.cv-item__meta a.u-plain { color: inherit; }
 /* cv-field (2026-07-13, sonnet A #1.1): 場地／日期等原以純文字「｜」相連的同行欄位，
    拆成獨立 span 後桌機用 ::before 補回「｜」視覺（與原本外觀一致），手機（<=600px）
    改 display:block 各自成行，避免窄螢幕擠成一排、首尾相連。只影響曾以｜相連的欄位；
