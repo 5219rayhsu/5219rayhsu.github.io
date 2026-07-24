@@ -466,7 +466,7 @@ main { padding-top: var(--nav-h); }
 /* award card that embeds the documentation video, sitting in the award-grid as a third card */
 .award--video { display: flex; flex-direction: column; }
 .award--video .award__video-label { text-align: center; }
-.award--video .video-embed__frame { max-width: min(280px, 100%); margin-inline: auto; width: 100%; border-radius: calc(var(--r-lg) - 14px); }
+.award--video .video-embed__frame { max-width: min(360px, 100%); margin-inline: auto; width: 100%; border-radius: calc(var(--r-lg) - 14px); }
 .award--video .video-embed__link { margin-top: 1.2rem; }
 
 /* ---------------------------------------------------------------- sutra section (CBS) */
@@ -772,8 +772,7 @@ section[id], span.anchor { scroll-margin-top: 72px; }
 @media (min-width: 700px) { .award-grid { grid-template-columns: 1fr 1fr; } }
 /* 700–979px: two award cards stay side by side, the video card drops to its own centered row
    (a third column here would fall under ~280px). From 980px there is room for three even columns. */
-@media (min-width: 700px) and (max-width: 979px) { .award-grid--with-video .award--video { grid-column: 1 / -1; max-width: 420px; margin-inline: auto; } }
-@media (min-width: 980px) { .award-grid--with-video { grid-template-columns: repeat(3, 1fr); } }
+@media (min-width: 700px) { .award-grid--with-video .award--video { grid-column: 1 / -1; width: min(440px, 100%); margin-inline: auto; } }
 @media (min-width: 760px) { .series-grid { grid-template-columns: repeat(3, 1fr); } }
 @media (min-width: 900px) {
   .collage-item { grid-template-columns: minmax(0, 1.05fr) 1fr; }
