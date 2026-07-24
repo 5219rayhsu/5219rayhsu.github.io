@@ -31,8 +31,8 @@
   /* ---- Type ---- */
   --font-sans: -apple-system, BlinkMacSystemFont, "SF Pro Display", "SF Pro Text",
                "PingFang TC", "Noto Sans TC", "Microsoft JhengHei", system-ui, sans-serif;
-  --font-serif: "Songti TC", "STSongti-TC-Regular", "Noto Serif TC", "Source Han Serif TC",
-                "MingLiU", Georgia, serif;
+  --font-serif: Georgia, "Songti TC", "STSongti-TC-Regular", "Noto Serif TC",
+                "Source Han Serif TC", "MingLiU", serif;
 
   /* fluid scale */
   --t-eyebrow: 0.78rem;
@@ -642,6 +642,9 @@ main { padding-top: var(--nav-h); }
    onto its own row). max-width is widened past the old 2-up figure's 560px so three
    columns don't shrink too far. Singapore's 2×2 figure keeps its own inline grid. */
 .gallery.gallery--3up { grid-template-columns: repeat(3, 1fr); }
+/* 布展團隊：首張整行置中，其餘兩兩一組 */
+.gallery.gallery--crew { grid-template-columns: repeat(2, 1fr); }
+.gallery__item--lead { grid-column: 1 / -1; max-width: min(560px, 100%); margin-inline: auto; }
 @media (max-width: 600px) { .gallery.gallery--3up { grid-template-columns: 1fr 1fr; } }
 
 /* ---------------------------------------------------------------- about preview (home) */
