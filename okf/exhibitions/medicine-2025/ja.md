@@ -11,7 +11,7 @@ start_date: '2025-10-01'
 end_date: '2025-10-04'
 venue:
   name: 看守所 beholdingcell
-  address: 台北市大安区復興南路一段321号1楼A9室
+  address: 台北市大安区復興南路一段321号1階A9室
 director:
   name: 陳斌華
   alternate_name: CHEN, Pin-hua

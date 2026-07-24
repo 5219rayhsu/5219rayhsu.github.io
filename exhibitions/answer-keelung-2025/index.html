@@ -33,6 +33,9 @@
     .video-embed { position: relative; width: 100%; border-radius: 10px; overflow: hidden; background: #000; box-shadow: 0 14px 36px -24px rgba(0,0,0,.5); }
     .video-embed--16x9 { aspect-ratio: 16 / 9; }
     .video-embed--16x9 iframe { position: absolute; inset: 0; width: 100%; height: 100%; border: 0; }
+    /* 直式原生影片（720×1280）：9:16 框、限寬置中，避免上下黑邊 */
+    .video-embed--9x16 { aspect-ratio: 9 / 16; max-width: min(360px, 100%); margin-inline: auto; }
+    .video-embed--9x16 iframe { position: absolute; inset: 0; width: 100%; height: 100%; border: 0; }
     .video-embed--ig { background: #fff; max-width: 540px; margin-inline: auto; }
     .video-embed--ig iframe { width: 100%; height: 680px; border: 0; display: block; }
     .video-cap { margin-top: .6rem; font-size: .82rem; line-height: 1.5; color: var(--c-text-dim); }
@@ -272,13 +275,13 @@
       <div class="wrap">
         <div class="video-grid">
           <div>
-            <div class="video-embed video-embed--16x9" data-reveal>
+            <div class="video-embed video-embed--9x16" data-reveal>
               <iframe src="https://www.youtube.com/embed/_bqKH1x4nEg" loading="lazy" title="許哲睿《立場 Stance》直式4K錄像"></iframe>
             </div>
             <p class="video-cap">許哲睿作品《立場Stance》直式4K錄像 (2'50")，國術表演：大八極拳</p>
           </div>
           <div>
-            <div class="video-embed video-embed--16x9" data-reveal>
+            <div class="video-embed video-embed--9x16" data-reveal>
               <iframe src="https://www.youtube.com/embed/tdcez6A7sOA" loading="lazy" title="展場巡禮《答案Answer》"></iframe>
             </div>
             <p class="video-cap">展場巡禮《答案Answer》1分40秒，三週展期參觀人次約5000人</p>
@@ -293,7 +296,7 @@
         <div class="prose">
           <figure class="sutra-quote sutra-quote--center" data-reveal style="margin-top:0;">
             <p class="sutra-quote__zh" style="font-size:clamp(1.2rem, 1rem + 1vw, 1.7rem);">「我們從小被要求要當個乖學生、好好讀書，卻沒人教我該怎麼發出自己的聲音。」</p>
-            <figcaption class="sutra-quote__en" style="font-style:normal;">考試機器編號：10830177</figcaption>
+            <figcaption class="sutra-quote__en" style="font-style:normal; font-family:var(--font-serif); font-weight:600; letter-spacing:.04em; color:var(--c-accent);">考試機器編號：10830177</figcaption>
           </figure>
 
           <p data-reveal>身為108課綱教育改革第一屆的白老鼠，許哲睿自創「思想國術」表演，在身上刻下具我國特色的學測、分科測驗歷屆考題，如：台積電、三民主義、死刑存廢、注音符號等，並提問「未來題思想實驗」，如：公民投票、國歌。結合佛家密宗的明王怒目圓睜的表情，點亮眼鏡為考試機器開光，自拍4x5大型黑白底片等身肖像，並撰寫寓言故事，思索：「不求甚解」的考試對生命造成的傷痕。</p>

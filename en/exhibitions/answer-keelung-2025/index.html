@@ -33,6 +33,9 @@
     .video-embed { position: relative; width: 100%; border-radius: 10px; overflow: hidden; background: #000; box-shadow: 0 14px 36px -24px rgba(0,0,0,.5); }
     .video-embed--16x9 { aspect-ratio: 16 / 9; }
     .video-embed--16x9 iframe { position: absolute; inset: 0; width: 100%; height: 100%; border: 0; }
+    /* 直式原生影片（720×1280）：9:16 框、限寬置中，避免上下黑邊 */
+    .video-embed--9x16 { aspect-ratio: 9 / 16; max-width: min(360px, 100%); margin-inline: auto; }
+    .video-embed--9x16 iframe { position: absolute; inset: 0; width: 100%; height: 100%; border: 0; }
     .video-embed--ig { background: #fff; max-width: 540px; margin-inline: auto; }
     .video-embed--ig iframe { width: 100%; height: 680px; border: 0; display: block; }
     .video-cap { margin-top: .6rem; font-size: .82rem; line-height: 1.5; color: var(--c-text-dim); }
@@ -272,13 +275,13 @@
       <div class="wrap">
         <div class="video-grid">
           <div>
-            <div class="video-embed video-embed--16x9" data-reveal>
+            <div class="video-embed video-embed--9x16" data-reveal>
               <iframe src="https://www.youtube.com/embed/_bqKH1x4nEg" loading="lazy" title="HSU Che-jui, Stance — vertical 4K video"></iframe>
             </div>
             <p class="video-cap">HSU Che-jui, <em class="t-title">Stance</em> — vertical 4K video (2'50"). Martial arts performance: Da Bajiquan.</p>
           </div>
           <div>
-            <div class="video-embed video-embed--16x9" data-reveal>
+            <div class="video-embed video-embed--9x16" data-reveal>
               <iframe src="https://www.youtube.com/embed/tdcez6A7sOA" loading="lazy" title="Gallery walkthrough of Answer"></iframe>
             </div>
             <p class="video-cap">Gallery walkthrough of <em class="t-title">Answer</em>, 1 min 40 sec. Roughly 5,000 visitors over the three-week run.</p>
@@ -292,8 +295,8 @@
       <div class="wrap wrap--read">
         <div class="prose">
           <figure class="sutra-quote sutra-quote--center" data-reveal style="margin-top:0;">
-            <p class="sutra-quote__zh" style="font-size:clamp(1.2rem, 1rem + 1vw, 1.7rem); font-style:italic;">"We were taught from childhood to be good students, to study hard — yet no one taught me how to find my own voice."</p>
-            <figcaption class="sutra-quote__en" style="font-style:normal;">Examination Machine ID: 10830177</figcaption>
+            <p class="sutra-quote__zh" style="font-size:clamp(1.2rem, 1rem + 1vw, 1.7rem); font-style:italic; color:var(--c-accent);">"We were taught from childhood to be good students, to study hard — yet no one taught me how to find my own voice."</p>
+            <figcaption class="sutra-quote__en" style="font-style:normal; font-family:var(--font-serif); font-weight:600; letter-spacing:.04em; color:var(--c-accent);">Examination Machine ID: 10830177</figcaption>
           </figure>
 
           <p data-reveal>As a guinea pig of the first cohort under the 108 Curriculum reform, HSU Che-jui devised a performance he calls "mental martial arts," carving onto his own body past exam questions distinctive to Taiwan's college entrance exams — TSMC, the Three Principles of the People, the abolition of the death penalty, Zhuyin Fuhao, and more — while also posing "thought experiments for questions yet to come," such as referendums and the national anthem. Combining this with the wide-eyed, wrathful expression of an esoteric Buddhist Wisdom King, he lights up his glasses as if consecrating an exam-taking machine, and photographs himself life-size in large-format 4×5 black-and-white film, writing parables alongside to reflect on the wounds that "learning without truly understanding" leaves on a life.</p>
