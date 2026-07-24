@@ -513,7 +513,7 @@ main { padding-top: var(--nav-h); }
 .feature-card { position: relative; }
 .feature-card a { display: block; height: 100%; border-radius: var(--r-lg); overflow: hidden; background: var(--c-bg-muted); border: 1px solid var(--c-line); transition: transform .5s var(--ease), box-shadow .5s var(--ease); }
 .feature-card a:hover { transform: translateY(-6px); box-shadow: 0 30px 60px -34px rgba(0,0,0,.4); }
-.feature-card__media { margin: 0; aspect-ratio: 4 / 5; overflow: hidden; background: var(--c-bg-muted); }
+.feature-card__media { margin: 0; aspect-ratio: 4 / 5; overflow: hidden; background: transparent; }
 .feature-card__media img { width: 100%; height: 100%; object-fit: cover; transition: transform .7s var(--ease); }
 .feature-card a:hover .feature-card__media img { transform: scale(1.04); }
 .feature-card__body { padding: clamp(1.2rem, 2.2vw, 1.6rem) clamp(1.3rem, 2.4vw, 1.7rem) clamp(1.4rem, 2.6vw, 1.9rem); }
@@ -527,7 +527,7 @@ main { padding-top: var(--nav-h); }
 .work-cards { list-style: none; padding: 0; margin: clamp(2.5rem, 5vw, 4rem) 0 0; display: grid; gap: clamp(1.4rem, 3vw, 2.4rem); }
 .work-card { border: 1px solid var(--c-line); border-radius: var(--r-lg); overflow: hidden; background: #fff; }
 .work-card a { display: grid; grid-template-columns: 1fr; }
-.work-card__media { margin: 0; overflow: hidden; aspect-ratio: 4 / 5; background: var(--c-bg-muted); }
+.work-card__media { margin: 0; overflow: hidden; aspect-ratio: 4 / 5; background: transparent; }
 .work-card__media img { width: 100%; height: 100%; object-fit: contain; transition: transform .7s var(--ease); }
 .work-card a:hover .work-card__media img { transform: scale(1.03); }
 .work-card__body { padding: clamp(1.6rem, 3vw, 2.6rem); align-self: center; }
@@ -721,6 +721,16 @@ html.js [data-reveal].is-visible { opacity: 1; transform: none; }
   html.js [data-reveal] { opacity: 1 !important; transform: none !important; }
 }
 
+/* ---------------------------------------------------------------- image load-in
+   同一套 reveal 動態語言（--ease／向上浮現），套用在內容圖片本身的載入完成瞬間，
+   而非只有外層區塊。只作用於帶 loading="lazy" 的內容圖（main.js 會排除 nav/favicon），
+   幅度較小、時間較短，避免和區塊 reveal 互相搶戲。 */
+html.js img[loading="lazy"] { opacity: 0; transform: translateY(6px); transition: opacity .5s var(--ease), transform .5s var(--ease); }
+html.js img[loading="lazy"].is-loaded { opacity: 1; transform: none; }
+@media print {
+  html.js img[loading="lazy"] { opacity: 1 !important; transform: none !important; }
+}
+
 /* ---------------------------------------------------------------- anchors */
 section[id], span.anchor { scroll-margin-top: 72px; }
 
@@ -795,6 +805,7 @@ section[id], span.anchor { scroll-margin-top: 72px; }
 @media (prefers-reduced-motion: reduce) {
   *, *::before, *::after { animation-duration: .001ms !important; animation-iteration-count: 1 !important; transition-duration: .001ms !important; }
   html.js [data-reveal] { opacity: 1; transform: none; }
+  html.js img[loading="lazy"] { opacity: 1; transform: none; }
   .filmstrip img { width: 100%; }
   .hero__cue { display: none; }
 }

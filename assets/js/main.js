@@ -140,6 +140,22 @@
     revealEls.forEach((el) => io.observe(el));
   }
 
+  /* ---------- lazy image load-in (fade + rise, same easing as [data-reveal]) ----------
+     Applies only to loading="lazy" content images (never nav/favicon icons, which
+     don't carry that attribute). Cached images (already complete on attach — e.g.
+     a repeat visit) get .is-loaded immediately so they never sit invisible; a real
+     network load or a decode error both resolve the same way so alt text is never
+     permanently hidden. */
+  document.querySelectorAll('img[loading="lazy"]').forEach((img) => {
+    const markLoaded = () => img.classList.add("is-loaded");
+    if (img.complete && img.naturalWidth > 0) {
+      markLoaded();
+    } else {
+      img.addEventListener("load", markLoaded, { once: true });
+      img.addEventListener("error", markLoaded, { once: true });
+    }
+  });
+
   /* ---------- nav state + hero parallax (single rAF loop) ---------- */
   const nav = document.querySelector("[data-nav]");
   const hero = document.querySelector(".hero");
