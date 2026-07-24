@@ -19,14 +19,14 @@ art_medium: 4×5 large-format black-and-white film photography, performance art,
   (traditional martial arts), body writing
 description: 'Answer (2024–2025) by HSU Che-jui. Self-portraits on 4×5 black-and-white
   large-format film: past exam questions and hypothetical future questions inscribed
-  front and back, the answer on the back. Solo debut at Keelung Museum of Fine Arts,
+  front and back, the answer on the back. Solo debut at Keelung Museum of Art,
   2025.'
 updated: '2026-07-19'
 ---
 
 # Answer
 
-Answer (2024–2025) by HSU Che-jui. Self-portraits on 4×5 black-and-white large-format film: past exam questions and hypothetical future questions inscribed front and back, the answer on the back. Solo debut at Keelung Museum of Fine Arts, 2025.
+Answer (2024–2025) by HSU Che-jui. Self-portraits on 4×5 black-and-white large-format film: past exam questions and hypothetical future questions inscribed front and back, the answer on the back. Solo debut at Keelung Museum of Art, 2025.
 
 ## Key facts
 
