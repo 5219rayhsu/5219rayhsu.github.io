@@ -40,6 +40,9 @@
     .video-embed--ig iframe { width: 100%; height: 680px; border: 0; display: block; }
     .video-cap { margin-top: .6rem; font-size: .82rem; line-height: 1.5; color: var(--c-text-dim); }
     .section--tight { padding-block: clamp(2.5rem, 5vw, 4.5rem); }
+    /* 謝辞：設営・撤収チームのクレジット行。通常の video-cap より字級・濃さを上げ、日付を行頭の視覚的な起点にする */
+    .credit-line { margin-top: .6rem; font-size: 1rem; line-height: 1.65; color: var(--c-text); }
+    .credit-line strong { display: block; margin-bottom: .3rem; }
   </style>
   <script type="application/ld+json">
 {
@@ -331,13 +334,13 @@
             <div class="video-embed video-embed--9x16" data-reveal>
               <iframe src="https://www.youtube.com/embed/_bqKH1x4nEg" loading="lazy" title="許哲睿《立場 Stance》縦位置4K映像"></iframe>
             </div>
-            <p class="video-cap">許哲睿の作品《立場 Stance》縦位置4K映像（2'50"）、国術パフォーマンス：大八極拳</p>
+            <p class="video-cap">許哲睿の作品《立場 Stance》縦位置4K映像（2'50"）、国術パフォーマンス：大八極拳<br /><a class="u-plain" href="https://youtube.com/watch?v=_bqKH1x4nEg" target="_blank" rel="noopener">YouTube で見る ↗</a></p>
           </div>
           <div>
             <div class="video-embed video-embed--9x16" data-reveal>
               <iframe src="https://www.youtube.com/embed/tdcez6A7sOA" loading="lazy" title="会場ツアー《答案 Answer》"></iframe>
             </div>
-            <p class="video-cap">会場ツアー《答案 Answer》1分40秒。3週間の会期で来場者数は約5000人。</p>
+            <p class="video-cap">会場ツアー《答案 Answer》1分40秒。3週間の会期で来場者数は約5000人。<br /><a class="u-plain" href="https://youtube.com/watch?v=tdcez6A7sOA" target="_blank" rel="noopener">YouTube で見る ↗</a></p>
           </div>
         </div>
       </div>
@@ -375,11 +378,31 @@
       </div>
     </section>
 
-    <!-- ============================ Gallery 3: crew (7) ============================ -->
-    <section class="section--tight section--muted" aria-label="設営チーム">
+    <!-- ============================ Gallery: posters (3) ============================ -->
+    <section class="section--tight" aria-label="ポスター">
       <div class="wrap">
-        <figure class="gallery gallery--crew">
-          <div class="gallery__item gallery__item--lead" data-reveal><picture><source type="image/webp" srcset="../../../assets/img/exhibitions/answer-keelung-2025/32-800.webp 800w, ../../../assets/img/exhibitions/answer-keelung-2025/32-1600.webp 1600w" sizes="(max-width: 600px) 46vw, (max-width: 900px) 30vw, 360px" /><img src="../../../assets/img/exhibitions/answer-keelung-2025/32.jpg" width="1600" height="1066" loading="lazy" decoding="async" alt="設営中（左）鍾大方" /></picture></div>
+        <figure class="gallery">
+          <div class="gallery__item" data-reveal><picture><source type="image/webp" srcset="../../../assets/img/exhibitions/answer-keelung-2025/36-800.webp 614w, ../../../assets/img/exhibitions/answer-keelung-2025/36-1600.webp 1228w" sizes="(max-width: 600px) 46vw, (max-width: 900px) 30vw, 360px" /><img src="../../../assets/img/exhibitions/answer-keelung-2025/36.jpg" width="1228" height="1600" loading="lazy" decoding="async" alt="許哲睿 基隆美術館個展ポスター-1" /></picture></div>
+          <div class="gallery__item" data-reveal><picture><source type="image/webp" srcset="../../../assets/img/exhibitions/answer-keelung-2025/37-800.webp 536w, ../../../assets/img/exhibitions/answer-keelung-2025/37-1600.webp 1072w" sizes="(max-width: 600px) 46vw, (max-width: 900px) 30vw, 360px" /><img src="../../../assets/img/exhibitions/answer-keelung-2025/37.jpg" width="1072" height="1600" loading="lazy" decoding="async" alt="許哲睿 基隆美術館個展ポスター-2" /></picture></div>
+          <div class="gallery__item" data-reveal><picture><source type="image/webp" srcset="../../../assets/img/exhibitions/answer-keelung-2025/38-800.webp 614w, ../../../assets/img/exhibitions/answer-keelung-2025/38-1600.webp 1228w" sizes="(max-width: 600px) 46vw, (max-width: 900px) 30vw, 360px" /><img src="../../../assets/img/exhibitions/answer-keelung-2025/38.jpg" width="1228" height="1600" loading="lazy" decoding="async" alt="許哲睿 基隆美術館個展ポスター-3" /></picture></div>
+        </figure>
+        <p class="video-cap" style="text-align:center;">《答案 Answer》許哲睿 基隆美術館個展のポスター。<a class="u-plain" href="https://drive.google.com/drive/folders/1xFriY8e1khb9yE85zExzdJ-pz2SbRkPt?usp=sharing" target="_blank" rel="noopener">プレスリリースをダウンロード ↗</a></p>
+      </div>
+    </section>
+
+    <!-- ============================ Acknowledgements: thanks + crew (9) ============================ -->
+    <section id="acknowledgements" class="section--tight section--muted" aria-label="謝辞">
+      <div class="wrap">
+        <p class="eyebrow" style="text-align:center;">謝辞 Acknowledgements</p>
+        <div class="wrap--read prose" style="padding-inline:0; margin-top:1.6rem;">
+          <p data-reveal>展示を観にわざわざ足を運んでくださった先生方、友人、そして来場者の皆さまに、心から感謝します。まる一日を割いてお越しくださったこと、本当に感動しました。</p>
+          <p data-reveal>人生初の個展にあたり、皆さまのご協力、作品への期待とご感想、そして会場のさらなる可能性をともに語り合ってくださったことに感謝します。ネット上で拡散にご協力くださり、メッセージで祝福を寄せてくださった多くの友人にも感謝します。あらためて、基隆市文化観光局 江亭玫局長、キュレーターの姜麗華教授、対談者の姚瑞中教授に、多大なるご支援でこの縁を成就してくださったことを深く御礼申し上げます。</p>
+          <p data-reveal>幸いにも各方面の先達より親しくご教示を賜り、若輩ながら深く御礼申し上げます。<br />親しき友の皆さまと心ゆくまで語らえたこと、感謝の念に堪えません。</p>
+          <p data-reveal>3週間の会期はまたたく間に過ぎ去ったが、心に刻まれた感動は永く残る。時に21歳、いままさに人生の新たな一頁をひらく。次にお会いできる日を楽しみに。</p>
+        </div>
+
+        <figure class="gallery gallery--crew" style="margin-top:clamp(2.5rem,5vw,4rem);">
+          <div class="gallery__item gallery__item--lead" data-reveal><picture><source type="image/webp" srcset="../../../assets/img/exhibitions/answer-keelung-2025/32-800.webp 800w, ../../../assets/img/exhibitions/answer-keelung-2025/32-1600.webp 1600w" sizes="(max-width: 600px) 46vw, (max-width: 900px) 30vw, 360px" /><img src="../../../assets/img/exhibitions/answer-keelung-2025/32.jpg" width="1600" height="1066" loading="lazy" decoding="async" alt="（最左）鍾大方" /></picture></div>
           <div class="gallery__item" data-reveal><picture><source type="image/webp" srcset="../../../assets/img/exhibitions/answer-keelung-2025/27-800.webp 533w, ../../../assets/img/exhibitions/answer-keelung-2025/27-1600.webp 1066w" sizes="(max-width: 600px) 46vw, (max-width: 900px) 30vw, 360px" /><img src="../../../assets/img/exhibitions/answer-keelung-2025/27.jpg" width="1066" height="1600" loading="lazy" decoding="async" alt="朱家楽" /></picture></div>
           <div class="gallery__item" data-reveal><picture><source type="image/webp" srcset="../../../assets/img/exhibitions/answer-keelung-2025/28-800.webp 533w, ../../../assets/img/exhibitions/answer-keelung-2025/28-1600.webp 1066w" sizes="(max-width: 600px) 46vw, (max-width: 900px) 30vw, 360px" /><img src="../../../assets/img/exhibitions/answer-keelung-2025/28.jpg" width="1066" height="1600" loading="lazy" decoding="async" alt="梁皓俊" /></picture></div>
           <div class="gallery__item" data-reveal><picture><source type="image/webp" srcset="../../../assets/img/exhibitions/answer-keelung-2025/29-800.webp 533w, ../../../assets/img/exhibitions/answer-keelung-2025/29-1600.webp 1066w" sizes="(max-width: 600px) 46vw, (max-width: 900px) 30vw, 360px" /><img src="../../../assets/img/exhibitions/answer-keelung-2025/29.jpg" width="1066" height="1600" loading="lazy" decoding="async" alt="呉昇澔" /></picture></div>
@@ -387,39 +410,21 @@
           <div class="gallery__item" data-reveal><picture><source type="image/webp" srcset="../../../assets/img/exhibitions/answer-keelung-2025/31-800.webp 533w, ../../../assets/img/exhibitions/answer-keelung-2025/31-1600.webp 1066w" sizes="(max-width: 600px) 46vw, (max-width: 900px) 30vw, 360px" /><img src="../../../assets/img/exhibitions/answer-keelung-2025/31.jpg" width="1066" height="1600" loading="lazy" decoding="async" alt="許哲睿" /></picture></div>
           <div class="gallery__item" data-reveal><picture><source type="image/webp" srcset="../../../assets/img/exhibitions/answer-keelung-2025/33-800.webp 600w, ../../../assets/img/exhibitions/answer-keelung-2025/33-1600.webp 1200w" sizes="(max-width: 600px) 46vw, (max-width: 900px) 30vw, 360px" /><img src="../../../assets/img/exhibitions/answer-keelung-2025/33.jpg" width="1200" height="1600" loading="lazy" decoding="async" alt="設営作業 10時間" /></picture></div>
         </figure>
+        <p class="video-cap" style="text-align:center;">会場・設営写真：彭菘瑋（PENG, Sung-wei／台大写真研究会 シニアアドバイザー）</p>
 
         <div class="video-grid">
           <div>
             <figure class="gallery__item" data-reveal style="margin:0;">
               <picture><source type="image/webp" srcset="../../../assets/img/exhibitions/answer-keelung-2025/34-800.webp 800w, ../../../assets/img/exhibitions/answer-keelung-2025/34-1600.webp 1600w, ../../../assets/img/exhibitions/answer-keelung-2025/34-2400.webp 2400w" sizes="(max-width: 600px) 46vw, (max-width: 900px) 30vw, 360px" /><img src="../../../assets/img/exhibitions/answer-keelung-2025/34.jpg" width="1600" height="1066" loading="lazy" decoding="async" alt="20250616 設営日、設営チームが会場内で記念撮影。" data-full="../../../assets/img/exhibitions/answer-keelung-2025/34-2400.jpg" /></picture>
             </figure>
-            <p class="video-cap">20250616 設営日、感謝を込めて：北芸大 策展研究社 蔡睿宇（照明協力）、および設営チーム——台湾大学写真社 技芸指導講師 楊鎮豪、シニアアドバイザー 彭菘瑋、メンテナンス部長 朱家楽、暗室部長 梁皓俊、メンテナンス部 呉昇澔。クリックで IG 投稿へ。</p>
+            <p class="credit-line"><strong>20250616 設営日、</strong><br />感謝を込めて：北芸大 策展研究社 蔡睿宇（照明協力）、および設営チーム——台湾大学写真社 技芸指導講師 楊鎮豪、シニアアドバイザー 彭菘瑋、副社長 鍾大方、メンテナンス部長 朱家楽、暗室部長 梁皓俊、メンテナンス部 呉昇澔。<a class="u-plain" href="https://www.instagram.com/p/DLBhdopSBZO/" target="_blank" rel="noopener">Instagram の投稿を見る ↗</a></p>
           </div>
           <div>
             <figure class="gallery__item" data-reveal style="margin:0;">
               <picture><source type="image/webp" srcset="../../../assets/img/exhibitions/answer-keelung-2025/35-800.webp 800w, ../../../assets/img/exhibitions/answer-keelung-2025/35-1600.webp 1600w" sizes="(max-width: 600px) 46vw, (max-width: 900px) 30vw, 360px" /><img src="../../../assets/img/exhibitions/answer-keelung-2025/35.jpg" width="1600" height="1280" loading="lazy" decoding="async" alt="20250706 撤収日、撤収チームが会場内で記念撮影。" /></picture>
             </figure>
-            <p class="video-cap">20250706 撤収日、感謝を込めて：台湾大学写真社 技芸指導講師 楊鎮豪、メンテナンス部 許信沢、成功大学写真研究会 会長 陳冠廷、友人の左伃恩、940。クリックで IG 投稿へ。</p>
+            <p class="credit-line"><strong>20250706 撤収日、</strong><br />感謝を込めて：台湾大学写真社 技芸指導講師 楊鎮豪、整備部員 許信澤（Zawa／ザワ）、成功大学写真研究会 会長 陳冠廷、友人の左伃恩、940。<a class="u-plain" href="https://www.instagram.com/p/DLw18MTSDRE/" target="_blank" rel="noopener">Instagram の投稿を見る ↗</a></p>
           </div>
-        </div>
-      </div>
-    </section>
-
-    <!-- ============================ Gallery 4: posters (3) + closing ============================ -->
-    <section class="section--tight" aria-label="ポスターと後記">
-      <div class="wrap">
-        <figure class="gallery">
-          <div class="gallery__item" data-reveal><picture><source type="image/webp" srcset="../../../assets/img/exhibitions/answer-keelung-2025/36-800.webp 614w, ../../../assets/img/exhibitions/answer-keelung-2025/36-1600.webp 1228w" sizes="(max-width: 600px) 46vw, (max-width: 900px) 30vw, 360px" /><img src="../../../assets/img/exhibitions/answer-keelung-2025/36.jpg" width="1228" height="1600" loading="lazy" decoding="async" alt="許哲睿 基隆美術館個展ポスター-1" /></picture></div>
-          <div class="gallery__item" data-reveal><picture><source type="image/webp" srcset="../../../assets/img/exhibitions/answer-keelung-2025/37-800.webp 536w, ../../../assets/img/exhibitions/answer-keelung-2025/37-1600.webp 1072w" sizes="(max-width: 600px) 46vw, (max-width: 900px) 30vw, 360px" /><img src="../../../assets/img/exhibitions/answer-keelung-2025/37.jpg" width="1072" height="1600" loading="lazy" decoding="async" alt="許哲睿 基隆美術館個展ポスター-2" /></picture></div>
-          <div class="gallery__item" data-reveal><picture><source type="image/webp" srcset="../../../assets/img/exhibitions/answer-keelung-2025/38-800.webp 614w, ../../../assets/img/exhibitions/answer-keelung-2025/38-1600.webp 1228w" sizes="(max-width: 600px) 46vw, (max-width: 900px) 30vw, 360px" /><img src="../../../assets/img/exhibitions/answer-keelung-2025/38.jpg" width="1228" height="1600" loading="lazy" decoding="async" alt="許哲睿 基隆美術館個展ポスター-3" /></picture></div>
-        </figure>
-        <p class="video-cap" style="text-align:center;">《答案 Answer》許哲睿 基隆美術館個展のポスター。プレスリリースは元サイトにリンクがありましたが、本移行では未添付です。</p>
-
-        <div class="wrap wrap--read prose" style="padding-inline:0; margin-top:clamp(2.5rem,5vw,4rem);">
-          <p data-reveal>展示を観にわざわざ足を運んでくださった先生方、友人、そして来場者の皆さまに、心から感謝します。まる一日を割いてお越しくださったこと、本当に感動しました。</p>
-          <p data-reveal>人生初の個展にあたり、皆さまのご協力、作品への期待とご感想、そして会場のさらなる可能性をともに語り合ってくださったことに感謝します。ネット上で拡散にご協力くださり、メッセージで祝福を寄せてくださった多くの友人にも感謝します。あらためて、基隆市文化観光局 江亭玫局長、キュレーターの姜麗華教授、対談者の姚瑞中教授に、多大なるご支援でこの縁を成就してくださったことを深く御礼申し上げます。</p>
-          <p data-reveal>幸いにも各方面の先達より親しくご教示を賜り、若輩ながら深く御礼申し上げます。<br />親しき友の皆さまと心ゆくまで語らえたこと、感謝の念に堪えません。</p>
-          <p data-reveal>3週間の会期はまたたく間に過ぎ去ったが、心に刻まれた感動は永く残る。時に21歳、いままさに人生の新たな一頁をひらく。次にお会いできる日を楽しみに。</p>
         </div>
       </div>
     </section>
@@ -429,11 +434,6 @@
   <section class="page-related" aria-label="関連コンテンツ Related">
     <div class="wrap">
       <div class="page-related__grid">
-        <a class="related-card" href="../">
-          <p class="related-card__k">展覧会歴 Exhibitions</p>
-          <p class="related-card__t">展覧会歴に戻る</p>
-          <p class="related-card__d">個展・グループ展・台湾大学写真社展の全リスト。</p>
-        </a>
         <a class="related-card" href="../seikai-tokyo-2026/">
           <p class="related-card__k">次の個展 Next Solo</p>
           <p class="related-card__t" lang="ja">正解：台湾の受験戦争の真剣勝負</p>
@@ -448,6 +448,11 @@
           <p class="related-card__k">関連作品 Work</p>
           <p class="related-card__t">答案 Answer</p>
           <p class="related-card__d">4×5 大判モノクロフィルムのセルフポートレートで、大学入試の問題を身体に刻む。</p>
+        </a>
+        <a class="related-card related-card--wide" href="../">
+          <p class="related-card__k">展覧会歴 Exhibitions</p>
+          <p class="related-card__t">展覧会歴に戻る</p>
+          <p class="related-card__d">個展・グループ展・台湾大学写真社展の全リスト。</p>
         </a>
       </div>
     </div>
@@ -489,6 +494,7 @@
     <a class="rail__item" href="#opening"><span class="rail__label">オープニング</span><span class="rail__dot"></span></a>
     <a class="rail__item" href="#video"><span class="rail__label">映像</span><span class="rail__dot"></span></a>
     <a class="rail__item" href="#statement"><span class="rail__label">ステートメント</span><span class="rail__dot"></span></a>
+    <a class="rail__item" href="#acknowledgements"><span class="rail__label">謝辞</span><span class="rail__dot"></span></a>
   </nav>
 
   <div class="lightbox" data-lightbox hidden>
