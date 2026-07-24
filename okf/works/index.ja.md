@@ -15,10 +15,10 @@ updated: '2026-07-19'
 
 # 作品
 
-許哲睿の作品プロジェクト：《無序身體販賣所 Chaos Body Shop》《答案 Answer》《心藥 Medicine》。4×5 モノクロフィルム、パフォーマンス、生成AIの映像で、受験、アイデンティティ・ポリティクス、偶像崇拝を問う。
+許哲睿の作品プロジェクト：《無序身体販売所 Chaos Body Shop》《答案 Answer》《心薬 Medicine》。4×5 モノクロフィルム、パフォーマンス、生成AIの映像で、受験、アイデンティティ・ポリティクス、偶像崇拝を問う。
 
 ## 作品一覧
 
-- [無序身體販賣所 Chaos Body Shop](./chaos-body-shop/ja.md)（2025–）
+- [無序身体販売所 Chaos Body Shop](./chaos-body-shop/ja.md)（2025–）
 - [答案 Answer](./answer/ja.md)（2024–2025）
-- [心藥 Medicine](./medicine/ja.md)（2025）
+- [心薬 Medicine](./medicine/ja.md)（2025）
