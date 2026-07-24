@@ -24,7 +24,8 @@ HSU, Che-jui, born 2003, Taiwan-based artist. Graduate of National Taiwan Univer
 ## Key facts
 
 - Born: 2003
-- Education: Soochow University (Business Administration); National Taiwan University of Arts, Contemporary Visual Culture and Practice (graduate program); MITx — MicroMasters Program in Statistics and Data Science (MIT)
+- Education: Soochow University (Business Administration); National Taiwan University of Arts, Contemporary Visual Culture and Practice (graduate program)
+- Certification: MITx MicroMasters� Program Credential in Statistics and Data Science — in progress (MIT)
 - Mentors: CHIANG Li-hua, YAO Jui-chung, YANG Chen-hao
 - Memberships: NTU Photo Club, Taiwan Photography Museum & Culture Association, Association of the Visual Arts in Taiwan, Taiwan Photography Cultural Heritage Association
 - Awards: Gold Prize, Photography, National Art Exhibition R.O.C. 2026 (for *When I Grow Up*, National Taiwan Museum of Fine Arts); Third Prize & Special Award of the Year, SKM PHOTO 2026 (for *Chaos Body Shop*); Honorable Mention, FNAC 19th City 24-Hour Photography Marathon, 2023
