@@ -26,4 +26,4 @@ Allow: /
 User-agent: meta-externalagent
 Allow: /
 
-Sitemap: https://xn--n4y.tw/sitemap.xml
+Sitemap: https://5219rayhsu.github.io/sitemap.xml
