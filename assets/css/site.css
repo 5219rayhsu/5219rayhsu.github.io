@@ -644,7 +644,8 @@ main { padding-top: var(--nav-h); }
 .gallery.gallery--3up { grid-template-columns: repeat(3, 1fr); }
 /* 布展團隊：首張整行置中，其餘兩兩一組 */
 .gallery.gallery--crew { grid-template-columns: repeat(2, 1fr); }
-.gallery__item--lead { grid-column: 1 / -1; max-width: min(560px, 100%); margin-inline: auto; }
+/* 首張獨占一列，但寬度與下方兩欄項目相同 */
+.gallery__item--lead { grid-column: 1 / -1; max-width: calc((100% - clamp(.8rem, 2vw, 1.4rem)) / 2); margin-inline: auto; }
 @media (max-width: 600px) { .gallery.gallery--3up { grid-template-columns: 1fr 1fr; } }
 
 /* ---------------------------------------------------------------- about preview (home) */
