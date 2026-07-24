@@ -14,7 +14,7 @@ translation_of: ./index.md
 translations:
   zh-Hant: ./zh-Hant.md
   en: ./en.md
-updated: '2026-07-19'
+updated: '2026-07-25'
 ---
 
 # 許哲睿 について

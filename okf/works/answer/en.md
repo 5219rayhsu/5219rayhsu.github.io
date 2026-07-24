@@ -21,7 +21,7 @@ description: 'Answer (2024–2025) by HSU Che-jui. Self-portraits on 4×5 black-
   large-format film: past exam questions and hypothetical future questions inscribed
   front and back, the answer on the back. Solo debut at Keelung Museum of Art,
   2025.'
-updated: '2026-07-19'
+updated: '2026-07-25'
 ---
 
 # Answer

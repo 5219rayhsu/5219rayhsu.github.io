@@ -14,7 +14,7 @@ translation_of: ./index.md
 translations:
   en: ./en.md
   ja: ./ja.md
-updated: '2026-07-19'
+updated: '2026-07-25'
 ---
 
 # 關於 許哲睿

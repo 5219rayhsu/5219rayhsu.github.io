@@ -22,7 +22,7 @@ related_works:
 translations:
   zh-Hant: ./zh-Hant.md
   en: ./en.md
-updated: '2026-07-19'
+updated: '2026-07-25'
 ---
 
 # 正解：台湾の受験戦争の真剣勝負 — Place M 東京 個展

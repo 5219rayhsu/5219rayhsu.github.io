@@ -22,7 +22,7 @@ related_works:
 translations:
   zh-Hant: ./zh-Hant.md
   en: ./en.md
-updated: '2026-07-19'
+updated: '2026-07-25'
 ---
 
 # 心薬 Medicine ── 許哲睿 22歳誕生日特別展

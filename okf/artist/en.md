@@ -14,7 +14,7 @@ translation_of: ./index.md
 translations:
   zh-Hant: ./zh-Hant.md
   ja: ./ja.md
-updated: '2026-07-19'
+updated: '2026-07-25'
 ---
 
 # About HSU, Che-jui
