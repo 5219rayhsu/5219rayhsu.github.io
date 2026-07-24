@@ -385,7 +385,13 @@ main { padding-top: var(--nav-h); }
 .award--bronze { background: linear-gradient(180deg, #fdf4ec, #fff); border-color: rgba(150,90,45,.34); box-shadow: 0 24px 60px -34px rgba(150,85,40,.42); }
 .award__zh { font-size: clamp(1.15rem, 1rem + .7vw, 1.55rem); line-height: 1.62; font-weight: 500; color: var(--c-text); letter-spacing: .01em; text-align: justify; text-justify: inter-ideograph; hyphens: auto; }
 .award__hl { color: var(--c-accent); font-weight: 600; }
-.award__hl--gold { color: #9a7b1e; }
+.award__hl--gold {
+  color: #9a7b1e; /* fallback */
+  background: linear-gradient(105deg, #8a6a14 0%, #c9a227 38%, #f0d878 52%, #c9a227 66%, #8a6a14 100%);
+  -webkit-background-clip: text;
+  background-clip: text;
+  -webkit-text-fill-color: transparent;
+}
 .award__hl--bronze { color: #a8632c; }
 .award__en { margin-top: 1.2rem; padding-top: 1.1rem; border-top: 1px solid var(--c-line); font-size: .92rem; line-height: 1.55; color: var(--c-text-dim); text-align: justify; text-justify: inter-ideograph; hyphens: auto; }
 
