@@ -29,6 +29,8 @@
   <link rel="icon" type="image/png" sizes="192x192" href="../../assets/img/favicon/icon-192.png" />
   <link rel="apple-touch-icon" href="../../assets/img/favicon/apple-touch-icon.png" />
   <link rel="stylesheet" href="../../assets/css/site.css" />
+  <link rel="preconnect" href="https://www.youtube-nocookie.com" />
+  <link rel="preconnect" href="https://www.google.com" />
   <script type="application/ld+json">
   {
     "@context": "https://schema.org",
@@ -195,11 +197,29 @@
           <article class="award award--video" data-reveal style="--d:180ms">
             <p class="eyebrow award__video-label" id="video-label">影像紀錄 · Video Documentation</p>
             <div class="video-embed__frame">
-              <iframe
-                src="https://www.youtube-nocookie.com/embed/Nq81rFuD19k"
-                title="《無序身體販賣所》影像紀錄短片"
-                loading="lazy"
-                allowfullscreen></iframe>
+              <button
+                class="video-embed__facade"
+                type="button"
+                data-video-id="Nq81rFuD19k"
+                data-video-title="《無序身體販賣所》影像紀錄短片"
+                aria-label="播放影片：《無序身體販賣所》影像紀錄短片">
+                <picture>
+                  <source srcset="../../assets/img/chaos-body-shop/video-poster.webp" type="image/webp" />
+                  <img
+                    src="../../assets/img/chaos-body-shop/video-poster.jpg"
+                    alt="《無序身體販賣所》影像紀錄短片"
+                    width="720"
+                    height="1280"
+                    loading="lazy" />
+                </picture>
+                <span class="video-embed__play" aria-hidden="true"></span>
+                <noscript>
+                  <iframe
+                    src="https://www.youtube-nocookie.com/embed/Nq81rFuD19k"
+                    title="《無序身體販賣所》影像紀錄短片"
+                    allowfullscreen></iframe>
+                </noscript>
+              </button>
             </div>
             <p class="video-embed__link"><a href="https://www.instagram.com/p/DbIaFUbylf7/" target="_blank" rel="noopener">在 Instagram 觀看 ↗</a><br /><a href="https://youtube.com/shorts/Nq81rFuD19k" target="_blank" rel="noopener">在 YouTube 觀看 ↗</a></p>
           </article>

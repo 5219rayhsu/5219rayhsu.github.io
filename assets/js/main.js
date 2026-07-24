@@ -262,6 +262,21 @@
     });
   }
 
+  /* ---------- YouTube facade (click-to-load embed, avoids upfront iframe cost) ---------- */
+  document.querySelectorAll(".video-embed__facade").forEach((facade) => {
+    facade.addEventListener("click", () => {
+      const videoId = facade.dataset.videoId;
+      if (!videoId) return;
+      const title = facade.dataset.videoTitle || "YouTube video";
+      const iframe = document.createElement("iframe");
+      iframe.src = `https://www.youtube-nocookie.com/embed/${videoId}?autoplay=1&playsinline=1`;
+      iframe.title = title;
+      iframe.setAttribute("allow", "autoplay; encrypted-media; picture-in-picture");
+      iframe.setAttribute("allowfullscreen", "");
+      facade.replaceWith(iframe);
+    });
+  });
+
   /* ---------- smooth anchor focus handoff (a11y) ---------- */
   document.querySelectorAll('a[href^="#"]').forEach((a) => {
     a.addEventListener("click", () => {

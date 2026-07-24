@@ -457,8 +457,16 @@ main { padding-top: var(--nav-h); }
 /* portrait video embed (e.g. YouTube Shorts documentation): centered, 9:16,
    framed like .work / .collage-item__media (white mat + shadow). */
 .video-embed { max-width: min(360px, 92vw); margin: 0 auto; background: #fff; padding: clamp(6px, .6vw, 11px); border-radius: 10px; box-shadow: 0 16px 40px -26px rgba(40,30,10,.5); }
-.video-embed__frame { aspect-ratio: 9 / 16; border-radius: 3px; overflow: hidden; }
+.video-embed__frame { aspect-ratio: 9 / 16; border-radius: 3px; overflow: hidden; position: relative; }
 .video-embed__frame iframe { width: 100%; height: 100%; display: block; border: 0; }
+.video-embed__facade { position: relative; display: block; width: 100%; height: 100%; padding: 0; margin: 0; border: 0; background: none; cursor: pointer; -webkit-tap-highlight-color: transparent; }
+.video-embed__facade picture,
+.video-embed__facade img { display: block; width: 100%; height: 100%; object-fit: cover; }
+.video-embed__play { position: absolute; top: 50%; left: 50%; width: clamp(52px, 12vw, 68px); height: clamp(52px, 12vw, 68px); border-radius: 50%; background: rgba(20, 14, 6, .55); backdrop-filter: blur(2px); transform: translate(-50%, -50%) scale(1); transition: transform .2s var(--ease-out-expo, ease), background .2s ease; }
+.video-embed__play::before { content: ""; position: absolute; top: 50%; left: 54%; width: 0; height: 0; transform: translate(-50%, -50%); border-style: solid; border-width: 11px 0 11px 18px; border-color: transparent transparent transparent #fff; }
+.video-embed__facade:hover .video-embed__play,
+.video-embed__facade:focus-visible .video-embed__play { transform: translate(-50%, -50%) scale(1.08); background: rgba(20, 14, 6, .72); }
+.video-embed__facade:focus-visible { outline: 2px solid var(--c-accent); outline-offset: 3px; }
 .video-embed__link { text-align: center; margin-top: 1.2rem; }
 .video-embed__link a { color: var(--c-accent-ink); text-decoration: underline; text-underline-offset: 3px; text-decoration-thickness: 1px; }
 .video-embed__link a:hover { color: var(--c-accent); }
