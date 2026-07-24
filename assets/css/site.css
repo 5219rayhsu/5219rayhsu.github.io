@@ -454,6 +454,15 @@ main { padding-top: var(--nav-h); }
 .sutra-quote__en { margin-top: 1.2rem; font-size: 1rem; line-height: 1.6; color: var(--c-text-dim); font-style: italic; max-width: min(40rem, 100%); }
 .sutra-quote--center .sutra-quote__en { margin-inline: auto; }
 
+/* portrait video embed (e.g. YouTube Shorts documentation): centered, 9:16,
+   framed like .work / .collage-item__media (white mat + shadow). */
+.video-embed { max-width: min(360px, 92vw); margin: 0 auto; background: #fff; padding: clamp(6px, .6vw, 11px); border-radius: 10px; box-shadow: 0 16px 40px -26px rgba(40,30,10,.5); }
+.video-embed__frame { aspect-ratio: 9 / 16; border-radius: 3px; overflow: hidden; }
+.video-embed__frame iframe { width: 100%; height: 100%; display: block; border: 0; }
+.video-embed__link { text-align: center; margin-top: 1.2rem; }
+.video-embed__link a { color: var(--c-accent-ink); text-decoration: underline; text-underline-offset: 3px; text-decoration-thickness: 1px; }
+.video-embed__link a:hover { color: var(--c-accent); }
+
 /* ---------------------------------------------------------------- sutra section (CBS) */
 .bopomofo { margin-top: 1.6rem; font-size: clamp(1.1rem, .9rem + 1vw, 1.7rem); letter-spacing: .5em; color: var(--c-accent); font-weight: 500; padding-left: .5em; }
 .works { display: flex; flex-direction: column; gap: clamp(1.2rem, 2.4vw, 2rem); margin-block: clamp(2.5rem, 5vw, 4rem); }
