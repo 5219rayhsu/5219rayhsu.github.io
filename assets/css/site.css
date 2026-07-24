@@ -527,7 +527,7 @@ main { padding-top: var(--nav-h); }
 .work-cards { list-style: none; padding: 0; margin: clamp(2.5rem, 5vw, 4rem) 0 0; display: grid; gap: clamp(1.4rem, 3vw, 2.4rem); }
 .work-card { border: 1px solid var(--c-line); border-radius: var(--r-lg); overflow: hidden; background: #fff; }
 .work-card a { display: grid; grid-template-columns: 1fr; }
-.work-card__media { margin: 0; overflow: hidden; aspect-ratio: 4 / 5; background: #111; }
+.work-card__media { margin: 0; overflow: hidden; aspect-ratio: 4 / 5; background: var(--c-bg-muted); }
 .work-card__media img { width: 100%; height: 100%; object-fit: contain; transition: transform .7s var(--ease); }
 .work-card a:hover .work-card__media img { transform: scale(1.03); }
 .work-card__body { padding: clamp(1.6rem, 3vw, 2.6rem); align-self: center; }
