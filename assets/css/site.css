@@ -680,10 +680,8 @@ main { padding-top: var(--nav-h); }
 /* ---------------------------------------------------------------- global site footer */
 .site-footer { background: var(--c-ink); color: var(--c-invert); padding-top: clamp(3.5rem, 7vw, 6rem); }
 /* 頁尾 QR：離線場景用（看螢幕的人用手機開、截圖轉傳），暗底上加白框才掃得到 */
-.site-footer__qr { margin: clamp(2.4rem, 5vw, 3.4rem) 0 0; display: flex; align-items: flex-end;
-                   gap: .75rem; justify-content: space-between; width: 100%; max-width: 15rem; }
+.site-footer__qr { margin: clamp(2.4rem, 5vw, 3.4rem) 0 0; }
 .site-footer__qr img { width: 104px; height: 104px; background: #fff; padding: 2px; border-radius: 5px; display: block; flex: none; }
-.site-footer__qr figcaption { margin: 0 0 .15rem; font-size: .95rem; line-height: 1.5; color: var(--c-invert-dim); }
 .site-footer__grid { display: grid; grid-template-columns: 1fr; gap: clamp(2rem, 4vw, 3rem); padding-bottom: clamp(2.5rem, 5vw, 4rem); }
 .site-footer__name { font-size: 1.3rem; font-weight: 600; letter-spacing: .01em; }
 .site-footer__name span { color: var(--c-invert-dim); font-weight: 500; font-size: .95rem; margin-left: .4rem; }
