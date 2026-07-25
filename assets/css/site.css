@@ -667,7 +667,7 @@ main { padding-top: var(--nav-h); }
 .related-card { display: block; padding: clamp(1.4rem, 3vw, 2rem); border: 1px solid var(--c-line); border-radius: var(--r); background: #fff; transition: transform .4s var(--ease), box-shadow .4s var(--ease); }
 .related-card:hover { transform: translateY(-4px); box-shadow: 0 20px 44px -28px rgba(0,0,0,.35); }
 .related-card__k { font-size: .78rem; letter-spacing: .12em; text-transform: uppercase; color: var(--c-accent); font-weight: 600; }
-.related-card__t { font-size: 1.15rem; margin-top: .5rem; }
+.related-card__t { font-size: 1.15rem; margin-top: .5rem; text-wrap: balance; }
 .related-card__d { margin-top: .4rem; font-size: .92rem; color: var(--c-text-dim); line-height: 1.5; }
 @media (min-width: 720px) { .page-related__grid { grid-template-columns: repeat(3, 1fr); } }
 /* 收尾用的「回到清單」卡：整列橫長條，與上排三張等寬總和 */
@@ -681,7 +681,7 @@ main { padding-top: var(--nav-h); }
 .site-footer { background: var(--c-ink); color: var(--c-invert); padding-top: clamp(3.5rem, 7vw, 6rem); }
 /* 頁尾 QR：離線場景用（看螢幕的人用手機開、截圖轉傳），暗底上加白框才掃得到 */
 .site-footer__qr { margin: clamp(2.4rem, 5vw, 3.4rem) 0 0; display: flex; align-items: flex-end;
-                   gap: .75rem; justify-content: space-between; max-width: 22rem; }
+                   gap: .75rem; justify-content: space-between; width: 100%; max-width: 15rem; }
 .site-footer__qr img { width: 104px; height: 104px; background: #fff; padding: 2px; border-radius: 5px; display: block; flex: none; }
 .site-footer__qr figcaption { margin: 0 0 .15rem; font-size: .95rem; line-height: 1.5; color: var(--c-invert-dim); }
 .site-footer__grid { display: grid; grid-template-columns: 1fr; gap: clamp(2rem, 4vw, 3rem); padding-bottom: clamp(2.5rem, 5vw, 4rem); }
