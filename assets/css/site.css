@@ -698,7 +698,10 @@ main { padding-top: var(--nav-h); }
 @media (min-width: 760px) {
   .site-footer__grid { grid-template-columns: 2fr 1fr 1.3fr; align-items: stretch; }
   .site-footer__brand { display: flex; flex-direction: column; }
-  .site-footer__qr { margin-top: auto; }  /* 下緣切齊聯絡欄末行 */
+  /* 標語上下用 auto 邊界均分剩餘高度 → 垂直置中於姓名與 QR 之間；
+     餘白被標語吃光，QR 自然落在欄底、下緣切齊聯絡欄末行 */
+  .site-footer__tag { margin-block: auto; }
+  .site-footer__qr { margin-top: 0; }
 }
 
 /* ---------------------------------------------------------------- lightbox */
