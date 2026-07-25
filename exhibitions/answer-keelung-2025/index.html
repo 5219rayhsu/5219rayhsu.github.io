@@ -41,8 +41,12 @@
     .video-cap { margin-top: .6rem; font-size: .82rem; line-height: 1.5; color: var(--c-text-dim); }
     .section--tight { padding-block: clamp(2.5rem, 5vw, 4.5rem); }
     /* 致謝區布展／撤展名單：字級與顏色比一般 video-cap 圖說重，日期起頭當視覺錨點 */
-    .credit-line { margin-top: .6rem; font-size: 1rem; line-height: 1.65; color: var(--c-text); }
-    .credit-line strong { display: block; margin-bottom: .3rem; }
+    .credit-line { margin-top: .6rem; font-size: 1rem; line-height: 1.65; color: var(--c-text);
+                   text-align: justify; text-justify: inter-ideograph; hyphens: auto; }
+    .credit-line strong { display: block; margin-bottom: .45rem; font-size: 1.06rem; letter-spacing: .01em; text-align: left; }
+    /* 兩欄圖高不同，用 subgrid 讓文字區起點切齊 */
+    #acknowledgements .video-grid { grid-template-rows: auto auto; }
+    #acknowledgements .video-grid > div { display: grid; grid-row: span 2; grid-template-rows: subgrid; gap: 0; }
   </style>
   <script type="application/ld+json">
 {
@@ -394,7 +398,7 @@
     <section id="acknowledgements" class="section--tight section--muted" aria-label="致謝">
       <div class="wrap">
         <p class="eyebrow" style="text-align:center;">致謝 Acknowledgements</p>
-        <div class="wrap--read prose" style="padding-inline:0; margin-top:1.6rem;">
+        <div class="wrap--read prose" style="padding-inline:0; margin-inline:auto; margin-top:1.6rem;">
           <p data-reveal>由衷感謝前來觀賞的老師、朋友以及觀眾們，願意特地花一天的時間前來，真的讓我很感動。</p>
           <p data-reveal>人生首次個展，謝謝大家給予協助以及對於作品的期望、反饋，以及一同討論更多展場的可能性，也謝謝許多朋友在網路上協助分享，私訊給予祝福。再次感謝基隆市文化觀光局江亭玫局長、策展人姜麗華教授、與談人姚瑞中教授，感謝給予大力支持，成就這份緣分。</p>
           <p data-reveal>幸蒙各方藝術先進蒞臨指教，晚生叩謝。<br />喜見諸位親朋好友暢敘幽情，不勝感荷。</p>
@@ -402,28 +406,28 @@
         </div>
 
         <figure class="gallery gallery--crew" style="margin-top:clamp(2.5rem,5vw,4rem);">
-          <div class="gallery__item gallery__item--lead" data-reveal><picture><source type="image/webp" srcset="../../assets/img/exhibitions/answer-keelung-2025/32-800.webp 800w, ../../assets/img/exhibitions/answer-keelung-2025/32-1600.webp 1600w" sizes="(max-width: 600px) 46vw, (max-width: 900px) 30vw, 360px" /><img src="../../assets/img/exhibitions/answer-keelung-2025/32.jpg" width="1600" height="1066" loading="lazy" decoding="async" alt="(最左)鍾大方" /></picture></div>
-          <div class="gallery__item" data-reveal><picture><source type="image/webp" srcset="../../assets/img/exhibitions/answer-keelung-2025/27-800.webp 533w, ../../assets/img/exhibitions/answer-keelung-2025/27-1600.webp 1066w" sizes="(max-width: 600px) 46vw, (max-width: 900px) 30vw, 360px" /><img src="../../assets/img/exhibitions/answer-keelung-2025/27.jpg" width="1066" height="1600" loading="lazy" decoding="async" alt="朱家樂" /></picture></div>
-          <div class="gallery__item" data-reveal><picture><source type="image/webp" srcset="../../assets/img/exhibitions/answer-keelung-2025/28-800.webp 533w, ../../assets/img/exhibitions/answer-keelung-2025/28-1600.webp 1066w" sizes="(max-width: 600px) 46vw, (max-width: 900px) 30vw, 360px" /><img src="../../assets/img/exhibitions/answer-keelung-2025/28.jpg" width="1066" height="1600" loading="lazy" decoding="async" alt="梁皓俊" /></picture></div>
-          <div class="gallery__item" data-reveal><picture><source type="image/webp" srcset="../../assets/img/exhibitions/answer-keelung-2025/29-800.webp 533w, ../../assets/img/exhibitions/answer-keelung-2025/29-1600.webp 1066w" sizes="(max-width: 600px) 46vw, (max-width: 900px) 30vw, 360px" /><img src="../../assets/img/exhibitions/answer-keelung-2025/29.jpg" width="1066" height="1600" loading="lazy" decoding="async" alt="吳昇澔" /></picture></div>
-          <div class="gallery__item" data-reveal><picture><source type="image/webp" srcset="../../assets/img/exhibitions/answer-keelung-2025/30-800.webp 533w, ../../assets/img/exhibitions/answer-keelung-2025/30-1600.webp 1066w" sizes="(max-width: 600px) 46vw, (max-width: 900px) 30vw, 360px" /><img src="../../assets/img/exhibitions/answer-keelung-2025/30.jpg" width="1066" height="1600" loading="lazy" decoding="async" alt="蔡睿宇" /></picture></div>
-          <div class="gallery__item" data-reveal><picture><source type="image/webp" srcset="../../assets/img/exhibitions/answer-keelung-2025/31-800.webp 533w, ../../assets/img/exhibitions/answer-keelung-2025/31-1600.webp 1066w" sizes="(max-width: 600px) 46vw, (max-width: 900px) 30vw, 360px" /><img src="../../assets/img/exhibitions/answer-keelung-2025/31.jpg" width="1066" height="1600" loading="lazy" decoding="async" alt="許哲睿" /></picture></div>
+          <div class="gallery__item gallery__item--lead" data-reveal><picture><source type="image/webp" srcset="../../assets/img/exhibitions/answer-keelung-2025/32-800.webp 800w, ../../assets/img/exhibitions/answer-keelung-2025/32-1600.webp 1600w" sizes="(max-width: 900px) 46vw, 505px" /><img src="../../assets/img/exhibitions/answer-keelung-2025/32.jpg" width="1600" height="1066" loading="lazy" decoding="async" alt="(最左)副社長 鍾大方" /></picture></div>
+          <div class="gallery__item" data-reveal><picture><source type="image/webp" srcset="../../assets/img/exhibitions/answer-keelung-2025/27-800.webp 533w, ../../assets/img/exhibitions/answer-keelung-2025/27-1600.webp 1066w" sizes="(max-width: 600px) 46vw, (max-width: 900px) 30vw, 360px" /><img src="../../assets/img/exhibitions/answer-keelung-2025/27.jpg" width="1066" height="1600" loading="lazy" decoding="async" alt="維護部長 朱家樂" /></picture></div>
+          <div class="gallery__item" data-reveal><picture><source type="image/webp" srcset="../../assets/img/exhibitions/answer-keelung-2025/28-800.webp 533w, ../../assets/img/exhibitions/answer-keelung-2025/28-1600.webp 1066w" sizes="(max-width: 600px) 46vw, (max-width: 900px) 30vw, 360px" /><img src="../../assets/img/exhibitions/answer-keelung-2025/28.jpg" width="1066" height="1600" loading="lazy" decoding="async" alt="暗房部長 梁皓俊" /></picture></div>
+          <div class="gallery__item" data-reveal><picture><source type="image/webp" srcset="../../assets/img/exhibitions/answer-keelung-2025/29-800.webp 533w, ../../assets/img/exhibitions/answer-keelung-2025/29-1600.webp 1066w" sizes="(max-width: 600px) 46vw, (max-width: 900px) 30vw, 360px" /><img src="../../assets/img/exhibitions/answer-keelung-2025/29.jpg" width="1066" height="1600" loading="lazy" decoding="async" alt="維護部 吳昇澔" /></picture></div>
+          <div class="gallery__item" data-reveal><picture><source type="image/webp" srcset="../../assets/img/exhibitions/answer-keelung-2025/30-800.webp 533w, ../../assets/img/exhibitions/answer-keelung-2025/30-1600.webp 1066w" sizes="(max-width: 600px) 46vw, (max-width: 900px) 30vw, 360px" /><img src="../../assets/img/exhibitions/answer-keelung-2025/30.jpg" width="1066" height="1600" loading="lazy" decoding="async" alt="北藝大策展研究社 蔡睿宇" /></picture></div>
+          <div class="gallery__item" data-reveal><picture><source type="image/webp" srcset="../../assets/img/exhibitions/answer-keelung-2025/31-800.webp 533w, ../../assets/img/exhibitions/answer-keelung-2025/31-1600.webp 1066w" sizes="(max-width: 600px) 46vw, (max-width: 900px) 30vw, 360px" /><img src="../../assets/img/exhibitions/answer-keelung-2025/31.jpg" width="1066" height="1600" loading="lazy" decoding="async" alt="藝術家 許哲睿" /></picture></div>
           <div class="gallery__item" data-reveal><picture><source type="image/webp" srcset="../../assets/img/exhibitions/answer-keelung-2025/33-800.webp 600w, ../../assets/img/exhibitions/answer-keelung-2025/33-1600.webp 1200w" sizes="(max-width: 600px) 46vw, (max-width: 900px) 30vw, 360px" /><img src="../../assets/img/exhibitions/answer-keelung-2025/33.jpg" width="1200" height="1600" loading="lazy" decoding="async" alt="布展時長10小時" /></picture></div>
         </figure>
-        <p class="video-cap" style="text-align:center;">展場照、布展照攝影：彭菘瑋（PENG, Sung-wei／台大攝影研究社資深顧問）</p>
+        <p class="credit-line" style="text-align:center;">展場照、布展照攝影：彭菘瑋（PENG, Sung-wei／台大攝影研究社資深顧問）</p>
 
         <div class="video-grid">
           <div>
             <figure class="gallery__item" data-reveal style="margin:0;">
               <picture><source type="image/webp" srcset="../../assets/img/exhibitions/answer-keelung-2025/34-800.webp 800w, ../../assets/img/exhibitions/answer-keelung-2025/34-1600.webp 1600w, ../../assets/img/exhibitions/answer-keelung-2025/34-2400.webp 2400w" sizes="(max-width: 600px) 46vw, (max-width: 900px) 30vw, 360px" /><img src="../../assets/img/exhibitions/answer-keelung-2025/34.jpg" width="1600" height="1066" loading="lazy" decoding="async" alt="20250616布展日，布展團隊合影於展場內。" data-full="../../assets/img/exhibitions/answer-keelung-2025/34-2400.jpg" /></picture>
             </figure>
-            <p class="credit-line"><strong>20250616布展日，</strong><br />感謝北藝大策展研究社蔡睿宇協助打燈，以及布展團隊：台大攝影社技藝指導老師楊鎮豪、台大攝影社資深顧問彭菘瑋、副社長鍾大方、維護部長朱家樂、暗房部長梁皓俊、維護部吳昇澔。<a class="u-plain" href="https://www.instagram.com/p/DLBhdopSBZO/" target="_blank" rel="noopener">點擊前往IG貼文 ↗</a>。</p>
+            <p class="credit-line"><strong>20250616布展日</strong><br />感謝北藝大策展研究社蔡睿宇協助打燈，以及布展團隊：台大攝影社技藝指導老師楊鎮豪、台大攝影社資深顧問彭菘瑋、副社長鍾大方、維護部長朱家樂、暗房部長梁皓俊、維護部吳昇澔。<a class="u-plain" href="https://www.instagram.com/p/DLBhdopSBZO/" target="_blank" rel="noopener">點擊前往IG貼文 ↗</a>。</p>
           </div>
           <div>
             <figure class="gallery__item" data-reveal style="margin:0;">
               <picture><source type="image/webp" srcset="../../assets/img/exhibitions/answer-keelung-2025/35-800.webp 800w, ../../assets/img/exhibitions/answer-keelung-2025/35-1600.webp 1600w" sizes="(max-width: 600px) 46vw, (max-width: 900px) 30vw, 360px" /><img src="../../assets/img/exhibitions/answer-keelung-2025/35.jpg" width="1600" height="1280" loading="lazy" decoding="async" alt="20250706撤展日，撤展團隊合影於展場內。" /></picture>
             </figure>
-            <p class="credit-line"><strong>20250706撤展日，</strong><br />感謝台大攝影社技藝指導老師楊鎮豪、維護部員許信澤（Zawa／ザワ）、成功大學攝影研究社社長陳冠廷，朋友群左伃恩、940。<a class="u-plain" href="https://www.instagram.com/p/DLw18MTSDRE/" target="_blank" rel="noopener">點擊前往IG貼文 ↗</a>。</p>
+            <p class="credit-line"><strong>20250706撤展日</strong><br />感謝台大攝影社技藝指導老師楊鎮豪、維護部員許信澤（Zawa／ザワ）、成功大學攝影研究社社長陳冠廷，朋友群左伃恩、940。<a class="u-plain" href="https://www.instagram.com/p/DLw18MTSDRE/" target="_blank" rel="noopener">點擊前往IG貼文 ↗</a>。</p>
           </div>
         </div>
       </div>

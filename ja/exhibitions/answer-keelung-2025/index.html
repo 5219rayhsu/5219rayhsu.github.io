@@ -41,8 +41,12 @@
     .video-cap { margin-top: .6rem; font-size: .82rem; line-height: 1.5; color: var(--c-text-dim); }
     .section--tight { padding-block: clamp(2.5rem, 5vw, 4.5rem); }
     /* 謝辞：設営・撤収チームのクレジット行。通常の video-cap より字級・濃さを上げ、日付を行頭の視覚的な起点にする */
-    .credit-line { margin-top: .6rem; font-size: 1rem; line-height: 1.65; color: var(--c-text); }
-    .credit-line strong { display: block; margin-bottom: .3rem; }
+    .credit-line { margin-top: .6rem; font-size: 1rem; line-height: 1.65; color: var(--c-text);
+                   text-align: justify; text-justify: inter-ideograph; hyphens: auto; }
+    .credit-line strong { display: block; margin-bottom: .45rem; font-size: 1.06rem; letter-spacing: .01em; text-align: left; }
+    /* 兩欄圖高不同，用 subgrid 讓文字區起點切齊 */
+    #acknowledgements .video-grid { grid-template-rows: auto auto; }
+    #acknowledgements .video-grid > div { display: grid; grid-row: span 2; grid-template-rows: subgrid; gap: 0; }
   </style>
   <script type="application/ld+json">
 {
@@ -394,7 +398,7 @@
     <section id="acknowledgements" class="section--tight section--muted" aria-label="謝辞">
       <div class="wrap">
         <p class="eyebrow" style="text-align:center;">謝辞 Acknowledgements</p>
-        <div class="wrap--read prose" style="padding-inline:0; margin-top:1.6rem;">
+        <div class="wrap--read prose" style="padding-inline:0; margin-inline:auto; margin-top:1.6rem;">
           <p data-reveal>展示を観にわざわざ足を運んでくださった先生方、友人、そして来場者の皆さまに、心から感謝します。まる一日を割いてお越しくださったこと、本当に感動しました。</p>
           <p data-reveal>人生初の個展にあたり、皆さまのご協力、作品への期待とご感想、そして会場のさらなる可能性をともに語り合ってくださったことに感謝します。ネット上で拡散にご協力くださり、メッセージで祝福を寄せてくださった多くの友人にも感謝します。あらためて、基隆市文化観光局 江亭玫局長、キュレーターの姜麗華教授、対談者の姚瑞中教授に、多大なるご支援でこの縁を成就してくださったことを深く御礼申し上げます。</p>
           <p data-reveal>幸いにも各方面の先達より親しくご教示を賜り、若輩ながら深く御礼申し上げます。<br />親しき友の皆さまと心ゆくまで語らえたこと、感謝の念に堪えません。</p>
@@ -402,28 +406,28 @@
         </div>
 
         <figure class="gallery gallery--crew" style="margin-top:clamp(2.5rem,5vw,4rem);">
-          <div class="gallery__item gallery__item--lead" data-reveal><picture><source type="image/webp" srcset="../../../assets/img/exhibitions/answer-keelung-2025/32-800.webp 800w, ../../../assets/img/exhibitions/answer-keelung-2025/32-1600.webp 1600w" sizes="(max-width: 600px) 46vw, (max-width: 900px) 30vw, 360px" /><img src="../../../assets/img/exhibitions/answer-keelung-2025/32.jpg" width="1600" height="1066" loading="lazy" decoding="async" alt="（最左）鍾大方" /></picture></div>
-          <div class="gallery__item" data-reveal><picture><source type="image/webp" srcset="../../../assets/img/exhibitions/answer-keelung-2025/27-800.webp 533w, ../../../assets/img/exhibitions/answer-keelung-2025/27-1600.webp 1066w" sizes="(max-width: 600px) 46vw, (max-width: 900px) 30vw, 360px" /><img src="../../../assets/img/exhibitions/answer-keelung-2025/27.jpg" width="1066" height="1600" loading="lazy" decoding="async" alt="朱家楽" /></picture></div>
-          <div class="gallery__item" data-reveal><picture><source type="image/webp" srcset="../../../assets/img/exhibitions/answer-keelung-2025/28-800.webp 533w, ../../../assets/img/exhibitions/answer-keelung-2025/28-1600.webp 1066w" sizes="(max-width: 600px) 46vw, (max-width: 900px) 30vw, 360px" /><img src="../../../assets/img/exhibitions/answer-keelung-2025/28.jpg" width="1066" height="1600" loading="lazy" decoding="async" alt="梁皓俊" /></picture></div>
-          <div class="gallery__item" data-reveal><picture><source type="image/webp" srcset="../../../assets/img/exhibitions/answer-keelung-2025/29-800.webp 533w, ../../../assets/img/exhibitions/answer-keelung-2025/29-1600.webp 1066w" sizes="(max-width: 600px) 46vw, (max-width: 900px) 30vw, 360px" /><img src="../../../assets/img/exhibitions/answer-keelung-2025/29.jpg" width="1066" height="1600" loading="lazy" decoding="async" alt="呉昇澔" /></picture></div>
-          <div class="gallery__item" data-reveal><picture><source type="image/webp" srcset="../../../assets/img/exhibitions/answer-keelung-2025/30-800.webp 533w, ../../../assets/img/exhibitions/answer-keelung-2025/30-1600.webp 1066w" sizes="(max-width: 600px) 46vw, (max-width: 900px) 30vw, 360px" /><img src="../../../assets/img/exhibitions/answer-keelung-2025/30.jpg" width="1066" height="1600" loading="lazy" decoding="async" alt="蔡睿宇" /></picture></div>
-          <div class="gallery__item" data-reveal><picture><source type="image/webp" srcset="../../../assets/img/exhibitions/answer-keelung-2025/31-800.webp 533w, ../../../assets/img/exhibitions/answer-keelung-2025/31-1600.webp 1066w" sizes="(max-width: 600px) 46vw, (max-width: 900px) 30vw, 360px" /><img src="../../../assets/img/exhibitions/answer-keelung-2025/31.jpg" width="1066" height="1600" loading="lazy" decoding="async" alt="許哲睿" /></picture></div>
+          <div class="gallery__item gallery__item--lead" data-reveal><picture><source type="image/webp" srcset="../../../assets/img/exhibitions/answer-keelung-2025/32-800.webp 800w, ../../../assets/img/exhibitions/answer-keelung-2025/32-1600.webp 1600w" sizes="(max-width: 900px) 46vw, 505px" /><img src="../../../assets/img/exhibitions/answer-keelung-2025/32.jpg" width="1600" height="1066" loading="lazy" decoding="async" alt="（最左）副社長 鍾大方" /></picture></div>
+          <div class="gallery__item" data-reveal><picture><source type="image/webp" srcset="../../../assets/img/exhibitions/answer-keelung-2025/27-800.webp 533w, ../../../assets/img/exhibitions/answer-keelung-2025/27-1600.webp 1066w" sizes="(max-width: 600px) 46vw, (max-width: 900px) 30vw, 360px" /><img src="../../../assets/img/exhibitions/answer-keelung-2025/27.jpg" width="1066" height="1600" loading="lazy" decoding="async" alt="整備部長 朱家楽" /></picture></div>
+          <div class="gallery__item" data-reveal><picture><source type="image/webp" srcset="../../../assets/img/exhibitions/answer-keelung-2025/28-800.webp 533w, ../../../assets/img/exhibitions/answer-keelung-2025/28-1600.webp 1066w" sizes="(max-width: 600px) 46vw, (max-width: 900px) 30vw, 360px" /><img src="../../../assets/img/exhibitions/answer-keelung-2025/28.jpg" width="1066" height="1600" loading="lazy" decoding="async" alt="暗室部長 梁皓俊" /></picture></div>
+          <div class="gallery__item" data-reveal><picture><source type="image/webp" srcset="../../../assets/img/exhibitions/answer-keelung-2025/29-800.webp 533w, ../../../assets/img/exhibitions/answer-keelung-2025/29-1600.webp 1066w" sizes="(max-width: 600px) 46vw, (max-width: 900px) 30vw, 360px" /><img src="../../../assets/img/exhibitions/answer-keelung-2025/29.jpg" width="1066" height="1600" loading="lazy" decoding="async" alt="整備部 呉昇澔" /></picture></div>
+          <div class="gallery__item" data-reveal><picture><source type="image/webp" srcset="../../../assets/img/exhibitions/answer-keelung-2025/30-800.webp 533w, ../../../assets/img/exhibitions/answer-keelung-2025/30-1600.webp 1066w" sizes="(max-width: 600px) 46vw, (max-width: 900px) 30vw, 360px" /><img src="../../../assets/img/exhibitions/answer-keelung-2025/30.jpg" width="1066" height="1600" loading="lazy" decoding="async" alt="台北芸術大学 キュレーション研究会 蔡睿宇" /></picture></div>
+          <div class="gallery__item" data-reveal><picture><source type="image/webp" srcset="../../../assets/img/exhibitions/answer-keelung-2025/31-800.webp 533w, ../../../assets/img/exhibitions/answer-keelung-2025/31-1600.webp 1066w" sizes="(max-width: 600px) 46vw, (max-width: 900px) 30vw, 360px" /><img src="../../../assets/img/exhibitions/answer-keelung-2025/31.jpg" width="1066" height="1600" loading="lazy" decoding="async" alt="アーティスト 許哲睿" /></picture></div>
           <div class="gallery__item" data-reveal><picture><source type="image/webp" srcset="../../../assets/img/exhibitions/answer-keelung-2025/33-800.webp 600w, ../../../assets/img/exhibitions/answer-keelung-2025/33-1600.webp 1200w" sizes="(max-width: 600px) 46vw, (max-width: 900px) 30vw, 360px" /><img src="../../../assets/img/exhibitions/answer-keelung-2025/33.jpg" width="1200" height="1600" loading="lazy" decoding="async" alt="設営作業 10時間" /></picture></div>
         </figure>
-        <p class="video-cap" style="text-align:center;">会場・設営写真：彭菘瑋（PENG, Sung-wei／台大写真研究会 シニアアドバイザー）</p>
+        <p class="credit-line" style="text-align:center;">会場・設営写真：彭菘瑋（PENG, Sung-wei／台大写真研究会 シニアアドバイザー）</p>
 
         <div class="video-grid">
           <div>
             <figure class="gallery__item" data-reveal style="margin:0;">
               <picture><source type="image/webp" srcset="../../../assets/img/exhibitions/answer-keelung-2025/34-800.webp 800w, ../../../assets/img/exhibitions/answer-keelung-2025/34-1600.webp 1600w, ../../../assets/img/exhibitions/answer-keelung-2025/34-2400.webp 2400w" sizes="(max-width: 600px) 46vw, (max-width: 900px) 30vw, 360px" /><img src="../../../assets/img/exhibitions/answer-keelung-2025/34.jpg" width="1600" height="1066" loading="lazy" decoding="async" alt="20250616 設営日、設営チームが会場内で記念撮影。" data-full="../../../assets/img/exhibitions/answer-keelung-2025/34-2400.jpg" /></picture>
             </figure>
-            <p class="credit-line"><strong>20250616 設営日、</strong><br />感謝を込めて：北芸大 策展研究社 蔡睿宇（照明協力）、および設営チーム——台湾大学写真社 技芸指導講師 楊鎮豪、シニアアドバイザー 彭菘瑋、副社長 鍾大方、メンテナンス部長 朱家楽、暗室部長 梁皓俊、メンテナンス部 呉昇澔。<a class="u-plain" href="https://www.instagram.com/p/DLBhdopSBZO/" target="_blank" rel="noopener">Instagram の投稿を見る ↗</a></p>
+            <p class="credit-line"><strong>20250616 設営日</strong><br />感謝を込めて：北芸大 策展研究社 蔡睿宇（照明協力）、および設営チーム——台湾大学写真社 技芸指導講師 楊鎮豪、シニアアドバイザー 彭菘瑋、副社長 鍾大方、メンテナンス部長 朱家楽、暗室部長 梁皓俊、メンテナンス部 呉昇澔。<a class="u-plain" href="https://www.instagram.com/p/DLBhdopSBZO/" target="_blank" rel="noopener">Instagram の投稿を見る ↗</a></p>
           </div>
           <div>
             <figure class="gallery__item" data-reveal style="margin:0;">
               <picture><source type="image/webp" srcset="../../../assets/img/exhibitions/answer-keelung-2025/35-800.webp 800w, ../../../assets/img/exhibitions/answer-keelung-2025/35-1600.webp 1600w" sizes="(max-width: 600px) 46vw, (max-width: 900px) 30vw, 360px" /><img src="../../../assets/img/exhibitions/answer-keelung-2025/35.jpg" width="1600" height="1280" loading="lazy" decoding="async" alt="20250706 撤収日、撤収チームが会場内で記念撮影。" /></picture>
             </figure>
-            <p class="credit-line"><strong>20250706 撤収日、</strong><br />感謝を込めて：台湾大学写真社 技芸指導講師 楊鎮豪、整備部員 許信澤（Zawa／ザワ）、成功大学写真研究会 会長 陳冠廷、友人の左伃恩、940。<a class="u-plain" href="https://www.instagram.com/p/DLw18MTSDRE/" target="_blank" rel="noopener">Instagram の投稿を見る ↗</a></p>
+            <p class="credit-line"><strong>20250706 撤収日</strong><br />感謝を込めて：台湾大学写真社 技芸指導講師 楊鎮豪、整備部員 許信澤（Zawa／ザワ）、成功大学写真研究会 会長 陳冠廷、友人の左伃恩、940。<a class="u-plain" href="https://www.instagram.com/p/DLw18MTSDRE/" target="_blank" rel="noopener">Instagram の投稿を見る ↗</a></p>
           </div>
         </div>
       </div>
