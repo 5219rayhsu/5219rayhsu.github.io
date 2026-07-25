@@ -680,9 +680,9 @@ main { padding-top: var(--nav-h); }
 /* ---------------------------------------------------------------- global site footer */
 .site-footer { background: var(--c-ink); color: var(--c-invert); padding-top: clamp(3.5rem, 7vw, 6rem); }
 /* 頁尾 QR：離線場景用（看螢幕的人用手機開、截圖轉傳），暗底上加白框才掃得到 */
-.site-footer__qr { margin: clamp(1.4rem, 3vw, 2rem) 0 0; }
-.site-footer__qr img { width: 104px; height: 104px; background: #fff; padding: 8px; border-radius: 8px; display: block; }
-.site-footer__qr figcaption { margin-top: .55rem; font-size: .78rem; letter-spacing: .04em; color: var(--c-invert-dim); }
+.site-footer__qr { margin: clamp(1.4rem, 3vw, 2rem) 0 0; display: flex; align-items: flex-end; gap: .75rem; }
+.site-footer__qr img { width: 104px; height: 104px; background: #fff; padding: 4px; border-radius: 6px; display: block; flex: none; }
+.site-footer__qr figcaption { margin: 0 0 .15rem; font-size: .78rem; letter-spacing: .04em; color: var(--c-invert-dim); }
 .site-footer__grid { display: grid; grid-template-columns: 1fr; gap: clamp(2rem, 4vw, 3rem); padding-bottom: clamp(2.5rem, 5vw, 4rem); }
 .site-footer__name { font-size: 1.3rem; font-weight: 600; letter-spacing: .01em; }
 .site-footer__name span { color: var(--c-invert-dim); font-weight: 500; font-size: .95rem; margin-left: .4rem; }
@@ -696,7 +696,11 @@ main { padding-top: var(--nav-h); }
 .site-footer__base { display: flex; flex-wrap: wrap; justify-content: space-between; gap: 1rem; padding-top: 1.6rem; padding-bottom: calc(1.6rem + env(safe-area-inset-bottom, 0px)); border-top: 1px solid var(--c-line-invert); font-size: .82rem; color: var(--c-text-faint); }
 .site-footer__base a { color: var(--c-text-faint); transition: color .25s; }
 .site-footer__base a:hover { color: #fff; }
-@media (min-width: 760px) { .site-footer__grid { grid-template-columns: 2fr 1fr 1.3fr; } }
+@media (min-width: 760px) {
+  .site-footer__grid { grid-template-columns: 2fr 1fr 1.3fr; align-items: stretch; }
+  .site-footer__brand { display: flex; flex-direction: column; }
+  .site-footer__qr { margin-top: auto; }  /* 下緣切齊聯絡欄末行 */
+}
 
 /* ---------------------------------------------------------------- lightbox */
 .lightbox { position: fixed; inset: 0; z-index: 300; display: flex; flex-direction: column; align-items: center; justify-content: center; gap: 2vmin; overflow: auto; padding: 5vmin 4vmin; background: rgba(0,0,0,.92); backdrop-filter: blur(8px); -webkit-backdrop-filter: blur(8px); opacity: 0; animation: fade .35s var(--ease-io) forwards; }
