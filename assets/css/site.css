@@ -64,8 +64,13 @@
   --dur:    .8s;
 }
 
-/* 手機欄寬不足以齊行——見 --align-body 註解 */
-@media (max-width: 719.98px) { :root { --align-body: left; } }
+/* 手機窄欄只讓「英文」退回靠左：英文靠詞間空白補齊行，窄欄一撐就成空白河流；
+   中日文字等寬且幾乎可在任一字後斷行，齊行不會撐開字距，故維持齊行（站主 2026-07-25 裁定
+   不接受手機上的右緣參差）。以 lang 屬性判斷，不是以頁面語言，因為 zh/ja 頁內也有英文段落。 */
+@media (max-width: 719.98px) {
+  html[lang="en"], [lang="en"] { --align-body: left; }
+  [lang="zh-Hant"], [lang="zh-Hant-TW"], [lang="ja"] { --align-body: justify; }
+}
 
 /* 依桌機寬度手切的換行；窄欄會被迫二次折行、留下孤字，故手機停用 */
 @media (max-width: 719.98px) { br.br-wide { display: none; } }
