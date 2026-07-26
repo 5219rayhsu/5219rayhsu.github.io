@@ -28,6 +28,16 @@ affiliations:
   url: https://www.facebook.com/groups/550652866623046
 - name: 台灣大學攝影研究社
   url: https://www.instagram.com/ntuphoto_official/
+awards:
+- name: 2026 全國美術展 攝影類 金牌獎
+  work: 長大
+  awarded_by: 國立臺灣美術館
+  source: https://event.culture.tw/mocweb/reg/NTMOFA/Detail.init.ctr?actId=60098
+- name: 2026 SKM PHOTO 新光三越國際攝影大賽 參獎 暨 年度特獎
+  work: 無序身體販賣所
+  awarded_by: 財團法人新光三越文教基金會
+- name: 2023 法雅客第 19 屆城市 24 小時攝影馬拉松 佳作
+  source: https://www.fayaque.com.tw/photography/2023/2023-taipei-8
 updated: '2026-07-27'
 ---
 

@@ -28,6 +28,16 @@ affiliations:
   url: https://www.facebook.com/groups/550652866623046
 - name: 台灣大學攝影研究社
   url: https://www.instagram.com/ntuphoto_official/
+awards:
+- name: Gold Prize, Photography Category, 115th National Art Exhibition R.O.C. (2026)
+  work: When I Grow Up
+  awarded_by: National Taiwan Museum of Fine Arts
+  source: https://event.culture.tw/mocweb/reg/NTMOFA/Detail.init.ctr?actId=60098
+- name: Third Prize & Special Award of the Year, 2026 SKM PHOTO International Photography Contest
+  work: Chaos Body Shop
+  awarded_by: SKM Culture Foundation
+- name: Honourable Mention, 19th FNAC City 24-Hour Photo Marathon (2023)
+  source: https://www.fayaque.com.tw/photography/2023/2023-taipei-8
 updated: '2026-07-27'
 ---
 
