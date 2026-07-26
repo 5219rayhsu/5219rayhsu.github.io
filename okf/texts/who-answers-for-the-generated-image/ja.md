@@ -17,7 +17,12 @@ translations:
   en: ./en.md
 description: 許哲睿の論文：生成AI時代におけるフーコー「作者機能」の再フレーム化。許哲睿のアーティストブック《無序身体販売所》とその核心作《長大》を事例に、生成技術は作者を退場させるどころか、問責をあらためて核心的な問題とすることを論じる。
 content_scope: summary
-updated: '2026-07-25'
+cites:
+- name: Trevor Paglen, "Invisible Images (Your Pictures Are Looking at You)", The New Inquiry
+  url: https://thenewinquiry.com/invisible-images-your-pictures-are-looking-at-you/
+- name: Andrej Karpathy, post on X
+  url: https://x.com/karpathy/status/1886192184808149383
+updated: '2026-07-27'
 ---
 
 # 生成された相に誰が責を負うのか

@@ -7,6 +7,7 @@ title: Contemplating the Self
 author:
   name: CHIANG, Li-hua
   alternate_name: 姜麗華
+  profile: https://gec.ntua.edu.tw/pageQAQ.asp?kk=121
 about:
 - ../../works/answer/index.md
 resource: https://5219rayhsu.github.io/en/texts/contemplating-the-self/
@@ -19,7 +20,7 @@ description: An essay by CHIANG, Li-hua (PhD, Université Paris 1; Professor, Na
   Taiwan University of Arts) on HSU Che-jui's Answer series, reading its self-portraits
   through Foucault's dialectic of knowledge and power.
 content_scope: summary
-updated: '2026-07-19'
+updated: '2026-07-27'
 ---
 
 # Contemplating the Self

@@ -7,6 +7,7 @@ title: 默觀自我：「問題」與「答案」的弔詭思想行動
 author:
   name: 姜麗華
   alternate_name: CHIANG, Li-hua
+  profile: https://gec.ntua.edu.tw/pageQAQ.asp?kk=121
 about:
 - ../../works/answer/index.md
 resource: https://5219rayhsu.github.io/texts/contemplating-the-self/
@@ -17,7 +18,7 @@ translations:
   ja: ./ja.md
 description: 姜麗華（巴黎第一大學造形藝術所博士、國立臺灣藝術大學專任教授）評《答案》系列：以傅柯「作者功能」與知識／權力辯證，解讀許哲睿自拍肖像中「問題」刻於前胸、「答案」隱於後背的弔詭思想行動。
 content_scope: summary
-updated: '2026-07-19'
+updated: '2026-07-27'
 ---
 
 # 默觀自我：「問題」與「答案」的弔詭思想行動

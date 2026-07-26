@@ -18,7 +18,8 @@ related_entities:
   artist: ../../artist/index.md
 about:
 - ../../works/answer/index.md
-updated: '2026-07-19'
+author_profile: https://gec.ntua.edu.tw/pageQAQ.asp?kk=121
+updated: '2026-07-27'
 ---
 
 # 默觀自我：「問題」與「答案」的弔詭思想行動

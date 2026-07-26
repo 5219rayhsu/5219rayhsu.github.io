@@ -19,7 +19,12 @@ description: HSU Che-jui's paper reframes Foucault's “author function” for t
   of generative AI, through a case study of his artist book Chaos Body Shop and its
   core work When I Grow Up.
 content_scope: summary
-updated: '2026-07-19'
+cites:
+- name: Trevor Paglen, "Invisible Images (Your Pictures Are Looking at You)", The New Inquiry
+  url: https://thenewinquiry.com/invisible-images-your-pictures-are-looking-at-you/
+- name: Andrej Karpathy, post on X
+  url: https://x.com/karpathy/status/1886192184808149383
+updated: '2026-07-27'
 ---
 
 # Who Answers for the Generated Image

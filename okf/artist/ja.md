@@ -14,7 +14,21 @@ translation_of: ./index.md
 translations:
   zh-Hant: ./zh-Hant.md
   en: ./en.md
-updated: '2026-07-25'
+same_as:
+- https://www.instagram.com/5219rayhsu/
+- https://www.facebook.com/profile.php?id=100013784209528
+- https://www.youtube.com/@HSU-Che-jui
+- https://hsuchejui.myportfolio.com/
+affiliations:
+- name: 台灣攝影博物館文化學會
+  url: https://www.facebook.com/profile.php?id=61571063337167
+- name: 台灣視覺藝術協會（視盟）
+  url: https://avat-art.org/
+- name: 台灣攝影文化資產協會
+  url: https://www.facebook.com/groups/550652866623046
+- name: 台灣大學攝影研究社
+  url: https://www.instagram.com/ntuphoto_official/
+updated: '2026-07-27'
 ---
 
 # 許哲睿 について

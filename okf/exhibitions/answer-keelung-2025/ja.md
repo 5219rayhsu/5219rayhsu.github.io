@@ -14,9 +14,12 @@ venue:
   spaces:
   - M02
   - M03
+  map: https://maps.app.goo.gl/oNJpKir66Awhc2uc9
+  announcement: https://www.facebook.com/share/p/16ffNgjuj8/
 curator:
   name: 姜麗華
   alternate_name: CHIANG, Li-hua
+  profile: https://gec.ntua.edu.tw/pageQAQ.asp?kk=121
 resource: https://5219rayhsu.github.io/ja/exhibitions/answer-keelung-2025/
 canonical: https://5219rayhsu.github.io/ja/exhibitions/answer-keelung-2025/
 related_works:
@@ -24,7 +27,21 @@ related_works:
 translations:
   zh-Hant: ./zh-Hant.md
   en: ./en.md
-updated: '2026-07-25'
+subject_of:
+- type: video
+  name: 《立場 Stance》縦位置 4K 映像（2'50"）
+  url: https://youtube.com/watch?v=_bqKH1x4nEg
+- type: video
+  name: 会場巡り《答案 Answer》（1 分 40 秒）
+  url: https://youtube.com/watch?v=tdcez6A7sOA
+- type: instagram_post
+  name: 2025-06-16 設営日の IG 投稿
+  url: https://www.instagram.com/p/DLBhdopSBZO/
+- type: instagram_post
+  name: 2025-07-06 撤収日の IG 投稿
+  url: https://www.instagram.com/p/DLw18MTSDRE/
+press_kit: https://drive.google.com/drive/folders/1xFriY8e1khb9yE85zExzdJ-pz2SbRkPt?usp=sharing
+updated: '2026-07-27'
 ---
 
 # 答案 Answer — 基隆美術館 個展

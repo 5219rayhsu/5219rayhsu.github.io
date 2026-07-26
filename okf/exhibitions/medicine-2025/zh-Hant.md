@@ -12,6 +12,8 @@ end_date: '2025-10-04'
 venue:
   name: 看守所 beholdingcell
   address: 臺北市大安區復興南路一段321號1樓A9室
+  website: https://beholdingcell.com/
+  instagram: https://www.instagram.com/beholdingcell/
 director:
   name: 陳斌華
   alternate_name: CHEN, Pin-hua
@@ -22,7 +24,8 @@ related_works:
 translations:
   en: ./en.md
   ja: ./ja.md
-updated: '2026-07-19'
+official_event_page: https://beholdingcell.com/portfolio/20251001
+updated: '2026-07-27'
 ---
 
 # 《心藥 Medicine》── 許哲睿22歲生日特展

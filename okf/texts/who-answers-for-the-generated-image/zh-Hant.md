@@ -17,7 +17,12 @@ translations:
   ja: ./ja.md
 description: 許哲睿論文：論傅柯「作者功能」在生成式 AI 時代的再框架，以其藝術家書籍《無序身體販賣所》及核心作品《長大》為個案，論證生成式技術非但未使作者退場，反使問責重新成為核心問題。
 content_scope: summary
-updated: '2026-07-19'
+cites:
+- name: Trevor Paglen, "Invisible Images (Your Pictures Are Looking at You)", The New Inquiry
+  url: https://thenewinquiry.com/invisible-images-your-pictures-are-looking-at-you/
+- name: Andrej Karpathy, post on X
+  url: https://x.com/karpathy/status/1886192184808149383
+updated: '2026-07-27'
 ---
 
 # 誰為生成之相負責

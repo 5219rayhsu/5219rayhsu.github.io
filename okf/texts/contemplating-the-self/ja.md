@@ -7,6 +7,7 @@ title: 黙観自我：「問題」と「答案」の弔詭なる思想行動
 author:
   name: 姜麗華
   alternate_name: CHIANG, Li-hua
+  profile: https://gec.ntua.edu.tw/pageQAQ.asp?kk=121
 about:
 - ../../works/answer/index.md
 resource: https://5219rayhsu.github.io/ja/texts/contemplating-the-self/
@@ -17,7 +18,7 @@ translations:
   en: ./en.md
 description: 姜麗華（パリ第一大学 造形芸術研究所 博士、国立台湾芸術大学 専任教授）による《答案》シリーズ論。フーコーの「作者機能」と知/権力の弁証法から、前胸の「問題」と後背に隠れた「答案」という弔詭なる思想行動を読み解く。
 content_scope: summary
-updated: '2026-07-19'
+updated: '2026-07-27'
 ---
 
 # 黙観自我：「問題」と「答案」の弔詭なる思想行動

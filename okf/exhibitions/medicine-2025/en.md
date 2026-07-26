@@ -12,6 +12,8 @@ end_date: '2025-10-04'
 venue:
   name: beholdingcell
   address: 1F, Unit A9, No. 321, Sec. 1, Fuxing S. Rd., Da'an Dist., Taipei 106, Taiwan
+  website: https://beholdingcell.com/
+  instagram: https://www.instagram.com/beholdingcell/
 director:
   name: CHEN, Pin-hua
   alternate_name: 陳斌華
@@ -22,7 +24,8 @@ related_works:
 translations:
   zh-Hant: ./zh-Hant.md
   ja: ./ja.md
-updated: '2026-07-19'
+official_event_page: https://beholdingcell.com/portfolio/20251001
+updated: '2026-07-27'
 ---
 
 # Medicine — HSU Che-jui's 22nd Birthday Special Exhibition

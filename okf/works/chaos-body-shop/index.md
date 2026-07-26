@@ -20,7 +20,12 @@ related_entities:
   - ../../exhibitions/exhibition-timeline/index.md
 related_texts:
 - ../../texts/who-answers-for-the-generated-image/index.md
-updated: '2026-07-19'
+subject_of:
+- type: instagram_post
+  url: https://www.instagram.com/p/DbIaFUbylf7/
+- type: video
+  url: https://youtube.com/shorts/Nq81rFuD19k
+updated: '2026-07-27'
 ---
 
 # 無序身體販賣所 / Chaos Body Shop

@@ -20,7 +20,8 @@ related_entities:
   artist: ../../artist/index.md
 related_works:
 - ../../works/medicine/index.md
-updated: '2026-07-19'
+official_event_page: https://beholdingcell.com/portfolio/20251001
+updated: '2026-07-27'
 ---
 
 # 《心藥 Medicine》── 許哲睿22歲生日特展

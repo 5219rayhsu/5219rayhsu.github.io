@@ -20,7 +20,12 @@ art_medium: photographic collage, AI-generated ID photos, performance, 4×5 blac
 description: 'Chaos Body Shop (2025–) by HSU Che-jui: a long-term mixed-media project
   in three series — Photographic Collage, AI ID Photo Series, and the Diamond Sutra
   rearranged in Bopomofo. 2026 SKM PHOTO Third Prize & Special Award of the Year.'
-updated: '2026-07-19'
+subject_of:
+- type: instagram_post
+  url: https://www.instagram.com/p/DbIaFUbylf7/
+- type: video
+  url: https://youtube.com/shorts/Nq81rFuD19k
+updated: '2026-07-27'
 ---
 
 # Chaos Body Shop
