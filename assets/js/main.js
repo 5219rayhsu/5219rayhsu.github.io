@@ -200,7 +200,12 @@
     if (nav) nav.classList.toggle("is-scrolled", y > switchPoint);
 
     if (heroMedia && !reduceMotion && y < (hero ? hero.offsetHeight : 0)) {
-      heroMedia.style.transform = `translate3d(0, ${y * 0.22}px, 0) scale(1.04)`;
+      // 手機版 .hero__media 是 object-fit:contain（就是為了「整張看得到」）。
+      // 這時再 scale 會反過來把圖切掉：左右各吃掉 2%，加上 transform-origin
+      // 在正中央，上緣也被切掉約 8px——正是站主 2026-07-28 回報的「上方切到圖」。
+      // 桌機版是寬版視窗、contain 後左右本來就留黑邊，放大 4% 只吃到黑邊，無害。
+      const zoom = window.innerWidth <= 700 ? 1 : 1.04;
+      heroMedia.style.transform = `translate3d(0, ${y * 0.22}px, 0) scale(${zoom})`;
     }
     updateActive();
     ticking = false;
