@@ -610,7 +610,9 @@ main { padding-top: var(--nav-h); }
   /* wrapped exhibition titles: looser line spacing + justified on phones */
   .cv-item__title { line-height: 1.4; text-align: justify; text-justify: inter-ideograph; }
 }
-.cv-item__meta { margin-top: .35rem; font-size: .92rem; line-height: 1.55; color: var(--c-text-dim); }
+/* tabular-nums (2026-07-29)：系統字的數字是等比寬（07/18 比 07/25 窄 2px），連續兩行
+   日期欄位後面的「｜」就會差幾像素對不齊。改用等寬數字讓所有日期／時間欄同寬。 */
+.cv-item__meta { margin-top: .35rem; font-size: .92rem; line-height: 1.55; color: var(--c-text-dim); font-variant-numeric: tabular-nums; }
 .cv-item__meta a { color: var(--c-accent-ink); text-underline-offset: 2px; }
 .cv-item__meta a:hover { text-decoration: underline; }
 /* 媒體報導引註連結：不用紅字，但仍可點；hover 底線行為照舊 */
@@ -624,6 +626,15 @@ main { padding-top: var(--nav-h); }
 @media (max-width: 600px) {
   .cv-field { display: block; }
   .cv-field + .cv-field::before { content: none; }
+}
+/* 懸掛縮排 (2026-07-29)：桌機一行放得下兩三個欄位（場地｜日期、座談｜與談人），
+   視窗一窄就折行，折下來的後半段會貼回最左邊，看起來像新的一欄——站主回報的
+   「文字沒有對齊」。負 text-indent + 等量 padding-left 讓首行齊左、續行內縮，
+   一眼就看得出那是上一行的延續。只在 >=601px 生效：600px 以下 .cv-field 已是
+   display:block 各自成行，續行縮排反而會讓「展出作品：」這種非 cv-field 的
+   純文字尾段（不吃 text-indent）比其他欄位多縮一格。 */
+@media (min-width: 601px) {
+  .cv-item__meta { padding-left: 1.6em; text-indent: -1.6em; }
 }
 
 /* ---------------------------------------------------------------- gallery grid (works/exhibition detail) */
