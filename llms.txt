@@ -14,8 +14,8 @@
 - [《正解：台湾受験戦争の真剣勝負》東京 Place M 個展 2026](https://5219rayhsu.github.io/exhibitions/seikai-tokyo-2026/)
 
 ## 文字 Texts
-- [默觀自我：「問題」與「答案」的弔詭思想行動（姜麗華）](https://5219rayhsu.github.io/texts/contemplating-the-self/)
-- [誰為生成之相負責（許哲睿）](https://5219rayhsu.github.io/texts/critique/)
+- [默觀自我：「問題」與「答案」的弔詭思想行動（姜麗華）](https://5219rayhsu.github.io/texts/contemplating-the-self/): 姜麗華（臺藝大專任教授）評《答案》系列：以傅柯「作者功能」與知識／權力辯證，解讀「問題」刻於前胸、「答案」隱於後背的弔詭思想行動。
+- [誰為生成之相負責（許哲睿）](https://5219rayhsu.github.io/texts/critique/): 論文——生成式 AI 產出的影像，作者是誰、責任歸誰？以傅柯「作者功能」重新框架生成式條件下的問責機制，論證生成技術非但未使作者退場，反使問責重新成為核心問題。個案為藝術家書籍《無序身體販賣所》與 AI 證件照系列《長大》。
 
 ## 關於 About
 - [簡歷與聯絡](https://5219rayhsu.github.io/about/)
