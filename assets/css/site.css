@@ -634,13 +634,16 @@ main { padding-top: var(--nav-h); }
   .cv-field { display: block; }
   .cv-field + .cv-field::before { content: none; }
   /* 手機空行 (2026-07-29)：.cv-field 變 display:block 後，原本用來分行的 <br />
-     就多餘了——區塊本身已經換行，<br /> 再補一個空行，每組欄位之間就多一條空白。
-     手機一律關掉；桌機的 <br /> 仍是唯一的分行來源，不能動。 */
-  .cv-item__meta br { display: none; }
-  /* 手機不 justify (2026-07-29)：這裡每個欄位是自己的窄區塊，內容又幾乎全是不可斷開的
-     長串（2026/07/18、CHANG, Wen-hao、HyperWave Space），一拉伸就整行字距爆開成
-     「座 談 ： 2026/07/18」。窄欄位齊左才乾淨；桌機行夠長，justify 看不出破綻。 */
-  .cv-item__meta { text-align: start; text-justify: auto; }
+     就多餘了——區塊本身已經換行，<br /> 再補一個空行。
+     只能關掉「緊接在 .cv-field 之後」的那一個：有些條目（蘋果蘇打、熱吵集…）整段
+     都是純文字、沒有 .cv-field，靠 <br /> 分行，全部關掉會把「主辦：…」和
+     「展出作品：…」黏成同一行。相鄰選擇器剛好只咬到多餘的那些。 */
+  .cv-field + br { display: none; }
+  /* 手機改單欄 (2026-07-29)：年份原本佔左邊 5rem + gap，390px 螢幕上文字欄只剩 254px，
+     窄到 justify 一拉伸就整行字距爆開（站主要「左右對齊又不要大空白」，在 254px 是
+     做不到的）。年份改成獨立一行、文字欄吃滿 350px，同樣兩端對齊但幾乎不用拉伸。
+     桌機維持雙欄年表版型不變。 */
+  .cv-item { grid-template-columns: 1fr; gap: .25rem; }
 }
 /* 標題與內文的「墨水點」對齊：《〈「（ 這類開頭標點的字身偏右，整格佔滿但左半是空的，
    《觀和作用》的「《」看起來就比下一行的「場」凸出半格。hanging-punctuation: first
