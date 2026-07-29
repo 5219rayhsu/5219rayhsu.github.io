@@ -607,12 +607,19 @@ main { padding-top: var(--nav-h); }
    chaos-body-shop) — scope the override to exhibition titles only. */
 @media (max-width: 600px) {
   .cv-item__title .nowrap { white-space: normal; }
-  /* wrapped exhibition titles: looser line spacing + justified on phones */
-  .cv-item__title { line-height: 1.4; text-align: justify; text-justify: inter-ideograph; }
+  /* 展名只放寬行距，不做 justify (2026-07-29)：標題通常只有一到兩行，最後一行
+     不參與拉伸，等於只有第一行被撐開，字距被拉出大洞。齊左即可。 */
+  .cv-item__title { line-height: 1.4; text-align: start; text-justify: auto; }
 }
 /* tabular-nums (2026-07-29)：系統字的數字是等比寬（07/18 比 07/25 窄 2px），連續兩行
    日期欄位後面的「｜」就會差幾像素對不齊。改用等寬數字讓所有日期／時間欄同寬。 */
-.cv-item__meta { margin-top: .35rem; font-size: .92rem; line-height: 1.55; color: var(--c-text-dim); font-variant-numeric: tabular-nums; }
+/* 齊左 + 齊右 (2026-07-29)：.cv-item__meta 是「一個 <p> 內用 <br /> 分行」，不是多個
+   區塊——所以 text-indent 只會作用在整段的第一行（曾誤用懸掛縮排，結果第一行凸出、
+   其餘每行都內縮，就是站主看到的「除了場地其他標頭太右邊」）。正解是欄位一律齊左、
+   不加縮排，再交給 --align-body 做兩端對齊（中日文 justify、英文 left）。<br /> 前的
+   那一行算「該段最後一行」，瀏覽器不會拉伸，所以只有真正折行的長欄位會撐到齊右。
+   注意：這條必須排在下面 max-width:600px 區塊之前，否則同分特異性下會蓋掉手機的齊左。 */
+.cv-item__meta { margin-top: .35rem; font-size: .92rem; line-height: 1.55; color: var(--c-text-dim); font-variant-numeric: tabular-nums; text-align: var(--align-body); text-justify: inter-ideograph; hyphens: auto; }
 .cv-item__meta a { color: var(--c-accent-ink); text-underline-offset: 2px; }
 .cv-item__meta a:hover { text-decoration: underline; }
 /* 媒體報導引註連結：不用紅字，但仍可點；hover 底線行為照舊 */
@@ -626,16 +633,20 @@ main { padding-top: var(--nav-h); }
 @media (max-width: 600px) {
   .cv-field { display: block; }
   .cv-field + .cv-field::before { content: none; }
+  /* 手機空行 (2026-07-29)：.cv-field 變 display:block 後，原本用來分行的 <br />
+     就多餘了——區塊本身已經換行，<br /> 再補一個空行，每組欄位之間就多一條空白。
+     手機一律關掉；桌機的 <br /> 仍是唯一的分行來源，不能動。 */
+  .cv-item__meta br { display: none; }
+  /* 手機不 justify (2026-07-29)：這裡每個欄位是自己的窄區塊，內容又幾乎全是不可斷開的
+     長串（2026/07/18、CHANG, Wen-hao、HyperWave Space），一拉伸就整行字距爆開成
+     「座 談 ： 2026/07/18」。窄欄位齊左才乾淨；桌機行夠長，justify 看不出破綻。 */
+  .cv-item__meta { text-align: start; text-justify: auto; }
 }
-/* 懸掛縮排 (2026-07-29)：桌機一行放得下兩三個欄位（場地｜日期、座談｜與談人），
-   視窗一窄就折行，折下來的後半段會貼回最左邊，看起來像新的一欄——站主回報的
-   「文字沒有對齊」。負 text-indent + 等量 padding-left 讓首行齊左、續行內縮，
-   一眼就看得出那是上一行的延續。只在 >=601px 生效：600px 以下 .cv-field 已是
-   display:block 各自成行，續行縮排反而會讓「展出作品：」這種非 cv-field 的
-   純文字尾段（不吃 text-indent）比其他欄位多縮一格。 */
-@media (min-width: 601px) {
-  .cv-item__meta { padding-left: 1.6em; text-indent: -1.6em; }
-}
+/* 標題與內文的「墨水點」對齊：《〈「（ 這類開頭標點的字身偏右，整格佔滿但左半是空的，
+   《觀和作用》的「《」看起來就比下一行的「場」凸出半格。hanging-punctuation: first
+   讓行首標點吊掛到版心外，實際墨水才對得齊。Safari／iOS 支援；Chromium 尚未支援，
+   不支援時就是退回現狀（標點不吊掛），不會壞版。 */
+.cv-item__title, .cv-item__meta { hanging-punctuation: first; }
 
 /* ---------------------------------------------------------------- gallery grid (works/exhibition detail) */
 /* Cards keep each image's native aspect ratio (no crop): height:auto instead of a
