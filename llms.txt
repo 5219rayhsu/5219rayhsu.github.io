@@ -37,6 +37,8 @@
 - [參展：《答案》基隆美術館個展 2025](https://5219rayhsu.github.io/okf/exhibitions/answer-keelung-2025/index.md): 基隆美術館個展結構化條目。
 - [參展：《心藥》個展 2025](https://5219rayhsu.github.io/okf/exhibitions/medicine-2025/index.md): 看守所藝術空間個展結構化條目。
 - [參展：東京 Place M 個展 2026](https://5219rayhsu.github.io/okf/exhibitions/seikai-tokyo-2026/index.md): 東京 Place M 個展結構化條目。
+- [參展：觀和作用聯展 2026](https://5219rayhsu.github.io/okf/exhibitions/observation-synthesis-taipei-2026/index.md): 超級浪空間聯展結構化條目。
+- [參展：亞熱帶訊號聯展 2026](https://5219rayhsu.github.io/okf/exhibitions/subtropical-signals-singapore-2026/index.md): 新加坡 DECK 聯展結構化條目。
 - [文字總覽 Texts index](https://5219rayhsu.github.io/okf/texts/index.md): 全部評論／自述文字清單。
 - [文字：默觀自我（姜麗華）](https://5219rayhsu.github.io/okf/texts/contemplating-the-self/index.md): 姜麗華評論文字結構化條目。
 - [文字：誰為生成之相負責（許哲睿）](https://5219rayhsu.github.io/okf/texts/who-answers-for-the-generated-image/index.md): 許哲睿自述文字結構化條目。
