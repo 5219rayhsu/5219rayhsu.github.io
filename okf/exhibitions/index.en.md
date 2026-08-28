@@ -10,16 +10,16 @@ translation_of: ./index.md
 translations:
   zh-Hant: ./index.zh-Hant.md
   ja: ./index.ja.md
-updated: '2026-07-25'
+updated: '2026-08-28'
 ---
 
 # Exhibitions
 
-HSU Che-jui's exhibition history: solo shows at Place M Tokyo, Keelung Museum of Art and beholdingcell, plus 15 group exhibitions and 15 NTU Photo Club shows, with venues, dates and featured works.
+HSU Che-jui's exhibition history: solo shows at Place M Tokyo, Keelung Museum of Art and beholdingcell, plus 17 group exhibitions and 15 NTU Photo Club shows, with venues, dates and featured works.
 
 ## Exhibition list
 
 - [Seikai — Place M Tokyo solo exhibition](./seikai-tokyo-2026/en.md) (2026/03/16–03/22)
 - [Answer — Keelung Museum of Art solo exhibition](./answer-keelung-2025/en.md) (2025/06/17–07/06)
 - [Medicine — 22nd Birthday Special Exhibition](./medicine-2025/en.md) (2025/10/01–10/04)
-- [Full exhibition timeline](./exhibition-timeline/en.md) (group and club exhibitions included, 33 entries, including the 115th National Art Exhibition, 2026/07/18–10/11)
+- [Full exhibition timeline](./exhibition-timeline/en.md) (group and club exhibitions included, 35 entries, including the 115th National Art Exhibition, 2026/07/18–10/11)

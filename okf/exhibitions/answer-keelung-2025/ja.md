@@ -41,7 +41,7 @@ subject_of:
   name: 2025-07-06 撤収日の IG 投稿
   url: https://www.instagram.com/p/DLw18MTSDRE/
 press_kit: https://drive.google.com/drive/folders/1xFriY8e1khb9yE85zExzdJ-pz2SbRkPt?usp=sharing
-updated: '2026-07-27'
+updated: '2026-08-28'
 ---
 
 # 答案 Answer — 基隆美術館 個展
@@ -52,6 +52,6 @@ updated: '2026-07-27'
 
 - 会期：2025-06-17 – 2025-07-06
 - 会場：基隆美術館（M02、M03）
-- キュレーター：姜麗華
+- キュレーター：姜麗華、対談者：姚瑞中
 - 出品作品：《答案 Answer》（4x5モノクロ大判フィルムによる等身大の写真・パフォーマンス作品46点、related_works を参照）、《考試国王 The King of Examination》（紙の冠をかぶり、胸に「100」と記したモノクロ全身像。「試験国王」の寓話を添える）、《乖宝宝 Good boy》（縦位置二連作とリビングのインスタレーション。4x5モノクロフィルム写真とパフォーマンス）、《立場 Stance》（八極拳のパフォーマンス映像、縦位置4K）、《瘟疫医生 Plague Doctor》（22枚のAI生成タロットカードと1092枚のInstagram写真日記）。注記：《考試国王》と《乖宝宝》は独立した作品名であり、《答案》シリーズの下位作品ではない。
 - 公式ページ：https://5219rayhsu.github.io/ja/exhibitions/answer-keelung-2025/

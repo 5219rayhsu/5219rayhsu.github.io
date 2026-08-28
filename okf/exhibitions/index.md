@@ -21,9 +21,9 @@ related_entities:
   - ./medicine-2025/index.md
   - ./exhibition-timeline/index.md
   artist: ../artist/index.md
-updated: '2026-07-25'
+updated: '2026-08-28'
 ---
 
 # Exhibitions index
 
-Category index for exhibition entities: three solo exhibitions and the full exhibition timeline (33 entries as of 2026-07-25).
+Category index for exhibition entities: three solo exhibitions and the full exhibition timeline (35 entries as of 2026-08-28).

@@ -41,7 +41,7 @@ subject_of:
   name: 20250706 撤展日 IG 貼文
   url: https://www.instagram.com/p/DLw18MTSDRE/
 press_kit: https://drive.google.com/drive/folders/1xFriY8e1khb9yE85zExzdJ-pz2SbRkPt?usp=sharing
-updated: '2026-07-27'
+updated: '2026-08-28'
 ---
 
 # 答案 Answer — 基隆美術館個展
@@ -52,6 +52,6 @@ updated: '2026-07-27'
 
 - 展期：2025-06-17 – 2025-07-06
 - 場地：基隆美術館（M02、M03）
-- 策展／與談：姜麗華
+- 策展／與談：姜麗華、姚瑞中（與談人）
 - 展出作品：《答案 Answer》（46 件 4×5 黑白大型底片攝影與行為藝術，見 related_works）、《考試國王 The King of Examination》（戴紙摺皇冠、胸前寫著「100」的黑白全身像，配文講述「考試國王」的寓言）、《乖寶寶 Good boy》（雙聯直幅作品與客廳裝置；4x5 黑白底片攝影與行為藝術）、《立場 Stance》（八極拳表演錄像）、《瘟疫醫生 Plague Doctor》（22 張 AI 生成塔羅牌與 1092 張 Instagram 影像日記）。注意：《考試國王》與《乖寶寶》為獨立作品名，非《答案》系列的子作品。
 - 官網：https://5219rayhsu.github.io/exhibitions/answer-keelung-2025/

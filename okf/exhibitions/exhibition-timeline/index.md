@@ -63,9 +63,9 @@ external_sources:
 - exhibition: "法雅客第19屆城市24小時攝影馬拉松"
   urls:
   - https://www.fayaque.com.tw/photography/2023/2023-taipei-8
-updated: '2026-07-27'
+updated: '2026-08-28'
 ---
 
 # Exhibition timeline
 
-Shared knowledge entity summarizing the artist's full exhibition history (33 entries: 3 solo exhibitions, 15 group exhibitions, 15 NTU Photo Club shows). The exhibitions list page on the official website (`resources` above) embeds this as structured (JSON-LD) data; this OKF entry provides a human/agent-readable summary per language.
+Shared knowledge entity summarizing the artist's full exhibition history (35 entries: 3 solo exhibitions, 17 group exhibitions, 15 NTU Photo Club shows). The exhibitions list page on the official website (`resources` above) embeds this as structured (JSON-LD) data; this OKF entry provides a human/agent-readable summary per language.
