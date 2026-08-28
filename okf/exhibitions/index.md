@@ -19,6 +19,8 @@ related_entities:
   - ./seikai-tokyo-2026/index.md
   - ./answer-keelung-2025/index.md
   - ./medicine-2025/index.md
+  - ./observation-synthesis-taipei-2026/index.md
+  - ./subtropical-signals-singapore-2026/index.md
   - ./exhibition-timeline/index.md
   artist: ../artist/index.md
 updated: '2026-08-28'
@@ -26,4 +28,4 @@ updated: '2026-08-28'
 
 # Exhibitions index
 
-Category index for exhibition entities: three solo exhibitions and the full exhibition timeline (35 entries as of 2026-08-28).
+Category index for exhibition entities: three solo exhibitions, two group exhibitions with full curator/venue detail (Observation Synthesis, Subtropical Signals), and the full exhibition timeline (35 entries as of 2026-08-28).

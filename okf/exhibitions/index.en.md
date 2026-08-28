@@ -22,4 +22,6 @@ HSU Che-jui's exhibition history: solo shows at Place M Tokyo, Keelung Museum of
 - [Seikai — Place M Tokyo solo exhibition](./seikai-tokyo-2026/en.md) (2026/03/16–03/22)
 - [Answer — Keelung Museum of Art solo exhibition](./answer-keelung-2025/en.md) (2025/06/17–07/06)
 - [Medicine — 22nd Birthday Special Exhibition](./medicine-2025/en.md) (2025/10/01–10/04)
+- [Observation Synthesis — HyperWave Space group exhibition](./observation-synthesis-taipei-2026/en.md) (2026/07/08–07/25)
+- [Subtropical Signals: Contemporary Image-Making from Taiwan — DECK, Singapore group exhibition](./subtropical-signals-singapore-2026/en.md) (2026/06/19–07/26)
 - [Full exhibition timeline](./exhibition-timeline/en.md) (group and club exhibitions included, 35 entries, including the 115th National Art Exhibition, 2026/07/18–10/11)

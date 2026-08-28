@@ -22,4 +22,6 @@ updated: '2026-08-28'
 - [正解：台湾受験戦争の真剣勝負 — Place M 東京 個展](./seikai-tokyo-2026/ja.md)（2026/03/16–03/22）
 - [答案 Answer — 基隆美術館 個展](./answer-keelung-2025/ja.md)（2025/06/17–07/06）
 - [心薬 Medicine — 許哲睿22歳バースデー特別展](./medicine-2025/ja.md)（2025/10/01–10/04）
+- [観和作用（Observation Synthesis）— グループ展](./observation-synthesis-taipei-2026/ja.md)（2026/07/08–07/25）
+- [亜熱帯訊号：台湾当代影像生産（Subtropical Signals）— DECK, シンガポール グループ展](./subtropical-signals-singapore-2026/ja.md)（2026/06/19–07/26）
 - [展覧会年表全体](./exhibition-timeline/ja.md)（グループ展・部活展を含む全35件、第16回 全国美術展〔2026/07/18–10/11〕を含む）
