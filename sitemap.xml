@@ -1,147 +1,2595 @@
 <?xml version='1.0' encoding='utf-8'?>
-<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+<urlset xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
     <loc>https://5219rayhsu.github.io/about/</loc>
     <lastmod>2026-07-27</lastmod>
+    <image:image>
+      <image:loc>https://5219rayhsu.github.io/assets/img/about/01.jpg</image:loc>
+      <image:caption>左起：張國治、莊靈、許哲睿、楊鎮豪，合影於台大攝影社暗房。</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://5219rayhsu.github.io/assets/img/qr-site.svg</image:loc>
+      <image:caption>許哲睿個人網站 QR 圖碼</image:caption>
+    </image:image>
   </url>
   <url>
     <loc>https://5219rayhsu.github.io/en/about/</loc>
     <lastmod>2026-07-27</lastmod>
+    <image:image>
+      <image:loc>https://5219rayhsu.github.io/assets/img/about/01.jpg</image:loc>
+      <image:caption>From left: CHANG Kuo-chih, CHUANG Ling, HSU Che-jui and YANG Chen-hao, in the NTU Photo Club darkroom.</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://5219rayhsu.github.io/assets/img/qr-site.svg</image:loc>
+      <image:caption>QR code for HSU Che-jui’s website</image:caption>
+    </image:image>
   </url>
   <url>
     <loc>https://5219rayhsu.github.io/en/exhibitions/answer-keelung-2025/</loc>
-    <lastmod>2026-07-27</lastmod>
+    <lastmod>2026-08-28</lastmod>
+    <image:image>
+      <image:loc>https://5219rayhsu.github.io/assets/img/exhibitions/answer-keelung-2025/01.jpg</image:loc>
+      <image:caption>Gallery M02: Answer (2024)</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://5219rayhsu.github.io/assets/img/exhibitions/answer-keelung-2025/02.jpg</image:loc>
+      <image:caption>Gallery M03: Answer (2025), the Plague Doctor diary and tarot cards, and the Stance Bajiquan performance video</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://5219rayhsu.github.io/assets/img/exhibitions/answer-keelung-2025/03.jpg</image:loc>
+      <image:caption>Stairwell at the entrance of Gallery M02: Portrait of the Examination King</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://5219rayhsu.github.io/assets/img/exhibitions/answer-keelung-2025/04.jpg</image:loc>
+      <image:caption>Gallery M02: Answer (2025), on the White Terror question from the 2024 History Subject Test</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://5219rayhsu.github.io/assets/img/exhibitions/answer-keelung-2025/05.jpg</image:loc>
+      <image:caption>Exhibition key visual, conceived around Zhuyin Fuhao and the ruled-line vocabulary notebook</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://5219rayhsu.github.io/assets/img/exhibitions/answer-keelung-2025/06.jpg</image:loc>
+      <image:caption>Gallery M02: Answer (2024)</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://5219rayhsu.github.io/assets/img/exhibitions/answer-keelung-2025/07.jpg</image:loc>
+      <image:caption>Gallery M02: Answer (2024)</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://5219rayhsu.github.io/assets/img/exhibitions/answer-keelung-2025/08.jpg</image:loc>
+      <image:caption>Stairwell at the entrance of Gallery M03: Portrait of the Plague Doctor</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://5219rayhsu.github.io/assets/img/exhibitions/answer-keelung-2025/09.jpg</image:loc>
+      <image:caption>Gallery M03: AI-generated tarot cards from Plague Doctor</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://5219rayhsu.github.io/assets/img/exhibitions/answer-keelung-2025/10.jpg</image:loc>
+      <image:caption>HSU Che-jui during installation</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://5219rayhsu.github.io/assets/img/exhibitions/answer-keelung-2025/11.jpg</image:loc>
+      <image:caption>Gallery M03: the Instagram photo-diary from Plague Doctor</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://5219rayhsu.github.io/assets/img/exhibitions/answer-keelung-2025/12.jpg</image:loc>
+      <image:caption>Gallery M03: guestbook made from exam composition paper</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://5219rayhsu.github.io/assets/img/exhibitions/answer-keelung-2025/13.jpg</image:loc>
+      <image:caption>Gallery M03: Stance and Good Boy</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://5219rayhsu.github.io/assets/img/exhibitions/answer-keelung-2025/14.jpg</image:loc>
+      <image:caption>Gallery M03: Answer (2025)</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://5219rayhsu.github.io/assets/img/exhibitions/answer-keelung-2025/15-2400.jpg</image:loc>
+      <image:caption>Opening talk, front row from left: Professor CHANG Kuo-chih, curator Professor CHIANG Li-hua, Director CHIANG Ting-mei of the Keelung City Cultural Affairs Bureau, the artist HSU Che-jui, and Chairman HSU Shun-chung.</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://5219rayhsu.github.io/assets/img/exhibitions/answer-keelung-2025/16-2400.jpg</image:loc>
+      <image:caption>Panel talk with Professor CHIANG Li-hua, Professor YAO Jui-chung and HSU Che-jui</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://5219rayhsu.github.io/assets/img/exhibitions/answer-keelung-2025/17.jpg</image:loc>
+      <image:caption>The King of Examination: full-body black-and-white photograph, a paper crown on his head and '100' written across his chest, paired with a fable about an examination king.</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://5219rayhsu.github.io/assets/img/exhibitions/answer-keelung-2025/22.jpg</image:loc>
+      <image:caption>Good boy vertical diptych: holding an exam sheet with '100' on the chest, then nude from behind with '0' drawn on the back while saluting, shot by a guardrail in the brush.</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://5219rayhsu.github.io/assets/img/exhibitions/answer-keelung-2025/18.jpg</image:loc>
+      <image:caption>Answer diptych: a multiple-choice question about the national anthem on the front, the lyrics of the 'Premier's Address' on the back.</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://5219rayhsu.github.io/assets/img/exhibitions/answer-keelung-2025/19.jpg</image:loc>
+      <image:caption>Answer diptych: front and back covered in a Civics Subject Test question on views of punishment, the sitter's expression startled.</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://5219rayhsu.github.io/assets/img/exhibitions/answer-keelung-2025/20.jpg</image:loc>
+      <image:caption>Answer diptych: hands forming TSMC's stock ticker number, front and back covered in questions about bias against humanities students.</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://5219rayhsu.github.io/assets/img/exhibitions/answer-keelung-2025/21.jpg</image:loc>
+      <image:caption>Answer diptych: a White Terror question from the History Subject Test on the front, a Formosa Incident question on the back.</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://5219rayhsu.github.io/assets/img/exhibitions/answer-keelung-2025/23.jpg</image:loc>
+      <image:caption>Portrait of the Plague Doctor, close-up: lips pursed into a beak-like shape, wearing prayer beads and a chain necklace.</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://5219rayhsu.github.io/assets/img/exhibitions/answer-keelung-2025/26.jpg</image:loc>
+      <image:caption>Good boy installation: the artist lying nude on a sofa in his family living room, surrounded by certificates and trophies, holding a cleaver, with '1995' — Taiwan's suicide-prevention hotline — written on his body.</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://5219rayhsu.github.io/assets/img/exhibitions/answer-keelung-2025/24.jpg</image:loc>
+      <image:caption>Detail of the Plague Doctor Diary installation: a large wall piece collaged from social-media screenshots, with a portrait collage and handwritten text beside it.</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://5219rayhsu.github.io/assets/img/exhibitions/answer-keelung-2025/25.jpg</image:loc>
+      <image:caption>Detail of the Plague Doctor Tarot installation: 12 AI-generated tarot-card prints blending the plague doctor's beaked mask with pandemic-era imagery.</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://5219rayhsu.github.io/assets/img/exhibitions/answer-keelung-2025/36.jpg</image:loc>
+      <image:caption>HSU Che-jui's Keelung Museum of Art solo exhibition poster, 1</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://5219rayhsu.github.io/assets/img/exhibitions/answer-keelung-2025/37.jpg</image:loc>
+      <image:caption>HSU Che-jui's Keelung Museum of Art solo exhibition poster, 2</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://5219rayhsu.github.io/assets/img/exhibitions/answer-keelung-2025/38.jpg</image:loc>
+      <image:caption>HSU Che-jui's Keelung Museum of Art solo exhibition poster, 3</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://5219rayhsu.github.io/assets/img/exhibitions/answer-keelung-2025/32.jpg</image:loc>
+      <image:caption>(far left) Vice President ZHONG, Da-fang 鍾大方</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://5219rayhsu.github.io/assets/img/exhibitions/answer-keelung-2025/27.jpg</image:loc>
+      <image:caption>Head of Maintenance ZHU, Jia-le 朱家樂</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://5219rayhsu.github.io/assets/img/exhibitions/answer-keelung-2025/28.jpg</image:loc>
+      <image:caption>Head of Darkroom LIANG, Hao-jun 梁皓俊</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://5219rayhsu.github.io/assets/img/exhibitions/answer-keelung-2025/29.jpg</image:loc>
+      <image:caption>Maintenance Dept. member WU, Sheng-hao 吳昇澔</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://5219rayhsu.github.io/assets/img/exhibitions/answer-keelung-2025/30.jpg</image:loc>
+      <image:caption>TNUA Curatorial Studies Club CAI, Rui-yu 蔡睿宇</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://5219rayhsu.github.io/assets/img/exhibitions/answer-keelung-2025/31.jpg</image:loc>
+      <image:caption>Artist HSU, Che-jui 許哲睿</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://5219rayhsu.github.io/assets/img/exhibitions/answer-keelung-2025/33.jpg</image:loc>
+      <image:caption>10 hours of installation work</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://5219rayhsu.github.io/assets/img/exhibitions/answer-keelung-2025/34-2400.jpg</image:loc>
+      <image:caption>Installation day, June 16, 2025: the installation team gathered in the gallery.</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://5219rayhsu.github.io/assets/img/exhibitions/answer-keelung-2025/35.jpg</image:loc>
+      <image:caption>De-installation day, July 6, 2025: the de-installation team gathered in the gallery.</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://5219rayhsu.github.io/assets/img/qr-site.svg</image:loc>
+      <image:caption>QR code for HSU Che-jui’s website</image:caption>
+    </image:image>
   </url>
   <url>
     <loc>https://5219rayhsu.github.io/en/exhibitions/</loc>
-    <lastmod>2026-07-29</lastmod>
+    <lastmod>2026-08-28</lastmod>
+    <image:image>
+      <image:loc>https://5219rayhsu.github.io/assets/img/exhibitions/island-compound-eyes-lodz-2026/01.jpg</image:loc>
+      <image:caption>Island Compound Eyes, Łódź: Taiwanese artists’ books on wooden tables, the Chaos Body Shop sutra-fold at centre, at Art_Inkubator.</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://5219rayhsu.github.io/assets/img/exhibitions/island-compound-eyes-lodz-2026/03.jpg</image:loc>
+      <image:caption>Island Compound Eyes, Łódź: visitors gathered around a table leafing through artists’ books, including the Chaos Body Shop sutra-fold.</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://5219rayhsu.github.io/assets/img/exhibitions/island-compound-eyes-lodz-2026/02.jpg</image:loc>
+      <image:caption>Island Compound Eyes, Łódź: visitors browsing Taiwanese artists’ books around wooden tables in a historic, chandelier-lit room.</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://5219rayhsu.github.io/assets/img/exhibitions/subtropical-signals-singapore-2026/01.jpg</image:loc>
+      <image:caption>Subtropical Signals, Shop–House by DECK, Singapore: the title wall and curatorial text, with the Chaos Body Shop sutra-fold displayed on trestles in front.</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://5219rayhsu.github.io/assets/img/exhibitions/subtropical-signals-singapore-2026/02.jpg</image:loc>
+      <image:caption>Subtropical Signals, Singapore: detail of the Chaos Body Shop wooden book label and the artist-statement clipboard beside the sutra-fold.</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://5219rayhsu.github.io/assets/img/exhibitions/subtropical-signals-singapore-2026/03.jpg</image:loc>
+      <image:caption>Subtropical Signals, Singapore: the Chaos Body Shop sutra-fold fully extended — hand-copied Bopomofo-rearranged Diamond Sutra above a grid of AI ID photos.</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://5219rayhsu.github.io/assets/img/exhibitions/subtropical-signals-singapore-2026/04.jpg</image:loc>
+      <image:caption>Subtropical Signals, Singapore: full front view of the Chaos Body Shop sutra-fold, dense handwritten sutra and rows of AI ID photos, with photographic collages at the right.</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://5219rayhsu.github.io/assets/img/qr-site.svg</image:loc>
+      <image:caption>QR code for HSU Che-jui’s website</image:caption>
+    </image:image>
   </url>
   <url>
     <loc>https://5219rayhsu.github.io/en/exhibitions/seikai-tokyo-2026/</loc>
-    <lastmod>2026-07-27</lastmod>
+    <lastmod>2026-08-28</lastmod>
+    <image:image>
+      <image:loc>https://5219rayhsu.github.io/assets/img/exhibitions/seikai-tokyo-2026/01-2400.jpg</image:loc>
+      <image:caption>Exhibition flyer for 正解：台湾受験戦争の真剣勝負: artist portrait and Japanese title at left; Place M Tokyo venue photo, dates, map and contact details at right.</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://5219rayhsu.github.io/assets/img/exhibitions/seikai-tokyo-2026/02.jpg</image:loc>
+      <image:caption>Installation view at Place M: black-and-white portraits displayed side by side, with a signing table and stools at center.</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://5219rayhsu.github.io/assets/img/exhibitions/seikai-tokyo-2026/03-2400.jpg</image:loc>
+      <image:caption>Installation view of the gallery corridor: prints from the Answer series line both walls, with white orchids at the far end.</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://5219rayhsu.github.io/assets/img/exhibitions/seikai-tokyo-2026/04-2400.jpg</image:loc>
+      <image:caption>Installation view of a gallery corner: large portrait prints alongside smaller landscape photographs.</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://5219rayhsu.github.io/assets/img/exhibitions/seikai-tokyo-2026/05-2400.jpg</image:loc>
+      <image:caption>Close-up of a gallery wall: a large black-and-white self-portrait in the style of the Portrait of the Plague Doctor.</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://5219rayhsu.github.io/assets/img/exhibitions/seikai-tokyo-2026/06-2400.jpg</image:loc>
+      <image:caption>Gallery director Masato Seto reads the exhibition statement and guestbook beside a large print of the artist holding his exam results above his head at a university entrance.</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://5219rayhsu.github.io/assets/img/exhibitions/seikai-tokyo-2026/07-2400.jpg</image:loc>
+      <image:caption>A guestbook page handwritten in brush calligraphy: HSU Che-jui, Masato Seto, NTU Photo Club, YANG Chen-hao, dated 2026.3.16.</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://5219rayhsu.github.io/assets/img/exhibitions/seikai-tokyo-2026/08.jpg</image:loc>
+      <image:caption>Installation view: six large black-and-white portraits from the Answer series in a row, with three wooden stools in front.</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://5219rayhsu.github.io/assets/img/exhibitions/seikai-tokyo-2026/09.jpg</image:loc>
+      <image:caption>Installation view near the entrance: two large portraits with examination questions written on the body, mounted side by side.</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://5219rayhsu.github.io/assets/img/exhibitions/seikai-tokyo-2026/10-2400.jpg</image:loc>
+      <image:caption>Opening-day group photo: the artist with five friends and mentors posing at Place M.</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://5219rayhsu.github.io/assets/img/qr-site.svg</image:loc>
+      <image:caption>QR code for HSU Che-jui’s website</image:caption>
+    </image:image>
   </url>
   <url>
     <loc>https://5219rayhsu.github.io/en/</loc>
-    <lastmod>2026-07-27</lastmod>
+    <lastmod>2026-08-28</lastmod>
+    <image:image>
+      <image:loc>https://5219rayhsu.github.io/assets/img/home/01.jpg</image:loc>
+      <image:caption>HSU Che-jui in a Momotaro-inspired self-portrait: wearing a headband and a gold-brocade surcoat, holding a three-dumpling skewer, flanked by a pheasant, a Shiba dog and a macaque.</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://5219rayhsu.github.io/assets/img/chaos-body-shop/when-i-grow-up-2400.jpg</image:loc>
+      <image:caption>When I Grow Up: a black-and-white 4×5 self-portrait at the centre — the bare-chested artist in glasses holds a tape measure in one hand to measure his own height (177.7 cm), while the other hand grips a roadside guardrail's stone post, its top trailing a length of broken wire — ringed by 177 AI-generated ID photos corresponding to the whole-number portion (deities, celebrities and anime characters from around the world), one of which is his real passport photograph with a corner cut off, representing the 0.7 cm remainder — set against dense, tangled tree branches.</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://5219rayhsu.github.io/assets/img/answer/01-2400.jpg</image:loc>
+      <image:caption>Answer, “The King of Examination”: a black-and-white portrait wearing a folded-paper hat with “100” inked on the chest.</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://5219rayhsu.github.io/assets/img/medicine/01-2400.jpg</image:loc>
+      <image:caption>Medicine: an expressive black-and-white portrait holding prayer beads and chains.</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://5219rayhsu.github.io/assets/img/qr-site.svg</image:loc>
+      <image:caption>QR code for HSU Che-jui’s website</image:caption>
+    </image:image>
   </url>
   <url>
     <loc>https://5219rayhsu.github.io/en/texts/contemplating-the-self/</loc>
     <lastmod>2026-07-27</lastmod>
+    <image:image>
+      <image:loc>https://5219rayhsu.github.io/assets/img/texts/contemplating-the-self/01.jpg</image:loc>
+      <image:caption>From left: HSU, Che-jui; LU, Hsiao-yu; CHIANG, Li-hua; YANG, Chen-hao. Photographed at Zhongzheng Park, Keelung, on 2024/01/15.</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://5219rayhsu.github.io/assets/img/qr-site.svg</image:loc>
+      <image:caption>QR code for HSU Che-jui’s website</image:caption>
+    </image:image>
   </url>
   <url>
     <loc>https://5219rayhsu.github.io/en/texts/critique/</loc>
     <lastmod>2026-07-28</lastmod>
+    <image:image>
+      <image:loc>https://5219rayhsu.github.io/assets/img/qr-site.svg</image:loc>
+      <image:caption>QR code for HSU Che-jui’s website</image:caption>
+    </image:image>
   </url>
   <url>
     <loc>https://5219rayhsu.github.io/en/texts/</loc>
     <lastmod>2026-07-27</lastmod>
+    <image:image>
+      <image:loc>https://5219rayhsu.github.io/assets/img/qr-site.svg</image:loc>
+      <image:caption>QR code for HSU Che-jui’s website</image:caption>
+    </image:image>
   </url>
   <url>
     <loc>https://5219rayhsu.github.io/en/works/answer/</loc>
-    <lastmod>2026-07-27</lastmod>
+    <lastmod>2026-08-06</lastmod>
+    <image:image>
+      <image:loc>https://5219rayhsu.github.io/assets/img/answer/01-2400.jpg</image:loc>
+      <image:caption>Answer, &amp;quot;The King of Examination&amp;quot;: a black-and-white portrait wearing a folded-paper hat with &amp;quot;100&amp;quot; inked on the chest.</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://5219rayhsu.github.io/assets/img/answer/02-2400.jpg</image:loc>
+      <image:caption>Answer series: black-and-white portrait, front torso hand-lettered with a National Defense (2029) exam question, a paper scroll gagging the mouth, hands crossed before the face.</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://5219rayhsu.github.io/assets/img/answer/03-2400.jpg</image:loc>
+      <image:caption>Answer series: black-and-white portrait, back torso hand-lettered with the National Defense (2029) exam answer, hands clasped behind the neck or back.</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://5219rayhsu.github.io/assets/img/answer/04-2400.jpg</image:loc>
+      <image:caption>Answer series: black-and-white portrait, front torso hand-lettered with a Mandarin (2022, 2023 and 2024) exam question, a paper scroll gagging the mouth, hands crossed before the face.</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://5219rayhsu.github.io/assets/img/answer/05-2400.jpg</image:loc>
+      <image:caption>Answer series: black-and-white portrait, back torso hand-lettered with the Mandarin (2022, 2023 and 2024) exam answer, hands clasped behind the neck or back.</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://5219rayhsu.github.io/assets/img/answer/06-2400.jpg</image:loc>
+      <image:caption>Answer series: black-and-white portrait, front torso hand-lettered with a Mathematics (2022) exam question, a paper scroll gagging the mouth, hands crossed before the face.</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://5219rayhsu.github.io/assets/img/answer/07-2400.jpg</image:loc>
+      <image:caption>Answer series: black-and-white portrait, back torso hand-lettered with the Mathematics (2022) exam answer, hands clasped behind the neck or back.</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://5219rayhsu.github.io/assets/img/answer/08-2400.jpg</image:loc>
+      <image:caption>Answer series: black-and-white portrait, front torso hand-lettered with an English (2022, 2023 and 2024) exam question, a paper scroll gagging the mouth, hands crossed before the face.</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://5219rayhsu.github.io/assets/img/answer/09-2400.jpg</image:loc>
+      <image:caption>Answer series: black-and-white portrait, back torso hand-lettered with the English (2022, 2023 and 2024) exam answer, hands clasped behind the neck or back.</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://5219rayhsu.github.io/assets/img/answer/10-2400.jpg</image:loc>
+      <image:caption>Answer series: black-and-white portrait, front torso hand-lettered with a History (2024) exam question, a paper scroll gagging the mouth, hands crossed before the face.</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://5219rayhsu.github.io/assets/img/answer/11-2400.jpg</image:loc>
+      <image:caption>Answer series: black-and-white portrait, back torso hand-lettered with the History (2024) exam answer, hands clasped behind the neck or back.</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://5219rayhsu.github.io/assets/img/answer/12-2400.jpg</image:loc>
+      <image:caption>Answer series: black-and-white portrait, front torso hand-lettered with a Geography (2023) exam question, a paper scroll gagging the mouth, hands crossed before the face.</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://5219rayhsu.github.io/assets/img/answer/13-2400.jpg</image:loc>
+      <image:caption>Answer series: black-and-white portrait, back torso hand-lettered with the Geography (2023) exam answer, hands clasped behind the neck or back.</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://5219rayhsu.github.io/assets/img/answer/14-2400.jpg</image:loc>
+      <image:caption>Answer series: black-and-white portrait, front torso hand-lettered with a Civics and Society (2029) exam question, a paper scroll gagging the mouth, hands crossed before the face.</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://5219rayhsu.github.io/assets/img/answer/15-2400.jpg</image:loc>
+      <image:caption>Answer series: black-and-white portrait, back torso hand-lettered with the Civics and Society (2029) exam answer, hands clasped behind the neck or back.</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://5219rayhsu.github.io/assets/img/answer/16-2400.jpg</image:loc>
+      <image:caption>Answer series: black-and-white portrait, front torso hand-lettered with a Physics (2024) exam question, a paper scroll gagging the mouth, hands crossed before the face.</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://5219rayhsu.github.io/assets/img/answer/17-2400.jpg</image:loc>
+      <image:caption>Answer series: black-and-white portrait, back torso hand-lettered with the Physics (2024) exam answer, hands clasped behind the neck or back.</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://5219rayhsu.github.io/assets/img/answer/18-2400.jpg</image:loc>
+      <image:caption>Answer series: black-and-white portrait, front torso hand-lettered with a Chemistry (2023) exam question, a paper scroll gagging the mouth, hands crossed before the face.</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://5219rayhsu.github.io/assets/img/answer/19-2400.jpg</image:loc>
+      <image:caption>Answer series: black-and-white portrait, back torso hand-lettered with the Chemistry (2023) exam answer, hands clasped behind the neck or back.</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://5219rayhsu.github.io/assets/img/answer/20-2400.jpg</image:loc>
+      <image:caption>Answer series: black-and-white portrait, front torso hand-lettered with a Biology (2022) exam question, a paper scroll gagging the mouth, hands crossed before the face.</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://5219rayhsu.github.io/assets/img/answer/21-2400.jpg</image:loc>
+      <image:caption>Answer series: black-and-white portrait, back torso hand-lettered with the Biology (2022) exam answer, hands clasped behind the neck or back.</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://5219rayhsu.github.io/assets/img/answer/22-2400.jpg</image:loc>
+      <image:caption>Answer series: black-and-white portrait, front torso hand-lettered with an Earth Sciences (2024) exam question, a paper scroll gagging the mouth, hands crossed before the face.</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://5219rayhsu.github.io/assets/img/answer/23-2400.jpg</image:loc>
+      <image:caption>Answer series: black-and-white portrait, back torso hand-lettered with the Earth Sciences (2024) exam answer, hands clasped behind the neck or back.</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://5219rayhsu.github.io/assets/img/answer/24-2400.jpg</image:loc>
+      <image:caption>Answer series: black-and-white portrait, front torso hand-lettered with a Composition (2019) exam question, a paper scroll gagging the mouth, hands crossed before the face.</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://5219rayhsu.github.io/assets/img/answer/25-2400.jpg</image:loc>
+      <image:caption>Answer series: black-and-white portrait, back torso hand-lettered with the Composition (2019) exam answer, hands clasped behind the neck or back.</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://5219rayhsu.github.io/assets/img/qr-site.svg</image:loc>
+      <image:caption>QR code for HSU Che-jui’s website</image:caption>
+    </image:image>
   </url>
   <url>
     <loc>https://5219rayhsu.github.io/en/works/chaos-body-shop/</loc>
-    <lastmod>2026-07-27</lastmod>
+    <lastmod>2026-08-28</lastmod>
+    <image:image>
+      <image:loc>https://5219rayhsu.github.io/assets/img/chaos-body-shop/hero.jpg</image:loc>
+      <image:caption>Chaos Body Shop, Photographic Collage series: a black-and-white collage juxtaposing statues and objects.</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://5219rayhsu.github.io/assets/img/chaos-body-shop/video-poster.jpg</image:loc>
+      <image:caption>Video documentation of Chaos Body Shop</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://5219rayhsu.github.io/assets/img/chaos-body-shop/collage-love-2400.jpg</image:loc>
+      <image:caption>Love as Battlefield — Yue Lao statue and a soldier statue.</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://5219rayhsu.github.io/assets/img/chaos-body-shop/collage-education-2400.jpg</image:loc>
+      <image:caption>Education ≠ Wage Slave — Confucius statue and a horse sculpture at 228 Peace Memorial Park.</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://5219rayhsu.github.io/assets/img/chaos-body-shop/collage-bodhisattva-2400.jpg</image:loc>
+      <image:caption>Does the Bodhisattva Suffer Aesthetic Anxiety? — Maitreya Buddha statue and a clothing-store mannequin.</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://5219rayhsu.github.io/assets/img/chaos-body-shop/collage-authority-2400.jpg</image:loc>
+      <image:caption>Authority Wrapped as Love — Chiang Kai-shek seated statue and the Paternal Love sculpture at Taipei Main Station.</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://5219rayhsu.github.io/assets/img/chaos-body-shop/collage-taiwan-2400.jpg</image:loc>
+      <image:caption>Taiwan Out of Step with Itself — Sun Yat-sen seated statue, head and feet.</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://5219rayhsu.github.io/assets/img/chaos-body-shop/id-01.jpg</image:loc>
+      <image:caption>Work page: hand-copied Diamond Sutra in Bopomofo beside rows of AI-generated ID photos and deity images.</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://5219rayhsu.github.io/assets/img/chaos-body-shop/id-02.jpg</image:loc>
+      <image:caption>Work page: sutra text beside densely arranged AI-generated portraits.</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://5219rayhsu.github.io/assets/img/chaos-body-shop/id-03.jpg</image:loc>
+      <image:caption>Work page: Bopomofo-rearranged sutra and AI ID photos.</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://5219rayhsu.github.io/assets/img/chaos-body-shop/id-04.jpg</image:loc>
+      <image:caption>Work page: hand-copied sutra with AI-generated religious and folk figures.</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://5219rayhsu.github.io/assets/img/chaos-body-shop/id-05.jpg</image:loc>
+      <image:caption>Work page: sutra text with AI ID photos of film, game and anime characters.</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://5219rayhsu.github.io/assets/img/chaos-body-shop/id-06.jpg</image:loc>
+      <image:caption>Work page: rows of AI-generated portraits mixing diverse characters.</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://5219rayhsu.github.io/assets/img/chaos-body-shop/id-07.jpg</image:loc>
+      <image:caption>Work page: sutra text with AI-generated portraits, closing on political leaders.</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://5219rayhsu.github.io/assets/img/chaos-body-shop/grid-01-2400.jpg</image:loc>
+      <image:caption>A contact sheet of AI-generated ID photos, densely arranged.</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://5219rayhsu.github.io/assets/img/chaos-body-shop/grid-02.jpg</image:loc>
+      <image:caption>A vertical sequence of AI-generated ID photos, shifting from deities to contemporary characters.</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://5219rayhsu.github.io/assets/img/chaos-body-shop/work-01-2400.jpg</image:loc>
+      <image:caption>Work: When I Grow Up — a black-and-white 4×5 self-portrait at the centre: the bare-chested artist in glasses holds a tape measure in one hand to measure his own height (177.7 cm), while the other hand grips a roadside guardrail's stone post, its top trailing a length of broken wire — ringed by 177 AI-generated ID photos corresponding to the whole-number portion (deities, celebrities and anime characters from around the world), one of which is his real passport photograph with a corner cut off, representing the 0.7 cm remainder — set against dense, tangled tree branches.</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://5219rayhsu.github.io/assets/img/chaos-body-shop/work-02-2400.jpg</image:loc>
+      <image:caption>Work: installation view of the exhibition.</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://5219rayhsu.github.io/assets/img/chaos-body-shop/work-04-2400.jpg</image:loc>
+      <image:caption>Work: a grid of AI-generated ID photos, deities and contemporary characters.</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://5219rayhsu.github.io/assets/img/chaos-body-shop/work-05-2400.jpg</image:loc>
+      <image:caption>Work: a grid of AI-generated ID photos, film, game and anime figures.</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://5219rayhsu.github.io/assets/img/chaos-body-shop/work-03-2400.jpg</image:loc>
+      <image:caption>Work: a grid of AI-generated ID photos, religious and political leaders.</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://5219rayhsu.github.io/assets/img/chaos-body-shop/work-09.jpg</image:loc>
+      <image:caption>Calligraphed title of Chaos Body Shop, white strokes on a dark ground, on a plinth.</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://5219rayhsu.github.io/assets/img/chaos-body-shop/work-08.jpg</image:loc>
+      <image:caption>The hand-copied Diamond Sutra in Bopomofo, an open sutra-fold spread.</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://5219rayhsu.github.io/assets/img/chaos-body-shop/work-06.jpg</image:loc>
+      <image:caption>The hand-copied Diamond Sutra in Bopomofo with its wooden box and yellow title label.</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://5219rayhsu.github.io/assets/img/qr-site.svg</image:loc>
+      <image:caption>QR code for HSU Che-jui’s website</image:caption>
+    </image:image>
   </url>
   <url>
     <loc>https://5219rayhsu.github.io/en/works/</loc>
-    <lastmod>2026-07-27</lastmod>
+    <lastmod>2026-08-28</lastmod>
+    <image:image>
+      <image:loc>https://5219rayhsu.github.io/assets/img/chaos-body-shop/when-i-grow-up-2400.jpg</image:loc>
+      <image:caption>When I Grow Up: a black-and-white 4×5 self-portrait at the centre — the bare-chested artist in glasses holds a tape measure in one hand to measure his own height (177.7 cm), while the other hand grips a roadside guardrail's stone post, its top trailing a length of broken wire — ringed by 177 AI-generated ID photos corresponding to the whole-number portion (deities, celebrities and anime characters from around the world), one of which is his real passport photograph with a corner cut off, representing the 0.7 cm remainder — set against dense, tangled tree branches.</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://5219rayhsu.github.io/assets/img/answer/01-2400.jpg</image:loc>
+      <image:caption>Answer, “The King of Examination”: a black-and-white portrait wearing a folded-paper hat with “100” inked on the chest.</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://5219rayhsu.github.io/assets/img/medicine/01-2400.jpg</image:loc>
+      <image:caption>Medicine: an expressive black-and-white portrait holding prayer beads and chains.</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://5219rayhsu.github.io/assets/img/qr-site.svg</image:loc>
+      <image:caption>QR code for HSU Che-jui’s website</image:caption>
+    </image:image>
   </url>
   <url>
     <loc>https://5219rayhsu.github.io/en/works/medicine/</loc>
-    <lastmod>2026-07-27</lastmod>
+    <lastmod>2026-08-06</lastmod>
+    <image:image>
+      <image:loc>https://5219rayhsu.github.io/assets/img/medicine/01-2400.jpg</image:loc>
+      <image:caption>Medicine: an expressive black-and-white portrait holding prayer beads and chains.</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://5219rayhsu.github.io/assets/img/medicine/02.jpg</image:loc>
+      <image:caption>Medicine tarot deck, Major Arcana 0, The Fool: AI-generated tarot illustration.</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://5219rayhsu.github.io/assets/img/medicine/03.jpg</image:loc>
+      <image:caption>Medicine tarot deck, Major Arcana I, The Magician: AI-generated tarot illustration.</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://5219rayhsu.github.io/assets/img/medicine/04.jpg</image:loc>
+      <image:caption>Medicine tarot deck, Major Arcana II, The High Priestess: AI-generated tarot illustration.</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://5219rayhsu.github.io/assets/img/medicine/05.jpg</image:loc>
+      <image:caption>Medicine tarot deck, Major Arcana III, The Empress: AI-generated tarot illustration.</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://5219rayhsu.github.io/assets/img/medicine/06.jpg</image:loc>
+      <image:caption>Medicine tarot deck, Major Arcana IV, The Emperor: AI-generated tarot illustration.</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://5219rayhsu.github.io/assets/img/medicine/07.jpg</image:loc>
+      <image:caption>Medicine tarot deck, Major Arcana V, The Hierophant: AI-generated tarot illustration.</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://5219rayhsu.github.io/assets/img/medicine/08.jpg</image:loc>
+      <image:caption>Medicine tarot deck, Major Arcana VI, The Lovers: AI-generated tarot illustration.</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://5219rayhsu.github.io/assets/img/medicine/09.jpg</image:loc>
+      <image:caption>Medicine tarot deck, Major Arcana VII, The Chariot: AI-generated tarot illustration.</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://5219rayhsu.github.io/assets/img/medicine/10.jpg</image:loc>
+      <image:caption>Medicine tarot deck, Major Arcana VIII, Strength: AI-generated tarot illustration.</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://5219rayhsu.github.io/assets/img/medicine/11.jpg</image:loc>
+      <image:caption>Medicine tarot deck, Major Arcana IX, The Hermit: AI-generated tarot illustration.</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://5219rayhsu.github.io/assets/img/medicine/12.jpg</image:loc>
+      <image:caption>Medicine tarot deck, Major Arcana X, Wheel of Fortune: AI-generated tarot illustration.</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://5219rayhsu.github.io/assets/img/medicine/13.jpg</image:loc>
+      <image:caption>Medicine tarot deck, Major Arcana XI, Justice: AI-generated tarot illustration.</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://5219rayhsu.github.io/assets/img/medicine/14.jpg</image:loc>
+      <image:caption>Medicine tarot deck, Major Arcana XII, The Hanged Man: AI-generated tarot illustration.</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://5219rayhsu.github.io/assets/img/medicine/15.jpg</image:loc>
+      <image:caption>Medicine tarot deck, Major Arcana XIII, Death: AI-generated tarot illustration.</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://5219rayhsu.github.io/assets/img/medicine/16.jpg</image:loc>
+      <image:caption>Medicine tarot deck, Major Arcana XIV, Temperance: AI-generated tarot illustration.</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://5219rayhsu.github.io/assets/img/medicine/17.jpg</image:loc>
+      <image:caption>Medicine tarot deck, Major Arcana XV, The Devil: AI-generated tarot illustration.</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://5219rayhsu.github.io/assets/img/medicine/18.jpg</image:loc>
+      <image:caption>Medicine tarot deck, Major Arcana XVI, The Tower: AI-generated tarot illustration.</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://5219rayhsu.github.io/assets/img/medicine/19.jpg</image:loc>
+      <image:caption>Medicine tarot deck, Major Arcana XVII, The Star: AI-generated tarot illustration.</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://5219rayhsu.github.io/assets/img/medicine/20.jpg</image:loc>
+      <image:caption>Medicine tarot deck, Major Arcana XVIII, The Moon: AI-generated tarot illustration.</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://5219rayhsu.github.io/assets/img/medicine/21.jpg</image:loc>
+      <image:caption>Medicine tarot deck, Major Arcana XIX, The Sun: AI-generated tarot illustration.</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://5219rayhsu.github.io/assets/img/medicine/22.jpg</image:loc>
+      <image:caption>Medicine tarot deck, Major Arcana XX, Judgement: AI-generated tarot illustration.</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://5219rayhsu.github.io/assets/img/medicine/23.jpg</image:loc>
+      <image:caption>Medicine tarot deck, Major Arcana XXI, The World: AI-generated tarot illustration.</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://5219rayhsu.github.io/assets/img/medicine/24.jpg</image:loc>
+      <image:caption>Medicine tarot deck, Minor Arcana, Ace of Wands: AI-generated tarot illustration.</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://5219rayhsu.github.io/assets/img/medicine/25.jpg</image:loc>
+      <image:caption>Medicine tarot deck, Minor Arcana, Two of Wands: AI-generated tarot illustration.</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://5219rayhsu.github.io/assets/img/medicine/26.jpg</image:loc>
+      <image:caption>Medicine tarot deck, Minor Arcana, Three of Wands: AI-generated tarot illustration.</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://5219rayhsu.github.io/assets/img/medicine/27.jpg</image:loc>
+      <image:caption>Medicine tarot deck, Minor Arcana, Four of Wands: AI-generated tarot illustration.</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://5219rayhsu.github.io/assets/img/medicine/28.jpg</image:loc>
+      <image:caption>Medicine tarot deck, Minor Arcana, Five of Wands: AI-generated tarot illustration.</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://5219rayhsu.github.io/assets/img/medicine/29.jpg</image:loc>
+      <image:caption>Medicine tarot deck, Minor Arcana, Six of Wands: AI-generated tarot illustration.</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://5219rayhsu.github.io/assets/img/medicine/30.jpg</image:loc>
+      <image:caption>Medicine tarot deck, Minor Arcana, Seven of Wands: AI-generated tarot illustration.</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://5219rayhsu.github.io/assets/img/medicine/31.jpg</image:loc>
+      <image:caption>Medicine tarot deck, Minor Arcana, Eight of Wands: AI-generated tarot illustration.</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://5219rayhsu.github.io/assets/img/medicine/32.jpg</image:loc>
+      <image:caption>Medicine tarot deck, Minor Arcana, Nine of Wands: AI-generated tarot illustration.</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://5219rayhsu.github.io/assets/img/medicine/33.jpg</image:loc>
+      <image:caption>Medicine tarot deck, Minor Arcana, Ten of Wands: AI-generated tarot illustration.</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://5219rayhsu.github.io/assets/img/medicine/34.jpg</image:loc>
+      <image:caption>Medicine tarot deck, Minor Arcana, Page of Wands: AI-generated tarot illustration.</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://5219rayhsu.github.io/assets/img/medicine/35.jpg</image:loc>
+      <image:caption>Medicine tarot deck, Minor Arcana, Knight of Wands: AI-generated tarot illustration.</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://5219rayhsu.github.io/assets/img/medicine/36.jpg</image:loc>
+      <image:caption>Medicine tarot deck, Minor Arcana, Queen of Wands: AI-generated tarot illustration.</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://5219rayhsu.github.io/assets/img/medicine/37.jpg</image:loc>
+      <image:caption>Medicine tarot deck, Minor Arcana, King of Wands: AI-generated tarot illustration.</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://5219rayhsu.github.io/assets/img/medicine/38.jpg</image:loc>
+      <image:caption>Medicine tarot deck, Minor Arcana, Ace of Swords: AI-generated tarot illustration.</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://5219rayhsu.github.io/assets/img/medicine/39.jpg</image:loc>
+      <image:caption>Medicine tarot deck, Minor Arcana, Two of Swords: AI-generated tarot illustration.</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://5219rayhsu.github.io/assets/img/medicine/40.jpg</image:loc>
+      <image:caption>Medicine tarot deck, Minor Arcana, Three of Swords: AI-generated tarot illustration.</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://5219rayhsu.github.io/assets/img/medicine/41.jpg</image:loc>
+      <image:caption>Medicine tarot deck, Minor Arcana, Four of Swords: AI-generated tarot illustration.</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://5219rayhsu.github.io/assets/img/medicine/42.jpg</image:loc>
+      <image:caption>Medicine tarot deck, Minor Arcana, Five of Swords: AI-generated tarot illustration.</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://5219rayhsu.github.io/assets/img/medicine/43.jpg</image:loc>
+      <image:caption>Medicine tarot deck, Minor Arcana, Six of Swords: AI-generated tarot illustration.</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://5219rayhsu.github.io/assets/img/medicine/44.jpg</image:loc>
+      <image:caption>Medicine tarot deck, Minor Arcana, Seven of Swords: AI-generated tarot illustration.</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://5219rayhsu.github.io/assets/img/medicine/45.jpg</image:loc>
+      <image:caption>Medicine tarot deck, Minor Arcana, Eight of Swords: AI-generated tarot illustration.</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://5219rayhsu.github.io/assets/img/medicine/46.jpg</image:loc>
+      <image:caption>Medicine tarot deck, Minor Arcana, Nine of Swords: AI-generated tarot illustration.</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://5219rayhsu.github.io/assets/img/medicine/47.jpg</image:loc>
+      <image:caption>Medicine tarot deck, Minor Arcana, Ten of Swords: AI-generated tarot illustration.</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://5219rayhsu.github.io/assets/img/medicine/48.jpg</image:loc>
+      <image:caption>Medicine tarot deck, Minor Arcana, Page of Swords: AI-generated tarot illustration.</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://5219rayhsu.github.io/assets/img/medicine/49.jpg</image:loc>
+      <image:caption>Medicine tarot deck, Minor Arcana, Knight of Swords: AI-generated tarot illustration.</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://5219rayhsu.github.io/assets/img/medicine/50.jpg</image:loc>
+      <image:caption>Medicine tarot deck, Minor Arcana, Queen of Swords: AI-generated tarot illustration.</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://5219rayhsu.github.io/assets/img/medicine/51.jpg</image:loc>
+      <image:caption>Medicine tarot deck, Minor Arcana, King of Swords: AI-generated tarot illustration.</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://5219rayhsu.github.io/assets/img/medicine/52.jpg</image:loc>
+      <image:caption>Medicine tarot deck, Minor Arcana, Ace of Pentacles: AI-generated tarot illustration.</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://5219rayhsu.github.io/assets/img/medicine/53.jpg</image:loc>
+      <image:caption>Medicine tarot deck, Minor Arcana, Two of Pentacles: AI-generated tarot illustration.</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://5219rayhsu.github.io/assets/img/medicine/54.jpg</image:loc>
+      <image:caption>Medicine tarot deck, Minor Arcana, Three of Pentacles: AI-generated tarot illustration.</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://5219rayhsu.github.io/assets/img/medicine/55.jpg</image:loc>
+      <image:caption>Medicine tarot deck, Minor Arcana, Four of Pentacles: AI-generated tarot illustration.</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://5219rayhsu.github.io/assets/img/medicine/56.jpg</image:loc>
+      <image:caption>Medicine tarot deck, Minor Arcana, Five of Pentacles: AI-generated tarot illustration.</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://5219rayhsu.github.io/assets/img/medicine/57.jpg</image:loc>
+      <image:caption>Medicine tarot deck, Minor Arcana, Six of Pentacles: AI-generated tarot illustration.</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://5219rayhsu.github.io/assets/img/medicine/58.jpg</image:loc>
+      <image:caption>Medicine tarot deck, Minor Arcana, Seven of Pentacles: AI-generated tarot illustration.</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://5219rayhsu.github.io/assets/img/medicine/59.jpg</image:loc>
+      <image:caption>Medicine tarot deck, Minor Arcana, Eight of Pentacles: AI-generated tarot illustration.</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://5219rayhsu.github.io/assets/img/medicine/60.jpg</image:loc>
+      <image:caption>Medicine tarot deck, Minor Arcana, Nine of Pentacles: AI-generated tarot illustration.</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://5219rayhsu.github.io/assets/img/medicine/61.jpg</image:loc>
+      <image:caption>Medicine tarot deck, Minor Arcana, Ten of Pentacles: AI-generated tarot illustration.</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://5219rayhsu.github.io/assets/img/medicine/62.jpg</image:loc>
+      <image:caption>Medicine tarot deck, Minor Arcana, Page of Pentacles: AI-generated tarot illustration.</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://5219rayhsu.github.io/assets/img/medicine/63.jpg</image:loc>
+      <image:caption>Medicine tarot deck, Minor Arcana, Knight of Pentacles: AI-generated tarot illustration.</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://5219rayhsu.github.io/assets/img/medicine/64.jpg</image:loc>
+      <image:caption>Medicine tarot deck, Minor Arcana, Queen of Pentacles: AI-generated tarot illustration.</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://5219rayhsu.github.io/assets/img/medicine/65.jpg</image:loc>
+      <image:caption>Medicine tarot deck, Minor Arcana, King of Pentacles: AI-generated tarot illustration.</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://5219rayhsu.github.io/assets/img/medicine/66.jpg</image:loc>
+      <image:caption>Medicine tarot deck, Minor Arcana, Ace of Cups: AI-generated tarot illustration.</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://5219rayhsu.github.io/assets/img/medicine/67.jpg</image:loc>
+      <image:caption>Medicine tarot deck, Minor Arcana, Two of Cups: AI-generated tarot illustration.</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://5219rayhsu.github.io/assets/img/medicine/68.jpg</image:loc>
+      <image:caption>Medicine tarot deck, Minor Arcana, Three of Cups: AI-generated tarot illustration.</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://5219rayhsu.github.io/assets/img/medicine/69.jpg</image:loc>
+      <image:caption>Medicine tarot deck, Minor Arcana, Four of Cups: AI-generated tarot illustration.</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://5219rayhsu.github.io/assets/img/medicine/70.jpg</image:loc>
+      <image:caption>Medicine tarot deck, Minor Arcana, Five of Cups: AI-generated tarot illustration.</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://5219rayhsu.github.io/assets/img/medicine/71.jpg</image:loc>
+      <image:caption>Medicine tarot deck, Minor Arcana, Six of Cups: AI-generated tarot illustration.</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://5219rayhsu.github.io/assets/img/medicine/72.jpg</image:loc>
+      <image:caption>Medicine tarot deck, Minor Arcana, Seven of Cups: AI-generated tarot illustration.</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://5219rayhsu.github.io/assets/img/medicine/73.jpg</image:loc>
+      <image:caption>Medicine tarot deck, Minor Arcana, Eight of Cups: AI-generated tarot illustration.</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://5219rayhsu.github.io/assets/img/medicine/74.jpg</image:loc>
+      <image:caption>Medicine tarot deck, Minor Arcana, Nine of Cups: AI-generated tarot illustration.</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://5219rayhsu.github.io/assets/img/medicine/75.jpg</image:loc>
+      <image:caption>Medicine tarot deck, Minor Arcana, Ten of Cups: AI-generated tarot illustration.</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://5219rayhsu.github.io/assets/img/medicine/76.jpg</image:loc>
+      <image:caption>Medicine tarot deck, Minor Arcana, Page of Cups: AI-generated tarot illustration.</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://5219rayhsu.github.io/assets/img/medicine/77.jpg</image:loc>
+      <image:caption>Medicine tarot deck, Minor Arcana, Knight of Cups: AI-generated tarot illustration.</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://5219rayhsu.github.io/assets/img/medicine/78.jpg</image:loc>
+      <image:caption>Medicine tarot deck, Minor Arcana, Queen of Cups: AI-generated tarot illustration.</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://5219rayhsu.github.io/assets/img/medicine/79.jpg</image:loc>
+      <image:caption>Medicine tarot deck, Minor Arcana, King of Cups: AI-generated tarot illustration.</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://5219rayhsu.github.io/assets/img/qr-site.svg</image:loc>
+      <image:caption>QR code for HSU Che-jui’s website</image:caption>
+    </image:image>
   </url>
   <url>
     <loc>https://5219rayhsu.github.io/exhibitions/answer-keelung-2025/</loc>
-    <lastmod>2026-07-27</lastmod>
+    <lastmod>2026-08-28</lastmod>
+    <image:image>
+      <image:loc>https://5219rayhsu.github.io/assets/img/exhibitions/answer-keelung-2025/01.jpg</image:loc>
+      <image:caption>M02展間：《答案 Answer》（2024）</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://5219rayhsu.github.io/assets/img/exhibitions/answer-keelung-2025/02.jpg</image:loc>
+      <image:caption>M03展間：《答案 Answer》（2025）、《瘟疫醫生 Plague Doctor》日記與塔羅、《立場 Stance》八極拳錄像</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://5219rayhsu.github.io/assets/img/exhibitions/answer-keelung-2025/03.jpg</image:loc>
+      <image:caption>M02展間入口處樓梯：《考試國王肖像》</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://5219rayhsu.github.io/assets/img/exhibitions/answer-keelung-2025/04.jpg</image:loc>
+      <image:caption>M02展間：《答案 Answer》（2025）113歷史分科測驗白色恐怖</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://5219rayhsu.github.io/assets/img/exhibitions/answer-keelung-2025/05.jpg</image:loc>
+      <image:caption>展場主視覺以注音符號、甲乙本生字簿為概念</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://5219rayhsu.github.io/assets/img/exhibitions/answer-keelung-2025/06.jpg</image:loc>
+      <image:caption>M02展間：《答案 Answer》（2024）</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://5219rayhsu.github.io/assets/img/exhibitions/answer-keelung-2025/07.jpg</image:loc>
+      <image:caption>M02展間：《答案 Answer》（2024）</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://5219rayhsu.github.io/assets/img/exhibitions/answer-keelung-2025/08.jpg</image:loc>
+      <image:caption>M03展間入口處樓梯：《瘟疫醫生肖像》</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://5219rayhsu.github.io/assets/img/exhibitions/answer-keelung-2025/09.jpg</image:loc>
+      <image:caption>M03展間：《瘟疫醫生》AI塔羅牌</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://5219rayhsu.github.io/assets/img/exhibitions/answer-keelung-2025/10.jpg</image:loc>
+      <image:caption>許哲睿布展照</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://5219rayhsu.github.io/assets/img/exhibitions/answer-keelung-2025/11.jpg</image:loc>
+      <image:caption>M03展間：《瘟疫醫生》Instagram日記</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://5219rayhsu.github.io/assets/img/exhibitions/answer-keelung-2025/12.jpg</image:loc>
+      <image:caption>M03展間：學測作文紙簽到本</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://5219rayhsu.github.io/assets/img/exhibitions/answer-keelung-2025/13.jpg</image:loc>
+      <image:caption>M03展間：《立場 Stance》、《乖寶寶 Good Boy》</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://5219rayhsu.github.io/assets/img/exhibitions/answer-keelung-2025/14.jpg</image:loc>
+      <image:caption>M03展間：《答案 Answer》（2025）</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://5219rayhsu.github.io/assets/img/exhibitions/answer-keelung-2025/15-2400.jpg</image:loc>
+      <image:caption>20250621開幕分享會，第一排左起：臺灣藝術大學張國治教授、策展人姜麗華教授、基隆市文化觀光局江亭玫局長，藝術家許哲睿、新北市傳統音樂發展協會許順重理事長。</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://5219rayhsu.github.io/assets/img/exhibitions/answer-keelung-2025/16-2400.jpg</image:loc>
+      <image:caption>20250628姜麗華教授、姚瑞中教授、許哲睿三人座談會</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://5219rayhsu.github.io/assets/img/exhibitions/answer-keelung-2025/17.jpg</image:loc>
+      <image:caption>《考試國王 The King of Examination》：戴紙摺皇冠、胸前寫著「100」的黑白全身像，配文講述「考試國王」的寓言。</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://5219rayhsu.github.io/assets/img/exhibitions/answer-keelung-2025/22.jpg</image:loc>
+      <image:caption>《乖寶寶 Good boy》雙聯直幅作品：正面持考卷、胸前寫著「100」，背面裸身寫著「0」並敬禮的黑白全身像，攝於護欄前草叢。</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://5219rayhsu.github.io/assets/img/exhibitions/answer-keelung-2025/18.jpg</image:loc>
+      <image:caption>《答案 Answer》雙聯作品：正面書寫模擬考國歌選擇題，背面書寫〈總理訓詞〉歌詞的黑白肖像。</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://5219rayhsu.github.io/assets/img/exhibitions/answer-keelung-2025/19.jpg</image:loc>
+      <image:caption>《答案 Answer》雙聯作品：正背面書寫113年公民分科測驗刑罰觀點考題的黑白肖像，人物表情驚恐。</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://5219rayhsu.github.io/assets/img/exhibitions/answer-keelung-2025/20.jpg</image:loc>
+      <image:caption>《答案 Answer》雙聯作品：以手勢比出台積電股票代碼，正背面書寫理組歧視文組相關考題的黑白肖像。</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://5219rayhsu.github.io/assets/img/exhibitions/answer-keelung-2025/21.jpg</image:loc>
+      <image:caption>《答案 Answer》雙聯作品：正面書寫112年歷史分科測驗白色恐怖考題，背面書寫美麗島事件考題的黑白肖像。</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://5219rayhsu.github.io/assets/img/exhibitions/answer-keelung-2025/23.jpg</image:loc>
+      <image:caption>《瘟疫醫生肖像》特寫：嘴形噘起如鳥嘴，佩戴念珠與鏈飾的黑白半身像。</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://5219rayhsu.github.io/assets/img/exhibitions/answer-keelung-2025/26.jpg</image:loc>
+      <image:caption>《乖寶寶 Good boy》裝置：藝術家裸身躺臥於堆滿獎狀獎盃的自宅客廳沙發，手持菜刀，身上書寫「1995」生命線字樣。</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://5219rayhsu.github.io/assets/img/exhibitions/answer-keelung-2025/24.jpg</image:loc>
+      <image:caption>《瘟疫醫生日記》展場局部：以社群媒體截圖拼貼而成的大型牆面裝置，另有藝術家肖像拼貼與手寫文字。</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://5219rayhsu.github.io/assets/img/exhibitions/answer-keelung-2025/25.jpg</image:loc>
+      <image:caption>《瘟疫醫生塔羅》展場局部：12張 AI 生成塔羅牌輸出，融合瘟疫醫生鳥嘴面具與疫情時期意象。</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://5219rayhsu.github.io/assets/img/exhibitions/answer-keelung-2025/36.jpg</image:loc>
+      <image:caption>許哲睿基隆美術館個展海報-1</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://5219rayhsu.github.io/assets/img/exhibitions/answer-keelung-2025/37.jpg</image:loc>
+      <image:caption>許哲睿基隆美術館個展海報-2</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://5219rayhsu.github.io/assets/img/exhibitions/answer-keelung-2025/38.jpg</image:loc>
+      <image:caption>許哲睿基隆美術館個展海報-3</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://5219rayhsu.github.io/assets/img/exhibitions/answer-keelung-2025/32.jpg</image:loc>
+      <image:caption>(最左)副社長 鍾大方</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://5219rayhsu.github.io/assets/img/exhibitions/answer-keelung-2025/27.jpg</image:loc>
+      <image:caption>維護部長 朱家樂</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://5219rayhsu.github.io/assets/img/exhibitions/answer-keelung-2025/28.jpg</image:loc>
+      <image:caption>暗房部長 梁皓俊</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://5219rayhsu.github.io/assets/img/exhibitions/answer-keelung-2025/29.jpg</image:loc>
+      <image:caption>維護部員 吳昇澔</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://5219rayhsu.github.io/assets/img/exhibitions/answer-keelung-2025/30.jpg</image:loc>
+      <image:caption>北藝大策展研究社 蔡睿宇</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://5219rayhsu.github.io/assets/img/exhibitions/answer-keelung-2025/31.jpg</image:loc>
+      <image:caption>藝術家 許哲睿</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://5219rayhsu.github.io/assets/img/exhibitions/answer-keelung-2025/33.jpg</image:loc>
+      <image:caption>布展時長10小時</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://5219rayhsu.github.io/assets/img/exhibitions/answer-keelung-2025/34-2400.jpg</image:loc>
+      <image:caption>20250616布展日，布展團隊合影於展場內。</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://5219rayhsu.github.io/assets/img/exhibitions/answer-keelung-2025/35.jpg</image:loc>
+      <image:caption>20250706撤展日，撤展團隊合影於展場內。</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://5219rayhsu.github.io/assets/img/qr-site.svg</image:loc>
+      <image:caption>許哲睿個人網站 QR 圖碼</image:caption>
+    </image:image>
   </url>
   <url>
     <loc>https://5219rayhsu.github.io/exhibitions/</loc>
-    <lastmod>2026-07-29</lastmod>
+    <lastmod>2026-08-28</lastmod>
+    <image:image>
+      <image:loc>https://5219rayhsu.github.io/assets/img/exhibitions/island-compound-eyes-lodz-2026/01.jpg</image:loc>
+      <image:caption>《複眼之島》羅茲展場：木質展桌上陳列臺灣藝術家手工書，中央為《無序身體販賣所》經摺裝，攝於 Art_Inkubator。</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://5219rayhsu.github.io/assets/img/exhibitions/island-compound-eyes-lodz-2026/03.jpg</image:loc>
+      <image:caption>《複眼之島》羅茲展場：多位觀眾圍聚展桌翻閱藝術家手工書，含《無序身體販賣所》經摺裝。</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://5219rayhsu.github.io/assets/img/exhibitions/island-compound-eyes-lodz-2026/02.jpg</image:loc>
+      <image:caption>《複眼之島》羅茲展場：觀眾於古典展間圍著木質展桌翻閱臺灣藝術家書籍，上方吊燈、旁有落地鐘。</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://5219rayhsu.github.io/assets/img/exhibitions/subtropical-signals-singapore-2026/01.jpg</image:loc>
+      <image:caption>《亞熱帶訊號》新加坡 Shop–House by DECK 展場：主視覺牆與策展資訊，前景木架上攤開展示《無序身體販賣所》經摺裝。</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://5219rayhsu.github.io/assets/img/exhibitions/subtropical-signals-singapore-2026/02.jpg</image:loc>
+      <image:caption>《亞熱帶訊號》展場局部：《無序身體販賣所》木質書名籤「般波蜜羅金經若」與夾板藝術家介紹，經摺裝側緣。</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://5219rayhsu.github.io/assets/img/exhibitions/subtropical-signals-singapore-2026/03.jpg</image:loc>
+      <image:caption>《亞熱帶訊號》展場：《無序身體販賣所》經摺裝全幅攤開，上為手抄注音重排《金剛經》、下為成排 AI 證件照。</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://5219rayhsu.github.io/assets/img/exhibitions/subtropical-signals-singapore-2026/04.jpg</image:loc>
+      <image:caption>《亞熱帶訊號》展場：《無序身體販賣所》經摺裝正面全景，密布手抄經文與成排 AI 證件照，右端立有攝影拼貼。</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://5219rayhsu.github.io/assets/img/qr-site.svg</image:loc>
+      <image:caption>許哲睿個人網站 QR 圖碼</image:caption>
+    </image:image>
   </url>
   <url>
     <loc>https://5219rayhsu.github.io/exhibitions/seikai-tokyo-2026/</loc>
-    <lastmod>2026-07-27</lastmod>
+    <lastmod>2026-08-28</lastmod>
+    <image:image>
+      <image:loc>https://5219rayhsu.github.io/assets/img/exhibitions/seikai-tokyo-2026/01-2400.jpg</image:loc>
+      <image:caption>《正解：台湾受験戦争の真剣勝負》展覽宣傳頁：左為藝術家肖像與日文展名，右為東京 Place M 展場外觀、日期、地圖與聯絡資訊。</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://5219rayhsu.github.io/assets/img/exhibitions/seikai-tokyo-2026/02.jpg</image:loc>
+      <image:caption>Place M 展場入口一景：牆上並列展出黑白肖像作品，中央擺設簽名桌與圓凳。</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://5219rayhsu.github.io/assets/img/exhibitions/seikai-tokyo-2026/03-2400.jpg</image:loc>
+      <image:caption>展場長廊一景：兩側牆面掛滿《答案》系列黑白輸出，走道盡頭擺放白色蘭花。</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://5219rayhsu.github.io/assets/img/exhibitions/seikai-tokyo-2026/04-2400.jpg</image:loc>
+      <image:caption>展場轉角一景：肖像系列大圖輸出與較小幅風景照並置牆面。</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://5219rayhsu.github.io/assets/img/exhibitions/seikai-tokyo-2026/05-2400.jpg</image:loc>
+      <image:caption>展場牆面近照：《瘟疫醫生肖像》風格的黑白自拍肖像大圖輸出。</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://5219rayhsu.github.io/assets/img/exhibitions/seikai-tokyo-2026/06-2400.jpg</image:loc>
+      <image:caption>瀨戶正人翻閱展覽論述與留言本，一旁牆上掛著藝術家高舉入學考試成績單、立於大學入口的黑白照片。</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://5219rayhsu.github.io/assets/img/exhibitions/seikai-tokyo-2026/07-2400.jpg</image:loc>
+      <image:caption>留言本內頁：以毛筆字手寫「許哲睿」「瀨戶正人」「台大攝影社 NTUPhoto」「楊鎮豪」，落款2026.3.16。</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://5219rayhsu.github.io/assets/img/exhibitions/seikai-tokyo-2026/08.jpg</image:loc>
+      <image:caption>展場一景：六幅《答案》系列黑白肖像大圖並列牆面，前方擺著三張木凳。</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://5219rayhsu.github.io/assets/img/exhibitions/seikai-tokyo-2026/09.jpg</image:loc>
+      <image:caption>展場入口轉角：兩幅身體書寫考題的黑白肖像大圖輸出並置牆面。</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://5219rayhsu.github.io/assets/img/exhibitions/seikai-tokyo-2026/10-2400.jpg</image:loc>
+      <image:caption>開幕合影：藝術家與五位友人、師長於 Place M 展場內比讚合照。</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://5219rayhsu.github.io/assets/img/qr-site.svg</image:loc>
+      <image:caption>許哲睿個人網站 QR 圖碼</image:caption>
+    </image:image>
   </url>
   <url>
     <loc>https://5219rayhsu.github.io/</loc>
-    <lastmod>2026-07-27</lastmod>
+    <lastmod>2026-08-28</lastmod>
+    <image:image>
+      <image:loc>https://5219rayhsu.github.io/assets/img/home/01.jpg</image:loc>
+      <image:caption>許哲睿以桃太郎造型自拍：頭綁鉢卷、身著金襴陣羽織，手持三色糰子，身旁環繞雉雞、柴犬與獼猴。</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://5219rayhsu.github.io/assets/img/chaos-body-shop/when-i-grow-up-2400.jpg</image:loc>
+      <image:caption>《長大》：中央為黑白 4×5 自拍，赤裸上身、戴眼鏡的藝術家一手持捲尺丈量自身身高（177.7 公分），另一手扶著路邊圍欄的石柱（柱頭殘留斷裂鐵絲網），四周環繞 177 張對應整數部分生成的 AI 身份證件照（各國神祇、名人與動漫角色），其中一張是剪去一角的真實護照照片，代表小數點後的 0.7 公分，背景為密布交錯的樹枝。</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://5219rayhsu.github.io/assets/img/answer/01-2400.jpg</image:loc>
+      <image:caption>《答案》系列〈考試機器〉：戴著紙摺方帽、胸前寫著「100」的黑白肖像。</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://5219rayhsu.github.io/assets/img/medicine/01-2400.jpg</image:loc>
+      <image:caption>《心藥》系列：手持念珠與鏈飾、表情誇張的黑白肖像。</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://5219rayhsu.github.io/assets/img/qr-site.svg</image:loc>
+      <image:caption>許哲睿個人網站 QR 圖碼</image:caption>
+    </image:image>
   </url>
   <url>
     <loc>https://5219rayhsu.github.io/ja/about/</loc>
     <lastmod>2026-07-27</lastmod>
+    <image:image>
+      <image:loc>https://5219rayhsu.github.io/assets/img/about/01.jpg</image:loc>
+      <image:caption>左から：張國治、莊靈、許哲睿、楊鎮豪。台湾大学写真社の暗室にて。</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://5219rayhsu.github.io/assets/img/qr-site.svg</image:loc>
+      <image:caption>許哲睿ウェブサイトの QR コード</image:caption>
+    </image:image>
   </url>
   <url>
     <loc>https://5219rayhsu.github.io/ja/exhibitions/answer-keelung-2025/</loc>
-    <lastmod>2026-07-27</lastmod>
+    <lastmod>2026-08-28</lastmod>
+    <image:image>
+      <image:loc>https://5219rayhsu.github.io/assets/img/exhibitions/answer-keelung-2025/01.jpg</image:loc>
+      <image:caption>M02展示室：《答案 Answer》（2024）</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://5219rayhsu.github.io/assets/img/exhibitions/answer-keelung-2025/02.jpg</image:loc>
+      <image:caption>M03展示室：《答案 Answer》（2025）、《瘟疫医生 Plague Doctor》の日記とタロット、《立場 Stance》八極拳パフォーマンス映像</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://5219rayhsu.github.io/assets/img/exhibitions/answer-keelung-2025/03.jpg</image:loc>
+      <image:caption>M02展示室入口の階段：《考試国王肖像》</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://5219rayhsu.github.io/assets/img/exhibitions/answer-keelung-2025/04.jpg</image:loc>
+      <image:caption>M02展示室：《答案 Answer》（2025）2024年 歴史分科試験 白色テロの問題</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://5219rayhsu.github.io/assets/img/exhibitions/answer-keelung-2025/05.jpg</image:loc>
+      <image:caption>展覧会のメインビジュアル。注音符号（ボポモフォ）と甲乙本の生字帳を発想源とする</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://5219rayhsu.github.io/assets/img/exhibitions/answer-keelung-2025/06.jpg</image:loc>
+      <image:caption>M02展示室：《答案 Answer》（2024）</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://5219rayhsu.github.io/assets/img/exhibitions/answer-keelung-2025/07.jpg</image:loc>
+      <image:caption>M02展示室：《答案 Answer》（2024）</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://5219rayhsu.github.io/assets/img/exhibitions/answer-keelung-2025/08.jpg</image:loc>
+      <image:caption>M03展示室入口の階段：《瘟疫医生肖像》</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://5219rayhsu.github.io/assets/img/exhibitions/answer-keelung-2025/09.jpg</image:loc>
+      <image:caption>M03展示室：《瘟疫医生》AIタロットカード</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://5219rayhsu.github.io/assets/img/exhibitions/answer-keelung-2025/10.jpg</image:loc>
+      <image:caption>設営中の許哲睿</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://5219rayhsu.github.io/assets/img/exhibitions/answer-keelung-2025/11.jpg</image:loc>
+      <image:caption>M03展示室：《瘟疫医生》Instagram 日記</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://5219rayhsu.github.io/assets/img/exhibitions/answer-keelung-2025/12.jpg</image:loc>
+      <image:caption>M03展示室：試験の作文用紙で作った芳名帳</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://5219rayhsu.github.io/assets/img/exhibitions/answer-keelung-2025/13.jpg</image:loc>
+      <image:caption>M03展示室：《立場 Stance》、《乖宝宝 Good Boy》</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://5219rayhsu.github.io/assets/img/exhibitions/answer-keelung-2025/14.jpg</image:loc>
+      <image:caption>M03展示室：《答案 Answer》（2025）</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://5219rayhsu.github.io/assets/img/exhibitions/answer-keelung-2025/15-2400.jpg</image:loc>
+      <image:caption>20250621 オープニング・トーク、前列左から：台湾芸術大学 張國治教授、キュレーター 姜麗華教授、基隆市文化観光局 江亭玫局長、作家 許哲睿、新北市伝統音楽発展協会 許順重理事長。</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://5219rayhsu.github.io/assets/img/exhibitions/answer-keelung-2025/16-2400.jpg</image:loc>
+      <image:caption>20250628 姜麗華教授、姚瑞中教授、許哲睿による三者トーク</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://5219rayhsu.github.io/assets/img/exhibitions/answer-keelung-2025/17.jpg</image:loc>
+      <image:caption>《考試国王 The King of Examination》：紙の冠をかぶり、胸に「100」と記したモノクロ全身像。「試験国王」の寓話を添える。</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://5219rayhsu.github.io/assets/img/exhibitions/answer-keelung-2025/22.jpg</image:loc>
+      <image:caption>《乖宝宝 Good boy》縦位置二連作：試験用紙を手に胸へ「100」、裏面は裸身で背に「0」と記して敬礼するモノクロ全身像。ガードレール脇の草むらで撮影。</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://5219rayhsu.github.io/assets/img/exhibitions/answer-keelung-2025/18.jpg</image:loc>
+      <image:caption>《答案 Answer》二連作：表に国歌をめぐる模擬試験の選択問題、裏に〈総理訓詞〉の歌詞を記したモノクロ肖像。</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://5219rayhsu.github.io/assets/img/exhibitions/answer-keelung-2025/19.jpg</image:loc>
+      <image:caption>《答案 Answer》二連作：表裏に113年 公民分科試験の刑罰観に関する問題を記した、驚愕の表情のモノクロ肖像。</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://5219rayhsu.github.io/assets/img/exhibitions/answer-keelung-2025/20.jpg</image:loc>
+      <image:caption>《答案 Answer》二連作：手で台積電（TSMC）の株式コードをかたどり、表裏に理系による文系差別に関する問題を記したモノクロ肖像。</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://5219rayhsu.github.io/assets/img/exhibitions/answer-keelung-2025/21.jpg</image:loc>
+      <image:caption>《答案 Answer》二連作：表に112年 歴史分科試験 白色テロの問題、裏に美麗島事件の問題を記したモノクロ肖像。</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://5219rayhsu.github.io/assets/img/exhibitions/answer-keelung-2025/23.jpg</image:loc>
+      <image:caption>《瘟疫医生肖像》クローズアップ：唇を鳥のくちばしのように尖らせ、数珠とチェーンの装身具をつけたモノクロ胸像。</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://5219rayhsu.github.io/assets/img/exhibitions/answer-keelung-2025/26.jpg</image:loc>
+      <image:caption>《乖宝宝 Good boy》インスタレーション：賞状やトロフィーが山と積まれた自宅リビングのソファに裸身で横たわり、包丁を手に、身体へ「1995」（台湾の自殺防止ホットライン）と記した作家。</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://5219rayhsu.github.io/assets/img/exhibitions/answer-keelung-2025/24.jpg</image:loc>
+      <image:caption>《瘟疫医生日記》会場部分：SNSのスクリーンショットをコラージュした大型の壁面インスタレーション。傍らに作家の肖像コラージュと手書きの文字。</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://5219rayhsu.github.io/assets/img/exhibitions/answer-keelung-2025/25.jpg</image:loc>
+      <image:caption>《瘟疫医生塔羅》会場部分：ペスト医師の鳥のくちばし状の仮面とパンデミック期のイメージを融合させた、12枚のAI生成タロットカードの出力。</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://5219rayhsu.github.io/assets/img/exhibitions/answer-keelung-2025/36.jpg</image:loc>
+      <image:caption>許哲睿 基隆美術館個展ポスター-1</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://5219rayhsu.github.io/assets/img/exhibitions/answer-keelung-2025/37.jpg</image:loc>
+      <image:caption>許哲睿 基隆美術館個展ポスター-2</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://5219rayhsu.github.io/assets/img/exhibitions/answer-keelung-2025/38.jpg</image:loc>
+      <image:caption>許哲睿 基隆美術館個展ポスター-3</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://5219rayhsu.github.io/assets/img/exhibitions/answer-keelung-2025/32.jpg</image:loc>
+      <image:caption>（最左）副社長 鍾大方</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://5219rayhsu.github.io/assets/img/exhibitions/answer-keelung-2025/27.jpg</image:loc>
+      <image:caption>整備部長 朱家楽</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://5219rayhsu.github.io/assets/img/exhibitions/answer-keelung-2025/28.jpg</image:loc>
+      <image:caption>暗室部長 梁皓俊</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://5219rayhsu.github.io/assets/img/exhibitions/answer-keelung-2025/29.jpg</image:loc>
+      <image:caption>整備部員 呉昇澔</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://5219rayhsu.github.io/assets/img/exhibitions/answer-keelung-2025/30.jpg</image:loc>
+      <image:caption>台北芸術大学 キュレーション研究会 蔡睿宇</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://5219rayhsu.github.io/assets/img/exhibitions/answer-keelung-2025/31.jpg</image:loc>
+      <image:caption>アーティスト 許哲睿</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://5219rayhsu.github.io/assets/img/exhibitions/answer-keelung-2025/33.jpg</image:loc>
+      <image:caption>設営作業 10時間</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://5219rayhsu.github.io/assets/img/exhibitions/answer-keelung-2025/34-2400.jpg</image:loc>
+      <image:caption>20250616 設営日、設営チームが会場内で記念撮影。</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://5219rayhsu.github.io/assets/img/exhibitions/answer-keelung-2025/35.jpg</image:loc>
+      <image:caption>20250706 撤収日、撤収チームが会場内で記念撮影。</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://5219rayhsu.github.io/assets/img/qr-site.svg</image:loc>
+      <image:caption>許哲睿ウェブサイトの QR コード</image:caption>
+    </image:image>
   </url>
   <url>
     <loc>https://5219rayhsu.github.io/ja/exhibitions/</loc>
-    <lastmod>2026-07-29</lastmod>
+    <lastmod>2026-08-28</lastmod>
+    <image:image>
+      <image:loc>https://5219rayhsu.github.io/assets/img/exhibitions/island-compound-eyes-lodz-2026/01.jpg</image:loc>
+      <image:caption>《複眼之島》ウッチ会場：木製の台に台湾の作家による手製本が並び、中央に《無序身体販売所》の経折装。Art_Inkubator にて。</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://5219rayhsu.github.io/assets/img/exhibitions/island-compound-eyes-lodz-2026/03.jpg</image:loc>
+      <image:caption>《複眼之島》ウッチ会場：来場者が台を囲み、《無序身体販売所》経折装を含む手製本を手に取る様子。</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://5219rayhsu.github.io/assets/img/exhibitions/island-compound-eyes-lodz-2026/02.jpg</image:loc>
+      <image:caption>《複眼之島》ウッチ会場：シャンデリアのある歴史的な部屋で、来場者が木製の台に並ぶ台湾の作家本を閲覧。</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://5219rayhsu.github.io/assets/img/exhibitions/subtropical-signals-singapore-2026/01.jpg</image:loc>
+      <image:caption>《亜熱帯訊号》シンガポール Shop–House by DECK 会場：メインビジュアルの壁とキュレーション情報、手前の木架に《無序身体販売所》経折装を展示。</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://5219rayhsu.github.io/assets/img/exhibitions/subtropical-signals-singapore-2026/02.jpg</image:loc>
+      <image:caption>《亜熱帯訊号》会場の一部：《無序身体販売所》の木製題箋「般波蜜羅金経若」と作家紹介のクリップボード、経折装の側面。</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://5219rayhsu.github.io/assets/img/exhibitions/subtropical-signals-singapore-2026/03.jpg</image:loc>
+      <image:caption>《亜熱帯訊号》会場：《無序身体販売所》経折装を全幅に広げ、上部に手写しの注音符号で並べ替えた《金剛般若経》、下部に AI 証明写真の列。</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://5219rayhsu.github.io/assets/img/exhibitions/subtropical-signals-singapore-2026/04.jpg</image:loc>
+      <image:caption>《亜熱帯訊号》会場：《無序身体販売所》経折装の正面全景。手写しの経文と AI 証明写真がびっしり並び、右端に写真コラージュ。</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://5219rayhsu.github.io/assets/img/qr-site.svg</image:loc>
+      <image:caption>許哲睿ウェブサイトの QR コード</image:caption>
+    </image:image>
   </url>
   <url>
     <loc>https://5219rayhsu.github.io/ja/exhibitions/seikai-tokyo-2026/</loc>
-    <lastmod>2026-07-27</lastmod>
+    <lastmod>2026-08-28</lastmod>
+    <image:image>
+      <image:loc>https://5219rayhsu.github.io/assets/img/exhibitions/seikai-tokyo-2026/01-2400.jpg</image:loc>
+      <image:caption>《正解：台湾受験戦争の真剣勝負》展覧会フライヤー：左に作家の肖像と日本語の展覧会名、右に東京 Place M の会場外観、会期、地図、連絡先。</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://5219rayhsu.github.io/assets/img/exhibitions/seikai-tokyo-2026/02.jpg</image:loc>
+      <image:caption>Place M 会場入口の一景：壁面にモノクロ肖像作品が並び、中央にサイン用のテーブルと丸椅子。</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://5219rayhsu.github.io/assets/img/exhibitions/seikai-tokyo-2026/03-2400.jpg</image:loc>
+      <image:caption>会場の長い廊下：両側の壁に《答案》シリーズのモノクロ出力が並び、通路の突き当たりに白い胡蝶蘭。</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://5219rayhsu.github.io/assets/img/exhibitions/seikai-tokyo-2026/04-2400.jpg</image:loc>
+      <image:caption>会場の角の一景：肖像シリーズの大判出力と、より小さな風景写真が壁面に並ぶ。</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://5219rayhsu.github.io/assets/img/exhibitions/seikai-tokyo-2026/05-2400.jpg</image:loc>
+      <image:caption>会場壁面のクローズアップ：《瘟疫医生肖像》の作風によるモノクロ自撮り肖像の大判出力。</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://5219rayhsu.github.io/assets/img/exhibitions/seikai-tokyo-2026/06-2400.jpg</image:loc>
+      <image:caption>瀬戸正人が展覧会ステートメントと芳名帳をめくる。傍らの壁には、入学試験の成績表を高く掲げ大学の入口に立つ作家のモノクロ写真。</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://5219rayhsu.github.io/assets/img/exhibitions/seikai-tokyo-2026/07-2400.jpg</image:loc>
+      <image:caption>芳名帳の見開き：毛筆で「許哲睿」「瀬戸正人」「台大写真社 NTUPhoto」「楊鎮豪」と手書きし、2026.3.16 と署名。</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://5219rayhsu.github.io/assets/img/exhibitions/seikai-tokyo-2026/08.jpg</image:loc>
+      <image:caption>会場の一景：《答案》シリーズのモノクロ肖像 大判6点が壁面に並び、手前に木の椅子が3脚。</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://5219rayhsu.github.io/assets/img/exhibitions/seikai-tokyo-2026/09.jpg</image:loc>
+      <image:caption>会場入口の角：身体に試験問題を書き記した2点のモノクロ肖像の大判出力が並ぶ。</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://5219rayhsu.github.io/assets/img/exhibitions/seikai-tokyo-2026/10-2400.jpg</image:loc>
+      <image:caption>オープニングの記念写真：作家と5名の友人・師が Place M 会場内でポーズをとる。</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://5219rayhsu.github.io/assets/img/qr-site.svg</image:loc>
+      <image:caption>許哲睿ウェブサイトの QR コード</image:caption>
+    </image:image>
   </url>
   <url>
     <loc>https://5219rayhsu.github.io/ja/</loc>
-    <lastmod>2026-07-27</lastmod>
+    <lastmod>2026-08-28</lastmod>
+    <image:image>
+      <image:loc>https://5219rayhsu.github.io/assets/img/home/01.jpg</image:loc>
+      <image:caption>桃太郎に扮した許哲睿のセルフポートレート。鉢巻を締め、金襴の陣羽織をまとい、三色団子の串を手にし、雉・柴犬・猿を従える。</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://5219rayhsu.github.io/assets/img/chaos-body-shop/when-i-grow-up-2400.jpg</image:loc>
+      <image:caption>《長大》：中央に白黒4×5判のセルフポートレート──眼鏡をかけ上半身裸の作家が片手に巻尺を持ち自らの身長（177.7cm）を測り、もう片方の手は路傍のガードレールの石柱（頂部に切れた針金が残る）を掴む──を配し、整数部分に対応する177枚の生成AI証明写真（各国の神々・著名人・アニメキャラクター）がその周囲を取り囲み、うち1枚は角を切り取られた本物のパスポート写真で0.7cmの端数を表す。背景は絡み合う枯れ枝。</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://5219rayhsu.github.io/assets/img/answer/01-2400.jpg</image:loc>
+      <image:caption>《答案》シリーズ〈試験マシン〉。紙を折った角帽をかぶり、胸に「100」と記したモノクロ肖像。</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://5219rayhsu.github.io/assets/img/medicine/01-2400.jpg</image:loc>
+      <image:caption>《心薬》シリーズ。数珠と鎖の装飾を手にし、大げさな表情を浮かべるモノクロ肖像。</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://5219rayhsu.github.io/assets/img/qr-site.svg</image:loc>
+      <image:caption>許哲睿ウェブサイトの QR コード</image:caption>
+    </image:image>
   </url>
   <url>
     <loc>https://5219rayhsu.github.io/ja/texts/contemplating-the-self/</loc>
     <lastmod>2026-07-27</lastmod>
+    <image:image>
+      <image:loc>https://5219rayhsu.github.io/assets/img/texts/contemplating-the-self/01.jpg</image:loc>
+      <image:caption>左から：許哲睿、呂筱渝、姜麗華、楊鎮豪。基隆 中正公園にて撮影。</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://5219rayhsu.github.io/assets/img/qr-site.svg</image:loc>
+      <image:caption>許哲睿ウェブサイトの QR コード</image:caption>
+    </image:image>
   </url>
   <url>
     <loc>https://5219rayhsu.github.io/ja/texts/critique/</loc>
     <lastmod>2026-07-28</lastmod>
+    <image:image>
+      <image:loc>https://5219rayhsu.github.io/assets/img/qr-site.svg</image:loc>
+      <image:caption>許哲睿ウェブサイトの QR コード</image:caption>
+    </image:image>
   </url>
   <url>
     <loc>https://5219rayhsu.github.io/ja/texts/</loc>
     <lastmod>2026-07-27</lastmod>
+    <image:image>
+      <image:loc>https://5219rayhsu.github.io/assets/img/qr-site.svg</image:loc>
+      <image:caption>許哲睿ウェブサイトの QR コード</image:caption>
+    </image:image>
   </url>
   <url>
     <loc>https://5219rayhsu.github.io/ja/works/answer/</loc>
-    <lastmod>2026-07-27</lastmod>
+    <lastmod>2026-08-06</lastmod>
+    <image:image>
+      <image:loc>https://5219rayhsu.github.io/assets/img/answer/01-2400.jpg</image:loc>
+      <image:caption>《答案》シリーズ〈試験マシン〉。紙を折った角帽をかぶり、胸に「100」と記したモノクロ肖像。</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://5219rayhsu.github.io/assets/img/answer/02-2400.jpg</image:loc>
+      <image:caption>《答案》シリーズ。モノクロ肖像。前面の胴体に〈国防、2029〉の試験問題を手書きで書き連ね、口に紙の巻物をくわえ、両手を顔の前で交差させる。</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://5219rayhsu.github.io/assets/img/answer/03-2400.jpg</image:loc>
+      <image:caption>《答案》シリーズ。モノクロ肖像。背面の胴体に〈国防、2029〉の答えを手書きで書き連ね、両手を首の後ろか背中で組む。</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://5219rayhsu.github.io/assets/img/answer/04-2400.jpg</image:loc>
+      <image:caption>《答案》シリーズ。モノクロ肖像。前面の胴体に〈国語、2022・2023・2024〉の試験問題を手書きで書き連ね、口に紙の巻物をくわえ、両手を顔の前で交差させる。</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://5219rayhsu.github.io/assets/img/answer/05-2400.jpg</image:loc>
+      <image:caption>《答案》シリーズ。モノクロ肖像。背面の胴体に〈国語、2022・2023・2024〉の答えを手書きで書き連ね、両手を首の後ろか背中で組む。</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://5219rayhsu.github.io/assets/img/answer/06-2400.jpg</image:loc>
+      <image:caption>《答案》シリーズ。モノクロ肖像。前面の胴体に〈数学、2022〉の試験問題を手書きで書き連ね、口に紙の巻物をくわえ、両手を顔の前で交差させる。</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://5219rayhsu.github.io/assets/img/answer/07-2400.jpg</image:loc>
+      <image:caption>《答案》シリーズ。モノクロ肖像。背面の胴体に〈数学、2022〉の答えを手書きで書き連ね、両手を首の後ろか背中で組む。</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://5219rayhsu.github.io/assets/img/answer/08-2400.jpg</image:loc>
+      <image:caption>《答案》シリーズ。モノクロ肖像。前面の胴体に〈英語、2022・2023・2024〉の試験問題を手書きで書き連ね、口に紙の巻物をくわえ、両手を顔の前で交差させる。</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://5219rayhsu.github.io/assets/img/answer/09-2400.jpg</image:loc>
+      <image:caption>《答案》シリーズ。モノクロ肖像。背面の胴体に〈英語、2022・2023・2024〉の答えを手書きで書き連ね、両手を首の後ろか背中で組む。</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://5219rayhsu.github.io/assets/img/answer/10-2400.jpg</image:loc>
+      <image:caption>《答案》シリーズ。モノクロ肖像。前面の胴体に〈歴史、2024〉の試験問題を手書きで書き連ね、口に紙の巻物をくわえ、両手を顔の前で交差させる。</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://5219rayhsu.github.io/assets/img/answer/11-2400.jpg</image:loc>
+      <image:caption>《答案》シリーズ。モノクロ肖像。背面の胴体に〈歴史、2024〉の答えを手書きで書き連ね、両手を首の後ろか背中で組む。</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://5219rayhsu.github.io/assets/img/answer/12-2400.jpg</image:loc>
+      <image:caption>《答案》シリーズ。モノクロ肖像。前面の胴体に〈地理、2023〉の試験問題を手書きで書き連ね、口に紙の巻物をくわえ、両手を顔の前で交差させる。</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://5219rayhsu.github.io/assets/img/answer/13-2400.jpg</image:loc>
+      <image:caption>《答案》シリーズ。モノクロ肖像。背面の胴体に〈地理、2023〉の答えを手書きで書き連ね、両手を首の後ろか背中で組む。</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://5219rayhsu.github.io/assets/img/answer/14-2400.jpg</image:loc>
+      <image:caption>《答案》シリーズ。モノクロ肖像。前面の胴体に〈公民と社会、2029〉の試験問題を手書きで書き連ね、口に紙の巻物をくわえ、両手を顔の前で交差させる。</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://5219rayhsu.github.io/assets/img/answer/15-2400.jpg</image:loc>
+      <image:caption>《答案》シリーズ。モノクロ肖像。背面の胴体に〈公民と社会、2029〉の答えを手書きで書き連ね、両手を首の後ろか背中で組む。</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://5219rayhsu.github.io/assets/img/answer/16-2400.jpg</image:loc>
+      <image:caption>《答案》シリーズ。モノクロ肖像。前面の胴体に〈物理、2024〉の試験問題を手書きで書き連ね、口に紙の巻物をくわえ、両手を顔の前で交差させる。</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://5219rayhsu.github.io/assets/img/answer/17-2400.jpg</image:loc>
+      <image:caption>《答案》シリーズ。モノクロ肖像。背面の胴体に〈物理、2024〉の答えを手書きで書き連ね、両手を首の後ろか背中で組む。</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://5219rayhsu.github.io/assets/img/answer/18-2400.jpg</image:loc>
+      <image:caption>《答案》シリーズ。モノクロ肖像。前面の胴体に〈化学、2023〉の試験問題を手書きで書き連ね、口に紙の巻物をくわえ、両手を顔の前で交差させる。</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://5219rayhsu.github.io/assets/img/answer/19-2400.jpg</image:loc>
+      <image:caption>《答案》シリーズ。モノクロ肖像。背面の胴体に〈化学、2023〉の答えを手書きで書き連ね、両手を首の後ろか背中で組む。</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://5219rayhsu.github.io/assets/img/answer/20-2400.jpg</image:loc>
+      <image:caption>《答案》シリーズ。モノクロ肖像。前面の胴体に〈生物、2022〉の試験問題を手書きで書き連ね、口に紙の巻物をくわえ、両手を顔の前で交差させる。</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://5219rayhsu.github.io/assets/img/answer/21-2400.jpg</image:loc>
+      <image:caption>《答案》シリーズ。モノクロ肖像。背面の胴体に〈生物、2022〉の答えを手書きで書き連ね、両手を首の後ろか背中で組む。</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://5219rayhsu.github.io/assets/img/answer/22-2400.jpg</image:loc>
+      <image:caption>《答案》シリーズ。モノクロ肖像。前面の胴体に〈地球科学、2024〉の試験問題を手書きで書き連ね、口に紙の巻物をくわえ、両手を顔の前で交差させる。</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://5219rayhsu.github.io/assets/img/answer/23-2400.jpg</image:loc>
+      <image:caption>《答案》シリーズ。モノクロ肖像。背面の胴体に〈地球科学、2024〉の答えを手書きで書き連ね、両手を首の後ろか背中で組む。</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://5219rayhsu.github.io/assets/img/answer/24-2400.jpg</image:loc>
+      <image:caption>《答案》シリーズ。モノクロ肖像。前面の胴体に〈作文、2019〉の試験問題を手書きで書き連ね、口に紙の巻物をくわえ、両手を顔の前で交差させる。</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://5219rayhsu.github.io/assets/img/answer/25-2400.jpg</image:loc>
+      <image:caption>《答案》シリーズ。モノクロ肖像。背面の胴体に〈作文、2019〉の答えを手書きで書き連ね、両手を首の後ろか背中で組む。</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://5219rayhsu.github.io/assets/img/qr-site.svg</image:loc>
+      <image:caption>許哲睿ウェブサイトの QR コード</image:caption>
+    </image:image>
   </url>
   <url>
     <loc>https://5219rayhsu.github.io/ja/works/chaos-body-shop/</loc>
-    <lastmod>2026-07-27</lastmod>
+    <lastmod>2026-08-28</lastmod>
+    <image:image>
+      <image:loc>https://5219rayhsu.github.io/assets/img/chaos-body-shop/hero.jpg</image:loc>
+      <image:caption>《無序身体販売所》写真コラージュ・シリーズ。神像とオブジェを並置したモノクロのコラージュ。</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://5219rayhsu.github.io/assets/img/chaos-body-shop/video-poster.jpg</image:loc>
+      <image:caption>《無序身体販売所》映像記録</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://5219rayhsu.github.io/assets/img/chaos-body-shop/collage-love-2400.jpg</image:loc>
+      <image:caption>Love as Battlefield ── 月下老人の像と兵士の像を並置したモノクロのコラージュ。</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://5219rayhsu.github.io/assets/img/chaos-body-shop/collage-education-2400.jpg</image:loc>
+      <image:caption>Education ≠ Wage Slave ── 二二八和平記念公園の孔子像と馬の彫刻を並置したモノクロのコラージュ。</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://5219rayhsu.github.io/assets/img/chaos-body-shop/collage-bodhisattva-2400.jpg</image:loc>
+      <image:caption>Does the Bodhisattva Suffer Aesthetic Anxiety? ── 弥勒菩薩の像と衣料店のマネキンを並置したモノクロのコラージュ。</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://5219rayhsu.github.io/assets/img/chaos-body-shop/collage-authority-2400.jpg</image:loc>
+      <image:caption>Authority Wrapped as Love ── 中正紀念堂の蒋中正坐像と、台北駅の〈父の愛〉彫刻を並置したモノクロのコラージュ。</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://5219rayhsu.github.io/assets/img/chaos-body-shop/collage-taiwan-2400.jpg</image:loc>
+      <image:caption>Taiwan Out of Step with Itself ── 国父紀念館の孫文坐像の頭部と足部を並置したモノクロのコラージュ。</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://5219rayhsu.github.io/assets/img/chaos-body-shop/id-01.jpg</image:loc>
+      <image:caption>作品ページ。注音符号で手写しした金剛般若経と、並ぶAI生成証明写真・神像。</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://5219rayhsu.github.io/assets/img/chaos-body-shop/id-02.jpg</image:loc>
+      <image:caption>作品ページ。経文と、密に並べられたAI生成の肖像。</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://5219rayhsu.github.io/assets/img/chaos-body-shop/id-03.jpg</image:loc>
+      <image:caption>作品ページ。注音符号順に再配列した経文とAI証明写真。</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://5219rayhsu.github.io/assets/img/chaos-body-shop/id-04.jpg</image:loc>
+      <image:caption>作品ページ。手写しの経文と、AI生成の宗教・民俗の人物。</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://5219rayhsu.github.io/assets/img/chaos-body-shop/id-05.jpg</image:loc>
+      <image:caption>作品ページ。経文と、映画・ゲーム・アニメの登場人物のAI証明写真。</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://5219rayhsu.github.io/assets/img/chaos-body-shop/id-06.jpg</image:loc>
+      <image:caption>作品ページ。多様な人物を混在させた、並ぶAI生成の肖像。</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://5219rayhsu.github.io/assets/img/chaos-body-shop/id-07.jpg</image:loc>
+      <image:caption>作品ページ。経文とAI生成の肖像、最後は政治指導者へ。</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://5219rayhsu.github.io/assets/img/chaos-body-shop/grid-01-2400.jpg</image:loc>
+      <image:caption>AI証明写真の一覧。密に並べられた生成の肖像。</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://5219rayhsu.github.io/assets/img/chaos-body-shop/grid-02.jpg</image:loc>
+      <image:caption>AI証明写真の縦の連なり。神々から現代の登場人物へと移り変わる。</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://5219rayhsu.github.io/assets/img/chaos-body-shop/work-01-2400.jpg</image:loc>
+      <image:caption>作品：《長大》。中央に白黒4×5判のセルフポートレート──眼鏡をかけ上半身裸の作家が片手に巻尺を持ち自らの身長（177.7cm）を測り、もう片方の手は路傍のガードレールの石柱（頂部に切れた針金が残る）を掴む──を配し、整数部分に対応する177枚の生成AI証明写真（各国の神々・著名人・アニメキャラクター）がその周囲を取り囲み、うち1枚は角を切り取られた本物のパスポート写真で0.7cmの端数を表す。背景は絡み合う枯れ枝。</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://5219rayhsu.github.io/assets/img/chaos-body-shop/work-02-2400.jpg</image:loc>
+      <image:caption>作品。展示会場の実際の様子。</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://5219rayhsu.github.io/assets/img/chaos-body-shop/work-04-2400.jpg</image:loc>
+      <image:caption>作品。AI生成証明写真のマトリクス。神々と現代の登場人物。</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://5219rayhsu.github.io/assets/img/chaos-body-shop/work-05-2400.jpg</image:loc>
+      <image:caption>作品。AI生成証明写真のマトリクス。映画・ゲーム・アニメの人物。</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://5219rayhsu.github.io/assets/img/chaos-body-shop/work-03-2400.jpg</image:loc>
+      <image:caption>作品。AI生成証明写真のマトリクス。宗教と政治の指導者。</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://5219rayhsu.github.io/assets/img/chaos-body-shop/work-09.jpg</image:loc>
+      <image:caption>《無序身体販売所》の題字の書。暗い地に白い筆致で書かれ、展示台に立てられている。</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://5219rayhsu.github.io/assets/img/chaos-body-shop/work-08.jpg</image:loc>
+      <image:caption>《金剛般若経・注音符号順の再配列》の実物の手写し本。広げられた折本の内側。</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://5219rayhsu.github.io/assets/img/chaos-body-shop/work-06.jpg</image:loc>
+      <image:caption>《金剛般若経・注音符号順の再配列》の実物の手写し本と木箱。黄色いラベルに書名。</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://5219rayhsu.github.io/assets/img/qr-site.svg</image:loc>
+      <image:caption>許哲睿ウェブサイトの QR コード</image:caption>
+    </image:image>
   </url>
   <url>
     <loc>https://5219rayhsu.github.io/ja/works/</loc>
-    <lastmod>2026-07-27</lastmod>
+    <lastmod>2026-08-28</lastmod>
+    <image:image>
+      <image:loc>https://5219rayhsu.github.io/assets/img/chaos-body-shop/when-i-grow-up-2400.jpg</image:loc>
+      <image:caption>《長大》：中央に白黒4×5判のセルフポートレート──眼鏡をかけ上半身裸の作家が片手に巻尺を持ち自らの身長（177.7cm）を測り、もう片方の手は路傍のガードレールの石柱（頂部に切れた針金が残る）を掴む──を配し、整数部分に対応する177枚の生成AI証明写真（各国の神々・著名人・アニメキャラクター）がその周囲を取り囲み、うち1枚は角を切り取られた本物のパスポート写真で0.7cmの端数を表す。背景は絡み合う枯れ枝。</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://5219rayhsu.github.io/assets/img/answer/01-2400.jpg</image:loc>
+      <image:caption>《答案》シリーズ〈試験マシン〉。紙を折った角帽をかぶり、胸に「100」と記したモノクロ肖像。</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://5219rayhsu.github.io/assets/img/medicine/01-2400.jpg</image:loc>
+      <image:caption>《心薬》シリーズ。数珠と鎖の装飾を手にし、大げさな表情を浮かべるモノクロ肖像。</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://5219rayhsu.github.io/assets/img/qr-site.svg</image:loc>
+      <image:caption>許哲睿ウェブサイトの QR コード</image:caption>
+    </image:image>
   </url>
   <url>
     <loc>https://5219rayhsu.github.io/ja/works/medicine/</loc>
-    <lastmod>2026-07-27</lastmod>
+    <lastmod>2026-08-06</lastmod>
+    <image:image>
+      <image:loc>https://5219rayhsu.github.io/assets/img/medicine/01-2400.jpg</image:loc>
+      <image:caption>《心薬》シリーズ。数珠と鎖の装飾を手にし、大げさな表情を浮かべるモノクロ肖像。</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://5219rayhsu.github.io/assets/img/medicine/02.jpg</image:loc>
+      <image:caption>《心薬》タロットカード 大アルカナ 0．愚者：AI生成のタロット挿画。</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://5219rayhsu.github.io/assets/img/medicine/03.jpg</image:loc>
+      <image:caption>《心薬》タロットカード 大アルカナ I．魔術師：AI生成のタロット挿画。</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://5219rayhsu.github.io/assets/img/medicine/04.jpg</image:loc>
+      <image:caption>《心薬》タロットカード 大アルカナ II．女教皇：AI生成のタロット挿画。</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://5219rayhsu.github.io/assets/img/medicine/05.jpg</image:loc>
+      <image:caption>《心薬》タロットカード 大アルカナ III．女帝：AI生成のタロット挿画。</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://5219rayhsu.github.io/assets/img/medicine/06.jpg</image:loc>
+      <image:caption>《心薬》タロットカード 大アルカナ IV．皇帝：AI生成のタロット挿画。</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://5219rayhsu.github.io/assets/img/medicine/07.jpg</image:loc>
+      <image:caption>《心薬》タロットカード 大アルカナ V．教皇：AI生成のタロット挿画。</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://5219rayhsu.github.io/assets/img/medicine/08.jpg</image:loc>
+      <image:caption>《心薬》タロットカード 大アルカナ VI．恋人：AI生成のタロット挿画。</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://5219rayhsu.github.io/assets/img/medicine/09.jpg</image:loc>
+      <image:caption>《心薬》タロットカード 大アルカナ VII．戦車：AI生成のタロット挿画。</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://5219rayhsu.github.io/assets/img/medicine/10.jpg</image:loc>
+      <image:caption>《心薬》タロットカード 大アルカナ VIII．力：AI生成のタロット挿画。</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://5219rayhsu.github.io/assets/img/medicine/11.jpg</image:loc>
+      <image:caption>《心薬》タロットカード 大アルカナ IX．隠者：AI生成のタロット挿画。</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://5219rayhsu.github.io/assets/img/medicine/12.jpg</image:loc>
+      <image:caption>《心薬》タロットカード 大アルカナ X．運命の輪：AI生成のタロット挿画。</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://5219rayhsu.github.io/assets/img/medicine/13.jpg</image:loc>
+      <image:caption>《心薬》タロットカード 大アルカナ XI．正義：AI生成のタロット挿画。</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://5219rayhsu.github.io/assets/img/medicine/14.jpg</image:loc>
+      <image:caption>《心薬》タロットカード 大アルカナ XII．吊るされた男：AI生成のタロット挿画。</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://5219rayhsu.github.io/assets/img/medicine/15.jpg</image:loc>
+      <image:caption>《心薬》タロットカード 大アルカナ XIII．死神：AI生成のタロット挿画。</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://5219rayhsu.github.io/assets/img/medicine/16.jpg</image:loc>
+      <image:caption>《心薬》タロットカード 大アルカナ XIV．節制：AI生成のタロット挿画。</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://5219rayhsu.github.io/assets/img/medicine/17.jpg</image:loc>
+      <image:caption>《心薬》タロットカード 大アルカナ XV．悪魔：AI生成のタロット挿画。</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://5219rayhsu.github.io/assets/img/medicine/18.jpg</image:loc>
+      <image:caption>《心薬》タロットカード 大アルカナ XVI．塔：AI生成のタロット挿画。</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://5219rayhsu.github.io/assets/img/medicine/19.jpg</image:loc>
+      <image:caption>《心薬》タロットカード 大アルカナ XVII．星：AI生成のタロット挿画。</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://5219rayhsu.github.io/assets/img/medicine/20.jpg</image:loc>
+      <image:caption>《心薬》タロットカード 大アルカナ XVIII．月：AI生成のタロット挿画。</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://5219rayhsu.github.io/assets/img/medicine/21.jpg</image:loc>
+      <image:caption>《心薬》タロットカード 大アルカナ XIX．太陽：AI生成のタロット挿画。</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://5219rayhsu.github.io/assets/img/medicine/22.jpg</image:loc>
+      <image:caption>《心薬》タロットカード 大アルカナ XX．審判：AI生成のタロット挿画。</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://5219rayhsu.github.io/assets/img/medicine/23.jpg</image:loc>
+      <image:caption>《心薬》タロットカード 大アルカナ XXI．世界：AI生成のタロット挿画。</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://5219rayhsu.github.io/assets/img/medicine/24.jpg</image:loc>
+      <image:caption>《心薬》タロットカード 小アルカナ・ワンドのエース：AI生成のタロット挿画。</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://5219rayhsu.github.io/assets/img/medicine/25.jpg</image:loc>
+      <image:caption>《心薬》タロットカード 小アルカナ・ワンドの2：AI生成のタロット挿画。</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://5219rayhsu.github.io/assets/img/medicine/26.jpg</image:loc>
+      <image:caption>《心薬》タロットカード 小アルカナ・ワンドの3：AI生成のタロット挿画。</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://5219rayhsu.github.io/assets/img/medicine/27.jpg</image:loc>
+      <image:caption>《心薬》タロットカード 小アルカナ・ワンドの4：AI生成のタロット挿画。</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://5219rayhsu.github.io/assets/img/medicine/28.jpg</image:loc>
+      <image:caption>《心薬》タロットカード 小アルカナ・ワンドの5：AI生成のタロット挿画。</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://5219rayhsu.github.io/assets/img/medicine/29.jpg</image:loc>
+      <image:caption>《心薬》タロットカード 小アルカナ・ワンドの6：AI生成のタロット挿画。</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://5219rayhsu.github.io/assets/img/medicine/30.jpg</image:loc>
+      <image:caption>《心薬》タロットカード 小アルカナ・ワンドの7：AI生成のタロット挿画。</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://5219rayhsu.github.io/assets/img/medicine/31.jpg</image:loc>
+      <image:caption>《心薬》タロットカード 小アルカナ・ワンドの8：AI生成のタロット挿画。</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://5219rayhsu.github.io/assets/img/medicine/32.jpg</image:loc>
+      <image:caption>《心薬》タロットカード 小アルカナ・ワンドの9：AI生成のタロット挿画。</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://5219rayhsu.github.io/assets/img/medicine/33.jpg</image:loc>
+      <image:caption>《心薬》タロットカード 小アルカナ・ワンドの10：AI生成のタロット挿画。</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://5219rayhsu.github.io/assets/img/medicine/34.jpg</image:loc>
+      <image:caption>《心薬》タロットカード 小アルカナ・ワンドのペイジ：AI生成のタロット挿画。</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://5219rayhsu.github.io/assets/img/medicine/35.jpg</image:loc>
+      <image:caption>《心薬》タロットカード 小アルカナ・ワンドのナイト：AI生成のタロット挿画。</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://5219rayhsu.github.io/assets/img/medicine/36.jpg</image:loc>
+      <image:caption>《心薬》タロットカード 小アルカナ・ワンドのクイーン：AI生成のタロット挿画。</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://5219rayhsu.github.io/assets/img/medicine/37.jpg</image:loc>
+      <image:caption>《心薬》タロットカード 小アルカナ・ワンドのキング：AI生成のタロット挿画。</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://5219rayhsu.github.io/assets/img/medicine/38.jpg</image:loc>
+      <image:caption>《心薬》タロットカード 小アルカナ・ソードのエース：AI生成のタロット挿画。</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://5219rayhsu.github.io/assets/img/medicine/39.jpg</image:loc>
+      <image:caption>《心薬》タロットカード 小アルカナ・ソードの2：AI生成のタロット挿画。</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://5219rayhsu.github.io/assets/img/medicine/40.jpg</image:loc>
+      <image:caption>《心薬》タロットカード 小アルカナ・ソードの3：AI生成のタロット挿画。</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://5219rayhsu.github.io/assets/img/medicine/41.jpg</image:loc>
+      <image:caption>《心薬》タロットカード 小アルカナ・ソードの4：AI生成のタロット挿画。</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://5219rayhsu.github.io/assets/img/medicine/42.jpg</image:loc>
+      <image:caption>《心薬》タロットカード 小アルカナ・ソードの5：AI生成のタロット挿画。</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://5219rayhsu.github.io/assets/img/medicine/43.jpg</image:loc>
+      <image:caption>《心薬》タロットカード 小アルカナ・ソードの6：AI生成のタロット挿画。</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://5219rayhsu.github.io/assets/img/medicine/44.jpg</image:loc>
+      <image:caption>《心薬》タロットカード 小アルカナ・ソードの7：AI生成のタロット挿画。</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://5219rayhsu.github.io/assets/img/medicine/45.jpg</image:loc>
+      <image:caption>《心薬》タロットカード 小アルカナ・ソードの8：AI生成のタロット挿画。</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://5219rayhsu.github.io/assets/img/medicine/46.jpg</image:loc>
+      <image:caption>《心薬》タロットカード 小アルカナ・ソードの9：AI生成のタロット挿画。</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://5219rayhsu.github.io/assets/img/medicine/47.jpg</image:loc>
+      <image:caption>《心薬》タロットカード 小アルカナ・ソードの10：AI生成のタロット挿画。</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://5219rayhsu.github.io/assets/img/medicine/48.jpg</image:loc>
+      <image:caption>《心薬》タロットカード 小アルカナ・ソードのペイジ：AI生成のタロット挿画。</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://5219rayhsu.github.io/assets/img/medicine/49.jpg</image:loc>
+      <image:caption>《心薬》タロットカード 小アルカナ・ソードのナイト：AI生成のタロット挿画。</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://5219rayhsu.github.io/assets/img/medicine/50.jpg</image:loc>
+      <image:caption>《心薬》タロットカード 小アルカナ・ソードのクイーン：AI生成のタロット挿画。</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://5219rayhsu.github.io/assets/img/medicine/51.jpg</image:loc>
+      <image:caption>《心薬》タロットカード 小アルカナ・ソードのキング：AI生成のタロット挿画。</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://5219rayhsu.github.io/assets/img/medicine/52.jpg</image:loc>
+      <image:caption>《心薬》タロットカード 小アルカナ・ペンタクルのエース：AI生成のタロット挿画。</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://5219rayhsu.github.io/assets/img/medicine/53.jpg</image:loc>
+      <image:caption>《心薬》タロットカード 小アルカナ・ペンタクルの2：AI生成のタロット挿画。</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://5219rayhsu.github.io/assets/img/medicine/54.jpg</image:loc>
+      <image:caption>《心薬》タロットカード 小アルカナ・ペンタクルの3：AI生成のタロット挿画。</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://5219rayhsu.github.io/assets/img/medicine/55.jpg</image:loc>
+      <image:caption>《心薬》タロットカード 小アルカナ・ペンタクルの4：AI生成のタロット挿画。</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://5219rayhsu.github.io/assets/img/medicine/56.jpg</image:loc>
+      <image:caption>《心薬》タロットカード 小アルカナ・ペンタクルの5：AI生成のタロット挿画。</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://5219rayhsu.github.io/assets/img/medicine/57.jpg</image:loc>
+      <image:caption>《心薬》タロットカード 小アルカナ・ペンタクルの6：AI生成のタロット挿画。</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://5219rayhsu.github.io/assets/img/medicine/58.jpg</image:loc>
+      <image:caption>《心薬》タロットカード 小アルカナ・ペンタクルの7：AI生成のタロット挿画。</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://5219rayhsu.github.io/assets/img/medicine/59.jpg</image:loc>
+      <image:caption>《心薬》タロットカード 小アルカナ・ペンタクルの8：AI生成のタロット挿画。</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://5219rayhsu.github.io/assets/img/medicine/60.jpg</image:loc>
+      <image:caption>《心薬》タロットカード 小アルカナ・ペンタクルの9：AI生成のタロット挿画。</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://5219rayhsu.github.io/assets/img/medicine/61.jpg</image:loc>
+      <image:caption>《心薬》タロットカード 小アルカナ・ペンタクルの10：AI生成のタロット挿画。</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://5219rayhsu.github.io/assets/img/medicine/62.jpg</image:loc>
+      <image:caption>《心薬》タロットカード 小アルカナ・ペンタクルのペイジ：AI生成のタロット挿画。</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://5219rayhsu.github.io/assets/img/medicine/63.jpg</image:loc>
+      <image:caption>《心薬》タロットカード 小アルカナ・ペンタクルのナイト：AI生成のタロット挿画。</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://5219rayhsu.github.io/assets/img/medicine/64.jpg</image:loc>
+      <image:caption>《心薬》タロットカード 小アルカナ・ペンタクルのクイーン：AI生成のタロット挿画。</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://5219rayhsu.github.io/assets/img/medicine/65.jpg</image:loc>
+      <image:caption>《心薬》タロットカード 小アルカナ・ペンタクルのキング：AI生成のタロット挿画。</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://5219rayhsu.github.io/assets/img/medicine/66.jpg</image:loc>
+      <image:caption>《心薬》タロットカード 小アルカナ・カップのエース：AI生成のタロット挿画。</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://5219rayhsu.github.io/assets/img/medicine/67.jpg</image:loc>
+      <image:caption>《心薬》タロットカード 小アルカナ・カップの2：AI生成のタロット挿画。</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://5219rayhsu.github.io/assets/img/medicine/68.jpg</image:loc>
+      <image:caption>《心薬》タロットカード 小アルカナ・カップの3：AI生成のタロット挿画。</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://5219rayhsu.github.io/assets/img/medicine/69.jpg</image:loc>
+      <image:caption>《心薬》タロットカード 小アルカナ・カップの4：AI生成のタロット挿画。</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://5219rayhsu.github.io/assets/img/medicine/70.jpg</image:loc>
+      <image:caption>《心薬》タロットカード 小アルカナ・カップの5：AI生成のタロット挿画。</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://5219rayhsu.github.io/assets/img/medicine/71.jpg</image:loc>
+      <image:caption>《心薬》タロットカード 小アルカナ・カップの6：AI生成のタロット挿画。</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://5219rayhsu.github.io/assets/img/medicine/72.jpg</image:loc>
+      <image:caption>《心薬》タロットカード 小アルカナ・カップの7：AI生成のタロット挿画。</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://5219rayhsu.github.io/assets/img/medicine/73.jpg</image:loc>
+      <image:caption>《心薬》タロットカード 小アルカナ・カップの8：AI生成のタロット挿画。</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://5219rayhsu.github.io/assets/img/medicine/74.jpg</image:loc>
+      <image:caption>《心薬》タロットカード 小アルカナ・カップの9：AI生成のタロット挿画。</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://5219rayhsu.github.io/assets/img/medicine/75.jpg</image:loc>
+      <image:caption>《心薬》タロットカード 小アルカナ・カップの10：AI生成のタロット挿画。</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://5219rayhsu.github.io/assets/img/medicine/76.jpg</image:loc>
+      <image:caption>《心薬》タロットカード 小アルカナ・カップのペイジ：AI生成のタロット挿画。</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://5219rayhsu.github.io/assets/img/medicine/77.jpg</image:loc>
+      <image:caption>《心薬》タロットカード 小アルカナ・カップのナイト：AI生成のタロット挿画。</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://5219rayhsu.github.io/assets/img/medicine/78.jpg</image:loc>
+      <image:caption>《心薬》タロットカード 小アルカナ・カップのクイーン：AI生成のタロット挿画。</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://5219rayhsu.github.io/assets/img/medicine/79.jpg</image:loc>
+      <image:caption>《心薬》タロットカード 小アルカナ・カップのキング：AI生成のタロット挿画。</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://5219rayhsu.github.io/assets/img/qr-site.svg</image:loc>
+      <image:caption>許哲睿ウェブサイトの QR コード</image:caption>
+    </image:image>
   </url>
   <url>
     <loc>https://5219rayhsu.github.io/texts/contemplating-the-self/</loc>
     <lastmod>2026-07-27</lastmod>
+    <image:image>
+      <image:loc>https://5219rayhsu.github.io/assets/img/texts/contemplating-the-self/01.jpg</image:loc>
+      <image:caption>從左至右：許哲睿、呂筱渝、姜麗華、楊鎮豪，合影於基隆中正公園。</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://5219rayhsu.github.io/assets/img/qr-site.svg</image:loc>
+      <image:caption>許哲睿個人網站 QR 圖碼</image:caption>
+    </image:image>
   </url>
   <url>
     <loc>https://5219rayhsu.github.io/texts/critique/</loc>
     <lastmod>2026-07-28</lastmod>
+    <image:image>
+      <image:loc>https://5219rayhsu.github.io/assets/img/qr-site.svg</image:loc>
+      <image:caption>許哲睿個人網站 QR 圖碼</image:caption>
+    </image:image>
   </url>
   <url>
     <loc>https://5219rayhsu.github.io/texts/</loc>
     <lastmod>2026-07-27</lastmod>
+    <image:image>
+      <image:loc>https://5219rayhsu.github.io/assets/img/qr-site.svg</image:loc>
+      <image:caption>許哲睿個人網站 QR 圖碼</image:caption>
+    </image:image>
   </url>
   <url>
     <loc>https://5219rayhsu.github.io/works/answer/</loc>
-    <lastmod>2026-07-27</lastmod>
+    <lastmod>2026-08-06</lastmod>
+    <image:image>
+      <image:loc>https://5219rayhsu.github.io/assets/img/answer/01-2400.jpg</image:loc>
+      <image:caption>《答案》系列〈考試機器〉：戴著紙摺方帽、胸前寫著「100」的黑白肖像。</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://5219rayhsu.github.io/assets/img/answer/02-2400.jpg</image:loc>
+      <image:caption>《答案》系列：黑白肖像，正面軀幹寫滿〈國防，2029〉考題手寫文字，口中塞著紙捲，雙手於臉部前交疊。</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://5219rayhsu.github.io/assets/img/answer/03-2400.jpg</image:loc>
+      <image:caption>《答案》系列：黑白肖像，背面軀幹寫滿〈國防，2029〉考題手寫解答，雙手於頸後或背後交扣。</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://5219rayhsu.github.io/assets/img/answer/04-2400.jpg</image:loc>
+      <image:caption>《答案》系列：黑白肖像，正面軀幹寫滿〈國文，2022、2023、2024〉考題手寫文字，口中塞著紙捲，雙手於臉部前交疊。</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://5219rayhsu.github.io/assets/img/answer/05-2400.jpg</image:loc>
+      <image:caption>《答案》系列：黑白肖像，背面軀幹寫滿〈國文，2022、2023、2024〉考題手寫解答，雙手於頸後或背後交扣。</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://5219rayhsu.github.io/assets/img/answer/06-2400.jpg</image:loc>
+      <image:caption>《答案》系列：黑白肖像，正面軀幹寫滿〈數學，2022〉考題手寫文字，口中塞著紙捲，雙手於臉部前交疊。</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://5219rayhsu.github.io/assets/img/answer/07-2400.jpg</image:loc>
+      <image:caption>《答案》系列：黑白肖像，背面軀幹寫滿〈數學，2022〉考題手寫解答，雙手於頸後或背後交扣。</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://5219rayhsu.github.io/assets/img/answer/08-2400.jpg</image:loc>
+      <image:caption>《答案》系列：黑白肖像，正面軀幹寫滿〈英文，2022、2023、2024〉考題手寫文字，口中塞著紙捲，雙手於臉部前交疊。</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://5219rayhsu.github.io/assets/img/answer/09-2400.jpg</image:loc>
+      <image:caption>《答案》系列：黑白肖像，背面軀幹寫滿〈英文，2022、2023、2024〉考題手寫解答，雙手於頸後或背後交扣。</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://5219rayhsu.github.io/assets/img/answer/10-2400.jpg</image:loc>
+      <image:caption>《答案》系列：黑白肖像，正面軀幹寫滿〈歷史，2024〉考題手寫文字，口中塞著紙捲，雙手於臉部前交疊。</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://5219rayhsu.github.io/assets/img/answer/11-2400.jpg</image:loc>
+      <image:caption>《答案》系列：黑白肖像，背面軀幹寫滿〈歷史，2024〉考題手寫解答，雙手於頸後或背後交扣。</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://5219rayhsu.github.io/assets/img/answer/12-2400.jpg</image:loc>
+      <image:caption>《答案》系列：黑白肖像，正面軀幹寫滿〈地理，2023〉考題手寫文字，口中塞著紙捲，雙手於臉部前交疊。</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://5219rayhsu.github.io/assets/img/answer/13-2400.jpg</image:loc>
+      <image:caption>《答案》系列：黑白肖像，背面軀幹寫滿〈地理，2023〉考題手寫解答，雙手於頸後或背後交扣。</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://5219rayhsu.github.io/assets/img/answer/14-2400.jpg</image:loc>
+      <image:caption>《答案》系列：黑白肖像，正面軀幹寫滿〈公民與社會，2029〉考題手寫文字，口中塞著紙捲，雙手於臉部前交疊。</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://5219rayhsu.github.io/assets/img/answer/15-2400.jpg</image:loc>
+      <image:caption>《答案》系列：黑白肖像，背面軀幹寫滿〈公民與社會，2029〉考題手寫解答，雙手於頸後或背後交扣。</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://5219rayhsu.github.io/assets/img/answer/16-2400.jpg</image:loc>
+      <image:caption>《答案》系列：黑白肖像，正面軀幹寫滿〈物理，2024〉考題手寫文字，口中塞著紙捲，雙手於臉部前交疊。</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://5219rayhsu.github.io/assets/img/answer/17-2400.jpg</image:loc>
+      <image:caption>《答案》系列：黑白肖像，背面軀幹寫滿〈物理，2024〉考題手寫解答，雙手於頸後或背後交扣。</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://5219rayhsu.github.io/assets/img/answer/18-2400.jpg</image:loc>
+      <image:caption>《答案》系列：黑白肖像，正面軀幹寫滿〈化學，2023〉考題手寫文字，口中塞著紙捲，雙手於臉部前交疊。</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://5219rayhsu.github.io/assets/img/answer/19-2400.jpg</image:loc>
+      <image:caption>《答案》系列：黑白肖像，背面軀幹寫滿〈化學，2023〉考題手寫解答，雙手於頸後或背後交扣。</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://5219rayhsu.github.io/assets/img/answer/20-2400.jpg</image:loc>
+      <image:caption>《答案》系列：黑白肖像，正面軀幹寫滿〈生物，2022〉考題手寫文字，口中塞著紙捲，雙手於臉部前交疊。</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://5219rayhsu.github.io/assets/img/answer/21-2400.jpg</image:loc>
+      <image:caption>《答案》系列：黑白肖像，背面軀幹寫滿〈生物，2022〉考題手寫解答，雙手於頸後或背後交扣。</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://5219rayhsu.github.io/assets/img/answer/22-2400.jpg</image:loc>
+      <image:caption>《答案》系列：黑白肖像，正面軀幹寫滿〈地球科學，2024〉考題手寫文字，口中塞著紙捲，雙手於臉部前交疊。</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://5219rayhsu.github.io/assets/img/answer/23-2400.jpg</image:loc>
+      <image:caption>《答案》系列：黑白肖像，背面軀幹寫滿〈地球科學，2024〉考題手寫解答，雙手於頸後或背後交扣。</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://5219rayhsu.github.io/assets/img/answer/24-2400.jpg</image:loc>
+      <image:caption>《答案》系列：黑白肖像，正面軀幹寫滿〈作文，2019〉考題手寫文字，口中塞著紙捲，雙手於臉部前交疊。</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://5219rayhsu.github.io/assets/img/answer/25-2400.jpg</image:loc>
+      <image:caption>《答案》系列：黑白肖像，背面軀幹寫滿〈作文，2019〉考題手寫解答，雙手於頸後或背後交扣。</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://5219rayhsu.github.io/assets/img/qr-site.svg</image:loc>
+      <image:caption>許哲睿個人網站 QR 圖碼</image:caption>
+    </image:image>
   </url>
   <url>
     <loc>https://5219rayhsu.github.io/works/chaos-body-shop/</loc>
-    <lastmod>2026-07-27</lastmod>
+    <lastmod>2026-08-28</lastmod>
+    <image:image>
+      <image:loc>https://5219rayhsu.github.io/assets/img/chaos-body-shop/hero.jpg</image:loc>
+      <image:caption>《無序身體販賣所》攝影拼貼系列：神像與物件並置的黑白拼貼。</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://5219rayhsu.github.io/assets/img/chaos-body-shop/video-poster.jpg</image:loc>
+      <image:caption>《無序身體販賣所》影像紀錄短片</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://5219rayhsu.github.io/assets/img/chaos-body-shop/collage-love-2400.jpg</image:loc>
+      <image:caption>Love as Battlefield — Yue Lao statue and a soldier statue.</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://5219rayhsu.github.io/assets/img/chaos-body-shop/collage-education-2400.jpg</image:loc>
+      <image:caption>Education ≠ Wage Slave — Confucius statue and a horse sculpture at 228 Peace Memorial Park.</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://5219rayhsu.github.io/assets/img/chaos-body-shop/collage-bodhisattva-2400.jpg</image:loc>
+      <image:caption>Does the Bodhisattva Suffer Aesthetic Anxiety? — Maitreya Buddha statue and a clothing-store mannequin.</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://5219rayhsu.github.io/assets/img/chaos-body-shop/collage-authority-2400.jpg</image:loc>
+      <image:caption>Authority Wrapped as Love — Chiang Kai-shek seated statue and the Paternal Love sculpture at Taipei Main Station.</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://5219rayhsu.github.io/assets/img/chaos-body-shop/collage-taiwan-2400.jpg</image:loc>
+      <image:caption>Taiwan Out of Step with Itself — Sun Yat-sen seated statue, head and feet.</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://5219rayhsu.github.io/assets/img/chaos-body-shop/id-01.jpg</image:loc>
+      <image:caption>作品頁：手抄金剛經注音與成排 AI 生成證件照、神像並置。</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://5219rayhsu.github.io/assets/img/chaos-body-shop/id-02.jpg</image:loc>
+      <image:caption>作品頁：經文與密集排列的 AI 生成肖像。</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://5219rayhsu.github.io/assets/img/chaos-body-shop/id-03.jpg</image:loc>
+      <image:caption>作品頁：注音重排經文與 AI 證件照。</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://5219rayhsu.github.io/assets/img/chaos-body-shop/id-04.jpg</image:loc>
+      <image:caption>作品頁：手抄經文與 AI 生成的宗教、民俗人物。</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://5219rayhsu.github.io/assets/img/chaos-body-shop/id-05.jpg</image:loc>
+      <image:caption>作品頁：經文與電影、電玩、動漫角色的 AI 證件照。</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://5219rayhsu.github.io/assets/img/chaos-body-shop/id-06.jpg</image:loc>
+      <image:caption>作品頁：成排 AI 生成肖像，混合多元角色。</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://5219rayhsu.github.io/assets/img/chaos-body-shop/id-07.jpg</image:loc>
+      <image:caption>作品頁：經文與 AI 生成肖像，終於政治領袖。</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://5219rayhsu.github.io/assets/img/chaos-body-shop/grid-01-2400.jpg</image:loc>
+      <image:caption>AI 證件照排版，密集排列的生成肖像。</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://5219rayhsu.github.io/assets/img/chaos-body-shop/grid-02.jpg</image:loc>
+      <image:caption>AI 證件照直幅序列，由神祇漸變至當代角色。</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://5219rayhsu.github.io/assets/img/chaos-body-shop/work-01-2400.jpg</image:loc>
+      <image:caption>作品：《長大》，中央為黑白 4×5 自拍，赤裸上身、戴眼鏡的藝術家一手持捲尺丈量自身身高（177.7 公分），另一手扶著路邊圍欄的石柱（柱頭殘留斷裂鐵絲網），四周環繞 177 張對應整數部分生成的 AI 身份證件照（各國神祇、名人與動漫角色），其中一張是剪去一角的真實護照照片，代表小數點後的 0.7 公分，背景為密布交錯的樹枝。</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://5219rayhsu.github.io/assets/img/chaos-body-shop/work-02-2400.jpg</image:loc>
+      <image:caption>作品：展場展出實況。</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://5219rayhsu.github.io/assets/img/chaos-body-shop/work-04-2400.jpg</image:loc>
+      <image:caption>作品：AI 生成證件照矩陣，神祇與當代角色。</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://5219rayhsu.github.io/assets/img/chaos-body-shop/work-05-2400.jpg</image:loc>
+      <image:caption>作品：AI 生成證件照矩陣，電影、電玩與動漫人物。</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://5219rayhsu.github.io/assets/img/chaos-body-shop/work-03-2400.jpg</image:loc>
+      <image:caption>作品：AI 生成證件照矩陣，宗教與政治領袖。</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://5219rayhsu.github.io/assets/img/chaos-body-shop/work-09.jpg</image:loc>
+      <image:caption>《無序身體販賣所》題名書法，白色筆觸書於深色底，立於展台。</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://5219rayhsu.github.io/assets/img/chaos-body-shop/work-08.jpg</image:loc>
+      <image:caption>《金剛經注音重排》實體手抄本，攤開的經摺裝內頁。</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://5219rayhsu.github.io/assets/img/chaos-body-shop/work-06.jpg</image:loc>
+      <image:caption>《金剛經注音重排》實體手抄本與木盒，黃色標籤書名。</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://5219rayhsu.github.io/assets/img/qr-site.svg</image:loc>
+      <image:caption>許哲睿個人網站 QR 圖碼</image:caption>
+    </image:image>
   </url>
   <url>
     <loc>https://5219rayhsu.github.io/works/</loc>
-    <lastmod>2026-07-27</lastmod>
+    <lastmod>2026-08-28</lastmod>
+    <image:image>
+      <image:loc>https://5219rayhsu.github.io/assets/img/chaos-body-shop/when-i-grow-up-2400.jpg</image:loc>
+      <image:caption>《長大》：中央為黑白 4×5 自拍，赤裸上身、戴眼鏡的藝術家一手持捲尺丈量自身身高（177.7 公分），另一手扶著路邊圍欄的石柱（柱頭殘留斷裂鐵絲網），四周環繞 177 張對應整數部分生成的 AI 身份證件照（各國神祇、名人與動漫角色），其中一張是剪去一角的真實護照照片，代表小數點後的 0.7 公分，背景為密布交錯的樹枝。</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://5219rayhsu.github.io/assets/img/answer/01-2400.jpg</image:loc>
+      <image:caption>《答案》系列〈考試機器〉：戴著紙摺方帽、胸前寫著「100」的黑白肖像。</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://5219rayhsu.github.io/assets/img/medicine/01-2400.jpg</image:loc>
+      <image:caption>《心藥》系列：手持念珠與鏈飾、表情誇張的黑白肖像。</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://5219rayhsu.github.io/assets/img/qr-site.svg</image:loc>
+      <image:caption>許哲睿個人網站 QR 圖碼</image:caption>
+    </image:image>
   </url>
   <url>
     <loc>https://5219rayhsu.github.io/works/medicine/</loc>
-    <lastmod>2026-07-27</lastmod>
+    <lastmod>2026-08-06</lastmod>
+    <image:image>
+      <image:loc>https://5219rayhsu.github.io/assets/img/medicine/01-2400.jpg</image:loc>
+      <image:caption>《心藥》系列：手持念珠與鏈飾、表情誇張的黑白肖像。</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://5219rayhsu.github.io/assets/img/medicine/02.jpg</image:loc>
+      <image:caption>《心藥》塔羅牌大阿爾克那 0．愚者：AI 生成塔羅牌插畫。</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://5219rayhsu.github.io/assets/img/medicine/03.jpg</image:loc>
+      <image:caption>《心藥》塔羅牌大阿爾克那 I．魔術師：AI 生成塔羅牌插畫。</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://5219rayhsu.github.io/assets/img/medicine/04.jpg</image:loc>
+      <image:caption>《心藥》塔羅牌大阿爾克那 II．女祭司：AI 生成塔羅牌插畫。</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://5219rayhsu.github.io/assets/img/medicine/05.jpg</image:loc>
+      <image:caption>《心藥》塔羅牌大阿爾克那 III．皇后：AI 生成塔羅牌插畫。</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://5219rayhsu.github.io/assets/img/medicine/06.jpg</image:loc>
+      <image:caption>《心藥》塔羅牌大阿爾克那 IV．皇帝：AI 生成塔羅牌插畫。</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://5219rayhsu.github.io/assets/img/medicine/07.jpg</image:loc>
+      <image:caption>《心藥》塔羅牌大阿爾克那 V．教皇：AI 生成塔羅牌插畫。</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://5219rayhsu.github.io/assets/img/medicine/08.jpg</image:loc>
+      <image:caption>《心藥》塔羅牌大阿爾克那 VI．戀人：AI 生成塔羅牌插畫。</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://5219rayhsu.github.io/assets/img/medicine/09.jpg</image:loc>
+      <image:caption>《心藥》塔羅牌大阿爾克那 VII．戰車：AI 生成塔羅牌插畫。</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://5219rayhsu.github.io/assets/img/medicine/10.jpg</image:loc>
+      <image:caption>《心藥》塔羅牌大阿爾克那 VIII．力量：AI 生成塔羅牌插畫。</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://5219rayhsu.github.io/assets/img/medicine/11.jpg</image:loc>
+      <image:caption>《心藥》塔羅牌大阿爾克那 IX．隱者：AI 生成塔羅牌插畫。</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://5219rayhsu.github.io/assets/img/medicine/12.jpg</image:loc>
+      <image:caption>《心藥》塔羅牌大阿爾克那 X．命運之輪：AI 生成塔羅牌插畫。</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://5219rayhsu.github.io/assets/img/medicine/13.jpg</image:loc>
+      <image:caption>《心藥》塔羅牌大阿爾克那 XI．正義：AI 生成塔羅牌插畫。</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://5219rayhsu.github.io/assets/img/medicine/14.jpg</image:loc>
+      <image:caption>《心藥》塔羅牌大阿爾克那 XII．吊人：AI 生成塔羅牌插畫。</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://5219rayhsu.github.io/assets/img/medicine/15.jpg</image:loc>
+      <image:caption>《心藥》塔羅牌大阿爾克那 XIII．死神：AI 生成塔羅牌插畫。</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://5219rayhsu.github.io/assets/img/medicine/16.jpg</image:loc>
+      <image:caption>《心藥》塔羅牌大阿爾克那 XIV．節制：AI 生成塔羅牌插畫。</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://5219rayhsu.github.io/assets/img/medicine/17.jpg</image:loc>
+      <image:caption>《心藥》塔羅牌大阿爾克那 XV．惡魔：AI 生成塔羅牌插畫。</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://5219rayhsu.github.io/assets/img/medicine/18.jpg</image:loc>
+      <image:caption>《心藥》塔羅牌大阿爾克那 XVI．高塔：AI 生成塔羅牌插畫。</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://5219rayhsu.github.io/assets/img/medicine/19.jpg</image:loc>
+      <image:caption>《心藥》塔羅牌大阿爾克那 XVII．星星：AI 生成塔羅牌插畫。</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://5219rayhsu.github.io/assets/img/medicine/20.jpg</image:loc>
+      <image:caption>《心藥》塔羅牌大阿爾克那 XVIII．月亮：AI 生成塔羅牌插畫。</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://5219rayhsu.github.io/assets/img/medicine/21.jpg</image:loc>
+      <image:caption>《心藥》塔羅牌大阿爾克那 XIX．太陽：AI 生成塔羅牌插畫。</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://5219rayhsu.github.io/assets/img/medicine/22.jpg</image:loc>
+      <image:caption>《心藥》塔羅牌大阿爾克那 XX．審判：AI 生成塔羅牌插畫。</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://5219rayhsu.github.io/assets/img/medicine/23.jpg</image:loc>
+      <image:caption>《心藥》塔羅牌大阿爾克那 XXI．世界：AI 生成塔羅牌插畫。</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://5219rayhsu.github.io/assets/img/medicine/24.jpg</image:loc>
+      <image:caption>《心藥》塔羅牌小阿爾克那．權杖王牌：AI 生成塔羅牌插畫。</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://5219rayhsu.github.io/assets/img/medicine/25.jpg</image:loc>
+      <image:caption>《心藥》塔羅牌小阿爾克那．權杖二：AI 生成塔羅牌插畫。</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://5219rayhsu.github.io/assets/img/medicine/26.jpg</image:loc>
+      <image:caption>《心藥》塔羅牌小阿爾克那．權杖三：AI 生成塔羅牌插畫。</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://5219rayhsu.github.io/assets/img/medicine/27.jpg</image:loc>
+      <image:caption>《心藥》塔羅牌小阿爾克那．權杖四：AI 生成塔羅牌插畫。</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://5219rayhsu.github.io/assets/img/medicine/28.jpg</image:loc>
+      <image:caption>《心藥》塔羅牌小阿爾克那．權杖五：AI 生成塔羅牌插畫。</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://5219rayhsu.github.io/assets/img/medicine/29.jpg</image:loc>
+      <image:caption>《心藥》塔羅牌小阿爾克那．權杖六：AI 生成塔羅牌插畫。</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://5219rayhsu.github.io/assets/img/medicine/30.jpg</image:loc>
+      <image:caption>《心藥》塔羅牌小阿爾克那．權杖七：AI 生成塔羅牌插畫。</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://5219rayhsu.github.io/assets/img/medicine/31.jpg</image:loc>
+      <image:caption>《心藥》塔羅牌小阿爾克那．權杖八：AI 生成塔羅牌插畫。</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://5219rayhsu.github.io/assets/img/medicine/32.jpg</image:loc>
+      <image:caption>《心藥》塔羅牌小阿爾克那．權杖九：AI 生成塔羅牌插畫。</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://5219rayhsu.github.io/assets/img/medicine/33.jpg</image:loc>
+      <image:caption>《心藥》塔羅牌小阿爾克那．權杖十：AI 生成塔羅牌插畫。</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://5219rayhsu.github.io/assets/img/medicine/34.jpg</image:loc>
+      <image:caption>《心藥》塔羅牌小阿爾克那．權杖侍者：AI 生成塔羅牌插畫。</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://5219rayhsu.github.io/assets/img/medicine/35.jpg</image:loc>
+      <image:caption>《心藥》塔羅牌小阿爾克那．權杖騎士：AI 生成塔羅牌插畫。</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://5219rayhsu.github.io/assets/img/medicine/36.jpg</image:loc>
+      <image:caption>《心藥》塔羅牌小阿爾克那．權杖皇后：AI 生成塔羅牌插畫。</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://5219rayhsu.github.io/assets/img/medicine/37.jpg</image:loc>
+      <image:caption>《心藥》塔羅牌小阿爾克那．權杖國王：AI 生成塔羅牌插畫。</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://5219rayhsu.github.io/assets/img/medicine/38.jpg</image:loc>
+      <image:caption>《心藥》塔羅牌小阿爾克那．寶劍王牌：AI 生成塔羅牌插畫。</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://5219rayhsu.github.io/assets/img/medicine/39.jpg</image:loc>
+      <image:caption>《心藥》塔羅牌小阿爾克那．寶劍二：AI 生成塔羅牌插畫。</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://5219rayhsu.github.io/assets/img/medicine/40.jpg</image:loc>
+      <image:caption>《心藥》塔羅牌小阿爾克那．寶劍三：AI 生成塔羅牌插畫。</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://5219rayhsu.github.io/assets/img/medicine/41.jpg</image:loc>
+      <image:caption>《心藥》塔羅牌小阿爾克那．寶劍四：AI 生成塔羅牌插畫。</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://5219rayhsu.github.io/assets/img/medicine/42.jpg</image:loc>
+      <image:caption>《心藥》塔羅牌小阿爾克那．寶劍五：AI 生成塔羅牌插畫。</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://5219rayhsu.github.io/assets/img/medicine/43.jpg</image:loc>
+      <image:caption>《心藥》塔羅牌小阿爾克那．寶劍六：AI 生成塔羅牌插畫。</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://5219rayhsu.github.io/assets/img/medicine/44.jpg</image:loc>
+      <image:caption>《心藥》塔羅牌小阿爾克那．寶劍七：AI 生成塔羅牌插畫。</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://5219rayhsu.github.io/assets/img/medicine/45.jpg</image:loc>
+      <image:caption>《心藥》塔羅牌小阿爾克那．寶劍八：AI 生成塔羅牌插畫。</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://5219rayhsu.github.io/assets/img/medicine/46.jpg</image:loc>
+      <image:caption>《心藥》塔羅牌小阿爾克那．寶劍九：AI 生成塔羅牌插畫。</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://5219rayhsu.github.io/assets/img/medicine/47.jpg</image:loc>
+      <image:caption>《心藥》塔羅牌小阿爾克那．寶劍十：AI 生成塔羅牌插畫。</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://5219rayhsu.github.io/assets/img/medicine/48.jpg</image:loc>
+      <image:caption>《心藥》塔羅牌小阿爾克那．寶劍侍者：AI 生成塔羅牌插畫。</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://5219rayhsu.github.io/assets/img/medicine/49.jpg</image:loc>
+      <image:caption>《心藥》塔羅牌小阿爾克那．寶劍騎士：AI 生成塔羅牌插畫。</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://5219rayhsu.github.io/assets/img/medicine/50.jpg</image:loc>
+      <image:caption>《心藥》塔羅牌小阿爾克那．寶劍皇后：AI 生成塔羅牌插畫。</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://5219rayhsu.github.io/assets/img/medicine/51.jpg</image:loc>
+      <image:caption>《心藥》塔羅牌小阿爾克那．寶劍國王：AI 生成塔羅牌插畫。</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://5219rayhsu.github.io/assets/img/medicine/52.jpg</image:loc>
+      <image:caption>《心藥》塔羅牌小阿爾克那．錢幣王牌：AI 生成塔羅牌插畫。</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://5219rayhsu.github.io/assets/img/medicine/53.jpg</image:loc>
+      <image:caption>《心藥》塔羅牌小阿爾克那．錢幣二：AI 生成塔羅牌插畫。</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://5219rayhsu.github.io/assets/img/medicine/54.jpg</image:loc>
+      <image:caption>《心藥》塔羅牌小阿爾克那．錢幣三：AI 生成塔羅牌插畫。</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://5219rayhsu.github.io/assets/img/medicine/55.jpg</image:loc>
+      <image:caption>《心藥》塔羅牌小阿爾克那．錢幣四：AI 生成塔羅牌插畫。</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://5219rayhsu.github.io/assets/img/medicine/56.jpg</image:loc>
+      <image:caption>《心藥》塔羅牌小阿爾克那．錢幣五：AI 生成塔羅牌插畫。</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://5219rayhsu.github.io/assets/img/medicine/57.jpg</image:loc>
+      <image:caption>《心藥》塔羅牌小阿爾克那．錢幣六：AI 生成塔羅牌插畫。</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://5219rayhsu.github.io/assets/img/medicine/58.jpg</image:loc>
+      <image:caption>《心藥》塔羅牌小阿爾克那．錢幣七：AI 生成塔羅牌插畫。</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://5219rayhsu.github.io/assets/img/medicine/59.jpg</image:loc>
+      <image:caption>《心藥》塔羅牌小阿爾克那．錢幣八：AI 生成塔羅牌插畫。</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://5219rayhsu.github.io/assets/img/medicine/60.jpg</image:loc>
+      <image:caption>《心藥》塔羅牌小阿爾克那．錢幣九：AI 生成塔羅牌插畫。</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://5219rayhsu.github.io/assets/img/medicine/61.jpg</image:loc>
+      <image:caption>《心藥》塔羅牌小阿爾克那．錢幣十：AI 生成塔羅牌插畫。</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://5219rayhsu.github.io/assets/img/medicine/62.jpg</image:loc>
+      <image:caption>《心藥》塔羅牌小阿爾克那．錢幣侍者：AI 生成塔羅牌插畫。</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://5219rayhsu.github.io/assets/img/medicine/63.jpg</image:loc>
+      <image:caption>《心藥》塔羅牌小阿爾克那．錢幣騎士：AI 生成塔羅牌插畫。</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://5219rayhsu.github.io/assets/img/medicine/64.jpg</image:loc>
+      <image:caption>《心藥》塔羅牌小阿爾克那．錢幣皇后：AI 生成塔羅牌插畫。</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://5219rayhsu.github.io/assets/img/medicine/65.jpg</image:loc>
+      <image:caption>《心藥》塔羅牌小阿爾克那．錢幣國王：AI 生成塔羅牌插畫。</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://5219rayhsu.github.io/assets/img/medicine/66.jpg</image:loc>
+      <image:caption>《心藥》塔羅牌小阿爾克那．聖杯王牌：AI 生成塔羅牌插畫。</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://5219rayhsu.github.io/assets/img/medicine/67.jpg</image:loc>
+      <image:caption>《心藥》塔羅牌小阿爾克那．聖杯二：AI 生成塔羅牌插畫。</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://5219rayhsu.github.io/assets/img/medicine/68.jpg</image:loc>
+      <image:caption>《心藥》塔羅牌小阿爾克那．聖杯三：AI 生成塔羅牌插畫。</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://5219rayhsu.github.io/assets/img/medicine/69.jpg</image:loc>
+      <image:caption>《心藥》塔羅牌小阿爾克那．聖杯四：AI 生成塔羅牌插畫。</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://5219rayhsu.github.io/assets/img/medicine/70.jpg</image:loc>
+      <image:caption>《心藥》塔羅牌小阿爾克那．聖杯五：AI 生成塔羅牌插畫。</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://5219rayhsu.github.io/assets/img/medicine/71.jpg</image:loc>
+      <image:caption>《心藥》塔羅牌小阿爾克那．聖杯六：AI 生成塔羅牌插畫。</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://5219rayhsu.github.io/assets/img/medicine/72.jpg</image:loc>
+      <image:caption>《心藥》塔羅牌小阿爾克那．聖杯七：AI 生成塔羅牌插畫。</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://5219rayhsu.github.io/assets/img/medicine/73.jpg</image:loc>
+      <image:caption>《心藥》塔羅牌小阿爾克那．聖杯八：AI 生成塔羅牌插畫。</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://5219rayhsu.github.io/assets/img/medicine/74.jpg</image:loc>
+      <image:caption>《心藥》塔羅牌小阿爾克那．聖杯九：AI 生成塔羅牌插畫。</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://5219rayhsu.github.io/assets/img/medicine/75.jpg</image:loc>
+      <image:caption>《心藥》塔羅牌小阿爾克那．聖杯十：AI 生成塔羅牌插畫。</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://5219rayhsu.github.io/assets/img/medicine/76.jpg</image:loc>
+      <image:caption>《心藥》塔羅牌小阿爾克那．聖杯侍者：AI 生成塔羅牌插畫。</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://5219rayhsu.github.io/assets/img/medicine/77.jpg</image:loc>
+      <image:caption>《心藥》塔羅牌小阿爾克那．聖杯騎士：AI 生成塔羅牌插畫。</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://5219rayhsu.github.io/assets/img/medicine/78.jpg</image:loc>
+      <image:caption>《心藥》塔羅牌小阿爾克那．聖杯皇后：AI 生成塔羅牌插畫。</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://5219rayhsu.github.io/assets/img/medicine/79.jpg</image:loc>
+      <image:caption>《心藥》塔羅牌小阿爾克那．聖杯國王：AI 生成塔羅牌插畫。</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://5219rayhsu.github.io/assets/img/qr-site.svg</image:loc>
+      <image:caption>許哲睿個人網站 QR 圖碼</image:caption>
+    </image:image>
   </url>
 </urlset>
