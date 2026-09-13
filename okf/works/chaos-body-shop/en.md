@@ -26,7 +26,7 @@ subject_of:
   url: https://www.instagram.com/p/DbIaFUbylf7/
 - type: video
   url: https://youtube.com/shorts/Nq81rFuD19k
-updated: '2026-08-28'
+updated: '2026-09-13'
 ---
 
 # Chaos Body Shop
@@ -39,3 +39,10 @@ When I Grow Up won the 2026 National Art Exhibition Gold Prize, Photography — 
 - Medium: photographic collage, AI-generated ID photos, performance, 4×5 black-and-white silver-gelatin film, hand-copied Diamond Sutra (sutra-fold binding)
 - Single work *When I Grow Up*: a 4×5 photograph documenting the artist measuring his own height, recorded as 177.7 cm; 177 AI-generated ID photos corresponding to the whole-number portion surround a single real passport photograph, which serves as the reference image for the generation and has one corner cut off to represent the 0.7 cm remainder. 2026 Gold Prize, Photography Category, National Art Exhibition R.O.C. (National Taiwan Museum of Fine Arts)
 - Official page: https://5219rayhsu.github.io/en/works/chaos-body-shop/#when-i-grow-up
+
+
+## Work sections
+
+- [AI ID Photo Series — When I Grow Up](https://5219rayhsu.github.io/en/works/chaos-body-shop/#when-i-grow-up)
+- [Photographic Collage — Chaos Body Shop](https://5219rayhsu.github.io/en/works/chaos-body-shop/#collage)
+- [Diamond Sutra Rearranged in Bopomofo](https://5219rayhsu.github.io/en/works/chaos-body-shop/#sutra)

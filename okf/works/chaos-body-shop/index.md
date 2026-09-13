@@ -25,9 +25,18 @@ subject_of:
   url: https://www.instagram.com/p/DbIaFUbylf7/
 - type: video
   url: https://youtube.com/shorts/Nq81rFuD19k
-updated: '2026-07-27'
+updated: '2026-09-13'
 ---
 
 # 無序身體販賣所 / Chaos Body Shop
 
 Shared knowledge entity for the artwork *無序身體販賣所* (Chaos Body Shop). See language files for full description.
+
+
+## Featured work
+
+Start with the AI ID Photo Series and its single work *When I Grow Up*, followed by Photographic Collage and Diamond Sutra Rearranged in Bopomofo.
+
+- [《長大》・中文](https://5219rayhsu.github.io/works/chaos-body-shop/#when-i-grow-up)
+- [When I Grow Up · English](https://5219rayhsu.github.io/en/works/chaos-body-shop/#when-i-grow-up)
+- [《長大》・日本語](https://5219rayhsu.github.io/ja/works/chaos-body-shop/#when-i-grow-up)

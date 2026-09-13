@@ -22,7 +22,7 @@ subject_of:
   url: https://www.instagram.com/p/DbIaFUbylf7/
 - type: video
   url: https://youtube.com/shorts/Nq81rFuD19k
-updated: '2026-08-28'
+updated: '2026-09-13'
 ---
 
 # 無序身体販売所 Chaos Body Shop
@@ -35,3 +35,10 @@ updated: '2026-08-28'
 - 素材：写真コラージュ、AI証明写真、パフォーマンス、4×5大判モノクロ銀塩フィルム、手写金剛経（経折装）
 - 単独作品《長大》：4×5カメラでアーティストが自らの身長を測る行為を記録し、177.7cmを計測。整数部分に対応する177枚の生成AI証明写真が、唯一本物のパスポート写真を囲んで構成される。このパスポート写真は生成の参照画像であり、角を切り取られて0.7cmの端数を表す。2026年全国美術展 写真部門 金牌賞（国立台湾美術館）
 - 公式ページ：https://5219rayhsu.github.io/ja/works/chaos-body-shop/#when-i-grow-up
+
+
+## 作品セクション
+
+- [AI証明写真《長大》](https://5219rayhsu.github.io/ja/works/chaos-body-shop/#when-i-grow-up)
+- [写真コラージュ《無序身体販売所》](https://5219rayhsu.github.io/ja/works/chaos-body-shop/#collage)
+- [金剛般若経・注音符号順の再配列](https://5219rayhsu.github.io/ja/works/chaos-body-shop/#sutra)

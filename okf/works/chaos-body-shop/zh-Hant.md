@@ -23,7 +23,7 @@ subject_of:
   url: https://www.instagram.com/p/DbIaFUbylf7/
 - type: video
   url: https://youtube.com/shorts/Nq81rFuD19k
-updated: '2026-08-28'
+updated: '2026-09-13'
 ---
 
 # 無序身體販賣所
@@ -36,3 +36,10 @@ updated: '2026-08-28'
 - 媒材：攝影拼貼、AI 生成證件照、行為、4×5 大型黑白銀鹽底片、手抄金剛經（經摺裝）
 - 單幅《長大》（When I Grow Up）：以 4×5 相機記錄藝術家為自身量測身高的行為，測得 177.7 公分；177 張對應整數部分的 AI 生成證件照環繞唯一一張真實護照照片而構成，該護照照片為生成參考影像，並被剪去一角，代表 0.7 公分的小數殘餘。2026 全國美術展攝影類金牌獎（國立臺灣美術館）
 - 官網：https://5219rayhsu.github.io/works/chaos-body-shop/#when-i-grow-up
+
+
+## 作品區段
+
+- [AI 證件照系列《長大》](https://5219rayhsu.github.io/works/chaos-body-shop/#when-i-grow-up)
+- [攝影拼貼系列《無序身體販賣所》](https://5219rayhsu.github.io/works/chaos-body-shop/#collage)
+- [金剛經注音重排系列](https://5219rayhsu.github.io/works/chaos-body-shop/#sutra)
