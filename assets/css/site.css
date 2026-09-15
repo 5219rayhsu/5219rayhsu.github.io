@@ -911,3 +911,9 @@ section[id], span.anchor, .works-row[id] { scroll-margin-top: 72px; }
 .idseries .award--video { margin-top: clamp(2rem, 5vw, 4rem); }
 
 .sutra > .wrap > .award--video { margin-block: clamp(2rem, 5vw, 4rem); }
+
+@media (min-width: 701px) {
+  .works-row--event { align-items: stretch; }
+  .works-row--event .work { box-sizing: content-box; flex: 1 1 0; }
+  .works-row--event .work:first-child { flex-grow: 1.3333333333; }
+}
