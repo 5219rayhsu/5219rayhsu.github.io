@@ -22,7 +22,7 @@ subject_of:
   url: https://www.instagram.com/p/DbIaFUbylf7/
 - type: video
   url: https://youtube.com/shorts/Nq81rFuD19k
-updated: '2026-09-13'
+updated: '2026-09-15'
 ---
 
 # 無序身体販売所 Chaos Body Shop
@@ -39,6 +39,6 @@ updated: '2026-09-13'
 
 ## 作品セクション
 
-- [AI証明写真《長大》](https://5219rayhsu.github.io/ja/works/chaos-body-shop/#when-i-grow-up)
 - [写真コラージュ《無序身体販売所》](https://5219rayhsu.github.io/ja/works/chaos-body-shop/#collage)
+- [AI証明写真《長大》](https://5219rayhsu.github.io/ja/works/chaos-body-shop/#when-i-grow-up)
 - [金剛般若経・注音符号順の再配列](https://5219rayhsu.github.io/ja/works/chaos-body-shop/#sutra)

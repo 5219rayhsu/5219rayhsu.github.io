@@ -26,7 +26,7 @@ subject_of:
   url: https://www.instagram.com/p/DbIaFUbylf7/
 - type: video
   url: https://youtube.com/shorts/Nq81rFuD19k
-updated: '2026-09-13'
+updated: '2026-09-15'
 ---
 
 # Chaos Body Shop
@@ -43,6 +43,6 @@ When I Grow Up won the 2026 National Art Exhibition Gold Prize, Photography — 
 
 ## Work sections
 
-- [AI ID Photo Series — When I Grow Up](https://5219rayhsu.github.io/en/works/chaos-body-shop/#when-i-grow-up)
 - [Photographic Collage — Chaos Body Shop](https://5219rayhsu.github.io/en/works/chaos-body-shop/#collage)
+- [AI ID Photo Series — When I Grow Up](https://5219rayhsu.github.io/en/works/chaos-body-shop/#when-i-grow-up)
 - [Diamond Sutra Rearranged in Bopomofo](https://5219rayhsu.github.io/en/works/chaos-body-shop/#sutra)

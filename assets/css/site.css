@@ -391,7 +391,6 @@ main { padding-top: var(--nav-h); }
 .series-card:hover { transform: translateY(-6px); box-shadow: 0 22px 50px -24px rgba(0,0,0,.28); border-color: rgba(0,0,0,.16); }
 .series-card:hover::after { opacity: 1; }
 .series-card__link { display: flex; flex-direction: column; height: 100%; padding: clamp(1.6rem, 3vw, 2.4rem); color: inherit; text-decoration: none; }
-.series-card--featured { background: linear-gradient(180deg, #fdf6e0, #fff); border-color: rgba(190,140,30,.4); }
 .series-card:focus-within { outline: 3px solid var(--c-accent); outline-offset: 4px; }
 .series-card__cta { display: block; margin-top: auto; padding-top: 1.4rem; font-size: .9rem; font-weight: 600; color: var(--c-accent); }
 .series-card__num { font-size: clamp(2.4rem, 5vw, 3.6rem); font-weight: 600; letter-spacing: -.04em; color: var(--c-accent); display: block; line-height: 1; margin-bottom: 1.2rem; font-feature-settings: "lnum"; }
@@ -433,8 +432,6 @@ main { padding-top: var(--nav-h); }
 
 /* ---------------------------------------------------------------- id series (CBS) */
 .idseries { overflow: hidden; }
-.featured-work { margin-bottom: clamp(4rem, 8vw, 7rem); }
-.featured-work__award { margin-top: 1rem; color: #e8c96f; font-size: 1rem; line-height: 1.6; text-wrap: balance; }
 .id-count__num { color: var(--c-accent); font-feature-settings: "lnum" "tnum"; font-size: 1.15em; }
 .filmstrips { display: flex; flex-direction: column; gap: clamp(.9rem, 2vw, 1.5rem); margin-block: clamp(2.5rem, 6vw, 5rem); width: 95%; margin-inline: auto; }
 .filmstrip { cursor: zoom-in; background: #fff; padding: clamp(6px, .7vw, 12px); border-radius: 10px; box-shadow: 0 12px 34px -20px rgba(0,0,0,.65); transition: transform .5s var(--ease), box-shadow .5s var(--ease); }
@@ -813,7 +810,7 @@ html.js img[loading="lazy"].is-loaded { opacity: 1; transform: none; }
 }
 
 /* ---------------------------------------------------------------- anchors */
-section[id], span.anchor { scroll-margin-top: 72px; }
+section[id], span.anchor, .works-row[id] { scroll-margin-top: 72px; }
 
 /* ---------------------------------------------------------------- side quick-jump rails (CBS series) */
 .rail { position: fixed; top: 50%; translate: 0 -50%; z-index: 90; display: flex; flex-direction: column; gap: 1.15rem; color: #fff; mix-blend-mode: difference; pointer-events: auto; }

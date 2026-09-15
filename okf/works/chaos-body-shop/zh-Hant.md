@@ -23,7 +23,7 @@ subject_of:
   url: https://www.instagram.com/p/DbIaFUbylf7/
 - type: video
   url: https://youtube.com/shorts/Nq81rFuD19k
-updated: '2026-09-13'
+updated: '2026-09-15'
 ---
 
 # 無序身體販賣所
@@ -40,6 +40,6 @@ updated: '2026-09-13'
 
 ## 作品區段
 
-- [AI 證件照系列《長大》](https://5219rayhsu.github.io/works/chaos-body-shop/#when-i-grow-up)
 - [攝影拼貼系列《無序身體販賣所》](https://5219rayhsu.github.io/works/chaos-body-shop/#collage)
+- [AI 證件照系列《長大》](https://5219rayhsu.github.io/works/chaos-body-shop/#when-i-grow-up)
 - [金剛經注音重排系列](https://5219rayhsu.github.io/works/chaos-body-shop/#sutra)
