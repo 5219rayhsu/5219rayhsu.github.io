@@ -54,7 +54,7 @@ When I Grow Up won the 2026 National Art Exhibition Gold Prize, Photography — 
 
 ## Exhibition and video documentation
 
-- Two photographs from July 18, 2026 follow the five When I Grow Up images: the National Art Exhibition ceremony group photograph and a gallery photograph with Deputy Minister of Culture Li Ching-hui and National Taiwan Museum of Fine Arts Director Chen Kuang-yi.
+- Two photographs from July 18, 2026 follow the five When I Grow Up images: the National Art Exhibition ceremony group photograph and a gallery photograph with Deputy Minister of Culture 李靜慧（LEE, Ching-hwi） and National Taiwan Museum of Fine Arts Director 陳貺怡（CHEN, Kuang-yi）.
 - Part III includes the Chaos Body Shop book cover and its calligraphed cover displayed on a plinth.
 - [Video Documentation 1](https://youtube.com/shorts/Nq81rFuD19k) / [Instagram](https://www.instagram.com/p/DbIaFUbylf7/): after the nine When I Grow Up photographs.
 - [Video Documentation 2](https://www.youtube.com/shorts/xq8XLG-PvTg) / [Instagram](https://www.instagram.com/p/DYy4DXNSCD3/): after the “Everything with form is unreal” quotation in Part III.
@@ -63,6 +63,6 @@ When I Grow Up won the 2026 National Art Exhibition Gold Prize, Photography — 
 ## Group photographs and exhibition tour
 
 - Group photograph at the National Art Exhibition award ceremony and opening (July 18, 2026).
-- Giving an exhibition tour to Deputy Minister of Culture Li Ching-hui and National Taiwan Museum of Fine Arts Director Chen Kuang-yi (July 18, 2026).
-- In front of When I Grow Up with Hi-Quality artist duo 陳誌陽 and 閔詩涵; 姚瑞中, Professor in the Department of Fine Arts at Taipei National University of the Arts; Venerable 陳覺慧 of the Japanese Koyasan Shingon tradition and head of LOCI SEED; and 金國銓, a master of yige parade-float making (September 5, 2026).
-- In front of When I Grow Up with 郭維國 of the Hantoo Art Group, Assistant Professor in the Department of Fine Arts at Taipei National University of the Arts, and 楊鎮豪, technical instructor of the National Taiwan University Photography Club (July 18, 2026).
+- Presenting the work at the National Art Exhibition to Deputy Minister of Culture 李靜慧（LEE, Ching-hwi） and National Taiwan Museum of Fine Arts Director 陳貺怡（CHEN, Kuang-yi） (July 18, 2026).
+- In front of When I Grow Up with Hi-Quality artist duo 陳誌陽（CHEN, Chih-yang） and 閔詩涵（MIN, Shih-han）; 姚瑞中（YAO, Jui-chung）, Professor in the Department of Fine Arts at Taipei National University of the Arts; Venerable 陳覺慧 of the Japanese Koyasan Shingon tradition and head of LOCI SEED; and 金國銓（JIN, Guo-quan）, a master of yige parade-float making (September 5, 2026).
+- In front of When I Grow Up with 郭維國（KUO, Wei-kuo） of the Hantoo Art Group, Assistant Professor in the Department of Fine Arts at Taipei National University of the Arts, and 楊鎮豪（YANG, Chen-hao）, technical instructor of the National Taiwan University Photography Club (July 18, 2026).
