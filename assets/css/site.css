@@ -445,6 +445,9 @@ main { padding-top: var(--nav-h); }
 .idgrid--tall { width: auto; max-width: min(540px, 92%); }
 
 /* ---------------------------------------------------------------- statement / prose */
+.idseries { padding-bottom: 0; }
+.idseries .works { margin-bottom: 0; }
+.idseries + .statement { padding-top: clamp(2rem, 5vw, 4rem); }
 .statement .block-head { margin-bottom: clamp(2rem, 4vw, 3.2rem); }
 .prose > p { font-size: clamp(1.05rem, 1rem + .35vw, 1.3rem); line-height: 1.72; color: #333336; margin-bottom: 1.7rem; max-width: 64ch; text-wrap: pretty; }
 .prose .prose__lead { font-size: clamp(1.25rem, 1.05rem + .8vw, 1.65rem); line-height: 1.55; color: var(--c-text); font-weight: 400; margin-bottom: 2rem; text-wrap: pretty; }
