@@ -663,11 +663,8 @@ main { padding-top: var(--nav-h); }
      桌機維持雙欄年表版型不變。 */
   .cv-item { grid-template-columns: 1fr; gap: .25rem; }
 }
-/* 標題與內文的「墨水點」對齊：《〈「（ 這類開頭標點的字身偏右，整格佔滿但左半是空的，
-   《觀和作用》的「《」看起來就比下一行的「場」凸出半格。hanging-punctuation: first
-   讓行首標點吊掛到版心外，實際墨水才對得齊。Safari／iOS 支援；Chromium 尚未支援，
-   不支援時就是退回現狀（標點不吊掛），不會壞版。 */
-.cv-item__title, .cv-item__meta { hanging-punctuation: first; }
+/* 展覽年表的行首標點保留在內容欄位內：年份、展名、書名號與 metadata 共用同一左側基準線。 */
+.cv-item__title, .cv-item__meta { hanging-punctuation: none; }
 
 /* ---------------------------------------------------------------- gallery grid (works/exhibition detail) */
 /* Cards keep each image's native aspect ratio (no crop): height:auto instead of a
