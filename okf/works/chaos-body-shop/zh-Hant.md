@@ -53,5 +53,13 @@ updated: '2026-09-15'
 
 - 2026 年 7 月 18 日全國美術展頒獎典禮暨開幕式大合照，以及與文化部次長李靜慧、國立臺灣美術館館長陳貺怡的展場合影，接在《長大》原有五張照片之後。
 - 第三部分包含《無序身體販賣所》書封與書封題名書法的展台照片。
-- [影像紀錄 1](https://youtube.com/shorts/Nq81rFuD19k)／[Instagram](https://www.instagram.com/p/DbIaFUbylf7/)：位於《長大》七張照片之後。
+- [影像紀錄 1](https://youtube.com/shorts/Nq81rFuD19k)／[Instagram](https://www.instagram.com/p/DbIaFUbylf7/)：位於《長大》九張照片之後。
 - [影像紀錄 2](https://www.youtube.com/shorts/xq8XLG-PvTg)／[Instagram](https://www.instagram.com/p/DYy4DXNSCD3/)：位於第三部分「凡所有相，皆是虛妄」引文之後。
+
+
+## 合照與導覽紀錄
+
+- 全國美術展頒獎典禮暨開幕式大合照（2026 年 7 月 18 日）。
+- 為文化部次長李靜慧、國立臺灣美術館館長陳貺怡於展場導覽（2026 年 7 月 18 日）。
+- 與海闊拉帝（Hi-Quality）藝術家雙人組陳誌陽、閔詩涵，姚瑞中（國立臺北藝術大學美術學系教授），陳覺慧法師（日本高野山真言宗、芥子納 - LOCI SEED 負責人），以及金國銓（藝閣製作大家）於《長大》作品前合照。
+- 與郭維國（悍圖社、國立臺北藝術大學美術學系助理教授）、楊鎮豪（國立臺灣大學攝影研究社技藝指導老師）於《長大》作品前合照。

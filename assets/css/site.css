@@ -919,3 +919,6 @@ section[id], span.anchor, .works-row[id] { scroll-margin-top: 72px; }
 }
 
 :is(.idseries, .sutra) .award--video { max-width: 480px; margin-inline: auto; }
+
+.works-row--event .gallery__cap { text-align: center; }
+@media (min-width: 701px) { .works-row--guests .work:first-child { flex-grow: 1; } }
