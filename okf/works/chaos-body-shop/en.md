@@ -66,3 +66,15 @@ When I Grow Up won the 2026 National Art Exhibition Gold Prize, Photography — 
 - Presenting the work at the National Art Exhibition to Deputy Minister of Culture 李靜慧（LEE, Ching-hwi） and National Taiwan Museum of Fine Arts Director 陳貺怡（CHEN, Kuang-yi） (July 18, 2026).
 - In front of When I Grow Up with Hi-Quality artist duo 陳誌陽（CHEN, Chih-yang） and 閔詩涵（MIN, Shih-han）; 姚瑞中（YAO, Jui-chung）, Professor in the Department of Fine Arts at Taipei National University of the Arts; 覺慧法師（Jue Hui） of the Japanese Koyasan Shingon tradition and head of LOCI SEED; and 金國銓（JIN, Guo-quan）, a master of yige parade-float making (September 5, 2026).
 - In front of When I Grow Up with 郭維國（KUO, Wei-kuo） of the Hantoo Art Group, Assistant Professor in the Department of Fine Arts at Taipei National University of the Arts, and 楊鎮豪（YANG, Chen-hao）, technical instructor of the National Taiwan University Photography Club (July 18, 2026).
+
+## People in the exhibition photographs
+
+- 李靜慧（LEE, Ching-hwi） — [2026-07-18](https://5219rayhsu.github.io/assets/img/chaos-body-shop/when-i-grow-up-20260718-li-ching-hui-chen-kuang-yi.jpg)
+- 陳貺怡（CHEN, Kuang-yi） — [2026-07-18](https://5219rayhsu.github.io/assets/img/chaos-body-shop/when-i-grow-up-20260718-li-ching-hui-chen-kuang-yi.jpg)
+- 陳誌陽（CHEN, Chih-yang） — [2026-09-05](https://5219rayhsu.github.io/assets/img/chaos-body-shop/when-i-grow-up-group-hi-quality-yao-jui-chung-chen-chueh-hui-chin-kuo-chuan.jpg)
+- 閔詩涵（MIN, Shih-han） — [2026-09-05](https://5219rayhsu.github.io/assets/img/chaos-body-shop/when-i-grow-up-group-hi-quality-yao-jui-chung-chen-chueh-hui-chin-kuo-chuan.jpg)
+- 姚瑞中（YAO, Jui-chung） — [2026-09-05](https://5219rayhsu.github.io/assets/img/chaos-body-shop/when-i-grow-up-group-hi-quality-yao-jui-chung-chen-chueh-hui-chin-kuo-chuan.jpg)
+- 覺慧法師（Jue Hui） — [2026-09-05](https://5219rayhsu.github.io/assets/img/chaos-body-shop/when-i-grow-up-group-hi-quality-yao-jui-chung-chen-chueh-hui-chin-kuo-chuan.jpg)
+- 金國銓（JIN, Guo-quan） — [2026-09-05](https://5219rayhsu.github.io/assets/img/chaos-body-shop/when-i-grow-up-group-hi-quality-yao-jui-chung-chen-chueh-hui-chin-kuo-chuan.jpg)
+- 郭維國（KUO, Wei-kuo） — [2026-07-18](https://5219rayhsu.github.io/assets/img/chaos-body-shop/when-i-grow-up-group-kuo-wei-kuo-yang-chen-hao.jpg)
+- 楊鎮豪（YANG, Chen-hao） — [2026-07-18](https://5219rayhsu.github.io/assets/img/chaos-body-shop/when-i-grow-up-group-kuo-wei-kuo-yang-chen-hao.jpg)

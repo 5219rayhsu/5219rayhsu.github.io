@@ -54,3 +54,15 @@ The project presents Photographic Collage (I), AI ID Photo Series (II), and Diam
 - [Video Documentation 2](https://www.youtube.com/shorts/xq8XLG-PvTg) / [Instagram](https://www.instagram.com/p/DYy4DXNSCD3/): after the “Everything with form is unreal” quotation in Part III.
 
 The When I Grow Up gallery includes five artwork images and four exhibition documentation photographs. For names, roles, and the dated July 18, 2026 group photograph and guided tour, see the three language files.
+
+## 合照人物姓名索引
+
+- 李靜慧（LEE, Ching-hwi） — [2026-07-18](https://5219rayhsu.github.io/assets/img/chaos-body-shop/when-i-grow-up-20260718-li-ching-hui-chen-kuang-yi.jpg)
+- 陳貺怡（CHEN, Kuang-yi） — [2026-07-18](https://5219rayhsu.github.io/assets/img/chaos-body-shop/when-i-grow-up-20260718-li-ching-hui-chen-kuang-yi.jpg)
+- 陳誌陽（CHEN, Chih-yang） — [2026-09-05](https://5219rayhsu.github.io/assets/img/chaos-body-shop/when-i-grow-up-group-hi-quality-yao-jui-chung-chen-chueh-hui-chin-kuo-chuan.jpg)
+- 閔詩涵（MIN, Shih-han） — [2026-09-05](https://5219rayhsu.github.io/assets/img/chaos-body-shop/when-i-grow-up-group-hi-quality-yao-jui-chung-chen-chueh-hui-chin-kuo-chuan.jpg)
+- 姚瑞中（YAO, Jui-chung） — [2026-09-05](https://5219rayhsu.github.io/assets/img/chaos-body-shop/when-i-grow-up-group-hi-quality-yao-jui-chung-chen-chueh-hui-chin-kuo-chuan.jpg)
+- 覺慧法師（Jue Hui） — [2026-09-05](https://5219rayhsu.github.io/assets/img/chaos-body-shop/when-i-grow-up-group-hi-quality-yao-jui-chung-chen-chueh-hui-chin-kuo-chuan.jpg)
+- 金國銓（JIN, Guo-quan） — [2026-09-05](https://5219rayhsu.github.io/assets/img/chaos-body-shop/when-i-grow-up-group-hi-quality-yao-jui-chung-chen-chueh-hui-chin-kuo-chuan.jpg)
+- 郭維國（KUO, Wei-kuo） — [2026-07-18](https://5219rayhsu.github.io/assets/img/chaos-body-shop/when-i-grow-up-group-kuo-wei-kuo-yang-chen-hao.jpg)
+- 楊鎮豪（YANG, Chen-hao） — [2026-07-18](https://5219rayhsu.github.io/assets/img/chaos-body-shop/when-i-grow-up-group-kuo-wei-kuo-yang-chen-hao.jpg)

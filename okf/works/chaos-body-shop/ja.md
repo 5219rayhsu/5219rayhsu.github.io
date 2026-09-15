@@ -62,3 +62,15 @@ updated: '2026-09-15'
 - 文化部次長の李靜慧（LEE, Ching-hwi）、国立台湾美術館館長の陳貺怡（CHEN, Kuang-yi）への全国美術展の作品前での展示ガイド（2026年7月18日）。
 - 《長大》の前で、アーティスト・デュオの海闊拉帝（Hi-Quality）の陳誌陽（CHEN, Chih-yang）・閔詩涵（MIN, Shih-han）、国立台北芸術大学美術学系教授の姚瑞中（YAO, Jui-chung）、日本の高野山真言宗に属し芥子納 - LOCI SEEDを主宰する覺慧法師（Jue Hui）、藝閣制作の名匠・金國銓（JIN, Guo-quan）と記念撮影（2026年9月5日）。
 - 《長大》の前で、悍圖社のメンバーで国立台北芸術大学美術学系助理教授の郭維國（KUO, Wei-kuo）、国立台湾大学写真研究社の技術指導者・楊鎮豪（YANG, Chen-hao）と記念撮影（2026年7月18日）。
+
+## 展示記録写真に登場する人物
+
+- 李靜慧（LEE, Ching-hwi） — [2026-07-18](https://5219rayhsu.github.io/assets/img/chaos-body-shop/when-i-grow-up-20260718-li-ching-hui-chen-kuang-yi.jpg)
+- 陳貺怡（CHEN, Kuang-yi） — [2026-07-18](https://5219rayhsu.github.io/assets/img/chaos-body-shop/when-i-grow-up-20260718-li-ching-hui-chen-kuang-yi.jpg)
+- 陳誌陽（CHEN, Chih-yang） — [2026-09-05](https://5219rayhsu.github.io/assets/img/chaos-body-shop/when-i-grow-up-group-hi-quality-yao-jui-chung-chen-chueh-hui-chin-kuo-chuan.jpg)
+- 閔詩涵（MIN, Shih-han） — [2026-09-05](https://5219rayhsu.github.io/assets/img/chaos-body-shop/when-i-grow-up-group-hi-quality-yao-jui-chung-chen-chueh-hui-chin-kuo-chuan.jpg)
+- 姚瑞中（YAO, Jui-chung） — [2026-09-05](https://5219rayhsu.github.io/assets/img/chaos-body-shop/when-i-grow-up-group-hi-quality-yao-jui-chung-chen-chueh-hui-chin-kuo-chuan.jpg)
+- 覺慧法師（Jue Hui） — [2026-09-05](https://5219rayhsu.github.io/assets/img/chaos-body-shop/when-i-grow-up-group-hi-quality-yao-jui-chung-chen-chueh-hui-chin-kuo-chuan.jpg)
+- 金國銓（JIN, Guo-quan） — [2026-09-05](https://5219rayhsu.github.io/assets/img/chaos-body-shop/when-i-grow-up-group-hi-quality-yao-jui-chung-chen-chueh-hui-chin-kuo-chuan.jpg)
+- 郭維國（KUO, Wei-kuo） — [2026-07-18](https://5219rayhsu.github.io/assets/img/chaos-body-shop/when-i-grow-up-group-kuo-wei-kuo-yang-chen-hao.jpg)
+- 楊鎮豪（YANG, Chen-hao） — [2026-07-18](https://5219rayhsu.github.io/assets/img/chaos-body-shop/when-i-grow-up-group-kuo-wei-kuo-yang-chen-hao.jpg)

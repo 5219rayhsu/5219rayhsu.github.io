@@ -63,3 +63,15 @@ updated: '2026-09-15'
 - 為文化部次長李靜慧、國立臺灣美術館館長陳貺怡於全國美術展作品前導覽（2026 年 7 月 18 日）。
 - 與海闊拉帝（Hi-Quality）藝術家雙人組陳誌陽、閔詩涵，姚瑞中（國立臺北藝術大學美術學系教授），覺慧法師（日本高野山真言宗、芥子納 - LOCI SEED 負責人），以及金國銓（藝閣製作大家）於《長大》作品前合照（2026 年 9 月 5 日）。
 - 與郭維國（悍圖社、國立臺北藝術大學美術學系助理教授）、楊鎮豪（國立臺灣大學攝影研究社技藝指導老師）於《長大》作品前合照（2026 年 7 月 18 日）。
+
+## 合照人物姓名索引
+
+- 李靜慧（LEE, Ching-hwi） — [2026-07-18](https://5219rayhsu.github.io/assets/img/chaos-body-shop/when-i-grow-up-20260718-li-ching-hui-chen-kuang-yi.jpg)
+- 陳貺怡（CHEN, Kuang-yi） — [2026-07-18](https://5219rayhsu.github.io/assets/img/chaos-body-shop/when-i-grow-up-20260718-li-ching-hui-chen-kuang-yi.jpg)
+- 陳誌陽（CHEN, Chih-yang） — [2026-09-05](https://5219rayhsu.github.io/assets/img/chaos-body-shop/when-i-grow-up-group-hi-quality-yao-jui-chung-chen-chueh-hui-chin-kuo-chuan.jpg)
+- 閔詩涵（MIN, Shih-han） — [2026-09-05](https://5219rayhsu.github.io/assets/img/chaos-body-shop/when-i-grow-up-group-hi-quality-yao-jui-chung-chen-chueh-hui-chin-kuo-chuan.jpg)
+- 姚瑞中（YAO, Jui-chung） — [2026-09-05](https://5219rayhsu.github.io/assets/img/chaos-body-shop/when-i-grow-up-group-hi-quality-yao-jui-chung-chen-chueh-hui-chin-kuo-chuan.jpg)
+- 覺慧法師（Jue Hui） — [2026-09-05](https://5219rayhsu.github.io/assets/img/chaos-body-shop/when-i-grow-up-group-hi-quality-yao-jui-chung-chen-chueh-hui-chin-kuo-chuan.jpg)
+- 金國銓（JIN, Guo-quan） — [2026-09-05](https://5219rayhsu.github.io/assets/img/chaos-body-shop/when-i-grow-up-group-hi-quality-yao-jui-chung-chen-chueh-hui-chin-kuo-chuan.jpg)
+- 郭維國（KUO, Wei-kuo） — [2026-07-18](https://5219rayhsu.github.io/assets/img/chaos-body-shop/when-i-grow-up-group-kuo-wei-kuo-yang-chen-hao.jpg)
+- 楊鎮豪（YANG, Chen-hao） — [2026-07-18](https://5219rayhsu.github.io/assets/img/chaos-body-shop/when-i-grow-up-group-kuo-wei-kuo-yang-chen-hao.jpg)
