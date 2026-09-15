@@ -41,7 +41,7 @@ When I Grow Up won the 2026 National Art Exhibition Gold Prize, Photography — 
 
 - Date: 2025
 - Medium: photographic collage, AI-generated ID photos, performance, 4×5 black-and-white silver-gelatin film, hand-copied Diamond Sutra (sutra-fold binding)
-- Single work *When I Grow Up*: a 4×5 photograph documenting the artist measuring his own height, recorded as 177.7 cm; 177 AI-generated ID photos corresponding to the whole-number portion surround a single real passport photograph, which serves as the reference image for the generation and has one corner cut off to represent the 0.7 cm remainder. 2026 Gold Prize, Photography Category, National Art Exhibition R.O.C. (National Taiwan Museum of Fine Arts)
+- Single work *When I Grow Up*: I measured my height at 177.7 cm and first made a self-portrait on 4×5 film. I then used AI to “imagine” 177 ideal lives, turning them into ID photos bearing my facial features and collaging them onto the photograph. I also smuggled in a real passport self-portrait with one corner cut off, for the 0.7 in my height. 2026 Gold Prize, Photography Category, National Art Exhibition R.O.C. (National Taiwan Museum of Fine Arts)
 - Official page: https://5219rayhsu.github.io/en/works/chaos-body-shop/#when-i-grow-up
 
 
