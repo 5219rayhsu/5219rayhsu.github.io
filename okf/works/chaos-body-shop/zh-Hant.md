@@ -23,6 +23,10 @@ subject_of:
   url: https://www.instagram.com/p/DbIaFUbylf7/
 - type: video
   url: https://youtube.com/shorts/Nq81rFuD19k
+- type: instagram_post
+  url: https://www.instagram.com/p/DYy4DXNSCD3/
+- type: video
+  url: https://www.youtube.com/shorts/xq8XLG-PvTg
 updated: '2026-09-15'
 ---
 
@@ -43,3 +47,11 @@ updated: '2026-09-15'
 - [攝影拼貼系列《無序身體販賣所》](https://5219rayhsu.github.io/works/chaos-body-shop/#collage)
 - [AI 證件照系列《長大》](https://5219rayhsu.github.io/works/chaos-body-shop/#when-i-grow-up)
 - [金剛經注音重排系列](https://5219rayhsu.github.io/works/chaos-body-shop/#sutra)
+
+
+## 展場與影像紀錄
+
+- 2026 年 7 月 18 日全國美術展頒獎典禮暨開幕式大合照，以及與文化部次長李靜慧、國立臺灣美術館館長陳貺怡的展場合影，接在《長大》原有五張照片之後。
+- 第三部分包含《無序身體販賣所》書封與書封題名書法的展台照片。
+- [影像紀錄 1](https://youtube.com/shorts/Nq81rFuD19k)／[Instagram](https://www.instagram.com/p/DbIaFUbylf7/)：位於《長大》七張照片之後。
+- [影像紀錄 2](https://www.youtube.com/shorts/xq8XLG-PvTg)／[Instagram](https://www.instagram.com/p/DYy4DXNSCD3/)：位於第三部分「凡所有相，皆是虛妄」引文之後。

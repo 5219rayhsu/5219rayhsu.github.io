@@ -22,6 +22,10 @@ subject_of:
   url: https://www.instagram.com/p/DbIaFUbylf7/
 - type: video
   url: https://youtube.com/shorts/Nq81rFuD19k
+- type: instagram_post
+  url: https://www.instagram.com/p/DYy4DXNSCD3/
+- type: video
+  url: https://www.youtube.com/shorts/xq8XLG-PvTg
 updated: '2026-09-15'
 ---
 
@@ -42,3 +46,11 @@ updated: '2026-09-15'
 - [写真コラージュ《無序身体販売所》](https://5219rayhsu.github.io/ja/works/chaos-body-shop/#collage)
 - [AI証明写真《長大》](https://5219rayhsu.github.io/ja/works/chaos-body-shop/#when-i-grow-up)
 - [金剛般若経・注音符号順の再配列](https://5219rayhsu.github.io/ja/works/chaos-body-shop/#sutra)
+
+
+## 展示・映像記録
+
+- 2026年7月18日の全国美術展授賞式・開幕式の集合写真、および文化部次長の李靜慧、国立台湾美術館館長の陳貺怡との会場写真を、《長大》の既存の5枚に続けて掲載。
+- 第III部には《無序身体販売所》の表紙と、題字の書を配した表紙を展示台に立てた写真を掲載。
+- [映像記録 1](https://youtube.com/shorts/Nq81rFuD19k)／[Instagram](https://www.instagram.com/p/DbIaFUbylf7/)：《長大》の7枚の写真の後。
+- [映像記録 2](https://www.youtube.com/shorts/xq8XLG-PvTg)／[Instagram](https://www.instagram.com/p/DYy4DXNSCD3/)：第III部の「凡所有相，皆是虛妄」の引用の後。

@@ -25,6 +25,10 @@ subject_of:
   url: https://www.instagram.com/p/DbIaFUbylf7/
 - type: video
   url: https://youtube.com/shorts/Nq81rFuD19k
+- type: instagram_post
+  url: https://www.instagram.com/p/DYy4DXNSCD3/
+- type: video
+  url: https://www.youtube.com/shorts/xq8XLG-PvTg
 updated: '2026-09-15'
 ---
 
@@ -40,3 +44,11 @@ The project presents Photographic Collage (I), AI ID Photo Series (II), and Diam
 - [《長大》・中文](https://5219rayhsu.github.io/works/chaos-body-shop/#when-i-grow-up)
 - [When I Grow Up · English](https://5219rayhsu.github.io/en/works/chaos-body-shop/#when-i-grow-up)
 - [《長大》・日本語](https://5219rayhsu.github.io/ja/works/chaos-body-shop/#when-i-grow-up)
+
+
+## Exhibition and video documentation
+
+- Two photographs from July 18, 2026 follow the five When I Grow Up images: the National Art Exhibition ceremony group photograph and a gallery photograph with Deputy Minister of Culture Li Ching-hui and National Taiwan Museum of Fine Arts Director Chen Kuang-yi.
+- Part III includes the Chaos Body Shop book cover and its calligraphed cover displayed on a plinth.
+- [Video Documentation 1](https://youtube.com/shorts/Nq81rFuD19k) / [Instagram](https://www.instagram.com/p/DbIaFUbylf7/): after the seven When I Grow Up photographs.
+- [Video Documentation 2](https://www.youtube.com/shorts/xq8XLG-PvTg) / [Instagram](https://www.instagram.com/p/DYy4DXNSCD3/): after the “Everything with form is unreal” quotation in Part III.

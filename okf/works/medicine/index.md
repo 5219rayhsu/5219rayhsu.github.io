@@ -19,9 +19,11 @@ related_entities:
   exhibitions:
   - ../../exhibitions/medicine-2025/index.md
 related_texts: []
-updated: '2026-07-19'
+updated: '2026-09-15'
 ---
 
 # 心藥 / Medicine
 
 Shared knowledge entity for the artwork *心藥* (Medicine). See language files for full description.
+
+The deck contains 78 cards: 22 Major Arcana and 56 Minor Arcana. The image viewer follows the displayed card order.

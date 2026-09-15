@@ -4,9 +4,18 @@
 > Personal website of Taiwanese artist HSU Che-jui (b. 2003). Photography × performance × AI mixed-media practice. Chinese is authoritative; English (/en/) and Japanese (/ja/) mirrors available.
 
 ## 作品 Works
-- [無序身體販賣所 Chaos Body Shop](https://5219rayhsu.github.io/works/chaos-body-shop/): 2025– 複合媒材長期計畫（攝影拼貼、AI 證件照、金剛經注音重排）；AI 證件照系列單幅作品《長大》獲 2026 全國美術展攝影類金牌獎（國立臺灣美術館）；全作獲 2026 SKM PHOTO 新光三越國際攝影大賽 參獎暨年度特獎
+- [無序身體販賣所 Chaos Body Shop](https://5219rayhsu.github.io/works/chaos-body-shop/): 2025– 複合媒材長期計畫（攝影拼貼、AI 證件照、金剛經注音重排）；AI 證件照系列單幅作品《長大》獲 2026 全國美術展攝影類金牌獎（國立臺灣美術館）；攝影拼貼系列獲 2026 SKM PHOTO 新光三越國際攝影大賽 參獎暨年度特獎
 - [答案 Answer](https://5219rayhsu.github.io/works/answer/): 4×5 大型黑白底片自拍系列，把學測考題刻寫於身；2025 年基隆美術館個展主體作品
-- [心藥 Medicine](https://5219rayhsu.github.io/works/medicine/): AI 塔羅牌互動作品；2025 個展於看守所藝術空間
+- [心藥 Medicine](https://5219rayhsu.github.io/works/medicine/): 78 張 AI 塔羅牌互動作品（22 張大阿爾克那、56 張小阿爾克那）；2025 個展於看守所藝術空間
+
+## 近期更新作品的三語資料 Updated work references
+
+- [無序身體販賣所 Chaos Body Shop · 中文](https://5219rayhsu.github.io/okf/works/chaos-body-shop/zh-Hant.md): 作品事實、系列區段與紀錄來源。
+- [無序身體販賣所 Chaos Body Shop · English](https://5219rayhsu.github.io/okf/works/chaos-body-shop/en.md): 作品事實、系列區段與紀錄來源。
+- [無序身體販賣所 Chaos Body Shop · 日本語](https://5219rayhsu.github.io/okf/works/chaos-body-shop/ja.md): 作品事實、系列區段與紀錄來源。
+- [心藥 Medicine · 中文](https://5219rayhsu.github.io/okf/works/medicine/zh-Hant.md): 作品事實、系列區段與紀錄來源。
+- [心藥 Medicine · English](https://5219rayhsu.github.io/okf/works/medicine/en.md): 作品事實、系列區段與紀錄來源。
+- [心藥 Medicine · 日本語](https://5219rayhsu.github.io/okf/works/medicine/ja.md): 作品事實、系列區段與紀錄來源。
 
 ## 參展 Exhibitions
 - [參展年表](https://5219rayhsu.github.io/exhibitions/): 個展、聯展、台大攝影社展完整年表
