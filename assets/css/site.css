@@ -906,3 +906,6 @@ section[id], span.anchor, .works-row[id] { scroll-margin-top: 72px; }
   .filmstrip img { width: 100%; }
   .hero__cue { display: none; }
 }
+
+/* Documentation follows the seven When I Grow Up photographs. */
+.idseries .award--video { margin-top: clamp(2rem, 5vw, 4rem); }
