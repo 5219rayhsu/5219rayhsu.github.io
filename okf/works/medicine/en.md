@@ -21,7 +21,7 @@ description: Medicine (2025) by HSU Che-jui. A 78-card tarot deck made from AI-g
   imagery and digital compositing, imagining the future together with AI and the viewer
   through divination. Premiered at beholdingcell, HSU Che-jui's 22nd Birthday Special
   Exhibition, October 2025.
-updated: '2026-07-19'
+updated: '2026-09-15'
 ---
 
 # Medicine
@@ -33,3 +33,11 @@ Medicine (2025) by HSU Che-jui. A 78-card tarot deck made from AI-generated imag
 - Date: 2025
 - Medium: AI-generated imagery, digital compositing, printed tarot cards, divination performance
 - Official page: https://5219rayhsu.github.io/en/works/medicine/
+
+## Work sections
+
+- [Major Arcana: 22 cards](https://5219rayhsu.github.io/en/works/medicine/#major-arcana)
+- [Wands](https://5219rayhsu.github.io/en/works/medicine/#wands-title)
+- [Swords](https://5219rayhsu.github.io/en/works/medicine/#swords-title)
+- [Pentacles](https://5219rayhsu.github.io/en/works/medicine/#pentacles-title)
+- [Cups](https://5219rayhsu.github.io/en/works/medicine/#cups-title)

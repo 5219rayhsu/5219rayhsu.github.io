@@ -220,67 +220,121 @@
   window.addEventListener("resize", requestTick, { passive: true });
   onScroll();
 
-  /* ---------- lightbox ---------- */
+  /* ---------- lightbox: browse images in page order ---------- */
   const lightbox = document.querySelector("[data-lightbox]");
-  const lightboxImg = lightbox ? lightbox.querySelector(".lightbox__img") : null;
-  const lightboxClose = lightbox ? lightbox.querySelector(".lightbox__close") : null;
-  // caption element (2026-07-11D #3): reuse it if a page already ships one,
-  // otherwise inject it — keeps every existing lightbox markup working as-is.
-  let lightboxCap = lightbox ? lightbox.querySelector(".lightbox__cap") : null;
-  if (lightbox && !lightboxCap) {
-    lightboxCap = document.createElement("p");
+  const lightboxImg = lightbox?.querySelector(".lightbox__img");
+  const lightboxClose = lightbox?.querySelector(".lightbox__close");
+  const language = document.documentElement.lang;
+  const labels = language.startsWith("ja")
+    ? { open: "画像を拡大", close: "閉じる", previous: "前の作品", next: "次の作品", gallery: "作品画像", error: "画像を読み込めません。前後の作品へ移動できます。" }
+    : language.startsWith("en")
+    ? { open: "View larger", close: "Close", previous: "Previous artwork", next: "Next artwork", gallery: "Artwork images", error: "Image could not load. You can still browse previous or next artworks." }
+    : { open: "放大檢視", close: "關閉", previous: "上一件作品", next: "下一件作品", gallery: "作品圖片", error: "圖片暫時無法載入，仍可切換前後作品。" };
+  const zoomables = [...document.querySelectorAll(
+    ".filmstrip, .idgrid, .work, .collage-item__media, .gallery__item"
+  )].filter(el => el.querySelector("img"));
+  let currentImage = 0;
+  let lastFocused = null;
+  let previousOverflow = "";
+
+  if (lightbox && lightboxImg && lightboxClose && zoomables.length) {
+    lightbox.setAttribute("role", "dialog");
+    lightbox.setAttribute("aria-modal", "true");
+    lightbox.setAttribute("aria-label", labels.gallery);
+    lightboxClose.setAttribute("aria-label", labels.close);
+    const lightboxCap = lightbox.querySelector(".lightbox__cap") || document.createElement("p");
     lightboxCap.className = "lightbox__cap";
     lightbox.appendChild(lightboxCap);
-  }
-  const zoomables = document.querySelectorAll(
-    ".filmstrip, .idgrid, .work, .collage-item__media, .gallery__item"
-  );
-  let lastFocused = null;
+    const controls = document.createElement("div");
+    controls.className = "lightbox__controls";
+    const previous = document.createElement("button");
+    const next = document.createElement("button");
+    const counter = document.createElement("span");
+    counter.className = "lightbox__counter";
+    counter.setAttribute("aria-live", "polite");
+    counter.setAttribute("aria-atomic", "true");
+    [previous, next].forEach((button, index) => {
+      button.type = "button";
+      button.className = "lightbox__arrow " + (index ? "lightbox__next" : "lightbox__previous");
+      button.setAttribute("aria-label", index ? labels.next : labels.previous);
+      button.textContent = index ? "→" : "←";
+      button.disabled = zoomables.length < 2;
+    });
+    controls.append(previous, counter, next);
+    lightbox.appendChild(controls);
 
-  function openLightbox(srcEl) {
-    const img = srcEl.querySelector("img");
-    if (!img || !lightbox) return;
-    lastFocused = document.activeElement;
-    lightboxImg.src = img.dataset.full || img.currentSrc || img.src;
-    lightboxImg.alt = img.alt || "";
-    if (lightboxCap) {
-      const figcap = srcEl.querySelector("figcaption");
-      lightboxCap.textContent = (figcap ? figcap.textContent : img.alt || "").trim();
+    function showImage(index) {
+      currentImage = (index + zoomables.length) % zoomables.length;
+      const element = zoomables[currentImage];
+      const img = element.querySelector("img");
+      lightboxImg.alt = img.alt || "";
+      lightboxCap.textContent = (element.querySelector("figcaption")?.textContent || img.alt || "").trim();
+      counter.textContent = `${currentImage + 1} / ${zoomables.length}`;
+      lightboxImg.src = img.dataset.full || img.src || img.currentSrc;
     }
-    lightbox.hidden = false;
-    document.body.style.overflow = "hidden";
-    lightboxClose.focus();
-  }
-  function closeLightbox() {
-    if (!lightbox || lightbox.hidden) return;
-    lightbox.hidden = true;
-    lightboxImg.removeAttribute("src");
-    if (lightboxCap) lightboxCap.textContent = "";
-    document.body.style.overflow = "";
-    if (lastFocused) lastFocused.focus();
-  }
-
-  zoomables.forEach((el) => {
-    el.setAttribute("role", "button");
-    el.setAttribute("tabindex", "0");
-    el.setAttribute("aria-label", "放大檢視 View larger");
-    el.addEventListener("click", () => openLightbox(el));
-    el.addEventListener("keydown", (e) => {
-      if (e.key === "Enter" || e.key === " ") {
-        e.preventDefault();
-        openLightbox(el);
+    function openLightbox(element) {
+      lastFocused = document.activeElement;
+      previousOverflow = document.body.style.overflow;
+      showImage(zoomables.indexOf(element));
+      lightbox.hidden = false;
+      document.body.style.overflow = "hidden";
+      lightboxClose.focus();
+    }
+    function closeLightbox() {
+      if (lightbox.hidden) return;
+      lightbox.hidden = true;
+      lightboxImg.removeAttribute("src");
+      lightboxCap.textContent = "";
+      document.body.style.overflow = previousOverflow;
+      lastFocused?.focus({ preventScroll: true });
+    }
+    lightboxImg.addEventListener("error", () => {
+      if (!lightbox.hidden) lightboxCap.textContent = labels.error;
+    });
+    zoomables.forEach(element => {
+      element.setAttribute("role", "button");
+      element.setAttribute("tabindex", "0");
+      element.setAttribute("aria-label", `${labels.open}: ${element.querySelector("img").alt || labels.gallery}`);
+      element.addEventListener("click", () => openLightbox(element));
+      element.addEventListener("keydown", event => {
+        if (event.key === "Enter" || event.key === " ") {
+          event.preventDefault();
+          openLightbox(element);
+        }
+      });
+    });
+    previous.addEventListener("click", () => showImage(currentImage - 1));
+    next.addEventListener("click", () => showImage(currentImage + 1));
+    lightboxClose.addEventListener("click", closeLightbox);
+    lightbox.addEventListener("click", event => {
+      if (event.target === lightbox) closeLightbox();
+    });
+    document.addEventListener("keydown", event => {
+      if (lightbox.hidden) return;
+      if (event.key === "Escape") closeLightbox();
+      if (event.key === "ArrowLeft" || event.key === "ArrowRight") {
+        event.preventDefault();
+        showImage(currentImage + (event.key === "ArrowRight" ? 1 : -1));
+      }
+      if (event.key === "Tab") {
+        const buttons = [lightboxClose, previous, next].filter(button => !button.disabled);
+        const index = buttons.indexOf(document.activeElement);
+        event.preventDefault();
+        buttons[(index + (event.shiftKey ? -1 : 1) + buttons.length) % buttons.length].focus();
       }
     });
-  });
-
-  if (lightbox) {
-    lightbox.addEventListener("click", (e) => {
-      if (e.target === lightbox || e.target === lightboxImg) closeLightbox();
-    });
-    lightboxClose.addEventListener("click", closeLightbox);
-    document.addEventListener("keydown", (e) => {
-      if (e.key === "Escape") closeLightbox();
-    });
+    let touchStart = null;
+    lightboxImg.addEventListener("touchstart", event => {
+      touchStart = event.touches.length === 1 ? { x: event.touches[0].clientX, y: event.touches[0].clientY } : null;
+    }, { passive: true });
+    lightboxImg.addEventListener("touchend", event => {
+      if (!touchStart || !event.changedTouches.length) return;
+      const dx = event.changedTouches[0].clientX - touchStart.x;
+      const dy = event.changedTouches[0].clientY - touchStart.y;
+      touchStart = null;
+      if (Math.abs(dx) > 60 && Math.abs(dx) > Math.abs(dy) * 1.5) showImage(currentImage + (dx < 0 ? 1 : -1));
+    }, { passive: true });
+    lightboxImg.addEventListener("touchcancel", () => { touchStart = null; });
   }
 
   /* ---------- YouTube facade (click-to-load embed, avoids upfront iframe cost) ---------- */

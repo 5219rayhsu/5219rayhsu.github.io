@@ -17,7 +17,7 @@ date_created: '2025'
 art_medium: AI生成映像、デジタル合成、実物タロットカード印刷、占い行為
 description: 《心薬 Medicine》(2025)、許哲睿。生成AIの映像とデジタル合成でつくった78枚のタロットカード。占いを通じて、観客とともに未来を想像する。2025年10月、看守所
   beholdingcell で〈許哲睿 22歳誕生日特別展〉として初公開。
-updated: '2026-07-25'
+updated: '2026-09-15'
 ---
 
 # 心薬 Medicine
@@ -29,3 +29,11 @@ updated: '2026-07-25'
 - 制作年：2025
 - 素材：AI生成映像、デジタル合成、実物タロットカード印刷、占い行為
 - 公式ページ：https://5219rayhsu.github.io/ja/works/medicine/
+
+## 作品セクション
+
+- [大アルカナ：22枚](https://5219rayhsu.github.io/ja/works/medicine/#major-arcana)
+- [ワンド](https://5219rayhsu.github.io/ja/works/medicine/#wands-title)
+- [ソード](https://5219rayhsu.github.io/ja/works/medicine/#swords-title)
+- [ペンタクル](https://5219rayhsu.github.io/ja/works/medicine/#pentacles-title)
+- [カップ](https://5219rayhsu.github.io/ja/works/medicine/#cups-title)

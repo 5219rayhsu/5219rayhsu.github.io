@@ -18,7 +18,7 @@ date_created: '2025'
 art_medium: AI 生成式圖像、數位合成、實體塔羅牌印刷、占卜行為
 description: 《心藥 Medicine》(2025)，許哲睿。以 AI 生成式圖像結合數位合成創作的 78 張塔羅牌，透過占卜與觀眾共同想像未來。2025年10月於看守所
   beholdingcell 舉辦「許哲睿22歲生日特展」首展。
-updated: '2026-07-19'
+updated: '2026-09-15'
 ---
 
 # 心藥
@@ -30,3 +30,11 @@ updated: '2026-07-19'
 - 年代：2025
 - 媒材：AI 生成式圖像、數位合成、實體塔羅牌印刷、占卜行為
 - 官網：https://5219rayhsu.github.io/works/medicine/
+
+## 作品區段
+
+- [大阿爾克那：22 張](https://5219rayhsu.github.io/works/medicine/#major-arcana)
+- [權杖](https://5219rayhsu.github.io/works/medicine/#wands-title)
+- [寶劍](https://5219rayhsu.github.io/works/medicine/#swords-title)
+- [錢幣](https://5219rayhsu.github.io/works/medicine/#pentacles-title)
+- [聖杯](https://5219rayhsu.github.io/works/medicine/#cups-title)

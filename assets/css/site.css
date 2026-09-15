@@ -683,6 +683,12 @@ main { padding-top: var(--nav-h); }
 .gallery__item--portrait img { aspect-ratio: 4 / 3; object-fit: contain; }
 .gallery__item:hover { transform: translateY(-4px); box-shadow: 0 24px 50px -26px rgba(0,0,0,.6); }
 .gallery__cap { margin-top: .6rem; font-size: .82rem; line-height: 1.5; color: var(--c-text-dim); padding: 0 .2rem .2rem; text-align: var(--align-body); text-justify: inter-ideograph; hyphens: auto; }
+/* The 78-card Medicine deck stays legible on phones without a single long column. */
+.gallery:has(img[src*="/medicine/medicine-tarot-"]) { grid-template-columns: repeat(2, minmax(0, 1fr)); }
+.gallery:has(img[src*="/medicine/medicine-tarot-"]) .gallery__cap { text-align: start; overflow-wrap: anywhere; }
+@media (min-width: 600px) {
+  .gallery:has(img[src*="/medicine/medicine-tarot-"]) { grid-template-columns: repeat(3, minmax(0, 1fr)); }
+}
 
 /* zh page only: Chinese translation line under the (untranslated) English exam-question
    caption — 2026-07-12, 答案系列 24 圖說中譯. Smaller + fainter than the English line so
@@ -766,16 +772,23 @@ main { padding-top: var(--nav-h); }
 }
 
 /* ---------------------------------------------------------------- lightbox */
-.lightbox { position: fixed; inset: 0; z-index: 300; display: flex; flex-direction: column; align-items: center; justify-content: center; gap: 2vmin; overflow: auto; padding: 5vmin 4vmin; background: rgba(0,0,0,.92); backdrop-filter: blur(8px); -webkit-backdrop-filter: blur(8px); opacity: 0; animation: fade .35s var(--ease-io) forwards; }
+.lightbox { position: fixed; inset: 0; z-index: 300; display: flex; flex-direction: column; align-items: center; justify-content: center; gap: 2vmin; overflow: auto; padding: 70px 4vmin 90px; background: rgba(0,0,0,.92); backdrop-filter: blur(8px); -webkit-backdrop-filter: blur(8px); opacity: 0; animation: fade .35s var(--ease-io) forwards; }
 .lightbox[hidden] { display: none; }
 @keyframes fade { to { opacity: 1; } }
-.lightbox__img { max-width: 94vw; max-height: 82vh; width: auto; min-height: 0; border-radius: 8px; box-shadow: 0 30px 80px rgba(0,0,0,.6); }
+.lightbox__img { max-width: 92vw; max-height: calc(100vh - 240px); max-height: calc(100dvh - 240px); width: auto; min-height: 0; object-fit: contain; border-radius: 8px; box-shadow: 0 30px 80px rgba(0,0,0,.6); }
 .lightbox__close { position: fixed; top: 18px; right: 20px; z-index: 301; width: 44px; height: 44px; border-radius: 50%; border: none; cursor: pointer; font-size: 1.1rem; background: rgba(255,255,255,.14); color: #fff; backdrop-filter: blur(10px); transition: background .25s; }
 .lightbox__close:hover { background: rgba(255,255,255,.28); }
 /* caption under the enlarged image (2026-07-11D #3): figcaption text, falls
    back to img alt — set by main.js. Low-key: small, pale, centered. */
 .lightbox__cap { flex: none; margin: 0; max-width: min(84vw, 640px); padding: 0 1rem; text-align: center; font-size: .85rem; line-height: 1.5; color: rgba(255,255,255,.8); }
 .lightbox__cap:empty { display: none; }
+.lightbox__cap { max-height: 80px; overflow-y: auto; }
+.lightbox__controls { position: fixed; bottom: max(18px, env(safe-area-inset-bottom)); left: 50%; transform: translateX(-50%); display: flex; align-items: center; gap: 1rem; padding: .35rem .6rem; border-radius: 36px; background: #242426; color: #fff; }
+.lightbox__arrow { width: 48px; height: 48px; border: 1px solid #777; border-radius: 50%; background: #38383b; color: #fff; font-size: 1.4rem; cursor: pointer; }
+.lightbox__arrow:hover { background: #555; }
+.lightbox__arrow:disabled { opacity: .35; cursor: default; }
+.lightbox__arrow:focus-visible, .lightbox__close:focus-visible { outline: 3px solid #fff; outline-offset: 3px; }
+.lightbox__counter { min-width: 5.5ch; text-align: center; font-variant-numeric: tabular-nums; }
 
 /* ---------------------------------------------------------------- back-to-top (2026-07-11D #2)
    Injected by main.js on every page (progressive; no markup needed per page).
