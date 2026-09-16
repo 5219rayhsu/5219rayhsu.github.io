@@ -40,6 +40,8 @@ jobs:
             git apply /tmp/portfolio-repair.diff
             rm .maintenance/patch{1,2,3,4}.b64
           fi
+          # Playwright Python spells this option java_script_enabled.
+          sed -i 's/javascript_enabled=/java_script_enabled=/g' tools/browser_check.py
       - name: Install pinned test dependencies
         run: |
           python -m pip install -r tools/requirements.txt
