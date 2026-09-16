@@ -17,13 +17,17 @@ PROFILE = {'alumniOf', 'memberOf', 'award', 'disambiguatingDescription'}
 JSONLD = re.compile(r'(<script\b[^>]*type="application/ld\+json"[^>]*>)(.*?)(</script>)', re.S)
 
 def framed_sizes(ratio: float) -> str:
-    outer = 'clamp(1.25rem, calc(0.5rem + 3vw), 2.75rem)'
-    inner = 'clamp(0.6rem, 1.6vw, 1.4rem)'
-    desktop = f'calc((100vw - 2 * max({outer}, calc((100vw - 1120px) / 2)) - clamp(2.5rem, 5vw, 5.5rem)) / 2)'
-    mobile = f'calc(100vw - 2 * {outer})'
-    def size(width):
-        return f'min({56 * ratio:.4g}vh, calc(min(640px, 92vw, {width}) - 2 * {inner}))'
-    return f'(min-width: 760px) {size(desktop)}, {size(mobile)}'
+    # Keep HTML sizes portable: WebKit may fall back to 100vw for nested
+    # min/max/typed arithmetic even when the same expression is valid CSS.
+    # Height-limited frames use vh; remaining slots conservatively approximate
+    # the existing 760px two-column breakpoint and 1120px content container.
+    height_slot = f"{56 * ratio:.4g}vh"
+    return (f"(min-width: 1200px) and (max-height: 1000px) {height_slot}, "
+            "(min-width: 1200px) 480px, "
+            f"(min-width: 760px) and (max-height: 600px) {height_slot}, "
+            "(min-width: 760px) calc(50vw - 4rem), "
+            f"(min-aspect-ratio: 5/9) {height_slot}, "
+            "calc(100vw - 3.75rem)")
 
 def normalize_link(match):
     prefix, href, end = match.groups()

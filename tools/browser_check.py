@@ -6,6 +6,7 @@ No third-party requests are sent. Failures exit nonzero before release.
 """
 from __future__ import annotations
 import functools, http.server, json, os, threading
+from PIL import Image
 from pathlib import Path
 from urllib.parse import urlsplit
 from playwright.sync_api import sync_playwright
@@ -74,6 +75,17 @@ with sync_playwright() as pw:
             page.goto(ORIGIN+'/works/'+work+'/',wait_until='load')
             info=page.locator('.hero__frame img').evaluate('''img => ({src:img.currentSrc,width:img.getBoundingClientRect().width,height:img.getBoundingClientRect().height,complete:img.complete,natural:img.naturalWidth})''')
             require(info['complete'] and info['natural']>0,f'{work}: failed hero load')
+            candidates = page.locator('.hero__frame source').first.get_attribute('srcset')
+            candidate_widths = sorted(int(item.strip().rsplit(' ',1)[1][:-1]) for item in candidates.split(','))
+            # Allow ten percent slot estimation error and the existing discrete
+            # image ladder, but reject a fallback to the whole viewport width.
+            needed = info['width'] * dpr * 1.10
+            upper = next((w for w in candidate_widths if w >= needed),candidate_widths[-1])
+            image_path = ROOT / urlsplit(info['src']).path.lstrip('/')
+            with Image.open(image_path) as chosen:
+                selected_width = chosen.width
+            info.update({'selected_width':selected_width,'max_reasonable_candidate':upper})
+            require(selected_width <= upper,f'{work}@{width}/DPR{dpr}: oversized source {selected_width}w, expected at most {upper}w')
             info.update({'page':work,'viewport':width,'dpr':dpr});report['images'].append(info)
             if work=='medicine':
                 first=page.locator('.gallery__item img[src*="medicine-tarot-"]').first
