@@ -27,7 +27,7 @@
   <link rel="icon" type="image/png" sizes="32x32" href="../../../assets/img/favicon/icon-32.png" />
   <link rel="icon" type="image/png" sizes="192x192" href="../../../assets/img/favicon/icon-192.png" />
   <link rel="apple-touch-icon" href="../../../assets/img/favicon/apple-touch-icon.png" />
-  <link rel="stylesheet" href="../../../assets/css/site.css?v=20260915-gallery" />
+  <link rel="stylesheet" href="../../../assets/css/site.css?v=701385f51f0e" />
   <style>
     /* 本ページ専用：映像埋め込み（reserved コンポーネント外、この2ページのみで使用、共用 site.css は未変更） */
     .video-grid { display: grid; grid-template-columns: repeat(auto-fit, minmax(min(100%, 20rem), 1fr)); gap: clamp(1rem, 2.4vw, 1.6rem); margin-block: clamp(1.6rem, 3vw, 2.4rem); }
@@ -72,7 +72,10 @@
       "@type": "Person",
       "@id": "https://5219rayhsu.github.io/#person",
       "name": "許哲睿",
-      "alternateName": "HSU Che-jui",
+      "alternateName": [
+        "HSU Che-jui",
+        "キョ・テツ・エイ"
+      ],
       "birthDate": "2003",
       "jobTitle": "Artist",
       "nationality": "TW",
@@ -201,15 +204,15 @@
   <!-- ============================ Global nav ============================ -->
   <header class="nav" id="nav" data-nav>
     <div class="nav__inner">
-      <a class="nav__brand" href="../../index.html" aria-label="許哲睿 HSU Che-jui — ホーム">
+      <a class="nav__brand" href="../../" aria-label="許哲睿 HSU Che-jui — ホーム">
         <span class="nav__brand-name">許哲睿</span>
         <span class="nav__brand-sub">HSU Che-jui</span>
       </a>
       <nav class="nav__links" aria-label="メインナビゲーション">
-        <a href="../../works/">作品</a>
-        <a href="../../exhibitions/" class="is-active" aria-current="page">展覧会</a>
-        <a href="../../texts/">テキスト</a>
-        <a href="../../about/">プロフィール</a>
+        <a href="/ja/works/">作品</a>
+        <a href="/ja/exhibitions/" class="is-active" aria-current="page">展覧会</a>
+        <a href="/ja/texts/">テキスト</a>
+        <a href="/ja/about/">プロフィール</a>
       </nav>
       <div class="nav__lang" role="group" aria-label="言語 Language">
         <a href="../../../exhibitions/answer-keelung-2025/" lang="zh-Hant">中</a>
@@ -225,7 +228,7 @@
     <span id="top"></span>
     <nav class="breadcrumb" aria-label="パンくずリスト Breadcrumb">
       <ol class="wrap">
-        <li><a href="../../index.html">ホーム</a></li>
+        <li><a href="../../">ホーム</a></li>
         <li><a href="../">展覧会</a></li>
         <li aria-current="page">答案 Answer 基隆美術館 個展</li>
       </ol>
@@ -524,6 +527,6 @@
     <img class="lightbox__img" alt="" />
   </div>
 
-  <script src="../../../assets/js/main.js?v=20260915-gallery" defer></script>
+  <script src="../../../assets/js/main.js?v=ca2808f9aa0d" defer></script>
 </body>
 </html>

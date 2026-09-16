@@ -8,7 +8,26 @@
 (() => {
   "use strict";
 
-  const reduceMotion = window.matchMedia("(prefers-reduced-motion: reduce)").matches;
+  const motionPreference = window.matchMedia("(prefers-reduced-motion: reduce)");
+  let reduceMotion = motionPreference.matches;
+  const runningEffects = new Set();
+  motionPreference.addEventListener("change", event => {
+    reduceMotion = event.matches;
+    if (reduceMotion) runningEffects.forEach(effect => effect.cancel());
+  });
+
+  // No fill mode: failures/cancellations revert to the visible CSS default.
+  function enterEffect(element, distance, duration) {
+    if (reduceMotion || typeof element.animate !== "function") return;
+    try {
+      const effect = element.animate([
+        { opacity: 0, transform: `translateY(${distance}px)` },
+        { opacity: 1, transform: "translateY(0)" }
+      ], { duration, easing: "cubic-bezier(.16,1,.3,1)", fill: "none" });
+      runningEffects.add(effect);
+      effect.finished.then(() => runningEffects.delete(effect), () => runningEffects.delete(effect));
+    } catch (_) { /* The underlying element stays visible. */ }
+  }
 
   /* ---------- language switch: preserve scroll position (2026-07-11D #1) ----------
      Click on a non-current .nav__lang link: remember where we are (nearest
@@ -121,38 +140,37 @@
     update();
   })();
 
-  /* ---------- scroll reveal ---------- */
+  /* ---------- fail-open reveal and lazy images ---------- */
   const revealEls = document.querySelectorAll("[data-reveal]");
-  if (reduceMotion || !("IntersectionObserver" in window)) {
-    revealEls.forEach((el) => el.classList.add("is-visible"));
-  } else {
-    const io = new IntersectionObserver(
-      (entries, obs) => {
-        entries.forEach((entry) => {
-          if (entry.isIntersecting) {
-            entry.target.classList.add("is-visible");
-            obs.unobserve(entry.target);
-          }
+  try {
+    if (!reduceMotion && "IntersectionObserver" in window) {
+      const io = new IntersectionObserver((entries, observer) => {
+        entries.forEach(entry => {
+          if (!entry.isIntersecting) return;
+          observer.unobserve(entry.target);
+          entry.target.classList.add("is-visible");
+          enterEffect(entry.target, 26, 800);
         });
-      },
-      { rootMargin: "0px 0px -12% 0px", threshold: 0.08 }
-    );
-    revealEls.forEach((el) => io.observe(el));
-  }
-
-  /* ---------- lazy image load-in (fade + rise, same easing as [data-reveal]) ----------
-     Applies only to loading="lazy" content images (never nav/favicon icons, which
-     don't carry that attribute). Cached images (already complete on attach — e.g.
-     a repeat visit) get .is-loaded immediately so they never sit invisible; a real
-     network load or a decode error both resolve the same way so alt text is never
-     permanently hidden. */
-  document.querySelectorAll('img[loading="lazy"]').forEach((img) => {
-    const markLoaded = () => img.classList.add("is-loaded");
-    if (img.complete && img.naturalWidth > 0) {
-      markLoaded();
+      }, { rootMargin: "0px 0px -12% 0px", threshold: 0.08 });
+      revealEls.forEach(element => io.observe(element));
     } else {
-      img.addEventListener("load", markLoaded, { once: true });
-      img.addEventListener("error", markLoaded, { once: true });
+      revealEls.forEach(element => element.classList.add("is-visible"));
+    }
+  } catch (_) {
+    revealEls.forEach(element => element.classList.add("is-visible"));
+  }
+  document.querySelectorAll('img[loading="lazy"]').forEach(img => {
+    const loaded = () => {
+      img.classList.add("is-loaded");
+      if (img.naturalWidth > 0) enterEffect(img, 6, 500);
+    };
+    const failed = () => img.classList.add("is-loaded");
+    if (img.complete) {
+      // Cached failures have already fired their error event; never wait for it.
+      img.classList.add("is-loaded");
+    } else {
+      img.addEventListener("load", loaded, { once: true });
+      img.addEventListener("error", failed, { once: true });
     }
   });
 
@@ -270,7 +288,7 @@
       lightboxImg.alt = img.alt || "";
       lightboxCap.textContent = (element.querySelector("figcaption")?.textContent || img.alt || "").trim();
       counter.textContent = `${currentImage + 1} / ${zoomables.length}`;
-      lightboxImg.src = img.dataset.full || img.src || img.currentSrc;
+      lightboxImg.src = img.dataset.full || img.currentSrc || img.src;
     }
     function openLightbox(element) {
       lastFocused = document.activeElement;
@@ -364,5 +382,20 @@
         }, 600);
       }
     });
+  });
+  /* Optional first-party analytics hook. It sends NO network request and does
+     not persist data. A separately approved adapter can subscribe later. */
+  document.addEventListener("click", event => {
+    const link = event.target.closest?.("a[href]");
+    if (!link) return;
+    const url = new URL(link.href, location.href);
+    let kind = null;
+    if (url.protocol === "mailto:") kind = "contact";
+    else if (url.origin === location.origin && /\/works\//.test(url.pathname)) kind = "artwork";
+    else if (url.origin === location.origin && /\/exhibitions\//.test(url.pathname)) kind = "exhibition";
+    else if (url.origin === location.origin && /\/texts\//.test(url.pathname)) kind = "text";
+    if (kind) window.dispatchEvent(new CustomEvent("portfolio:interaction", {
+      detail: { kind, page: location.pathname, target: kind === "contact" ? "mailto" : url.pathname }
+    }));
   });
 })();

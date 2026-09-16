@@ -1,1 +1,6 @@
 .DS_Store
+.test-results/
+__pycache__/
+*.pyc
+.venv/
+seo-exports/

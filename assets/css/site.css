@@ -124,7 +124,7 @@ main { padding-top: var(--nav-h); }
 .section { padding-block: var(--space-section); position: relative; }
 .section--light  { background: var(--c-bg); }
 .section--muted  { background: var(--c-bg-muted); }
-.section--paper  { background: var(--c-bg-paper); }
+.section--paper  { background: var(--c-bg-paper); --c-text-dim: #65656b; }
 .section--dark   { background: var(--c-ink); color: var(--c-invert); }
 
 /* ---------------------------------------------------------------- nav */
@@ -396,7 +396,7 @@ main { padding-top: var(--nav-h); }
 .series-card__num { font-size: clamp(2.4rem, 5vw, 3.6rem); font-weight: 600; letter-spacing: -.04em; color: var(--c-accent); display: block; line-height: 1; margin-bottom: 1.2rem; font-feature-settings: "lnum"; }
 .series-card__zh { font-size: clamp(1.3rem, 1.05rem + 0.8vw, 1.7rem); margin-bottom: .25rem; text-wrap: balance; }
 .series-card__en { color: var(--c-text-dim); font-size: .95rem; }
-.series-card__year { margin-top: 1.1rem; font-size: .82rem; letter-spacing: .1em; color: var(--c-text-faint); }
+.series-card__year { margin-top: 1.1rem; font-size: .82rem; letter-spacing: .1em; color: var(--c-text-dim); }
 
 /* ---------------------------------------------------------------- awards (CBS) */
 .award-grid { display: grid; gap: 1.1rem; grid-template-columns: 1fr; }
@@ -408,7 +408,7 @@ main { padding-top: var(--nav-h); }
 .award__hl--gold { color: #9a7b1e; }
 .award__hl--bronze { color: #a8632c; }
 /* 獎項出處：比 award__en 再弱一階，僅供人／機器查證用，不搶版面 */
-.award__src { margin-top: .7rem; font-size: .85rem; line-height: 1.5; color: var(--c-text-faint); }
+.award__src { margin-top: .7rem; font-size: .85rem; line-height: 1.5; color: var(--c-text-dim); }
 .award__en { margin-top: 1.2rem; padding-top: 1.1rem; border-top: 1px solid var(--c-line); font-size: .92rem; line-height: 1.55; color: var(--c-text-dim); text-align: var(--align-body); text-justify: inter-ideograph; hyphens: auto; }
 .award--gold, .award--bronze { position: relative; display: flex; flex-direction: column; }
 .award__action { margin-top: auto; padding-top: 1.4rem; font-size: .95rem; font-weight: 600; }
@@ -557,7 +557,7 @@ main { padding-top: var(--nav-h); }
 .feature-card__no { font-size: .8rem; letter-spacing: .14em; color: var(--c-accent); font-weight: 600; font-feature-settings: "tnum"; }
 .feature-card__zh { font-size: clamp(1.25rem, 1.05rem + .8vw, 1.6rem); margin-top: .5rem; }
 .feature-card__en { color: var(--c-text-dim); font-size: .95rem; margin-top: .2rem; }
-.feature-card__meta { margin-top: .9rem; font-size: .82rem; letter-spacing: .04em; color: var(--c-text-faint); }
+.feature-card__meta { margin-top: .9rem; font-size: .82rem; letter-spacing: .04em; color: var(--c-text-dim); }
 @media (min-width: 760px) { .feature-grid { grid-template-columns: repeat(3, 1fr); } }
 
 /* ---------------------------------------------------------------- work cards (works overview: large project rows) */
@@ -572,7 +572,7 @@ main { padding-top: var(--nav-h); }
 .work-card__zh { font-size: clamp(1.5rem, 1.2rem + 1.4vw, 2.3rem); margin-top: .6rem; }
 .work-card__en { color: var(--c-text-dim); font-size: 1.02rem; margin-top: .3rem; }
 .work-card__desc { margin-top: 1.1rem; font-size: 1rem; line-height: 1.65; color: var(--c-text-dim); max-width: 52ch; }
-.work-card__meta { margin-top: 1.2rem; font-size: .82rem; letter-spacing: .06em; color: var(--c-text-faint); }
+.work-card__meta { margin-top: 1.2rem; font-size: .82rem; letter-spacing: .06em; color: var(--c-text-dim); }
 @media (min-width: 820px) {
   .work-card a { grid-template-columns: 1.1fr 1fr; align-items: center; }
   .work-card__media { aspect-ratio: 4 / 5; height: auto; }
@@ -693,7 +693,7 @@ main { padding-top: var(--nav-h); }
 /* zh page only: Chinese translation line under the (untranslated) English exam-question
    caption — 2026-07-12, 答案系列 24 圖說中譯. Smaller + fainter than the English line so
    the original title still reads first; en/ja pages never load this class. */
-.gallery__cap-zh { display: block; margin-top: .2rem; font-size: .78rem; color: var(--c-text-faint); }
+.gallery__cap-zh { display: block; margin-top: .2rem; font-size: .78rem; color: var(--c-text-dim); }
 
 /* answer gallery (2026-07-11D #4): 24 shots = 12 diptych pairs (front/back),
    consecutive in markup. A plain N-column grid keeps pairs adjacent without
@@ -719,14 +719,14 @@ main { padding-top: var(--nav-h); }
 .about-preview .prose__lead { color: var(--c-text); }
 .about-preview__facts { list-style: none; padding: 0; margin: clamp(1.6rem, 3vw, 2.2rem) 0 0; display: grid; gap: .7rem; }
 .about-preview__facts li { display: grid; grid-template-columns: 7.5rem 1fr; gap: 1rem; font-size: .98rem; line-height: 1.5; }
-.about-preview__facts dt, .about-preview__facts .k { color: var(--c-text-faint); letter-spacing: .04em; }
+.about-preview__facts dt, .about-preview__facts .k { color: var(--c-text-dim); letter-spacing: .04em; }
 /* Membership: single-line entries — override the 2-column facts grid so the
    Chinese name + its translation sit on one line (English/other = faint sub).
    The block is centered as a whole; each row stays left-aligned. */
 [aria-labelledby="membership-title"] .block-head { text-align: center; }
 [aria-labelledby="membership-title"] .about-preview__facts { width: fit-content; max-width: 100%; margin-inline: auto; }
 [aria-labelledby="membership-title"] .about-preview__facts li { display: block; grid-template-columns: none; text-align: left; }
-[aria-labelledby="membership-title"] .about-preview__facts li span { display: inline; margin-left: .55rem; color: var(--c-text-faint); }
+[aria-labelledby="membership-title"] .about-preview__facts li span { display: inline; margin-left: .55rem; color: var(--c-text-dim); }
 
 /* ---------------------------------------------------------------- page-related (CBS footer links: texts + exhibitions) */
 .page-related { background: var(--c-bg-muted); border-top: 1px solid var(--c-line); }
@@ -806,23 +806,12 @@ main { padding-top: var(--nav-h); }
 @media (max-width: 640px) { .totop { width: 42px; height: 42px; right: 12px; bottom: 12px; } }
 @media (prefers-reduced-motion: reduce) { .totop { transition: opacity .15s linear, visibility 0s linear; } }
 
-/* ---------------------------------------------------------------- reveal animation
-   只在 html.js（head 內聯腳本標記）時才隱藏待進場元素：
-   JS 關閉或腳本失效時內容照常可見（SEO／無障礙防線）。 */
-html.js [data-reveal] { opacity: 0; transform: translateY(26px); transition: opacity var(--dur) var(--ease) var(--d, 0ms), transform var(--dur) var(--ease) var(--d, 0ms); }
-html.js [data-reveal].is-visible { opacity: 1; transform: none; }
+/* Progressive animation: content and alternative text are ALWAYS visible by
+   default. main.js may run finite Web Animations after initialization; no CSS
+   class can leave content hidden when a script or image request fails. */
+[data-reveal], img[loading="lazy"] { opacity: 1; }
 @media print {
-  html.js [data-reveal] { opacity: 1 !important; transform: none !important; }
-}
-
-/* ---------------------------------------------------------------- image load-in
-   同一套 reveal 動態語言（--ease／向上浮現），套用在內容圖片本身的載入完成瞬間，
-   而非只有外層區塊。只作用於帶 loading="lazy" 的內容圖（main.js 會排除 nav/favicon），
-   幅度較小、時間較短，避免和區塊 reveal 互相搶戲。 */
-html.js img[loading="lazy"] { opacity: 0; transform: translateY(6px); transition: opacity .5s var(--ease), transform .5s var(--ease); }
-html.js img[loading="lazy"].is-loaded { opacity: 1; transform: none; }
-@media print {
-  html.js img[loading="lazy"] { opacity: 1 !important; transform: none !important; }
+  [data-reveal], img[loading="lazy"] { opacity: 1 !important; transform: none !important; }
 }
 
 /* ---------------------------------------------------------------- anchors */
@@ -852,7 +841,7 @@ section[id], span.anchor, .works-row[id] { scroll-margin-top: 72px; }
 .paper-subtitle { margin-top: 1rem; font-size: clamp(1.1rem, 1rem + .55vw, 1.4rem); line-height: 1.5; color: var(--c-text-dim); font-weight: 400; max-width: 50ch; text-wrap: balance; }
 .paper-meta { margin-top: 1.8rem; display: grid; gap: .45rem; border-top: 1px solid var(--c-line); padding-top: 1.3rem; }
 .paper-meta > div { display: flex; gap: .9rem; font-size: .95rem; line-height: 1.55; }
-.paper-meta dt { flex: none; min-width: 5.5em; color: var(--c-text-faint); letter-spacing: .12em; }
+.paper-meta dt { flex: none; min-width: 5.5em; color: var(--c-text-dim); letter-spacing: .12em; }
 .paper-meta dd { color: var(--c-text); }
 .paper-abstract { margin: clamp(2rem, 4vw, 3rem) 0; padding: clamp(1.4rem, 3vw, 2.2rem); background: rgba(0,0,0,.035); border: 1px solid var(--c-line); border-radius: var(--r); }
 .paper-abstract h2 { font-size: 1.05rem; letter-spacing: .06em; margin-bottom: .8rem; }
@@ -919,3 +908,7 @@ section[id], span.anchor, .works-row[id] { scroll-margin-top: 72px; }
 
 .works-row--event .gallery__cap { text-align: center; }
 @media (min-width: 701px) { .works-row--guests .work:first-child { flex-grow: 1; } }
+
+/* Failed images on white mats must retain readable alternative text. */
+.hero__frame img, .gallery__item img, .work img, .filmstrip img,
+.idgrid img, .collage-item__media img { color: var(--c-text); }

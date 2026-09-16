@@ -1,0 +1,161 @@
+{
+  "zh-Hant": {
+    "@type": "Person",
+    "@id": "https://5219rayhsu.github.io/#person",
+    "name": "許哲睿",
+    "alternateName": "HSU Che-jui",
+    "disambiguatingDescription": "臺灣藝術家許哲睿（HSU Che-jui），2003 年生，作品聚焦攝影與 AI 生成影像；2026 年以《長大》獲全國美術展攝影類金牌獎（國立臺灣美術館）。",
+    "birthDate": "2003",
+    "jobTitle": "Artist",
+    "nationality": "TW",
+    "email": "1003ray1003@gmail.com",
+    "url": "https://5219rayhsu.github.io/",
+    "image": "https://5219rayhsu.github.io/assets/img/home/home-momotaro-self-portrait.jpg",
+    "alumniOf": [
+      {
+        "@type": "CollegeOrUniversity",
+        "name": "東吳大學企業管理學系"
+      },
+      {
+        "@type": "CollegeOrUniversity",
+        "name": "國立臺灣藝術大學 當代視覺文化與實踐碩士班"
+      }
+    ],
+    "memberOf": [
+      {
+        "@type": "Organization",
+        "name": "台灣大學攝影研究社"
+      },
+      {
+        "@type": "Organization",
+        "name": "台灣攝影博物館文化學會"
+      },
+      {
+        "@type": "Organization",
+        "name": "台灣視覺藝術協會（視盟）"
+      },
+      {
+        "@type": "Organization",
+        "name": "台灣攝影文化資產協會"
+      }
+    ],
+    "award": [
+      "2026 全國美術展 攝影類 金牌獎（《長大》），國立臺灣美術館",
+      "2026 SKM PHOTO 新光三越國際攝影大賽 參獎 暨 年度特獎（《無序身體販賣所》）",
+      "2023 法雅客第 19 屆城市 24 小時攝影馬拉松 佳作"
+    ],
+    "sameAs": [
+      "https://www.instagram.com/5219rayhsu/",
+      "https://www.facebook.com/profile.php?id=100013784209528",
+      "https://www.youtube.com/@HSU-Che-jui",
+      "https://hsuchejui.myportfolio.com/"
+    ]
+  },
+  "en": {
+    "@type": "Person",
+    "@id": "https://5219rayhsu.github.io/#person",
+    "name": "許哲睿",
+    "alternateName": "HSU Che-jui",
+    "disambiguatingDescription": "Taiwanese artist HSU Che-jui (許哲睿), b. 2003, working in photography and AI-generated imagery; awarded the 2026 National Art Exhibition R.O.C. Gold Prize in Photography for When I Grow Up (National Taiwan Museum of Fine Arts).",
+    "birthDate": "2003",
+    "jobTitle": "Artist",
+    "nationality": "TW",
+    "email": "1003ray1003@gmail.com",
+    "url": "https://5219rayhsu.github.io/",
+    "image": "https://5219rayhsu.github.io/assets/img/home/home-momotaro-self-portrait.jpg",
+    "alumniOf": [
+      {
+        "@type": "CollegeOrUniversity",
+        "name": "東吳大學企業管理學系"
+      },
+      {
+        "@type": "CollegeOrUniversity",
+        "name": "國立臺灣藝術大學 當代視覺文化與實踐碩士班"
+      }
+    ],
+    "memberOf": [
+      {
+        "@type": "Organization",
+        "name": "台灣大學攝影研究社"
+      },
+      {
+        "@type": "Organization",
+        "name": "台灣攝影博物館文化學會"
+      },
+      {
+        "@type": "Organization",
+        "name": "台灣視覺藝術協會（視盟）"
+      },
+      {
+        "@type": "Organization",
+        "name": "台灣攝影文化資產協會"
+      }
+    ],
+    "award": [
+      "2026 全國美術展 攝影類 金牌獎（《長大》），國立臺灣美術館",
+      "2026 SKM PHOTO 新光三越國際攝影大賽 參獎 暨 年度特獎（《無序身體販賣所》）",
+      "2023 法雅客第 19 屆城市 24 小時攝影馬拉松 佳作"
+    ],
+    "sameAs": [
+      "https://www.instagram.com/5219rayhsu/",
+      "https://www.facebook.com/profile.php?id=100013784209528",
+      "https://www.youtube.com/@HSU-Che-jui",
+      "https://hsuchejui.myportfolio.com/"
+    ]
+  },
+  "ja": {
+    "@type": "Person",
+    "@id": "https://5219rayhsu.github.io/#person",
+    "name": "許哲睿",
+    "alternateName": [
+      "HSU Che-jui",
+      "キョ・テツ・エイ"
+    ],
+    "disambiguatingDescription": "台湾のアーティスト許哲睿（HSU Che-jui、キョ・テツ・エイ）、2003年生まれ。写真とAI生成イメージを中心に制作。2026年全国美術展写真部門金牌賞受賞作品《長大》（国立台湾美術館）。",
+    "birthDate": "2003",
+    "jobTitle": "Artist",
+    "nationality": "TW",
+    "email": "1003ray1003@gmail.com",
+    "url": "https://5219rayhsu.github.io/",
+    "image": "https://5219rayhsu.github.io/assets/img/home/home-momotaro-self-portrait.jpg",
+    "alumniOf": [
+      {
+        "@type": "CollegeOrUniversity",
+        "name": "東呉大学企業管理学系"
+      },
+      {
+        "@type": "CollegeOrUniversity",
+        "name": "国立台湾芸術大学 現代視覚文化・実践修士課程"
+      }
+    ],
+    "memberOf": [
+      {
+        "@type": "Organization",
+        "name": "台湾大学写真研究会"
+      },
+      {
+        "@type": "Organization",
+        "name": "台湾写真博物館文化学会"
+      },
+      {
+        "@type": "Organization",
+        "name": "台湾視覚芸術協会（視盟）"
+      },
+      {
+        "@type": "Organization",
+        "name": "台湾写真文化資産協会"
+      }
+    ],
+    "award": [
+      "2026 全国美術展 写真部門 金牌賞（《長大》），国立台湾美術館",
+      "2026 SKM PHOTO 新光三越国際写真大賞 参賞ならびに年度特別賞（《無序身体販売所》）",
+      "2023 法雅客第 19 回城市 24 小時撮影マラソン 佳作"
+    ],
+    "sameAs": [
+      "https://www.instagram.com/5219rayhsu/",
+      "https://www.facebook.com/profile.php?id=100013784209528",
+      "https://www.youtube.com/@HSU-Che-jui",
+      "https://hsuchejui.myportfolio.com/"
+    ]
+  }
+}

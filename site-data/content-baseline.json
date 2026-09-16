@@ -1,0 +1,218 @@
+{
+  "index.html": {
+    "main_text_sha256": "c1d80046aba6125da20eec3f53841f99f55e45f95b01277be96fc992e4ac9ee8",
+    "title": "許哲睿 HSU Che-jui — 攝影與複合媒材藝術家",
+    "canonical": "https://5219rayhsu.github.io/",
+    "alt_sha256": "122c14ec7b7bb91a0ad597f70f0c65642a93f8298d4bb194917e0e25cbeaaeab"
+  },
+  "about/index.html": {
+    "main_text_sha256": "04d570343f6eba52203c18ec5c666ce7f52fadebc0ec342d4f3e345170293da6",
+    "title": "關於 About — 許哲睿 HSU Che-jui",
+    "canonical": "https://5219rayhsu.github.io/about/",
+    "alt_sha256": "a26d7f5b33d756a4cfda843b202fc9b092a4182c809bee77db2b47ea210247d2"
+  },
+  "works/index.html": {
+    "main_text_sha256": "c4b21cffa5ec55d50d3174fce65d1684cd46766dfb734c766e628a45e498bdf3",
+    "title": "作品 Works — 許哲睿 HSU Che-jui",
+    "canonical": "https://5219rayhsu.github.io/works/",
+    "alt_sha256": "6d96ea7d96c1a84a15805abd6ef7ab128b00e1206df97b1c1887fe052c17bca9"
+  },
+  "ja/index.html": {
+    "main_text_sha256": "e1bb972428e230da7f6f244eb6d9ee961fa368d4e3cc259e814a1d4647c8e223",
+    "title": "許哲睿 HSU Che-jui — 写真と複合メディアのアーティスト",
+    "canonical": "https://5219rayhsu.github.io/ja/",
+    "alt_sha256": "43de0045dd353189d8979ea58e483fbcfa06ab94d2685298cd6e90b360c4e402"
+  },
+  "texts/index.html": {
+    "main_text_sha256": "60000e76ce9c8b08a5f4cfca462a9c5a5e1ea1d27708314b5d9c7fd1b64e6269",
+    "title": "文字 Texts — 許哲睿 HSU Che-jui",
+    "canonical": "https://5219rayhsu.github.io/texts/",
+    "alt_sha256": "4f53cda18c2baa0c0354bb5f9a3ecbe5ed12ab4d8e11ba873c2f11161202b945"
+  },
+  "en/index.html": {
+    "main_text_sha256": "dcc862f3b274b65892213e6650bec2d8ca74340db04133641c591bc2ed20dc87",
+    "title": "HSU Che-jui — Photographer & Mixed-Media Artist",
+    "canonical": "https://5219rayhsu.github.io/en/",
+    "alt_sha256": "5421e2855a9c2202fcdb25d4e0c3b68827afb376a20fc0d4e116557839900c1a"
+  },
+  "exhibitions/index.html": {
+    "main_text_sha256": "e872cec624fbed85845bb99aaf20b469d1dfcdab2f54a13fc57dfae0536f1236",
+    "title": "參展 Exhibitions — 許哲睿 HSU Che-jui",
+    "canonical": "https://5219rayhsu.github.io/exhibitions/",
+    "alt_sha256": "5bf87aac52f04326c79572fdfefe1b699d06c2ac4f8d8b5d4622c998b39c816f"
+  },
+  "exhibitions/seikai-tokyo-2026/index.html": {
+    "main_text_sha256": "829e7a61ac8d2f75b38f0ab0fd045e4fa561a085837dacc5ac7f39abe4699ad5",
+    "title": "正解：台湾受験戦争の真剣勝負 — Place M 東京個展 — 許哲睿 HSU Che-jui",
+    "canonical": "https://5219rayhsu.github.io/exhibitions/seikai-tokyo-2026/",
+    "alt_sha256": "069e331bd86969af1ae97c5e565547033fa60b0e9eec8590c8689229fe18cac4"
+  },
+  "exhibitions/answer-keelung-2025/index.html": {
+    "main_text_sha256": "34942fd1ef4b1ca4f944494b3ffd7853cbd4f25334b45340c3a00947038ee754",
+    "title": "答案 Answer — 基隆美術館個展 — 許哲睿 HSU Che-jui",
+    "canonical": "https://5219rayhsu.github.io/exhibitions/answer-keelung-2025/",
+    "alt_sha256": "7644ec4bdb5fae50c0f307aeb51872c2438d3a0d6c88bc25106254fcdce73f38"
+  },
+  "en/about/index.html": {
+    "main_text_sha256": "e13e57ef3f5d518adc0461b697811a42a7c4c77d665f3b318c7e0f7532762c2c",
+    "title": "About — HSU Che-jui",
+    "canonical": "https://5219rayhsu.github.io/en/about/",
+    "alt_sha256": "b9d39c8b290243d7a7cbe146f7e8a67b3b59498526147ffc4ffeb7c7083e7124"
+  },
+  "en/works/index.html": {
+    "main_text_sha256": "d3370168857b9958fe13d17af43a939887fec372f46ee01fe8b13f09e9573ec2",
+    "title": "Works — HSU Che-jui",
+    "canonical": "https://5219rayhsu.github.io/en/works/",
+    "alt_sha256": "444fcd4e1f03843086b86a724d9019dbc5826edc9f545bf7f77edac1e7ebc136"
+  },
+  "en/texts/index.html": {
+    "main_text_sha256": "e1b2d1456835258ebdaf76df8cefb0ab9cae9cfff4dbec8b0907e1dd99f32a63",
+    "title": "Texts — HSU Che-jui",
+    "canonical": "https://5219rayhsu.github.io/en/texts/",
+    "alt_sha256": "4f53cda18c2baa0c0354bb5f9a3ecbe5ed12ab4d8e11ba873c2f11161202b945"
+  },
+  "en/exhibitions/index.html": {
+    "main_text_sha256": "5cacef87665f008b0c36613d50964e3a33dfbd7ee03e69ae3ab3ee454d0c9818",
+    "title": "Exhibitions — HSU Che-jui",
+    "canonical": "https://5219rayhsu.github.io/en/exhibitions/",
+    "alt_sha256": "7ef7ee887151c4f166136f76ea2009ad4a998e23a5f5a972c89f4aa77ffe80c2"
+  },
+  "en/exhibitions/seikai-tokyo-2026/index.html": {
+    "main_text_sha256": "99b137a31aa87658b31e6e268a57b881027ffafeece182c6d5b1abffae9e19b9",
+    "title": "正解：台湾受験戦争の真剣勝負 — Place M Tokyo Solo Exhibition — HSU Che-jui",
+    "canonical": "https://5219rayhsu.github.io/en/exhibitions/seikai-tokyo-2026/",
+    "alt_sha256": "b055331653fd46d172aeb7327f9d1fefda2fff7f6bcf233a5b2d3eebbc694f40"
+  },
+  "en/exhibitions/answer-keelung-2025/index.html": {
+    "main_text_sha256": "7dbc121b79c9bebcbf49f56559694c923e873dedcb92f314c1bff17044baeb92",
+    "title": "Answer — Keelung Museum of Art Solo Exhibition — HSU Che-jui",
+    "canonical": "https://5219rayhsu.github.io/en/exhibitions/answer-keelung-2025/",
+    "alt_sha256": "c33898028f4c8feb63bbe7fb04fb5b2112f677577f06ae96bb26065cbf673a07"
+  },
+  "en/texts/contemplating-the-self/index.html": {
+    "main_text_sha256": "e58e53ba69399116551d19eef8946f68ee2a8b87cfcd4158224b40d919529091",
+    "title": "Contemplating the Self — HSU Che-jui",
+    "canonical": "https://5219rayhsu.github.io/en/texts/contemplating-the-self/",
+    "alt_sha256": "55f97cda498a3c799fd68ec4b69e7bcba3b96a832bc0cc4d2d28e6cd894755ac"
+  },
+  "en/texts/critique/index.html": {
+    "main_text_sha256": "f4dae8ef6e700bb06f2cd68e3a2b3e903f2f9673e9e9595ff4281a6d24a55928",
+    "title": "Who Answers for the Generated Image: AI Authorship and Accountability — HSU Che-jui",
+    "canonical": "https://5219rayhsu.github.io/en/texts/critique/",
+    "alt_sha256": "4f53cda18c2baa0c0354bb5f9a3ecbe5ed12ab4d8e11ba873c2f11161202b945"
+  },
+  "en/works/medicine/index.html": {
+    "main_text_sha256": "f728ee3bf768e59e77b7cee1e4568cc668990fabb56f5de01ce9549542dea3d2",
+    "title": "Medicine: 78 AI Tarot Cards — HSU Che-jui",
+    "canonical": "https://5219rayhsu.github.io/en/works/medicine/",
+    "alt_sha256": "e893f228360d8a6cfba11c8f1ad5fcb1682803bffa81aa441ad63060a1d7b15b"
+  },
+  "en/works/answer/index.html": {
+    "main_text_sha256": "cf951e8c6f50c5a2d382e711569d775b2f823c1b99c453dd21a3d06cd55fafe5",
+    "title": "Answer 答案 — HSU Che-jui",
+    "canonical": "https://5219rayhsu.github.io/en/works/answer/",
+    "alt_sha256": "fd4b8b47f608d2fce2b012f19b8fb7e0493bbd52509dff61eb2564ffc252486f"
+  },
+  "en/works/chaos-body-shop/index.html": {
+    "main_text_sha256": "e512e88b9a6ae90fafe5fe3ae3b9eee31b27d3040c43cf323ccf03c477e39ba6",
+    "title": "Chaos Body Shop: When I Grow Up (Gold Prize) — HSU Che-jui",
+    "canonical": "https://5219rayhsu.github.io/en/works/chaos-body-shop/",
+    "alt_sha256": "546218798ca012d72181a4f4255c48d476ceb64d7fb7df2d6f09997175c1fbaa"
+  },
+  "texts/contemplating-the-self/index.html": {
+    "main_text_sha256": "143688a85c64e270ccdf928f55121e27344495ed2ccf840e183c5b67b06ef163",
+    "title": "默觀自我：「問題」與「答案」的弔詭思想行動 — 許哲睿 HSU Che-jui",
+    "canonical": "https://5219rayhsu.github.io/texts/contemplating-the-self/",
+    "alt_sha256": "820b36605b73b77d22e6410e5704c3212a85058c6080a97f72093546e05b7cdd"
+  },
+  "texts/critique/index.html": {
+    "main_text_sha256": "cf988b03129e39306a5686391ba61b2cdfba1995cb0596baab5a4f7e24b0cbf0",
+    "title": "誰為生成之相負責：生成式 AI 的作者功能與問責 — 許哲睿 HSU Che-jui",
+    "canonical": "https://5219rayhsu.github.io/texts/critique/",
+    "alt_sha256": "4f53cda18c2baa0c0354bb5f9a3ecbe5ed12ab4d8e11ba873c2f11161202b945"
+  },
+  "ja/about/index.html": {
+    "main_text_sha256": "76a0323d91e3c7ed678e013f45179207c1052fe4caee856cda2eda05b7098307",
+    "title": "プロフィール About — 許哲睿 HSU Che-jui",
+    "canonical": "https://5219rayhsu.github.io/ja/about/",
+    "alt_sha256": "a2477d893c9e84bd3d86d7b87936cffbff8ee26486cbf321711642e02d8a81b2"
+  },
+  "ja/works/index.html": {
+    "main_text_sha256": "5f1fbd0cf45a2e8a2bb885ef21f2cd3d96eeb76ca70ba15719d7538e32ef463a",
+    "title": "作品一覧 Works — 許哲睿 HSU Che-jui",
+    "canonical": "https://5219rayhsu.github.io/ja/works/",
+    "alt_sha256": "76714abc5dc0bccbd10dd3dabafd0e8074630157800ce18e3692e85a97f6a1c7"
+  },
+  "ja/texts/index.html": {
+    "main_text_sha256": "6d95210b7162d829c917086820f71fd9a8c83e9e4b47cfff390974a97ce16ce2",
+    "title": "テキスト Texts — 許哲睿 HSU Che-jui",
+    "canonical": "https://5219rayhsu.github.io/ja/texts/",
+    "alt_sha256": "4f53cda18c2baa0c0354bb5f9a3ecbe5ed12ab4d8e11ba873c2f11161202b945"
+  },
+  "ja/exhibitions/index.html": {
+    "main_text_sha256": "4ffcfb88b1b7fea1eb5aa74422fa265fed9d7d45fe731ec6df58c5c23e2c69d1",
+    "title": "展覧会 Exhibitions — 許哲睿 HSU Che-jui",
+    "canonical": "https://5219rayhsu.github.io/ja/exhibitions/",
+    "alt_sha256": "f2272294d0346b4319cd34dfbb6ce8f4e82d516a59d091ab356eb3c7aa206778"
+  },
+  "ja/exhibitions/seikai-tokyo-2026/index.html": {
+    "main_text_sha256": "f5316c5453fb1a6c56d30affd51b0d966056a7cf3a5573b6cc832774bf3b0243",
+    "title": "正解：台湾受験戦争の真剣勝負 — Place M 東京 個展 — 許哲睿 HSU Che-jui",
+    "canonical": "https://5219rayhsu.github.io/ja/exhibitions/seikai-tokyo-2026/",
+    "alt_sha256": "e25ef36e25d5ee387e0b9d3a488b28600afa0288c090128d67c68dd775185727"
+  },
+  "ja/exhibitions/answer-keelung-2025/index.html": {
+    "main_text_sha256": "32796df721597dedd95e504a05c8906857ed719be565dce74191ad9f5fe48f49",
+    "title": "答案 Answer — 基隆美術館 個展 — 許哲睿 HSU Che-jui",
+    "canonical": "https://5219rayhsu.github.io/ja/exhibitions/answer-keelung-2025/",
+    "alt_sha256": "9cd304bad21f8858ea269b8f46811a0a7803c89770cc98ab3457a9fa2cbed672"
+  },
+  "ja/texts/contemplating-the-self/index.html": {
+    "main_text_sha256": "e7d063e6301d4bae1bf7ba9bf70b6118865400618f1f696962e854aad89215cd",
+    "title": "黙観自我：「問題」と「答案」の弔詭なる思想行動 — 許哲睿 HSU Che-jui",
+    "canonical": "https://5219rayhsu.github.io/ja/texts/contemplating-the-self/",
+    "alt_sha256": "780cd7f2a9a24667009642334df7699eea1eace23679ce8baf2939196e236938"
+  },
+  "ja/texts/critique/index.html": {
+    "main_text_sha256": "0a954ec4007b5df42ae5dcf658922f75fef8754d0233b984b0e702f812e28bc3",
+    "title": "生成された相に誰が責を負うのか：生成AIの作者機能と問責 — 許哲睿 HSU Che-jui",
+    "canonical": "https://5219rayhsu.github.io/ja/texts/critique/",
+    "alt_sha256": "4f53cda18c2baa0c0354bb5f9a3ecbe5ed12ab4d8e11ba873c2f11161202b945"
+  },
+  "ja/works/medicine/index.html": {
+    "main_text_sha256": "5420e18bc2aaf9cb1056b2a51b76fe6a59226770a032fc3372c3c1ae69f48d24",
+    "title": "心薬 Medicine｜78枚のAIタロット — 許哲睿 HSU Che-jui",
+    "canonical": "https://5219rayhsu.github.io/ja/works/medicine/",
+    "alt_sha256": "0a91911844faeeef2338b52163ca32861192fecb5264b6b09f0cc28140e1707e"
+  },
+  "ja/works/answer/index.html": {
+    "main_text_sha256": "65c8a531e136a2d53c8fd59f777b377798df0481b53da7f92b2732db66813c23",
+    "title": "答案 Answer — 作品 — 許哲睿 HSU Che-jui",
+    "canonical": "https://5219rayhsu.github.io/ja/works/answer/",
+    "alt_sha256": "acb7176e25aadbe8bba9e0f1e9b2c76a64f03093d40b2c07d56a4361b11654a6"
+  },
+  "ja/works/chaos-body-shop/index.html": {
+    "main_text_sha256": "1ce0898b7f6b0cdc9d7d3a9002735592e0474ad449c675bafe09b2686ea65f97",
+    "title": "無序身体販売所 Chaos Body Shop：《長大》金牌賞 — 許哲睿 HSU Che-jui",
+    "canonical": "https://5219rayhsu.github.io/ja/works/chaos-body-shop/",
+    "alt_sha256": "759418b4acaa55917cbfbe81b252138210915ea5a983796d8b8866bb009f1831"
+  },
+  "works/medicine/index.html": {
+    "main_text_sha256": "38fa622cf9b813bdb91138aa3ca4bf1d2dfb9ce28f183336dc95fee1455be94e",
+    "title": "心藥 Medicine｜78 張 AI 塔羅牌 — 許哲睿 HSU Che-jui",
+    "canonical": "https://5219rayhsu.github.io/works/medicine/",
+    "alt_sha256": "5cc605f2d4b008be55be52712913f9f0924e662528e61894b567ad9e0d4a7e13"
+  },
+  "works/answer/index.html": {
+    "main_text_sha256": "1660ce929a5a11bb1c4ef799c7768628296d652be025ce21a8af7bdb023e20b3",
+    "title": "答案 Answer — 許哲睿 HSU Che-jui",
+    "canonical": "https://5219rayhsu.github.io/works/answer/",
+    "alt_sha256": "64ffc4be1de3be4c1767d87fb81214fa0ef2f617a5cc7810022bb847b60b05e5"
+  },
+  "works/chaos-body-shop/index.html": {
+    "main_text_sha256": "9300a041bacad82c1a4994a895cf881958703ca6f587361bb5e0afd42c0da3fb",
+    "title": "無序身體販賣所 Chaos Body Shop：《長大》金牌獎 — 許哲睿 HSU Che-jui",
+    "canonical": "https://5219rayhsu.github.io/works/chaos-body-shop/",
+    "alt_sha256": "4e453e9f8ac4cf87df860201f5c98ce885ce50ac48a678fb1480e458efe73953"
+  }
+}

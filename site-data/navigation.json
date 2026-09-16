@@ -1,0 +1,56 @@
+{
+  "zh-Hant": [
+    {
+      "path": "works",
+      "label": "作品"
+    },
+    {
+      "path": "exhibitions",
+      "label": "參展"
+    },
+    {
+      "path": "texts",
+      "label": "文字"
+    },
+    {
+      "path": "about",
+      "label": "關於"
+    }
+  ],
+  "en": [
+    {
+      "path": "works",
+      "label": "Works"
+    },
+    {
+      "path": "exhibitions",
+      "label": "Exhibitions"
+    },
+    {
+      "path": "texts",
+      "label": "Texts"
+    },
+    {
+      "path": "about",
+      "label": "About"
+    }
+  ],
+  "ja": [
+    {
+      "path": "works",
+      "label": "作品"
+    },
+    {
+      "path": "exhibitions",
+      "label": "展覧会"
+    },
+    {
+      "path": "texts",
+      "label": "テキスト"
+    },
+    {
+      "path": "about",
+      "label": "プロフィール"
+    }
+  ]
+}

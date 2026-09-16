@@ -44,8 +44,8 @@
 
 ## 還沒做、需要站主決定，不要自己動（發現了就寫進報告，不要改）
 
-- `works/answer` 的 JSON-LD `dateCreated: "2024–2025"` 不是合法 ISO-8601，
-  但沒有 Google rich result 影響，需要站主選一個代表年份。
+- `works/answer` 的日期範圍保留於原文；尚未確認單一日期前，不輸出
+  `dateCreated`。不要把年份範圍或臆測的 1 月 1 日寫入 Date 欄位。
 - `works/medicine` 的 hero／前兩段是意象語言，硬事實（如「78 張塔羅牌」）
   要到後段才出現在可見文字——這是藝術家自己的論述語氣，不要主動改寫。
 - 幫代表圖加 `ImageObject`（license／creator／creditText）換 Google 圖片
@@ -65,6 +65,20 @@
   確認 → 才算做完一項。
 - 找到高槓桿問題就先修一項、驗證上線後再找下一項，不要一次改一大批不驗證。
 - 收工前用 WebSearch 針對品牌詞（許哲睿／HSU Che-jui）加最近作品/展覽關鍵字
-  各查一次，記錄新站有沒有開始出現在結果或 AI 摘要裡，寫進報告；如果一直
-  沒有，那是索引時間／GSC 驗證的問題，不是技術問題，不要為了「讓它出現」
-  去做本文件禁止的事（虛構、改題名、亂加結構化資料）。
+  各查一次，記錄搜尋工具、日期、查詢與觀察結果；搜尋未出現不能只歸因於
+  索引時間或 GSC 驗證，也不能排除技術因素。GSC 驗證並非收錄的必要條件。
+  依序查回應狀態、robots、canonical、內鏈、Google 選定的正規網址與內容關聯；
+  沒有 GSC 資料就明確標註未知，不臆測收錄率或排名，不改題名與藝術論述。
+
+## 2026-09-16 修復後的維護流程
+
+- `llms.txt` 由站主持續維護；同步器不覆寫它，測試會檢查其站內連結。
+  它不是 Google 收錄或 AI 搜尋呈現的保證，但仍是本網站維護範圍。
+- 先執行 `python tools/sync_site.py`，再執行 `python tools/check_site.py`
+  與 `python tools/browser_check.py`；任何失敗都停止發布。
+- `site-data/person.json` 與 `site-data/navigation.json` 是共用資料來源。
+  修讀中的資格保留於可見介紹，不列入 `hasCredential`。
+- 本次經站主授權採批次修復；於隔離分支完成驗證後才更新 `main`。
+- 網站目前的 branch-based Pages 仍可能被有權限者直接推送 main 觸發。
+  `Site quality / validate` 應設為受保護分支的必要檢查；此管理設定不等於
+  僅新增 workflow，未確認前不得聲稱任何推送都無法繞過品質檢查。
