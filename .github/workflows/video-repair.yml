@@ -51,25 +51,60 @@ jobs:
           cat .test-results/chromium-validation.log
           cat .test-results/webkit-validation.log
           exit "$failed"
-      - name: Record real Instagram availability separately from layout tests
+      - name: Record real Instagram rendering separately from deterministic tests
         if: always()
         continue-on-error: true
         run: |
           python - <<'PY'
-          import json, urllib.request
+          import functools, http.server, json, threading
           from pathlib import Path
-          urls = ['https://www.instagram.com/embed.js', 'https://www.instagram.com/p/DLfFQBQTV2W/embed/']
-          report = []
-          for url in urls:
-              try:
-                  req = urllib.request.Request(url, headers={'User-Agent':'Mozilla/5.0'})
-                  with urllib.request.urlopen(req, timeout=20) as response:
-                      body = response.read()
-                      report.append({'url':url,'status':response.status,'bytes':len(body),'final_url':response.url})
-              except Exception as error:
-                  report.append({'url':url,'error':str(error)})
-          Path('.test-results/instagram-availability.json').write_text(json.dumps(report,indent=2)+'\n')
-          print(json.dumps(report,indent=2))
+          from playwright.sync_api import sync_playwright
+          root = Path.cwd()
+          out = root / '.test-results'
+          out.mkdir(exist_ok=True)
+          class Handler(http.server.SimpleHTTPRequestHandler):
+              def log_message(self, *args): pass
+          server = http.server.ThreadingHTTPServer(('127.0.0.1', 0), functools.partial(Handler, directory=str(root)))
+          threading.Thread(target=server.serve_forever, daemon=True).start()
+          report = {'playback_tested': False, 'cases': []}
+          with sync_playwright() as pw:
+              browser = pw.chromium.launch()
+              for width in (390, 1280):
+                  ctx = browser.new_context(viewport={'width':width,'height':900}, reduced_motion='reduce')
+                  page = ctx.new_page()
+                  for slug in ('answer-keelung-2025', 'seikai-tokyo-2026'):
+                      record = {'page':slug,'width':width,'requests':[]}
+                      def response_seen(response):
+                          if 'instagram.com' in response.url and ('embed' in response.url):
+                              record['requests'].append({'url':response.url,'status':response.status})
+                      page.on('response', response_seen)
+                      try:
+                          page.goto(f'http://127.0.0.1:{server.server_port}/exhibitions/{slug}/',wait_until='domcontentloaded',timeout=30000)
+                          wrapper = page.locator('.video-embed--ig, .video-embed--reel').first
+                          wrapper.scroll_into_view_if_needed()
+                          page.wait_for_selector('iframe.instagram-media',timeout=15000)
+                          page.wait_for_timeout(2500)
+                          record['rendered'] = page.locator('iframe.instagram-media').count()
+                          record['frames'] = page.locator('iframe.instagram-media').evaluate_all('els=>els.map(el=>({width:el.getBoundingClientRect().width,height:el.getBoundingClientRect().height,src:el.src}))')
+                          record['public_frame_content'] = []
+                          for frame in page.frames:
+                              if 'instagram.com' in frame.url:
+                                  try:
+                                      record['public_frame_content'].append({'url':frame.url,'text':frame.locator('body').inner_text(timeout=3000)[:800],
+                                      'images':frame.locator('img').evaluate_all('els=>els.slice(0,8).map(el=>({naturalWidth:el.naturalWidth,naturalHeight:el.naturalHeight,width:el.getBoundingClientRect().width,height:el.getBoundingClientRect().height,fit:getComputedStyle(el).objectFit}))')})
+                                  except Exception as error:
+                                      record['public_frame_content'].append({'error':str(error)[:300]})
+                          wrapper.screenshot(path=str(out/f'instagram-real-{slug}-{width}.png'),timeout=10000)
+                      except Exception as error:
+                          record['limitation'] = str(error)[:500]
+                      finally:
+                          page.remove_listener('response',response_seen)
+                          report['cases'].append(record)
+                  ctx.close()
+              browser.close()
+          server.shutdown()
+          (out/'instagram-availability.json').write_text(json.dumps(report,ensure_ascii=False,indent=2)+'\n')
+          print(json.dumps(report,ensure_ascii=False,indent=2))
           PY
       - name: Commit validated repair to isolated branch only
         shell: bash
@@ -77,8 +112,7 @@ jobs:
           set -euo pipefail
           python tools/sync_site.py --check
           git diff --exit-code -- llms.txt
-          # One-time machinery is deliberately excluded from the published tree.
-          rm .maintenance/repair_video_aspect.py .github/workflows/video-repair.yml
+          rm .maintenance/repair_video_aspect.py
           git config user.name 'github-actions[bot]'
           git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
           git add -A
