@@ -28,11 +28,15 @@ jobs:
       - name: Chromium regression
         env:
           BROWSER: chromium
-        run: python tools/browser_check.py
+        run: |
+          python tools/browser_check.py
+          python tools/video_preview_check.py
       - name: WebKit regression
         env:
           BROWSER: webkit
-        run: python tools/browser_check.py
+        run: |
+          python tools/browser_check.py
+          python tools/video_preview_check.py
       - name: Save validation evidence
         if: always()
         uses: actions/upload-artifact@ea165f8d65b6e75b540449e92b4886f43607fa02
