@@ -41,6 +41,9 @@ for attempt in range(20):
 else:raise SystemExit('The expected release did not reach Pages in five minutes.')
 items=[(p.relative_to(ROOT).as_posix(),p.relative_to(ROOT).as_posix()[:-10]) for p in ROOT.rglob('index.html') if not any(x.startswith('.') for x in p.relative_to(ROOT).parts)]
 items += [(p,p) for p in ('assets/css/site.css','assets/js/main.js','llms.txt','sitemap.xml','robots.txt')]
+# Verify the newly local posters themselves, not just HTML references to them.
+posters=json.loads((ROOT/'site-data/instagram-posters.json').read_text())
+items += [(entry['image'],entry['image']) for entry in posters.values()]
 with ThreadPoolExecutor(max_workers=4) as pool:
     results=list(pool.map(lambda item:verify(*item),items))
 # Old index.html entry points are retained; a 200 response or redirect to the canonical page is fine.
