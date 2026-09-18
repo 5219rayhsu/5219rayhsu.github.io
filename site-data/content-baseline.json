@@ -42,16 +42,16 @@
     "alt_sha256": "5bf87aac52f04326c79572fdfefe1b699d06c2ac4f8d8b5d4622c998b39c816f"
   },
   "exhibitions/seikai-tokyo-2026/index.html": {
-    "main_text_sha256": "829e7a61ac8d2f75b38f0ab0fd045e4fa561a085837dacc5ac7f39abe4699ad5",
+    "main_text_sha256": "c555a0aee6b2ec38214b3f52e84682548faba225443f04dd026f7c77e2038600",
     "title": "正解：台湾受験戦争の真剣勝負 — Place M 東京個展 — 許哲睿 HSU Che-jui",
     "canonical": "https://5219rayhsu.github.io/exhibitions/seikai-tokyo-2026/",
-    "alt_sha256": "069e331bd86969af1ae97c5e565547033fa60b0e9eec8590c8689229fe18cac4"
+    "alt_sha256": "076419c33021729c5ad546de42d821f5c16ad1996f7276bca1d45602a45427c0"
   },
   "exhibitions/answer-keelung-2025/index.html": {
-    "main_text_sha256": "34942fd1ef4b1ca4f944494b3ffd7853cbd4f25334b45340c3a00947038ee754",
+    "main_text_sha256": "28aa9f1e8dd47087dbd3ec2edafd98ec9bd910c60db07ed62188b2ad6cacd368",
     "title": "答案 Answer — 基隆美術館個展 — 許哲睿 HSU Che-jui",
     "canonical": "https://5219rayhsu.github.io/exhibitions/answer-keelung-2025/",
-    "alt_sha256": "7644ec4bdb5fae50c0f307aeb51872c2438d3a0d6c88bc25106254fcdce73f38"
+    "alt_sha256": "35fe703f55f5d4e0a35b5e25f7c0f9d92a0ebf0a8e8b9ab8c3f513a1ee239b6f"
   },
   "en/about/index.html": {
     "main_text_sha256": "e13e57ef3f5d518adc0461b697811a42a7c4c77d665f3b318c7e0f7532762c2c",
@@ -78,16 +78,16 @@
     "alt_sha256": "7ef7ee887151c4f166136f76ea2009ad4a998e23a5f5a972c89f4aa77ffe80c2"
   },
   "en/exhibitions/seikai-tokyo-2026/index.html": {
-    "main_text_sha256": "99b137a31aa87658b31e6e268a57b881027ffafeece182c6d5b1abffae9e19b9",
+    "main_text_sha256": "a1c0961a15d8cdd1f953283cf65cfddc7258da6779454864a78a93fdc34c0421",
     "title": "正解：台湾受験戦争の真剣勝負 — Place M Tokyo Solo Exhibition — HSU Che-jui",
     "canonical": "https://5219rayhsu.github.io/en/exhibitions/seikai-tokyo-2026/",
-    "alt_sha256": "b055331653fd46d172aeb7327f9d1fefda2fff7f6bcf233a5b2d3eebbc694f40"
+    "alt_sha256": "14dfa281563b6e5379b15059ec9c11de0466c7fbe245356708dbfb4c4906e016"
   },
   "en/exhibitions/answer-keelung-2025/index.html": {
-    "main_text_sha256": "7dbc121b79c9bebcbf49f56559694c923e873dedcb92f314c1bff17044baeb92",
+    "main_text_sha256": "5cf9aa2ada804f1303448492645d17e1e560d70ad134c7ae1bafa73a28a63851",
     "title": "Answer — Keelung Museum of Art Solo Exhibition — HSU Che-jui",
     "canonical": "https://5219rayhsu.github.io/en/exhibitions/answer-keelung-2025/",
-    "alt_sha256": "c33898028f4c8feb63bbe7fb04fb5b2112f677577f06ae96bb26065cbf673a07"
+    "alt_sha256": "ceebb23ff153dde8ccd1c91be0d7fe549452a247dabb3250cc0313de758a8ed2"
   },
   "en/texts/contemplating-the-self/index.html": {
     "main_text_sha256": "e58e53ba69399116551d19eef8946f68ee2a8b87cfcd4158224b40d919529091",
@@ -156,16 +156,16 @@
     "alt_sha256": "f2272294d0346b4319cd34dfbb6ce8f4e82d516a59d091ab356eb3c7aa206778"
   },
   "ja/exhibitions/seikai-tokyo-2026/index.html": {
-    "main_text_sha256": "f5316c5453fb1a6c56d30affd51b0d966056a7cf3a5573b6cc832774bf3b0243",
+    "main_text_sha256": "8aad34cf09bd2fb54fa2af6bd843a8ab1bb55ee4b8491873fa90eec92c9df61b",
     "title": "正解：台湾受験戦争の真剣勝負 — Place M 東京 個展 — 許哲睿 HSU Che-jui",
     "canonical": "https://5219rayhsu.github.io/ja/exhibitions/seikai-tokyo-2026/",
-    "alt_sha256": "e25ef36e25d5ee387e0b9d3a488b28600afa0288c090128d67c68dd775185727"
+    "alt_sha256": "32f31356ebdba534938df195d60b49845e879a2f419918eabdabae6a1a9b1a5d"
   },
   "ja/exhibitions/answer-keelung-2025/index.html": {
-    "main_text_sha256": "32796df721597dedd95e504a05c8906857ed719be565dce74191ad9f5fe48f49",
+    "main_text_sha256": "dd725a886172c961ddbb381bfee5f3ea625a084be2d9d4561f3669fc5353f22d",
     "title": "答案 Answer — 基隆美術館 個展 — 許哲睿 HSU Che-jui",
     "canonical": "https://5219rayhsu.github.io/ja/exhibitions/answer-keelung-2025/",
-    "alt_sha256": "9cd304bad21f8858ea269b8f46811a0a7803c89770cc98ab3457a9fa2cbed672"
+    "alt_sha256": "c27aa6e2a33fec1646214f91afa6309d4f1422e22b98849c008f9129132a8fe5"
   },
   "ja/texts/contemplating-the-self/index.html": {
     "main_text_sha256": "e7d063e6301d4bae1bf7ba9bf70b6118865400618f1f696962e854aad89215cd",

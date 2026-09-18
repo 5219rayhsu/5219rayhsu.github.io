@@ -27,7 +27,7 @@
   <link rel="icon" type="image/png" sizes="32x32" href="../../../assets/img/favicon/icon-32.png" />
   <link rel="icon" type="image/png" sizes="192x192" href="../../../assets/img/favicon/icon-192.png" />
   <link rel="apple-touch-icon" href="../../../assets/img/favicon/apple-touch-icon.png" />
-  <link rel="stylesheet" href="../../../assets/css/site.css?v=701385f51f0e" />
+  <link rel="stylesheet" href="../../../assets/css/site.css?v=45d6d2e2753c" />
   <style>
     /* Page-specific: video embeds (only used on these two detail pages; shared site.css left untouched) */
     .video-grid { display: grid; grid-template-columns: repeat(auto-fit, minmax(min(100%, 20rem), 1fr)); gap: clamp(1rem, 2.4vw, 1.6rem); margin-block: clamp(1.6rem, 3vw, 2.4rem); }
@@ -38,7 +38,6 @@
     .video-embed--9x16 { aspect-ratio: 9 / 16; max-width: min(360px, 100%); margin-inline: auto; }
     .video-embed--9x16 iframe { position: absolute; inset: 0; width: 100%; height: 100%; border: 0; }
     .video-embed--ig { background: #fff; max-width: 540px; margin-inline: auto; }
-    .video-embed--ig iframe { width: 100%; height: 680px; border: 0; display: block; }
     .video-cap { margin-top: .6rem; font-size: .82rem; line-height: 1.5; color: var(--c-text-dim); }
     .section--tight { padding-block: clamp(2.5rem, 5vw, 4.5rem); }
     /* Acknowledgements: installation/de-installation crew credit lines — larger and darker than a plain video caption, date set as the visual anchor */
@@ -304,7 +303,11 @@
             </figure>
             <p class="video-cap">Opening talk, June 21, 2025. Front row, from left: Professor CHANG Kuo-chih (National Taiwan University of Arts), curator Professor CHIANG Li-hua, Director CHIANG Ting-mei (Keelung City Cultural Affairs Bureau), the artist HSU Che-jui, and Chairman HSU Shun-chung (New Taipei City Traditional Music Development Association).</p>
             <div class="video-embed video-embed--ig" data-reveal style="margin-top:.9rem;">
-              <iframe src="https://www.instagram.com/p/DLMKGvHTr0I/embed" loading="lazy" title="Opening talk, IG short video"></iframe>
+              <a class="video-embed__instagram-preview" href="https://www.instagram.com/p/DLMKGvHTr0I/" target="_blank" rel="noopener" aria-label="Watch Instagram video in a new tab: Opening talk, IG short video">
+                <img src="../../../assets/img/instagram/DLMKGvHTr0I.jpg" width="720" height="1280" loading="lazy" decoding="async" alt="Opening talk, IG short video" />
+                <span class="video-embed__play" aria-hidden="true"></span>
+              </a>
+              <p class="video-embed__fallback"><a href="https://www.instagram.com/p/DLMKGvHTr0I/" target="_blank" rel="noopener">Watch on Instagram ↗</a></p>
             </div>
           </div>
           <div>
@@ -313,7 +316,11 @@
             </figure>
             <p class="video-cap">Panel talk with Professor CHIANG Li-hua, Professor YAO Jui-chung and HSU Che-jui, June 28, 2025.</p>
             <div class="video-embed video-embed--ig" data-reveal style="margin-top:.9rem;">
-              <iframe src="https://www.instagram.com/p/DLfFQBQTV2W/embed" loading="lazy" title="Panel talk, IG short video"></iframe>
+              <a class="video-embed__instagram-preview" href="https://www.instagram.com/p/DLfFQBQTV2W/" target="_blank" rel="noopener" aria-label="Watch Instagram video in a new tab: Panel talk, IG short video">
+                <img src="../../../assets/img/instagram/DLfFQBQTV2W.jpg" width="720" height="1280" loading="lazy" decoding="async" alt="Panel talk, IG short video" />
+                <span class="video-embed__play" aria-hidden="true"></span>
+              </a>
+              <p class="video-embed__fallback"><a href="https://www.instagram.com/p/DLfFQBQTV2W/" target="_blank" rel="noopener">Watch on Instagram ↗</a></p>
             </div>
           </div>
         </div>

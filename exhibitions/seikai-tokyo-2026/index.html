@@ -27,13 +27,12 @@
   <link rel="icon" type="image/png" sizes="32x32" href="../../assets/img/favicon/icon-32.png" />
   <link rel="icon" type="image/png" sizes="192x192" href="../../assets/img/favicon/icon-192.png" />
   <link rel="apple-touch-icon" href="../../assets/img/favicon/apple-touch-icon.png" />
-  <link rel="stylesheet" href="../../assets/css/site.css?v=701385f51f0e" />
+  <link rel="stylesheet" href="../../assets/css/site.css?v=45d6d2e2753c" />
   <style>
     /* 本頁專用：影音嵌入（reserved 元件之外，只此二頁使用，未動共用 site.css） */
     .video-grid { display: grid; grid-template-columns: repeat(auto-fit, minmax(min(100%, 16rem), 1fr)); gap: clamp(1rem, 2.4vw, 1.6rem); margin-block: clamp(1.6rem, 3vw, 2.4rem); }
     .video-embed { position: relative; width: 100%; border-radius: 10px; overflow: hidden; background: #000; box-shadow: 0 14px 36px -24px rgba(0,0,0,.5); }
     .video-embed--reel { background: #fff; max-width: 420px; margin-inline: auto; }
-    .video-embed--reel iframe { width: 100%; height: 740px; border: 0; display: block; }
     .video-cap { margin-top: .6rem; font-size: .82rem; line-height: 1.5; color: var(--c-text-dim); }
     .section--tight { padding-block: clamp(2.5rem, 5vw, 4.5rem); }
   </style>
@@ -232,17 +231,29 @@
         <div class="video-grid" style="margin-top:2.2rem;">
           <div>
             <div class="video-embed video-embed--reel" data-reveal>
-              <iframe src="https://www.instagram.com/reel/DWI0t9Ok3gE/embed" loading="lazy" title="《正解》東京個展 IG Reel 1"></iframe>
+              <a class="video-embed__instagram-preview" href="https://www.instagram.com/reel/DWI0t9Ok3gE/" target="_blank" rel="noopener" aria-label="在新分頁觀看 Instagram 影片：《正解》東京個展 IG Reel 1">
+                <img src="../../assets/img/instagram/DWI0t9Ok3gE.jpg" width="640" height="1136" loading="lazy" decoding="async" alt="《正解》東京個展 IG Reel 1" />
+                <span class="video-embed__play" aria-hidden="true"></span>
+              </a>
+              <p class="video-embed__fallback"><a href="https://www.instagram.com/reel/DWI0t9Ok3gE/" target="_blank" rel="noopener">在 Instagram 觀看 ↗</a></p>
             </div>
           </div>
           <div>
             <div class="video-embed video-embed--reel" data-reveal>
-              <iframe src="https://www.instagram.com/reel/DWDtVxWkzjE/embed" loading="lazy" title="《正解》東京個展 IG Reel 2"></iframe>
+              <a class="video-embed__instagram-preview" href="https://www.instagram.com/reel/DWDtVxWkzjE/" target="_blank" rel="noopener" aria-label="在新分頁觀看 Instagram 影片：《正解》東京個展 IG Reel 2">
+                <img src="../../assets/img/instagram/DWDtVxWkzjE.jpg" width="640" height="1136" loading="lazy" decoding="async" alt="《正解》東京個展 IG Reel 2" />
+                <span class="video-embed__play" aria-hidden="true"></span>
+              </a>
+              <p class="video-embed__fallback"><a href="https://www.instagram.com/reel/DWDtVxWkzjE/" target="_blank" rel="noopener">在 Instagram 觀看 ↗</a></p>
             </div>
           </div>
           <div>
             <div class="video-embed video-embed--reel" data-reveal>
-              <iframe src="https://www.instagram.com/reel/DWBN2J9k2-P/embed" loading="lazy" title="《正解》東京個展 IG Reel 3"></iframe>
+              <a class="video-embed__instagram-preview" href="https://www.instagram.com/reel/DWBN2J9k2-P/" target="_blank" rel="noopener" aria-label="在新分頁觀看 Instagram 影片：《正解》東京個展 IG Reel 3">
+                <img src="../../assets/img/instagram/DWBN2J9k2-P.jpg" width="640" height="1136" loading="lazy" decoding="async" alt="《正解》東京個展 IG Reel 3" />
+                <span class="video-embed__play" aria-hidden="true"></span>
+              </a>
+              <p class="video-embed__fallback"><a href="https://www.instagram.com/reel/DWBN2J9k2-P/" target="_blank" rel="noopener">在 Instagram 觀看 ↗</a></p>
             </div>
           </div>
         </div>
