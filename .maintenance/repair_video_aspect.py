@@ -48,6 +48,8 @@ css_path.write_text(css)
 iframe_pattern = re.compile(r'<iframe\b[^>]*\bsrc="https://(?:www\.)?instagram\.com/[^\"]+"[^>]*>\s*</iframe>', re.S)
 fixed_height = re.compile(r'^[ \t]*\.video-embed--(?:ig|reel) iframe\s*\{[^}]*\}\s*\n', re.M)
 labels = {'zh-Hant': '在 Instagram 觀看 ↗', 'en': 'Watch on Instagram ↗', 'ja': 'Instagram で見る ↗'}
+baseline_path = ROOT / 'site-data/content-baseline.json'
+baseline = json.loads(baseline_path.read_text())
 changed = []
 for path in sorted(ROOT.rglob('*.html')):
     if any(part.startswith('.') for part in path.relative_to(ROOT).parts):
@@ -58,6 +60,9 @@ for path in sorted(ROOT.rglob('*.html')):
     soup = BeautifulSoup(text, 'html.parser')
     lang = soup.html['lang']
     assert lang in labels, f'Unexpected page language: {path}'
+    name = path.relative_to(ROOT).as_posix()
+    old_fingerprint = hashlib.sha256('\n'.join(soup.select_one('main').stripped_strings).encode()).hexdigest()
+    assert baseline[name]['main_text_sha256'] == old_fingerprint, f'Unreviewed existing content change: {name}'
     before_imgs = [str(img) for img in soup.find_all('img')]
     before_links = [str(a) for a in soup.find_all('a')]
     before_scripts = [str(s) for s in soup.select('script[type="application/ld+json"]')]
@@ -88,14 +93,20 @@ for path in sorted(ROOT.rglob('*.html')):
     remaining_links = [str(a) for a in after.find_all('a') if not a.find_parent(class_='instagram-media') and not a.find_parent(class_='video-embed__fallback')]
     assert before_links == remaining_links, f'Existing links changed: {path}'
     assert before_scripts == [str(s) for s in after.select('script[type="application/ld+json"]')], f'Metadata changed: {path}'
-    # Verify the complete pre-existing visible body text, not just known titles.
+    new_fingerprint = hashlib.sha256('\n'.join(after.select_one('main').stripped_strings).encode()).hexdigest()
+    # The only new visible strings are the provider placeholder and the persistent
+    # fallback controls. Prove the complete old body remains identical first.
     for tag in after.select('.instagram-media, .video-embed__fallback'):
         tag.decompose()
     assert soup.body.get_text(' ', strip=True) == after.body.get_text(' ', strip=True), f'Existing visible text changed: {path}'
+    # Advance only these pages' UI-inclusive snapshots; keep all other baseline
+    # hashes and the existing static release gate unchanged.
+    baseline[name]['main_text_sha256'] = new_fingerprint
     path.write_text(updated)
-    changed.append({'page': path.relative_to(ROOT).as_posix(), 'embeds': records})
+    changed.append({'page': name, 'embeds': records, 'original_body_text_unchanged': True})
 assert changed, 'No Instagram embeds found'
 assert {record['page'].split('/')[0] for record in changed} == {'exhibitions', 'en', 'ja'}, 'Expected all three languages'
+baseline_path.write_text(json.dumps(baseline, ensure_ascii=False, indent=2) + '\n')
 OUT = ROOT / '.test-results'
 OUT.mkdir(exist_ok=True)
 (OUT / 'video-migration.json').write_text(json.dumps(changed, ensure_ascii=False, indent=2) + '\n')
