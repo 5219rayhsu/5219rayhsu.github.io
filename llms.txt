@@ -87,6 +87,12 @@
 - [答案 Answer](https://5219rayhsu.github.io/works/answer/): 4×5 大型黑白底片自拍系列，把學測考題刻寫於身；2025 年基隆美術館個展主體作品
 - [心藥 Medicine](https://5219rayhsu.github.io/works/medicine/): 78 張 AI 塔羅牌互動作品（22 張大阿爾克那、56 張小阿爾克那）；2025 個展於看守所藝術空間
 
+## 《無序身體販賣所》頁內導覽 Work page navigation
+
+- 中文：[作品概述](https://5219rayhsu.github.io/works/chaos-body-shop/#series)、[獲獎經歷](https://5219rayhsu.github.io/works/chaos-body-shop/#awards)、[《長大》AI 證件照系列](https://5219rayhsu.github.io/works/chaos-body-shop/#id)。
+- English: [Overview](https://5219rayhsu.github.io/en/works/chaos-body-shop/#series), [Awards](https://5219rayhsu.github.io/en/works/chaos-body-shop/#awards), [When I Grow Up](https://5219rayhsu.github.io/en/works/chaos-body-shop/#id).
+- 日本語：[作品概要](https://5219rayhsu.github.io/ja/works/chaos-body-shop/#series)、[受賞歴](https://5219rayhsu.github.io/ja/works/chaos-body-shop/#awards)、[《長大》AI証明写真](https://5219rayhsu.github.io/ja/works/chaos-body-shop/#id)。
+
 ## 近期更新作品的三語資料 Updated work references
 
 - [無序身體販賣所 Chaos Body Shop · 中文](https://5219rayhsu.github.io/okf/works/chaos-body-shop/zh-Hant.md): 作品事實、系列區段與紀錄來源。

@@ -526,8 +526,8 @@ main { padding-top: var(--nav-h); }
 
 /* ---------------------------------------------------------------- collages (CBS) */
 .collages { margin-top: clamp(2.5rem, 6vw, 5rem); display: flex; flex-direction: column; gap: clamp(5rem, 12vw, 11rem); }
-.collage-item { display: grid; gap: clamp(1.5rem, 4vw, 3.5rem); grid-template-columns: 1fr; align-items: center; max-width: var(--wrap); margin-inline: auto; padding-inline: var(--pad-inline); }
-.collage-item__media { background: #fff; padding: clamp(8px, 1vw, 16px); border-radius: 10px; cursor: zoom-in; box-shadow: 0 40px 90px -50px rgba(0,0,0,.9); transition: transform .6s var(--ease), box-shadow .6s var(--ease); }
+.collage-item { width: 100%; display: grid; gap: clamp(1.5rem, 4vw, 3.5rem); grid-template-columns: 1fr; align-items: center; max-width: var(--wrap); margin-inline: auto; padding-inline: var(--pad-inline); }
+.collage-item__media { width: 100%; background: #fff; padding: clamp(8px, 1vw, 16px); border-radius: 10px; cursor: zoom-in; box-shadow: 0 40px 90px -50px rgba(0,0,0,.9); transition: transform .6s var(--ease), box-shadow .6s var(--ease); }
 /* fill the card width at native aspect (no max-height:80vh + object-fit:contain):
    a 1100×2383 collage taller than 80vh used to letterbox, and 80vh shifts with the
    mobile URL bar on scroll — so identical collages showed different white borders at
