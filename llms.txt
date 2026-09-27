@@ -118,3 +118,9 @@
 - [文字總覽 Texts index](https://5219rayhsu.github.io/okf/texts/index.md): 全部評論／自述文字清單。
 - [文字：默觀自我（姜麗華）](https://5219rayhsu.github.io/okf/texts/contemplating-the-self/index.md): 姜麗華評論文字結構化條目。
 - [文字：誰為生成之相負責（許哲睿）](https://5219rayhsu.github.io/okf/texts/who-answers-for-the-generated-image/index.md): 許哲睿自述文字結構化條目。
+
+## 傅爾得 Joanna Fu — DECK《亞熱帶訊號》展覽文字
+
+- [中文原文](https://5219rayhsu.github.io/texts/joanna-fu-chaos-body-shop/)
+- [English translation by HSU, Che-jui](https://5219rayhsu.github.io/en/texts/joanna-fu-chaos-body-shop/)
+- [Machine-readable article](https://5219rayhsu.github.io/okf/texts/joanna-fu-chaos-body-shop/index.md)

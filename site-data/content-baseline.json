@@ -24,7 +24,7 @@
     "alt_sha256": "43de0045dd353189d8979ea58e483fbcfa06ab94d2685298cd6e90b360c4e402"
   },
   "texts/index.html": {
-    "main_text_sha256": "60000e76ce9c8b08a5f4cfca462a9c5a5e1ea1d27708314b5d9c7fd1b64e6269",
+    "main_text_sha256": "0248b8f7de7720eee40e0db6ca4995448871be3069995a7ef29ef93bf77c465e",
     "title": "文字 Texts — 許哲睿 HSU Che-jui",
     "canonical": "https://5219rayhsu.github.io/texts/",
     "alt_sha256": "4f53cda18c2baa0c0354bb5f9a3ecbe5ed12ab4d8e11ba873c2f11161202b945"
@@ -66,7 +66,7 @@
     "alt_sha256": "444fcd4e1f03843086b86a724d9019dbc5826edc9f545bf7f77edac1e7ebc136"
   },
   "en/texts/index.html": {
-    "main_text_sha256": "e1b2d1456835258ebdaf76df8cefb0ab9cae9cfff4dbec8b0907e1dd99f32a63",
+    "main_text_sha256": "3f0858b93930ae75aadc1e85a73afe660f553edb85af0546a89939af9172a76a",
     "title": "Texts — HSU Che-jui",
     "canonical": "https://5219rayhsu.github.io/en/texts/",
     "alt_sha256": "4f53cda18c2baa0c0354bb5f9a3ecbe5ed12ab4d8e11ba873c2f11161202b945"
@@ -144,7 +144,7 @@
     "alt_sha256": "76714abc5dc0bccbd10dd3dabafd0e8074630157800ce18e3692e85a97f6a1c7"
   },
   "ja/texts/index.html": {
-    "main_text_sha256": "6d95210b7162d829c917086820f71fd9a8c83e9e4b47cfff390974a97ce16ce2",
+    "main_text_sha256": "b3116e26c858cef44911fdad652bea603d43898b73f5bd01c5531d9f1e9f8a23",
     "title": "テキスト Texts — 許哲睿 HSU Che-jui",
     "canonical": "https://5219rayhsu.github.io/ja/texts/",
     "alt_sha256": "4f53cda18c2baa0c0354bb5f9a3ecbe5ed12ab4d8e11ba873c2f11161202b945"
@@ -214,5 +214,23 @@
     "title": "無序身體販賣所 Chaos Body Shop：《長大》金牌獎 — 許哲睿 HSU Che-jui",
     "canonical": "https://5219rayhsu.github.io/works/chaos-body-shop/",
     "alt_sha256": "143dca659a8ffaa41406e1f6c7e7e22e7fee3ef0dd6674c167e369e54979ce28"
+  },
+  "texts/joanna-fu-chaos-body-shop/index.html": {
+    "main_text_sha256": "b17ba0e3384d6ecfb2954a1654669af05ce71953e34c860c8f2bcc38ac6d5794",
+    "title": "傅爾得談《無序身體販賣所》 — 許哲睿 HSU, Che-jui",
+    "canonical": "https://5219rayhsu.github.io/texts/joanna-fu-chaos-body-shop/",
+    "alt_sha256": "4f53cda18c2baa0c0354bb5f9a3ecbe5ed12ab4d8e11ba873c2f11161202b945"
+  },
+  "en/texts/joanna-fu-chaos-body-shop/index.html": {
+    "main_text_sha256": "dae6562820b2cb8ecf2bf4af12b4c533e1b82af5a5776170c4b3f0a12fbdbe04",
+    "title": "Joanna Fu on Chaos Body Shop — 許哲睿 HSU, Che-jui",
+    "canonical": "https://5219rayhsu.github.io/en/texts/joanna-fu-chaos-body-shop/",
+    "alt_sha256": "4f53cda18c2baa0c0354bb5f9a3ecbe5ed12ab4d8e11ba873c2f11161202b945"
+  },
+  "ja/texts/joanna-fu-chaos-body-shop/index.html": {
+    "main_text_sha256": "f45179171d2ec757cb3c8468746d0341e6756895de2561c908d1266352342a2a",
+    "title": "傅爾得（Joanna Fu）による《無序身體販賣所》論 — 許哲睿 HSU, Che-jui",
+    "canonical": "https://5219rayhsu.github.io/ja/texts/joanna-fu-chaos-body-shop/",
+    "alt_sha256": "4f53cda18c2baa0c0354bb5f9a3ecbe5ed12ab4d8e11ba873c2f11161202b945"
   }
 }

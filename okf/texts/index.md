@@ -24,4 +24,6 @@ updated: '2026-07-19'
 
 # Texts index
 
-Category index for the two critical/essay text entities associated with the artist's works.
+Category index for the critical/essay text entities associated with the artist's works.
+
+- [Joanna Fu on Chaos Body Shop](./joanna-fu-chaos-body-shop/index.md)

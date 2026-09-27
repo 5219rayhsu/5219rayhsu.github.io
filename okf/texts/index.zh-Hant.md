@@ -21,3 +21,5 @@ updated: '2026-07-19'
 
 - [默觀自我：「問題」與「答案」的弔詭思想行動](./contemplating-the-self/zh-Hant.md)（姜麗華）
 - [誰為生成之相負責](./who-answers-for-the-generated-image/zh-Hant.md)（許哲睿）
+
+- [傅爾得談《無序身體販賣所》](./joanna-fu-chaos-body-shop/zh-Hant.md)（傅爾得 Joanna Fu）

@@ -21,3 +21,5 @@ updated: '2026-07-25'
 
 - [黙観自我：「問題」と「答案」の弔詭なる思想行動](./contemplating-the-self/ja.md)（姜麗華）
 - [生成された相に誰が責を負うのか](./who-answers-for-the-generated-image/ja.md)（許哲睿）
+
+- [傅爾得（Joanna Fu）による《無序身體販賣所》論](./joanna-fu-chaos-body-shop/ja.md)（傅爾得 Joanna Fu）
