@@ -117,7 +117,7 @@
     "main_text_sha256": "e512e88b9a6ae90fafe5fe3ae3b9eee31b27d3040c43cf323ccf03c477e39ba6",
     "title": "Chaos Body Shop: When I Grow Up (Gold Prize) — HSU Che-jui",
     "canonical": "https://5219rayhsu.github.io/en/works/chaos-body-shop/",
-    "alt_sha256": "546218798ca012d72181a4f4255c48d476ceb64d7fb7df2d6f09997175c1fbaa"
+    "alt_sha256": "7734e84753a0a2c0d049c4a492a555e2ef1073508ad1fc9ce758490a5b8b80ea"
   },
   "texts/contemplating-the-self/index.html": {
     "main_text_sha256": "143688a85c64e270ccdf928f55121e27344495ed2ccf840e183c5b67b06ef163",
@@ -195,7 +195,7 @@
     "main_text_sha256": "1ce0898b7f6b0cdc9d7d3a9002735592e0474ad449c675bafe09b2686ea65f97",
     "title": "無序身体販売所 Chaos Body Shop：《長大》金牌賞 — 許哲睿 HSU Che-jui",
     "canonical": "https://5219rayhsu.github.io/ja/works/chaos-body-shop/",
-    "alt_sha256": "759418b4acaa55917cbfbe81b252138210915ea5a983796d8b8866bb009f1831"
+    "alt_sha256": "bb06b360137a12dbcb53c216ba854aa501d5ce64ba687c2616eab133a0e0e7dd"
   },
   "works/medicine/index.html": {
     "main_text_sha256": "38fa622cf9b813bdb91138aa3ca4bf1d2dfb9ce28f183336dc95fee1455be94e",
@@ -213,6 +213,6 @@
     "main_text_sha256": "9300a041bacad82c1a4994a895cf881958703ca6f587361bb5e0afd42c0da3fb",
     "title": "無序身體販賣所 Chaos Body Shop：《長大》金牌獎 — 許哲睿 HSU Che-jui",
     "canonical": "https://5219rayhsu.github.io/works/chaos-body-shop/",
-    "alt_sha256": "4e453e9f8ac4cf87df860201f5c98ce885ce50ac48a678fb1480e458efe73953"
+    "alt_sha256": "143dca659a8ffaa41406e1f6c7e7e22e7fee3ef0dd6674c167e369e54979ce28"
   }
 }
