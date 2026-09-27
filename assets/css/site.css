@@ -395,6 +395,7 @@ main { padding-top: var(--nav-h); }
 .series-card__cta { display: block; margin-top: auto; padding-top: 1.4rem; font-size: .9rem; font-weight: 600; color: var(--c-accent); }
 .series-card__num { font-size: clamp(2.4rem, 5vw, 3.6rem); font-weight: 600; letter-spacing: -.04em; color: var(--c-accent); display: block; line-height: 1; margin-bottom: 1.2rem; font-feature-settings: "lnum"; }
 .series-card__zh { font-size: clamp(1.3rem, 1.05rem + 0.8vw, 1.7rem); margin-bottom: .25rem; text-wrap: balance; }
+#series-collage-title { line-height: 1.5; }
 .series-card__en { color: var(--c-text-dim); font-size: .95rem; }
 .series-card__year { margin-top: 1.1rem; font-size: .82rem; letter-spacing: .1em; color: var(--c-text-dim); }
 
