@@ -36,7 +36,7 @@
     "alt_sha256": "5421e2855a9c2202fcdb25d4e0c3b68827afb376a20fc0d4e116557839900c1a"
   },
   "exhibitions/index.html": {
-    "main_text_sha256": "2e5a8314868341201bf8355bb79be72fc9ed5530549ad06010f3955e5c939444",
+    "main_text_sha256": "35e6a24832fe3cbfd577644a9236aa9896696975d24be844532545817a4b3211",
     "title": "參展 Exhibitions — 許哲睿 HSU Che-jui",
     "canonical": "https://5219rayhsu.github.io/exhibitions/",
     "alt_sha256": "5bf87aac52f04326c79572fdfefe1b699d06c2ac4f8d8b5d4622c998b39c816f"
@@ -72,7 +72,7 @@
     "alt_sha256": "4f53cda18c2baa0c0354bb5f9a3ecbe5ed12ab4d8e11ba873c2f11161202b945"
   },
   "en/exhibitions/index.html": {
-    "main_text_sha256": "d07bb3ed72545cf33b8251551722780d9c2d0130d05cb2a3ffffb607def0a526",
+    "main_text_sha256": "4014ded20acdbd581b501fff7d6378e0b0962ca494bfaf0f65cac31da8690893",
     "title": "Exhibitions — HSU Che-jui",
     "canonical": "https://5219rayhsu.github.io/en/exhibitions/",
     "alt_sha256": "7ef7ee887151c4f166136f76ea2009ad4a998e23a5f5a972c89f4aa77ffe80c2"
@@ -150,7 +150,7 @@
     "alt_sha256": "4f53cda18c2baa0c0354bb5f9a3ecbe5ed12ab4d8e11ba873c2f11161202b945"
   },
   "ja/exhibitions/index.html": {
-    "main_text_sha256": "dccbe95dff730a51ffa1b9a2610a1fde59032e719828868e3b9e184d5cfa8dfc",
+    "main_text_sha256": "5c69c4333024a2b8bb330474b8cf419eb0c2809a3fee265a911e1b0c7b78297b",
     "title": "展覧会 Exhibitions — 許哲睿 HSU Che-jui",
     "canonical": "https://5219rayhsu.github.io/ja/exhibitions/",
     "alt_sha256": "f2272294d0346b4319cd34dfbb6ce8f4e82d516a59d091ab356eb3c7aa206778"
