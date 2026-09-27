@@ -1,6 +1,11 @@
 ---
 id: joanna-fu-chaos-body-shop-ja
 type: Article
+translation_group: joanna-fu-chaos-body-shop
+canonical_language: zh-Hant
+updated: '2026-09-28'
+navigation_language: ja
+content_note: Chinese original with Japanese navigation; not a Japanese translation.
 language: zh-Hant
 canonical: https://5219rayhsu.github.io/ja/texts/joanna-fu-chaos-body-shop/
 author: 傅爾得 Joanna Fu

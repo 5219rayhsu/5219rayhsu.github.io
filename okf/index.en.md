@@ -6,18 +6,18 @@ translation_group: hsu-che-jui-portfolio
 title: HSU, Che-jui — Portfolio
 resource: https://5219rayhsu.github.io/en/
 canonical: https://5219rayhsu.github.io/en/
-updated: '2026-07-19'
+updated: '2026-09-28'
 ---
 
 # HSU, Che-jui
 
-HSU, Che-jui, born 2003, Taiwan-based artist. Graduate of National Taiwan University of Arts (Contemporary Visual Culture and Practice) and Soochow University. Mentored by CHIANG Li-hua, YAO Jui-chung, YANG Chen-hao. Gold Prize, National Art Exhibition R.O.C.; Special Award of the Year, SKM PHOTO.
+HSU, Che-jui, born 2003, Taiwan-based artist. Currently enrolled in the Master's Program in Contemporary Visual Culture and Practice at National Taiwan University of Arts; holds a bachelor's degree in Business Administration from Soochow University. Mentored by CHIANG Li-hua, YAO Jui-chung, YANG Chen-hao. Gold Prize, National Art Exhibition R.O.C.; Special Award of the Year, SKM PHOTO.
 
 ## Index
 
-- [Artist profile](../okf/artist/en.md)
-- [Works](../okf/works/index.en.md): Chaos Body Shop, Answer, Medicine
-- [Exhibitions](../okf/exhibitions/index.en.md)
-- [Texts](../okf/texts/index.en.md)
+- [Artist profile](./artist/en.md)
+- [Works](./works/index.en.md): Chaos Body Shop, Answer, Medicine
+- [Exhibitions](./exhibitions/index.en.md)
+- [Texts](./texts/index.en.md)
 
 Official website: https://5219rayhsu.github.io/en/

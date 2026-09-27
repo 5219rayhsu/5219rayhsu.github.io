@@ -10,7 +10,7 @@ translation_of: ./index.md
 translations:
   en: ./index.en.md
   ja: ./index.ja.md
-updated: '2026-07-19'
+updated: '2026-09-28'
 ---
 
 # 文字

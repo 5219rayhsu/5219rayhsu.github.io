@@ -1,7 +1,19 @@
-# 許哲睿 HSU Che-jui
+# 許哲睿 HSU, Che-jui
 
 > 臺灣藝術家許哲睿（HSU Che-jui, b. 2003）的個人網站。攝影×行為×AI 複合媒材創作；4×5 大型黑白底片、AI 生成影像。中文為正本，另有英文（/en/）與日文（/ja/）版本。
 > Personal website of Taiwanese artist HSU Che-jui (b. 2003). Photography × performance × AI mixed-media practice. Chinese is authoritative; English (/en/) and Japanese (/ja/) mirrors available.
+
+## 最新公開內容與名稱辨識 Latest public references
+
+- [《開卷有益 Open Book Is Good》個展](https://5219rayhsu.github.io/exhibitions/#open-book-is-good-2026): 2026/09/30–10/03，看守所藝術空間；作品《失神》的英文名稱為 Picnolepsy。此處提供公開展覽資訊，尚無獨立展覽頁。
+- [傅爾得談《無序身體販賣所》中文原文](https://5219rayhsu.github.io/texts/joanna-fu-chaos-body-shop/): 作者傅爾得 Joanna Fu；中文原文為準。
+- [Joanna Fu on Chaos Body Shop — English](https://5219rayhsu.github.io/en/texts/joanna-fu-chaos-body-shop/): English translation by HSU, Che-jui. The Chinese original is authoritative.
+- [日本語ナビゲーション・中国語原文](https://5219rayhsu.github.io/ja/texts/joanna-fu-chaos-body-shop/): Japanese navigation with the Chinese original, not a Japanese translation.
+- [文章機器可讀索引](https://5219rayhsu.github.io/okf/texts/joanna-fu-chaos-body-shop/index.md): 原文、譯文與 DECK 官方展覽來源。
+- [圖片三語索引](https://5219rayhsu.github.io/IMAGE_INDEX.md): 英文檔名與中文、英文、日文名稱對照。
+- [圖片結構化索引](https://5219rayhsu.github.io/site-data/image-index.json): 使用 path 作為現行圖片路徑；old_path 僅為改名前的來源紀錄。AI 作品中的角色名稱不等於真實被攝者身分；needs_confirmation 標示仍待確認的描述。
+
+正式英文作品名：〈答案〉Answer、〈考試國王〉The King of Examination、〈長大〉When I Grow Up、〈失神〉Picnolepsy。藝術家署名為 HSU, Che-jui（許哲睿；另見 HSU Che-jui）。
 
 ## 合照人物姓名索引 People in the exhibition photographs
 
@@ -35,8 +47,8 @@
 
 ### 策展、展覽協作與媒體 Curators, exhibition collaborators and media
 
-- 瀨戶正人（SETO, Masato；Masato Seto；瀬戸正人）：東京 Place M《正解：台湾受験戦争の真剣勝負》總監及座談對談人。[東京個展](https://5219rayhsu.github.io/exhibitions/seikai-tokyo-2026/)。
-- 陳斌華（CHEN, Pin-hua）：《心藥》個展統籌，並協助《答案》作品、海報及酷卡輸出。[個展年表](https://5219rayhsu.github.io/exhibitions/#solo)；[《答案》致謝](https://5219rayhsu.github.io/exhibitions/answer-keelung-2025/)。
+- 瀨戶正人（SETO, Masato；Masato Seto；瀬戸正人）：東京 Place M《正解：台湾受験戦争の真剣勝負》負責人及座談對談人。[東京個展](https://5219rayhsu.github.io/exhibitions/seikai-tokyo-2026/)。
+- 陳斌華（CHEN, Pin-hua）：《心藥》個展負責人，並協助《答案》作品、海報及酷卡輸出。[個展年表](https://5219rayhsu.github.io/exhibitions/#solo)；[《答案》致謝](https://5219rayhsu.github.io/exhibitions/answer-keelung-2025/)。
 - 黃筱芸（Shino Huang）、饒逸蓁（JAO, Yi-chen）：《觀和作用》策展人。[展覽紀錄](https://5219rayhsu.github.io/exhibitions/#observation-synthesis-2026)。
 - 馬立群（MA, Li-chun）、陳敬寶（CHEN, Chin-pao）：《觀和作用》2026 年 7 月 18 日座談與談人。[座談紀錄](https://5219rayhsu.github.io/exhibitions/#observation-synthesis-2026)。
 - 張文豪（CHANG, Wen-hao）、林君燁（LIN, Chun-yeh）：《觀和作用》2026 年 7 月 25 日座談與談人。[座談紀錄](https://5219rayhsu.github.io/exhibitions/#observation-synthesis-2026)。
@@ -90,6 +102,7 @@
 - [《正解：台湾受験戦争の真剣勝負》東京 Place M 個展 2026](https://5219rayhsu.github.io/exhibitions/seikai-tokyo-2026/)
 
 ## 文字 Texts
+- [傅爾得談《無序身體販賣所》](https://5219rayhsu.github.io/texts/joanna-fu-chaos-body-shop/): 傅爾得 Joanna Fu 談 DECK《亞熱帶訊號》中的藝術家書、身份、偶像與權威；英譯署名許哲睿。
 - [默觀自我：「問題」與「答案」的弔詭思想行動（姜麗華）](https://5219rayhsu.github.io/texts/contemplating-the-self/): 姜麗華（臺藝大專任教授）評《答案》系列：以傅柯「作者功能」與知識／權力辯證，解讀「問題」刻於前胸、「答案」隱於後背的弔詭思想行動。
 - [誰為生成之相負責（許哲睿）](https://5219rayhsu.github.io/texts/critique/): 論文——生成式 AI 產出的影像，作者是誰、責任歸誰？以傅柯「作者功能」重新框架生成式條件下的問責機制，論證生成技術非但未使作者退場，反使問責重新成為核心問題。個案為藝術家書籍《無序身體販賣所》與 AI 證件照系列《長大》。
 
@@ -118,9 +131,3 @@
 - [文字總覽 Texts index](https://5219rayhsu.github.io/okf/texts/index.md): 全部評論／自述文字清單。
 - [文字：默觀自我（姜麗華）](https://5219rayhsu.github.io/okf/texts/contemplating-the-self/index.md): 姜麗華評論文字結構化條目。
 - [文字：誰為生成之相負責（許哲睿）](https://5219rayhsu.github.io/okf/texts/who-answers-for-the-generated-image/index.md): 許哲睿自述文字結構化條目。
-
-## 傅爾得 Joanna Fu — DECK《亞熱帶訊號》展覽文字
-
-- [中文原文](https://5219rayhsu.github.io/texts/joanna-fu-chaos-body-shop/)
-- [English translation by HSU, Che-jui](https://5219rayhsu.github.io/en/texts/joanna-fu-chaos-body-shop/)
-- [Machine-readable article](https://5219rayhsu.github.io/okf/texts/joanna-fu-chaos-body-shop/index.md)

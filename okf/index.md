@@ -15,7 +15,7 @@ creator:
 website: https://5219rayhsu.github.io/
 resource: https://5219rayhsu.github.io/
 license: all-rights-reserved
-updated: '2026-07-19'
+updated: '2026-09-28'
 tags:
 - artist-portfolio
 - visual-art
@@ -28,9 +28,9 @@ tags:
 
 Bundle root for the multilingual (zh-Hant / en / ja) knowledge base of Taiwanese artist 許哲睿 HSU, Che-jui: artist profile, works, exhibitions, and critical texts.
 
-- Artist profile: `./artist/index.md`
-- Works: `./works/index.md`
-- Exhibitions: `./exhibitions/index.md`
-- Texts: `./texts/index.md`
+- [Artist profile](./artist/index.md)
+- [Works](./works/index.md)
+- [Exhibitions](./exhibitions/index.md)
+- [Texts](./texts/index.md)
 
 See `./index.zh-Hant.md`, `./index.en.md`, `./index.ja.md` for language-specific entry points.

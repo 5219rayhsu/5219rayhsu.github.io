@@ -1,6 +1,10 @@
 ---
 id: joanna-fu-chaos-body-shop-en
 type: Article
+translation_group: joanna-fu-chaos-body-shop
+canonical_language: zh-Hant
+updated: '2026-09-28'
+translation_of: ./zh-Hant.md
 language: en
 canonical: https://5219rayhsu.github.io/en/texts/joanna-fu-chaos-body-shop/
 author: 傅爾得 Joanna Fu

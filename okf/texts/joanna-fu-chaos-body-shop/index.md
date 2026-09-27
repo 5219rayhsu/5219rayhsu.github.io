@@ -1,3 +1,14 @@
+---
+id: joanna-fu-chaos-body-shop
+type: Article
+canonical_language: zh-Hant
+author: 傅爾得 Joanna Fu
+original: ./zh-Hant.md
+english_translation: ./en.md
+japanese_navigation_chinese_original: ./ja.md
+updated: '2026-09-28'
+---
+
 # Joanna Fu on Chaos Body Shop
 
 Author: 傅爾得 Joanna Fu. Chinese original supplied by HSU, Che-jui; English translation credited to HSU, Che-jui.

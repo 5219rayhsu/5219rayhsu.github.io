@@ -10,7 +10,7 @@ translation_of: ./index.md
 translations:
   zh-Hant: ./index.zh-Hant.md
   ja: ./index.ja.md
-updated: '2026-07-19'
+updated: '2026-09-28'
 ---
 
 # Texts

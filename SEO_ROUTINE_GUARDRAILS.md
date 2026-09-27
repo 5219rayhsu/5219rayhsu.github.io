@@ -28,7 +28,7 @@
 
 ## 已完成，不用重做（跑之前先確認網站現況，如果已經是這樣就跳過）
 
-- sitemap.xml：只收 36 個可索引 HTML 頁 + image sitemap extension（不要加回
+- sitemap.xml：只收 39 個可索引 HTML 頁 + image sitemap extension（不要加回
   `okf/**/*.md` 或 `llms.txt`，那些是 text/markdown，加回去只會稀釋訊號）。
   重產用 `migration/gen_sitemap.py`（不在這個 repo，在站主本機的
   `../migration/`——如果雲端環境沒有這支腳本，直接手動維護 sitemap.xml 或

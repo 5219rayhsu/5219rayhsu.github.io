@@ -16,10 +16,11 @@ resources:
   ja: https://5219rayhsu.github.io/ja/texts/
 related_entities:
   texts:
+  - ./joanna-fu-chaos-body-shop/index.md
   - ./contemplating-the-self/index.md
   - ./who-answers-for-the-generated-image/index.md
   artist: ../artist/index.md
-updated: '2026-07-19'
+updated: '2026-09-28'
 ---
 
 # Texts index

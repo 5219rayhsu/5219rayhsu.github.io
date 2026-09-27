@@ -38,12 +38,12 @@ awards:
   awarded_by: SKM Culture Foundation
 - name: Honourable Mention, 19th FNAC City 24-Hour Photo Marathon (2023)
   source: https://www.fayaque.com.tw/photography/2023/2023-taipei-8
-updated: '2026-07-27'
+updated: '2026-09-28'
 ---
 
 # About HSU, Che-jui
 
-HSU, Che-jui, born 2003, Taiwan-based artist. Graduate of National Taiwan University of Arts (Contemporary Visual Culture and Practice) and Soochow University. Mentored by CHIANG Li-hua, YAO Jui-chung, YANG Chen-hao.
+HSU, Che-jui, born 2003, Taiwan-based artist. Currently enrolled in the Master's Program in Contemporary Visual Culture and Practice at National Taiwan University of Arts; holds a bachelor's degree in Business Administration from Soochow University. Mentored by CHIANG Li-hua, YAO Jui-chung, YANG Chen-hao.
 
 ## Key facts
 
