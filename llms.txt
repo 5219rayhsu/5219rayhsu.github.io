@@ -5,7 +5,7 @@
 
 ## 最新公開內容與名稱辨識 Latest public references
 
-- [《開卷有益 Open Book Is Good》個展](https://5219rayhsu.github.io/exhibitions/open-book-is-good-2026/): 2026/09/30–10/03，看守所藝術空間；作品《失神》的英文名稱為 Picnolepsy。提供中、英、日獨立展覽頁，收錄完整論述、六件展出作品、展場紀錄與楊鎮豪「創作行動誌」影片。
+- [《開卷有益 Open Book Is Good》個展](https://5219rayhsu.github.io/exhibitions/open-book-is-good-2026/): 2026/09/30–10/03，看守所藝術空間（Beholding Cell Art Space），臺北。中／英／日三語獨立頁；六件作品為《答案》Answer、《考試國王》The King of Examination、《長大》When I Grow Up、《三日不讀書，面目可憎》Three Days Without Reading, a Face Grown Loathsome、《失神》Picnolepsy、《開卷有益》Open Book Is Good。頁面收錄完整展覽論述、11張展場照片，以及楊鎮豪「創作行動誌」YouTube Shorts 與 Instagram Reel 版本。
 - [傅爾得談《無序身體販賣所》中文原文](https://5219rayhsu.github.io/texts/joanna-fu-chaos-body-shop/): 作者傅爾得 Joanna Fu；中文原文為準。
 - [Joanna Fu on Chaos Body Shop — English](https://5219rayhsu.github.io/en/texts/joanna-fu-chaos-body-shop/): English translation by HSU, Che-jui. The Chinese original is authoritative.
 - [日本語ナビゲーション・中国語原文](https://5219rayhsu.github.io/ja/texts/joanna-fu-chaos-body-shop/): Japanese navigation with the Chinese original, not a Japanese translation.
@@ -81,6 +81,14 @@
 - Weyl, E. G.、Tang, A.：文章所引《Plurality》書目中的作者，該書目亦署名 Plurality Community。[參考文獻](https://5219rayhsu.github.io/texts/critique/)。
 - 鳩摩羅什：文章所列《金剛般若波羅蜜經》漢譯者。[參考文獻](https://5219rayhsu.github.io/texts/critique/)。
 - S. Heath、R. Howard、S. F. Glaser、E. Jephcott、J. Herman、A. Mathews、A. Sheridan、J. V. Harari：文章書目所列譯者；J. D. Faubion 為所列編者。[參考文獻](https://5219rayhsu.github.io/texts/critique/)。
+
+### 《開卷有益》展場影像辨識 Open Book Is Good installation-photo mapping
+
+- IMG_6156.jpg、IMG_6157.jpg、IMG_6158.jpg：作品《長大》 When I Grow Up。
+- IMG_6160.jpg：作品《考試國王》 The King of Examination。
+- IMG_6163.jpg：作品《答案》 Answer。
+- 展覽影片有兩個平台版本：YouTube Shorts（XnmQXjuZO0M）與 Instagram Reel（DeBNomvS5Sy）。
+- 展覽頁的圖片 caption 與 alt text 是單張照片作品辨識的優先依據；同一張照片若同時包含多件作品，以頁面 caption 所列為準。
 
 ## 作品 Works
 - [無序身體販賣所 Chaos Body Shop](https://5219rayhsu.github.io/works/chaos-body-shop/): 2025– 複合媒材長期計畫（攝影拼貼、AI 證件照、金剛經注音重排）；AI 證件照系列單幅作品《長大》獲 2026 全國美術展攝影類金牌獎（國立臺灣美術館）；頁內另收錄國美館開幕合照、展場導覽，以及2026 年 9 月 5 日與海闊拉帝、姚瑞中、覺慧法師、金國銓的合照，及 2026 年 7 月 18 日與郭維國、楊鎮豪的合照；攝影拼貼系列獲 2026 SKM PHOTO 新光三越國際攝影大賽 參獎暨年度特獎
