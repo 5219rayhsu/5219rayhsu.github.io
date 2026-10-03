@@ -10,18 +10,19 @@ translation_of: ./index.md
 translations:
   zh-Hant: ./index.zh-Hant.md
   ja: ./index.ja.md
-updated: '2026-08-28'
+updated: '2026-10-03'
 ---
 
 # Exhibitions
 
-HSU Che-jui's exhibition history: solo shows at Place M Tokyo, Keelung Museum of Art and beholdingcell, plus 17 group exhibitions and 15 NTU Photo Club shows, with venues, dates and featured works.
+HSU Che-jui's exhibition history: four solo exhibitions — Open Book Is Good, Seikai, Answer and Medicine — at Beholding Cell Art Space, Place M Tokyo and Keelung Museum of Art, plus 17 group exhibitions and 15 NTU Photo Club shows, with venues, dates and featured works.
 
 ## Exhibition list
 
+- [Open Book Is Good — Beholding Cell Art Space solo exhibition](./open-book-is-good-2026/en.md) (2026/09/30–10/03)
 - [Seikai — Place M Tokyo solo exhibition](./seikai-tokyo-2026/en.md) (2026/03/16–03/22)
 - [Answer — Keelung Museum of Art solo exhibition](./answer-keelung-2025/en.md) (2025/06/17–07/06)
 - [Medicine — 22nd Birthday Special Exhibition](./medicine-2025/en.md) (2025/10/01–10/04)
 - [Observation Synthesis — HyperWave Space group exhibition](./observation-synthesis-taipei-2026/en.md) (2026/07/08–07/25)
 - [Subtropical Signals: Contemporary Image-Making from Taiwan — DECK, Singapore group exhibition](./subtropical-signals-singapore-2026/en.md) (2026/06/19–07/26)
-- [Full exhibition timeline](./exhibition-timeline/en.md) (group and club exhibitions included, 35 entries, including the 115th National Art Exhibition, 2026/07/18–10/11)
+- [Full exhibition timeline](./exhibition-timeline/en.md) (group and club exhibitions included, 36 entries, including the 2026 National Art Exhibition, 2026/07/18–10/11)

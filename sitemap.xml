@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='utf-8'?>
-<urlset xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
   <url>
     <loc>https://5219rayhsu.github.io/about/</loc>
     <lastmod>2026-09-16</lastmod>
@@ -186,7 +186,7 @@
   </url>
   <url>
     <loc>https://5219rayhsu.github.io/en/exhibitions/</loc>
-    <lastmod>2026-09-28</lastmod>
+    <lastmod>2026-10-03</lastmod>
     <image:image>
       <image:loc>https://5219rayhsu.github.io/assets/img/exhibitions/island-compound-eyes-lodz-2026/island-compound-eyes-lodz-2026-installation-view-01.jpg</image:loc>
       <image:caption>Island Compound Eyes, Łódź: Taiwanese artists’ books on wooden tables, the Chaos Body Shop sutra-fold at centre, at Art_Inkubator.</image:caption>
@@ -270,7 +270,7 @@
   </url>
   <url>
     <loc>https://5219rayhsu.github.io/en/</loc>
-    <lastmod>2026-09-16</lastmod>
+    <lastmod>2026-10-03</lastmod>
     <image:image>
       <image:loc>https://5219rayhsu.github.io/assets/img/home/home-momotaro-self-portrait.jpg</image:loc>
       <image:caption>HSU Che-jui in a Momotaro-inspired self-portrait: wearing a headband and a gold-brocade surcoat, holding a three-dumpling skewer, flanked by a pheasant, a Shiba dog and a macaque.</image:caption>
@@ -461,7 +461,7 @@
     </image:image>
     <image:image>
       <image:loc>https://5219rayhsu.github.io/assets/img/chaos-body-shop/when-i-grow-up-self-portrait-2400.jpg</image:loc>
-      <image:caption>Work: When I Grow Up — a black-and-white 4×5 self-portrait at the centre: the bare-chested artist in glasses holds a tape measure in one hand to measure his own height (177.7 cm), while the other hand grips a roadside guardrail&#x27;s stone post, its top trailing a length of broken wire — ringed by 177 AI-generated ID photos corresponding to the whole-number portion (deities, celebrities and anime characters from around the world), one of which is his real passport photograph with a corner cut off, representing the 0.7 cm remainder — set against dense, tangled tree branches.</image:caption>
+      <image:caption>Work: When I Grow Up — a black-and-white 4×5 self-portrait at the centre: the bare-chested artist in glasses holds a tape measure in one hand to measure his own height (177.7 cm), while the other hand grips a roadside guardrail's stone post, its top trailing a length of broken wire — ringed by 177 AI-generated ID photos corresponding to the whole-number portion (deities, celebrities and anime characters from around the world), one of which is his real passport photograph with a corner cut off, representing the 0.7 cm remainder — set against dense, tangled tree branches.</image:caption>
     </image:image>
     <image:image>
       <image:loc>https://5219rayhsu.github.io/assets/img/chaos-body-shop/chaos-body-shop-installation-view-01-2400.jpg</image:loc>
@@ -527,11 +527,26 @@
       <image:loc>https://5219rayhsu.github.io/assets/img/chaos-body-shop/grid-02.jpg</image:loc>
       <image:caption>Book cover of Chaos Body Shop.</image:caption>
     </image:image>
-      <image:image><image:loc>https://5219rayhsu.github.io/assets/img/chaos-body-shop/when-i-grow-up-20260718-national-art-exhibition-group.jpg</image:loc><image:caption>Group photograph at the National Art Exhibition award ceremony and opening (July 18, 2026).</image:caption></image:image>
-    <image:image><image:loc>https://5219rayhsu.github.io/assets/img/chaos-body-shop/when-i-grow-up-20260718-li-ching-hui-chen-kuang-yi.jpg</image:loc><image:caption>Presenting the work at the National Art Exhibition to Deputy Minister of Culture 李靜慧（LEE, Ching-hwi） and National Taiwan Museum of Fine Arts Director 陳貺怡（CHEN, Kuang-yi） (July 18, 2026).</image:caption></image:image>
-      <image:image><image:loc>https://5219rayhsu.github.io/assets/img/chaos-body-shop/video-2-poster.jpg</image:loc><image:caption>Chaos Body Shop — Video Documentation 2</image:caption></image:image>
-      <image:image><image:loc>https://5219rayhsu.github.io/assets/img/chaos-body-shop/when-i-grow-up-group-hi-quality-yao-jui-chung-chen-chueh-hui-chin-kuo-chuan.jpg</image:loc><image:caption>In front of When I Grow Up with Hi-Quality artist duo 陳誌陽（CHEN, Chih-yang） and 閔詩涵（MIN, Shih-han）; 姚瑞中（YAO, Jui-chung）, Professor in the Department of Fine Arts at Taipei National University of the Arts; 覺慧法師（Jue Hui） of the Japanese Koyasan Shingon tradition and head of LOCI SEED; and 金國銓（JIN, Guo-quan）, a master of yige parade-float making (September 5, 2026).</image:caption></image:image>
-    <image:image><image:loc>https://5219rayhsu.github.io/assets/img/chaos-body-shop/when-i-grow-up-group-kuo-wei-kuo-yang-chen-hao.jpg</image:loc><image:caption>In front of When I Grow Up with 郭維國（KUO, Wei-kuo） of the Hantoo Art Group, Assistant Professor in the Department of Fine Arts at Taipei National University of the Arts, and 楊鎮豪（YANG, Chen-hao）, technical instructor of the National Taiwan University Photography Club (July 18, 2026).</image:caption></image:image>
+    <image:image>
+      <image:loc>https://5219rayhsu.github.io/assets/img/chaos-body-shop/when-i-grow-up-20260718-national-art-exhibition-group.jpg</image:loc>
+      <image:caption>Group photograph at the National Art Exhibition award ceremony and opening (July 18, 2026).</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://5219rayhsu.github.io/assets/img/chaos-body-shop/when-i-grow-up-20260718-li-ching-hui-chen-kuang-yi.jpg</image:loc>
+      <image:caption>Presenting the work at the National Art Exhibition to Deputy Minister of Culture 李靜慧（LEE, Ching-hwi） and National Taiwan Museum of Fine Arts Director 陳貺怡（CHEN, Kuang-yi） (July 18, 2026).</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://5219rayhsu.github.io/assets/img/chaos-body-shop/video-2-poster.jpg</image:loc>
+      <image:caption>Chaos Body Shop — Video Documentation 2</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://5219rayhsu.github.io/assets/img/chaos-body-shop/when-i-grow-up-group-hi-quality-yao-jui-chung-chen-chueh-hui-chin-kuo-chuan.jpg</image:loc>
+      <image:caption>In front of When I Grow Up with Hi-Quality artist duo 陳誌陽（CHEN, Chih-yang） and 閔詩涵（MIN, Shih-han）; 姚瑞中（YAO, Jui-chung）, Professor in the Department of Fine Arts at Taipei National University of the Arts; 覺慧法師（Jue Hui） of the Japanese Koyasan Shingon tradition and head of LOCI SEED; and 金國銓（JIN, Guo-quan）, a master of yige parade-float making (September 5, 2026).</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://5219rayhsu.github.io/assets/img/chaos-body-shop/when-i-grow-up-group-kuo-wei-kuo-yang-chen-hao.jpg</image:loc>
+      <image:caption>In front of When I Grow Up with 郭維國（KUO, Wei-kuo） of the Hantoo Art Group, Assistant Professor in the Department of Fine Arts at Taipei National University of the Arts, and 楊鎮豪（YANG, Chen-hao）, technical instructor of the National Taiwan University Photography Club (July 18, 2026).</image:caption>
+    </image:image>
   </url>
   <url>
     <loc>https://5219rayhsu.github.io/en/works/</loc>
@@ -1035,7 +1050,7 @@
   </url>
   <url>
     <loc>https://5219rayhsu.github.io/exhibitions/</loc>
-    <lastmod>2026-09-28</lastmod>
+    <lastmod>2026-10-03</lastmod>
     <image:image>
       <image:loc>https://5219rayhsu.github.io/assets/img/exhibitions/island-compound-eyes-lodz-2026/island-compound-eyes-lodz-2026-installation-view-01.jpg</image:loc>
       <image:caption>《複眼之島》羅茲展場：木質展桌上陳列臺灣藝術家手工書，中央為《無序身體販賣所》經摺裝，攝於 Art_Inkubator。</image:caption>
@@ -1119,7 +1134,7 @@
   </url>
   <url>
     <loc>https://5219rayhsu.github.io/</loc>
-    <lastmod>2026-09-16</lastmod>
+    <lastmod>2026-10-03</lastmod>
     <image:image>
       <image:loc>https://5219rayhsu.github.io/assets/img/home/home-momotaro-self-portrait.jpg</image:loc>
       <image:caption>許哲睿以桃太郎造型自拍：頭綁鉢卷、身著金襴陣羽織，手持三色糰子，身旁環繞雉雞、柴犬與獼猴。</image:caption>
@@ -1315,7 +1330,7 @@
   </url>
   <url>
     <loc>https://5219rayhsu.github.io/ja/exhibitions/</loc>
-    <lastmod>2026-09-28</lastmod>
+    <lastmod>2026-10-03</lastmod>
     <image:image>
       <image:loc>https://5219rayhsu.github.io/assets/img/exhibitions/island-compound-eyes-lodz-2026/island-compound-eyes-lodz-2026-installation-view-01.jpg</image:loc>
       <image:caption>《複眼之島》ウッチ会場：木製の台に台湾の作家による手製本が並び、中央に《無序身体販売所》の経折装。Art_Inkubator にて。</image:caption>
@@ -1399,7 +1414,7 @@
   </url>
   <url>
     <loc>https://5219rayhsu.github.io/ja/</loc>
-    <lastmod>2026-09-16</lastmod>
+    <lastmod>2026-10-03</lastmod>
     <image:image>
       <image:loc>https://5219rayhsu.github.io/assets/img/home/home-momotaro-self-portrait.jpg</image:loc>
       <image:caption>桃太郎に扮した許哲睿のセルフポートレート。鉢巻を締め、金襴の陣羽織をまとい、三色団子の串を手にし、雉・柴犬・猿を従える。</image:caption>
@@ -1656,11 +1671,26 @@
       <image:loc>https://5219rayhsu.github.io/assets/img/chaos-body-shop/grid-02.jpg</image:loc>
       <image:caption>《無序身体販売所》の表紙。</image:caption>
     </image:image>
-      <image:image><image:loc>https://5219rayhsu.github.io/assets/img/chaos-body-shop/when-i-grow-up-20260718-national-art-exhibition-group.jpg</image:loc><image:caption>全国美術展授賞式・開幕式の集合写真（2026年7月18日）。</image:caption></image:image>
-    <image:image><image:loc>https://5219rayhsu.github.io/assets/img/chaos-body-shop/when-i-grow-up-20260718-li-ching-hui-chen-kuang-yi.jpg</image:loc><image:caption>文化部次長の李靜慧（LEE, Ching-hwi）、国立台湾美術館館長の陳貺怡（CHEN, Kuang-yi）への全国美術展の作品前での展示ガイド（2026年7月18日）。</image:caption></image:image>
-      <image:image><image:loc>https://5219rayhsu.github.io/assets/img/chaos-body-shop/video-2-poster.jpg</image:loc><image:caption>《無序身体販売所》の映像記録 2</image:caption></image:image>
-      <image:image><image:loc>https://5219rayhsu.github.io/assets/img/chaos-body-shop/when-i-grow-up-group-hi-quality-yao-jui-chung-chen-chueh-hui-chin-kuo-chuan.jpg</image:loc><image:caption>《長大》の前で、アーティスト・デュオの海闊拉帝（Hi-Quality）の陳誌陽（CHEN, Chih-yang）・閔詩涵（MIN, Shih-han）、国立台北芸術大学美術学系教授の姚瑞中（YAO, Jui-chung）、日本の高野山真言宗に属し芥子納 - LOCI SEEDを主宰する覺慧法師（Jue Hui）、藝閣制作の名匠・金國銓（JIN, Guo-quan）と記念撮影（2026年9月5日）。</image:caption></image:image>
-    <image:image><image:loc>https://5219rayhsu.github.io/assets/img/chaos-body-shop/when-i-grow-up-group-kuo-wei-kuo-yang-chen-hao.jpg</image:loc><image:caption>《長大》の前で、悍圖社のメンバーで国立台北芸術大学美術学系助理教授の郭維國（KUO, Wei-kuo）、国立台湾大学写真研究社の技術指導者・楊鎮豪（YANG, Chen-hao）と記念撮影（2026年7月18日）。</image:caption></image:image>
+    <image:image>
+      <image:loc>https://5219rayhsu.github.io/assets/img/chaos-body-shop/when-i-grow-up-20260718-national-art-exhibition-group.jpg</image:loc>
+      <image:caption>全国美術展授賞式・開幕式の集合写真（2026年7月18日）。</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://5219rayhsu.github.io/assets/img/chaos-body-shop/when-i-grow-up-20260718-li-ching-hui-chen-kuang-yi.jpg</image:loc>
+      <image:caption>文化部次長の李靜慧（LEE, Ching-hwi）、国立台湾美術館館長の陳貺怡（CHEN, Kuang-yi）への全国美術展の作品前での展示ガイド（2026年7月18日）。</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://5219rayhsu.github.io/assets/img/chaos-body-shop/video-2-poster.jpg</image:loc>
+      <image:caption>《無序身体販売所》の映像記録 2</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://5219rayhsu.github.io/assets/img/chaos-body-shop/when-i-grow-up-group-hi-quality-yao-jui-chung-chen-chueh-hui-chin-kuo-chuan.jpg</image:loc>
+      <image:caption>《長大》の前で、アーティスト・デュオの海闊拉帝（Hi-Quality）の陳誌陽（CHEN, Chih-yang）・閔詩涵（MIN, Shih-han）、国立台北芸術大学美術学系教授の姚瑞中（YAO, Jui-chung）、日本の高野山真言宗に属し芥子納 - LOCI SEEDを主宰する覺慧法師（Jue Hui）、藝閣制作の名匠・金國銓（JIN, Guo-quan）と記念撮影（2026年9月5日）。</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://5219rayhsu.github.io/assets/img/chaos-body-shop/when-i-grow-up-group-kuo-wei-kuo-yang-chen-hao.jpg</image:loc>
+      <image:caption>《長大》の前で、悍圖社のメンバーで国立台北芸術大学美術学系助理教授の郭維國（KUO, Wei-kuo）、国立台湾大学写真研究社の技術指導者・楊鎮豪（YANG, Chen-hao）と記念撮影（2026年7月18日）。</image:caption>
+    </image:image>
   </url>
   <url>
     <loc>https://5219rayhsu.github.io/ja/works/</loc>
@@ -2237,11 +2267,26 @@
       <image:loc>https://5219rayhsu.github.io/assets/img/chaos-body-shop/grid-02.jpg</image:loc>
       <image:caption>《無序身體販賣所》書封。</image:caption>
     </image:image>
-      <image:image><image:loc>https://5219rayhsu.github.io/assets/img/chaos-body-shop/when-i-grow-up-20260718-national-art-exhibition-group.jpg</image:loc><image:caption>全國美術展頒獎典禮暨開幕式大合照（2026 年 7 月 18 日）。</image:caption></image:image>
-    <image:image><image:loc>https://5219rayhsu.github.io/assets/img/chaos-body-shop/when-i-grow-up-20260718-li-ching-hui-chen-kuang-yi.jpg</image:loc><image:caption>為文化部次長李靜慧、國立臺灣美術館館長陳貺怡於全國美術展作品前導覽（2026 年 7 月 18 日）。</image:caption></image:image>
-      <image:image><image:loc>https://5219rayhsu.github.io/assets/img/chaos-body-shop/video-2-poster.jpg</image:loc><image:caption>《無序身體販賣所》第二支影像紀錄</image:caption></image:image>
-      <image:image><image:loc>https://5219rayhsu.github.io/assets/img/chaos-body-shop/when-i-grow-up-group-hi-quality-yao-jui-chung-chen-chueh-hui-chin-kuo-chuan.jpg</image:loc><image:caption>與海闊拉帝（Hi-Quality）藝術家雙人組陳誌陽、閔詩涵，姚瑞中（國立臺北藝術大學美術學系教授），覺慧法師（日本高野山真言宗、芥子納 - LOCI SEED 負責人），以及金國銓（藝閣製作大家）於《長大》作品前合照（2026 年 9 月 5 日）。</image:caption></image:image>
-    <image:image><image:loc>https://5219rayhsu.github.io/assets/img/chaos-body-shop/when-i-grow-up-group-kuo-wei-kuo-yang-chen-hao.jpg</image:loc><image:caption>與郭維國（悍圖社、國立臺北藝術大學美術學系助理教授）、楊鎮豪（國立臺灣大學攝影研究社技藝指導老師）於《長大》作品前合照（2026 年 7 月 18 日）。</image:caption></image:image>
+    <image:image>
+      <image:loc>https://5219rayhsu.github.io/assets/img/chaos-body-shop/when-i-grow-up-20260718-national-art-exhibition-group.jpg</image:loc>
+      <image:caption>全國美術展頒獎典禮暨開幕式大合照（2026 年 7 月 18 日）。</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://5219rayhsu.github.io/assets/img/chaos-body-shop/when-i-grow-up-20260718-li-ching-hui-chen-kuang-yi.jpg</image:loc>
+      <image:caption>為文化部次長李靜慧、國立臺灣美術館館長陳貺怡於全國美術展作品前導覽（2026 年 7 月 18 日）。</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://5219rayhsu.github.io/assets/img/chaos-body-shop/video-2-poster.jpg</image:loc>
+      <image:caption>《無序身體販賣所》第二支影像紀錄</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://5219rayhsu.github.io/assets/img/chaos-body-shop/when-i-grow-up-group-hi-quality-yao-jui-chung-chen-chueh-hui-chin-kuo-chuan.jpg</image:loc>
+      <image:caption>與海闊拉帝（Hi-Quality）藝術家雙人組陳誌陽、閔詩涵，姚瑞中（國立臺北藝術大學美術學系教授），覺慧法師（日本高野山真言宗、芥子納 - LOCI SEED 負責人），以及金國銓（藝閣製作大家）於《長大》作品前合照（2026 年 9 月 5 日）。</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://5219rayhsu.github.io/assets/img/chaos-body-shop/when-i-grow-up-group-kuo-wei-kuo-yang-chen-hao.jpg</image:loc>
+      <image:caption>與郭維國（悍圖社、國立臺北藝術大學美術學系助理教授）、楊鎮豪（國立臺灣大學攝影研究社技藝指導老師）於《長大》作品前合照（2026 年 7 月 18 日）。</image:caption>
+    </image:image>
   </url>
   <url>
     <loc>https://5219rayhsu.github.io/works/</loc>
@@ -2583,10 +2628,136 @@
       <image:caption>《心藥》塔羅牌小阿爾克那．聖杯國王：AI 生成塔羅牌插畫。</image:caption>
     </image:image>
   </url>
-  <url><loc>https://5219rayhsu.github.io/texts/joanna-fu-chaos-body-shop/</loc>
-    <lastmod>2026-09-28</lastmod></url>
-  <url><loc>https://5219rayhsu.github.io/en/texts/joanna-fu-chaos-body-shop/</loc>
-    <lastmod>2026-09-28</lastmod></url>
-  <url><loc>https://5219rayhsu.github.io/ja/texts/joanna-fu-chaos-body-shop/</loc>
-    <lastmod>2026-09-28</lastmod></url>
+  <url>
+    <loc>https://5219rayhsu.github.io/texts/joanna-fu-chaos-body-shop/</loc>
+    <lastmod>2026-09-28</lastmod>
+  </url>
+  <url>
+    <loc>https://5219rayhsu.github.io/en/texts/joanna-fu-chaos-body-shop/</loc>
+    <lastmod>2026-09-28</lastmod>
+  </url>
+  <url>
+    <loc>https://5219rayhsu.github.io/ja/texts/joanna-fu-chaos-body-shop/</loc>
+    <lastmod>2026-09-28</lastmod>
+  </url>
+  <url>
+    <loc>https://5219rayhsu.github.io/exhibitions/open-book-is-good-2026/</loc>
+    <lastmod>2026-10-03</lastmod>
+    <image:image>
+      <image:loc>https://5219rayhsu.github.io/assets/img/exhibitions/open-book-is-good-2026/open-book-is-good-2026-poster-2400.jpg</image:loc>
+      <image:caption>《開卷有益》個展主視覺：神明造型肖像與展名、展期及場地資訊。</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://5219rayhsu.github.io/assets/img/exhibitions/open-book-is-good-2026/open-book-is-good-2026-video-poster.jpg</image:loc>
+      <image:caption>以《開卷有益》展覽主視覺作為影片播放封面。</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://5219rayhsu.github.io/assets/img/exhibitions/open-book-is-good-2026/open-book-is-good-2026-installation-view-01-2400.jpg</image:loc>
+      <image:caption>一人站在轉角展牆前，牆面陳列黑白攝影與一幅彩色肖像。</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://5219rayhsu.github.io/assets/img/exhibitions/open-book-is-good-2026/open-book-is-good-2026-installation-view-02-2400.jpg</image:loc>
+      <image:caption>黑色孔板牆上並排展示兩張黑白人物攝影，照片周圍與畫面內有小幅彩色肖像。</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://5219rayhsu.github.io/assets/img/exhibitions/open-book-is-good-2026/open-book-is-good-2026-installation-view-03-2400.jpg</image:loc>
+      <image:caption>黑色展牆上，沙丘與室內景象的黑白攝影，與戴冠蓄鬚的彩色肖像並置。</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://5219rayhsu.github.io/assets/img/exhibitions/open-book-is-good-2026/open-book-is-good-2026-installation-view-04-2400.jpg</image:loc>
+      <image:caption>窄幅直式影像網格上段是紅藍紋理，下段為多排人臉；旁邊展示一張樹下人物的黑白攝影。</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://5219rayhsu.github.io/assets/img/exhibitions/open-book-is-good-2026/open-book-is-good-2026-installation-view-05-2400.jpg</image:loc>
+      <image:caption>黑色孔板展牆上的彩色肖像，人物戴華麗冠飾、蓄長鬚，胸前可見龜與蛇。</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://5219rayhsu.github.io/assets/img/exhibitions/open-book-is-good-2026/open-book-is-good-2026-installation-view-06-2400.jpg</image:loc>
+      <image:caption>近拍密集排列的紅藍影像，其中嵌入一張金色人物圖像。</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://5219rayhsu.github.io/assets/img/qr-site.svg</image:loc>
+      <image:caption>許哲睿個人網站 QR 圖碼</image:caption>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://5219rayhsu.github.io/en/exhibitions/open-book-is-good-2026/</loc>
+    <lastmod>2026-10-03</lastmod>
+    <image:image>
+      <image:loc>https://5219rayhsu.github.io/assets/img/exhibitions/open-book-is-good-2026/open-book-is-good-2026-poster-2400.jpg</image:loc>
+      <image:caption>Open Book Is Good exhibition poster: a deity-costume portrait with the title, dates and venue.</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://5219rayhsu.github.io/assets/img/exhibitions/open-book-is-good-2026/open-book-is-good-2026-video-poster.jpg</image:loc>
+      <image:caption>The Open Book Is Good exhibition poster, used as the film play cover.</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://5219rayhsu.github.io/assets/img/exhibitions/open-book-is-good-2026/open-book-is-good-2026-installation-view-01-2400.jpg</image:loc>
+      <image:caption>A person stands before two adjoining display walls hung with black-and-white photographs and a color portrait.</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://5219rayhsu.github.io/assets/img/exhibitions/open-book-is-good-2026/open-book-is-good-2026-installation-view-02-2400.jpg</image:loc>
+      <image:caption>Two black-and-white figure photographs hang side by side on a black pegboard wall, with small color portraits placed around and within the images.</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://5219rayhsu.github.io/assets/img/exhibitions/open-book-is-good-2026/open-book-is-good-2026-installation-view-03-2400.jpg</image:loc>
+      <image:caption>Black-and-white images of sand dunes and an interior hang beside a color portrait of a bearded figure in an ornate crown.</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://5219rayhsu.github.io/assets/img/exhibitions/open-book-is-good-2026/open-book-is-good-2026-installation-view-04-2400.jpg</image:loc>
+      <image:caption>A tall, narrow image grid has red and blue patterns above rows of faces; a black-and-white photograph of people beneath a tree hangs beside it.</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://5219rayhsu.github.io/assets/img/exhibitions/open-book-is-good-2026/open-book-is-good-2026-installation-view-05-2400.jpg</image:loc>
+      <image:caption>A color portrait on a black pegboard wall depicts a long-bearded figure in an ornate crown, with a turtle and a snake visible in front of the figure.</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://5219rayhsu.github.io/assets/img/exhibitions/open-book-is-good-2026/open-book-is-good-2026-installation-view-06-2400.jpg</image:loc>
+      <image:caption>A close view of a dense grid of red-and-blue images, with a gold-toned human figure inserted among them.</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://5219rayhsu.github.io/assets/img/qr-site.svg</image:loc>
+      <image:caption>QR code for HSU Che-jui’s website</image:caption>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://5219rayhsu.github.io/ja/exhibitions/open-book-is-good-2026/</loc>
+    <lastmod>2026-10-03</lastmod>
+    <image:image>
+      <image:loc>https://5219rayhsu.github.io/assets/img/exhibitions/open-book-is-good-2026/open-book-is-good-2026-poster-2400.jpg</image:loc>
+      <image:caption>《開卷有益》の展覧会ポスター。神の装いの肖像と展覧会名、会期、会場の情報。</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://5219rayhsu.github.io/assets/img/exhibitions/open-book-is-good-2026/open-book-is-good-2026-video-poster.jpg</image:loc>
+      <image:caption>映像の再生カバーとして使用した《開卷有益》の展覧会ポスター。</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://5219rayhsu.github.io/assets/img/exhibitions/open-book-is-good-2026/open-book-is-good-2026-installation-view-01-2400.jpg</image:loc>
+      <image:caption>角を成す展示壁の前に一人の人物が立っている。壁面にはモノクロ写真と一枚のカラーの肖像が展示されている。</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://5219rayhsu.github.io/assets/img/exhibitions/open-book-is-good-2026/open-book-is-good-2026-installation-view-02-2400.jpg</image:loc>
+      <image:caption>黒い有孔ボードの展示壁に、人物を写したモノクロ写真二点が並んでいる。写真の周囲や画面内には、小さなカラーの肖像が見える。</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://5219rayhsu.github.io/assets/img/exhibitions/open-book-is-good-2026/open-book-is-good-2026-installation-view-03-2400.jpg</image:loc>
+      <image:caption>黒い展示壁に、砂丘や室内を写したモノクロ写真と、冠をかぶりひげをたくわえた人物のカラーの肖像が並んでいる。</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://5219rayhsu.github.io/assets/img/exhibitions/open-book-is-good-2026/open-book-is-good-2026-installation-view-04-2400.jpg</image:loc>
+      <image:caption>縦に細長い画像の格子は、上部に赤と青の模様、下部に何列もの顔が並んでいる。隣には、木の下の人物を写したモノクロ写真が展示されている。</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://5219rayhsu.github.io/assets/img/exhibitions/open-book-is-good-2026/open-book-is-good-2026-installation-view-05-2400.jpg</image:loc>
+      <image:caption>黒い有孔ボードの展示壁に、華やかな冠飾りを着け、長いひげをたくわえた人物のカラーの肖像が展示されている。胸元には亀と蛇が見える。</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://5219rayhsu.github.io/assets/img/exhibitions/open-book-is-good-2026/open-book-is-good-2026-installation-view-06-2400.jpg</image:loc>
+      <image:caption>赤と青の画像が密集して並ぶ部分を捉えた接写。その中に、金色の人物の画像が一枚組み込まれている。</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://5219rayhsu.github.io/assets/img/qr-site.svg</image:loc>
+      <image:caption>許哲睿ウェブサイトの QR コード</image:caption>
+    </image:image>
+  </url>
 </urlset>

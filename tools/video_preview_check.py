@@ -49,7 +49,7 @@ try:
                 page.on('pageerror', lambda e: errors.append(str(e)))
                 page.on('request', lambda r: external_instagram.append(r.url) if 'instagram.com' in urlsplit(r.url).netloc else None)
                 for prefix in ('', 'en/', 'ja/'):
-                    for slug in ('works/chaos-body-shop/', 'works/answer/', 'exhibitions/answer-keelung-2025/', 'exhibitions/seikai-tokyo-2026/'):
+                    for slug in ('works/chaos-body-shop/', 'works/answer/', 'exhibitions/answer-keelung-2025/', 'exhibitions/seikai-tokyo-2026/', 'exhibitions/open-book-is-good-2026/'):
                         name = prefix + slug
                         page.goto(ORIGIN + '/' + name, wait_until='load')
                         for image in page.locator('.video-embed__instagram-preview img,.video-embed__facade img').all():

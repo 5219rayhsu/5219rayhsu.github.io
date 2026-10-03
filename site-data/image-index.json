@@ -13873,6 +13873,606 @@
         "texts/contemplating-the-self/index.html"
       ],
       "needs_confirmation": false
+    },
+    {
+      "path": "assets/img/exhibitions/open-book-is-good-2026/open-book-is-good-2026-banner.jpg",
+      "old_path": "assets/img/exhibitions/open-book-is-good-2026/open-book-is-good-2026-banner.jpg",
+      "names": {
+        "zh": "《開卷有益》橫式展覽主視覺與展期場地資訊。",
+        "en": "Open Book Is Good landscape exhibition banner with dates and venue.",
+        "ja": "《開卷有益》の横長の展覧会ビジュアルと会期・会場情報。"
+      },
+      "dimensions_px": [
+        1600,
+        592
+      ],
+      "sha256": "7d701dd88c18ab050cfbff91fc73e52fd783c1ad92c4bd7f2b31b0a6a983597b",
+      "pages": [
+        "exhibitions/open-book-is-good-2026/index.html",
+        "en/exhibitions/open-book-is-good-2026/index.html",
+        "ja/exhibitions/open-book-is-good-2026/index.html"
+      ],
+      "needs_confirmation": false
+    },
+    {
+      "path": "assets/img/exhibitions/open-book-is-good-2026/open-book-is-good-2026-installation-view-01-1600.webp",
+      "old_path": "assets/img/exhibitions/open-book-is-good-2026/open-book-is-good-2026-installation-view-01-1600.webp",
+      "names": {
+        "zh": "一人站在轉角展牆前，牆面陳列黑白攝影與一幅彩色肖像。",
+        "en": "A person stands before two adjoining display walls hung with black-and-white photographs and a color portrait.",
+        "ja": "角を成す展示壁の前に一人の人物が立っている。壁面にはモノクロ写真と一枚のカラーの肖像が展示されている。"
+      },
+      "dimensions_px": [
+        1600,
+        1200
+      ],
+      "sha256": "126c3d780ed6da8d576a448188ff381e329f949ae6bbdc766b5218ad4ba7c2d5",
+      "pages": [
+        "exhibitions/open-book-is-good-2026/index.html",
+        "en/exhibitions/open-book-is-good-2026/index.html",
+        "ja/exhibitions/open-book-is-good-2026/index.html"
+      ],
+      "needs_confirmation": false
+    },
+    {
+      "path": "assets/img/exhibitions/open-book-is-good-2026/open-book-is-good-2026-installation-view-01-2400.jpg",
+      "old_path": "assets/img/exhibitions/open-book-is-good-2026/open-book-is-good-2026-installation-view-01-2400.jpg",
+      "names": {
+        "zh": "一人站在轉角展牆前，牆面陳列黑白攝影與一幅彩色肖像。",
+        "en": "A person stands before two adjoining display walls hung with black-and-white photographs and a color portrait.",
+        "ja": "角を成す展示壁の前に一人の人物が立っている。壁面にはモノクロ写真と一枚のカラーの肖像が展示されている。"
+      },
+      "dimensions_px": [
+        2400,
+        1800
+      ],
+      "sha256": "e27d48ace202847361b4084529c9c4463e973ac9c161b933d641385af235d524",
+      "pages": [
+        "exhibitions/open-book-is-good-2026/index.html",
+        "en/exhibitions/open-book-is-good-2026/index.html",
+        "ja/exhibitions/open-book-is-good-2026/index.html"
+      ],
+      "needs_confirmation": false
+    },
+    {
+      "path": "assets/img/exhibitions/open-book-is-good-2026/open-book-is-good-2026-installation-view-01-800.webp",
+      "old_path": "assets/img/exhibitions/open-book-is-good-2026/open-book-is-good-2026-installation-view-01-800.webp",
+      "names": {
+        "zh": "一人站在轉角展牆前，牆面陳列黑白攝影與一幅彩色肖像。",
+        "en": "A person stands before two adjoining display walls hung with black-and-white photographs and a color portrait.",
+        "ja": "角を成す展示壁の前に一人の人物が立っている。壁面にはモノクロ写真と一枚のカラーの肖像が展示されている。"
+      },
+      "dimensions_px": [
+        800,
+        600
+      ],
+      "sha256": "8d17a4c63de1419d6e9cd722dcf18a2e001affc7ba19ae1ab59a067633f9f7a9",
+      "pages": [
+        "exhibitions/open-book-is-good-2026/index.html",
+        "en/exhibitions/open-book-is-good-2026/index.html",
+        "ja/exhibitions/open-book-is-good-2026/index.html"
+      ],
+      "needs_confirmation": false
+    },
+    {
+      "path": "assets/img/exhibitions/open-book-is-good-2026/open-book-is-good-2026-installation-view-01.jpg",
+      "old_path": "assets/img/exhibitions/open-book-is-good-2026/open-book-is-good-2026-installation-view-01.jpg",
+      "names": {
+        "zh": "一人站在轉角展牆前，牆面陳列黑白攝影與一幅彩色肖像。",
+        "en": "A person stands before two adjoining display walls hung with black-and-white photographs and a color portrait.",
+        "ja": "角を成す展示壁の前に一人の人物が立っている。壁面にはモノクロ写真と一枚のカラーの肖像が展示されている。"
+      },
+      "dimensions_px": [
+        1600,
+        1200
+      ],
+      "sha256": "06505506c93482d848bba0bc1b13579affe4d71bf92104208f54a3a2fc808d97",
+      "pages": [
+        "exhibitions/open-book-is-good-2026/index.html",
+        "en/exhibitions/open-book-is-good-2026/index.html",
+        "ja/exhibitions/open-book-is-good-2026/index.html"
+      ],
+      "needs_confirmation": false
+    },
+    {
+      "path": "assets/img/exhibitions/open-book-is-good-2026/open-book-is-good-2026-installation-view-02-1600.webp",
+      "old_path": "assets/img/exhibitions/open-book-is-good-2026/open-book-is-good-2026-installation-view-02-1600.webp",
+      "names": {
+        "zh": "黑色孔板牆上並排展示兩張黑白人物攝影，照片周圍與畫面內有小幅彩色肖像。",
+        "en": "Two black-and-white figure photographs hang side by side on a black pegboard wall, with small color portraits placed around and within the images.",
+        "ja": "黒い有孔ボードの展示壁に、人物を写したモノクロ写真二点が並んでいる。写真の周囲や画面内には、小さなカラーの肖像が見える。"
+      },
+      "dimensions_px": [
+        1600,
+        1200
+      ],
+      "sha256": "d04df765406c2e4b9c39326944ad807aa22c7ea3468efbe19f7695ea55abfe5c",
+      "pages": [
+        "exhibitions/open-book-is-good-2026/index.html",
+        "en/exhibitions/open-book-is-good-2026/index.html",
+        "ja/exhibitions/open-book-is-good-2026/index.html"
+      ],
+      "needs_confirmation": false
+    },
+    {
+      "path": "assets/img/exhibitions/open-book-is-good-2026/open-book-is-good-2026-installation-view-02-2400.jpg",
+      "old_path": "assets/img/exhibitions/open-book-is-good-2026/open-book-is-good-2026-installation-view-02-2400.jpg",
+      "names": {
+        "zh": "黑色孔板牆上並排展示兩張黑白人物攝影，照片周圍與畫面內有小幅彩色肖像。",
+        "en": "Two black-and-white figure photographs hang side by side on a black pegboard wall, with small color portraits placed around and within the images.",
+        "ja": "黒い有孔ボードの展示壁に、人物を写したモノクロ写真二点が並んでいる。写真の周囲や画面内には、小さなカラーの肖像が見える。"
+      },
+      "dimensions_px": [
+        2400,
+        1800
+      ],
+      "sha256": "954c70cc81b8cdd3fb0429c30a230d0a1ec2a8225faaf101dd9554d5290d076d",
+      "pages": [
+        "exhibitions/open-book-is-good-2026/index.html",
+        "en/exhibitions/open-book-is-good-2026/index.html",
+        "ja/exhibitions/open-book-is-good-2026/index.html"
+      ],
+      "needs_confirmation": false
+    },
+    {
+      "path": "assets/img/exhibitions/open-book-is-good-2026/open-book-is-good-2026-installation-view-02-800.webp",
+      "old_path": "assets/img/exhibitions/open-book-is-good-2026/open-book-is-good-2026-installation-view-02-800.webp",
+      "names": {
+        "zh": "黑色孔板牆上並排展示兩張黑白人物攝影，照片周圍與畫面內有小幅彩色肖像。",
+        "en": "Two black-and-white figure photographs hang side by side on a black pegboard wall, with small color portraits placed around and within the images.",
+        "ja": "黒い有孔ボードの展示壁に、人物を写したモノクロ写真二点が並んでいる。写真の周囲や画面内には、小さなカラーの肖像が見える。"
+      },
+      "dimensions_px": [
+        800,
+        600
+      ],
+      "sha256": "ff1c358382ac7319aeacf34d456fde16a5fb7b7494542250b370e2d9293daa51",
+      "pages": [
+        "exhibitions/open-book-is-good-2026/index.html",
+        "en/exhibitions/open-book-is-good-2026/index.html",
+        "ja/exhibitions/open-book-is-good-2026/index.html"
+      ],
+      "needs_confirmation": false
+    },
+    {
+      "path": "assets/img/exhibitions/open-book-is-good-2026/open-book-is-good-2026-installation-view-02.jpg",
+      "old_path": "assets/img/exhibitions/open-book-is-good-2026/open-book-is-good-2026-installation-view-02.jpg",
+      "names": {
+        "zh": "黑色孔板牆上並排展示兩張黑白人物攝影，照片周圍與畫面內有小幅彩色肖像。",
+        "en": "Two black-and-white figure photographs hang side by side on a black pegboard wall, with small color portraits placed around and within the images.",
+        "ja": "黒い有孔ボードの展示壁に、人物を写したモノクロ写真二点が並んでいる。写真の周囲や画面内には、小さなカラーの肖像が見える。"
+      },
+      "dimensions_px": [
+        1600,
+        1200
+      ],
+      "sha256": "f1238c3041aa3644c77126a3492117f37cfd077f92c34c23f6a70e8b29e94a4d",
+      "pages": [
+        "exhibitions/open-book-is-good-2026/index.html",
+        "en/exhibitions/open-book-is-good-2026/index.html",
+        "ja/exhibitions/open-book-is-good-2026/index.html"
+      ],
+      "needs_confirmation": false
+    },
+    {
+      "path": "assets/img/exhibitions/open-book-is-good-2026/open-book-is-good-2026-installation-view-03-1600.webp",
+      "old_path": "assets/img/exhibitions/open-book-is-good-2026/open-book-is-good-2026-installation-view-03-1600.webp",
+      "names": {
+        "zh": "黑色展牆上，沙丘與室內景象的黑白攝影，與戴冠蓄鬚的彩色肖像並置。",
+        "en": "Black-and-white images of sand dunes and an interior hang beside a color portrait of a bearded figure in an ornate crown.",
+        "ja": "黒い展示壁に、砂丘や室内を写したモノクロ写真と、冠をかぶりひげをたくわえた人物のカラーの肖像が並んでいる。"
+      },
+      "dimensions_px": [
+        1600,
+        1200
+      ],
+      "sha256": "ad939420fa6da17d2e2155426c6e4da5deaf73100208c6abb9a22654e934f9f4",
+      "pages": [
+        "exhibitions/open-book-is-good-2026/index.html",
+        "en/exhibitions/open-book-is-good-2026/index.html",
+        "ja/exhibitions/open-book-is-good-2026/index.html"
+      ],
+      "needs_confirmation": false
+    },
+    {
+      "path": "assets/img/exhibitions/open-book-is-good-2026/open-book-is-good-2026-installation-view-03-2400.jpg",
+      "old_path": "assets/img/exhibitions/open-book-is-good-2026/open-book-is-good-2026-installation-view-03-2400.jpg",
+      "names": {
+        "zh": "黑色展牆上，沙丘與室內景象的黑白攝影，與戴冠蓄鬚的彩色肖像並置。",
+        "en": "Black-and-white images of sand dunes and an interior hang beside a color portrait of a bearded figure in an ornate crown.",
+        "ja": "黒い展示壁に、砂丘や室内を写したモノクロ写真と、冠をかぶりひげをたくわえた人物のカラーの肖像が並んでいる。"
+      },
+      "dimensions_px": [
+        2400,
+        1800
+      ],
+      "sha256": "22b0efec100e9bbafc2b76660f0319ba7b2daac8b811c1932e187daea263e8c4",
+      "pages": [
+        "exhibitions/open-book-is-good-2026/index.html",
+        "en/exhibitions/open-book-is-good-2026/index.html",
+        "ja/exhibitions/open-book-is-good-2026/index.html"
+      ],
+      "needs_confirmation": false
+    },
+    {
+      "path": "assets/img/exhibitions/open-book-is-good-2026/open-book-is-good-2026-installation-view-03-800.webp",
+      "old_path": "assets/img/exhibitions/open-book-is-good-2026/open-book-is-good-2026-installation-view-03-800.webp",
+      "names": {
+        "zh": "黑色展牆上，沙丘與室內景象的黑白攝影，與戴冠蓄鬚的彩色肖像並置。",
+        "en": "Black-and-white images of sand dunes and an interior hang beside a color portrait of a bearded figure in an ornate crown.",
+        "ja": "黒い展示壁に、砂丘や室内を写したモノクロ写真と、冠をかぶりひげをたくわえた人物のカラーの肖像が並んでいる。"
+      },
+      "dimensions_px": [
+        800,
+        600
+      ],
+      "sha256": "5fcd0b135e136fcdeb0df2ea3be9e89d2c4039259dd575c811fe22d0209d3c34",
+      "pages": [
+        "exhibitions/open-book-is-good-2026/index.html",
+        "en/exhibitions/open-book-is-good-2026/index.html",
+        "ja/exhibitions/open-book-is-good-2026/index.html"
+      ],
+      "needs_confirmation": false
+    },
+    {
+      "path": "assets/img/exhibitions/open-book-is-good-2026/open-book-is-good-2026-installation-view-03.jpg",
+      "old_path": "assets/img/exhibitions/open-book-is-good-2026/open-book-is-good-2026-installation-view-03.jpg",
+      "names": {
+        "zh": "黑色展牆上，沙丘與室內景象的黑白攝影，與戴冠蓄鬚的彩色肖像並置。",
+        "en": "Black-and-white images of sand dunes and an interior hang beside a color portrait of a bearded figure in an ornate crown.",
+        "ja": "黒い展示壁に、砂丘や室内を写したモノクロ写真と、冠をかぶりひげをたくわえた人物のカラーの肖像が並んでいる。"
+      },
+      "dimensions_px": [
+        1600,
+        1200
+      ],
+      "sha256": "d3136a55e380bf0d50dce44096925bf17f9b0c219183122c545752dd1ec6e5a6",
+      "pages": [
+        "exhibitions/open-book-is-good-2026/index.html",
+        "en/exhibitions/open-book-is-good-2026/index.html",
+        "ja/exhibitions/open-book-is-good-2026/index.html"
+      ],
+      "needs_confirmation": false
+    },
+    {
+      "path": "assets/img/exhibitions/open-book-is-good-2026/open-book-is-good-2026-installation-view-04-1600.webp",
+      "old_path": "assets/img/exhibitions/open-book-is-good-2026/open-book-is-good-2026-installation-view-04-1600.webp",
+      "names": {
+        "zh": "窄幅直式影像網格上段是紅藍紋理，下段為多排人臉；旁邊展示一張樹下人物的黑白攝影。",
+        "en": "A tall, narrow image grid has red and blue patterns above rows of faces; a black-and-white photograph of people beneath a tree hangs beside it.",
+        "ja": "縦に細長い画像の格子は、上部に赤と青の模様、下部に何列もの顔が並んでいる。隣には、木の下の人物を写したモノクロ写真が展示されている。"
+      },
+      "dimensions_px": [
+        1280,
+        1600
+      ],
+      "sha256": "d4f49abb4b7f5bff4b1272cd7d9403d79bca13cf377182275541e9a5f75fb125",
+      "pages": [
+        "exhibitions/open-book-is-good-2026/index.html",
+        "en/exhibitions/open-book-is-good-2026/index.html",
+        "ja/exhibitions/open-book-is-good-2026/index.html"
+      ],
+      "needs_confirmation": false
+    },
+    {
+      "path": "assets/img/exhibitions/open-book-is-good-2026/open-book-is-good-2026-installation-view-04-2400.jpg",
+      "old_path": "assets/img/exhibitions/open-book-is-good-2026/open-book-is-good-2026-installation-view-04-2400.jpg",
+      "names": {
+        "zh": "窄幅直式影像網格上段是紅藍紋理，下段為多排人臉；旁邊展示一張樹下人物的黑白攝影。",
+        "en": "A tall, narrow image grid has red and blue patterns above rows of faces; a black-and-white photograph of people beneath a tree hangs beside it.",
+        "ja": "縦に細長い画像の格子は、上部に赤と青の模様、下部に何列もの顔が並んでいる。隣には、木の下の人物を写したモノクロ写真が展示されている。"
+      },
+      "dimensions_px": [
+        1920,
+        2400
+      ],
+      "sha256": "af44266eec72a11b288d501c4dbb0e1a50b41b0c0eedd3e61e2c0780170432e9",
+      "pages": [
+        "exhibitions/open-book-is-good-2026/index.html",
+        "en/exhibitions/open-book-is-good-2026/index.html",
+        "ja/exhibitions/open-book-is-good-2026/index.html"
+      ],
+      "needs_confirmation": false
+    },
+    {
+      "path": "assets/img/exhibitions/open-book-is-good-2026/open-book-is-good-2026-installation-view-04-800.webp",
+      "old_path": "assets/img/exhibitions/open-book-is-good-2026/open-book-is-good-2026-installation-view-04-800.webp",
+      "names": {
+        "zh": "窄幅直式影像網格上段是紅藍紋理，下段為多排人臉；旁邊展示一張樹下人物的黑白攝影。",
+        "en": "A tall, narrow image grid has red and blue patterns above rows of faces; a black-and-white photograph of people beneath a tree hangs beside it.",
+        "ja": "縦に細長い画像の格子は、上部に赤と青の模様、下部に何列もの顔が並んでいる。隣には、木の下の人物を写したモノクロ写真が展示されている。"
+      },
+      "dimensions_px": [
+        640,
+        800
+      ],
+      "sha256": "1811102573b5c1eb8b8506097d494dff36c76c59efc38d011e059669f7584ca0",
+      "pages": [
+        "exhibitions/open-book-is-good-2026/index.html",
+        "en/exhibitions/open-book-is-good-2026/index.html",
+        "ja/exhibitions/open-book-is-good-2026/index.html"
+      ],
+      "needs_confirmation": false
+    },
+    {
+      "path": "assets/img/exhibitions/open-book-is-good-2026/open-book-is-good-2026-installation-view-04.jpg",
+      "old_path": "assets/img/exhibitions/open-book-is-good-2026/open-book-is-good-2026-installation-view-04.jpg",
+      "names": {
+        "zh": "窄幅直式影像網格上段是紅藍紋理，下段為多排人臉；旁邊展示一張樹下人物的黑白攝影。",
+        "en": "A tall, narrow image grid has red and blue patterns above rows of faces; a black-and-white photograph of people beneath a tree hangs beside it.",
+        "ja": "縦に細長い画像の格子は、上部に赤と青の模様、下部に何列もの顔が並んでいる。隣には、木の下の人物を写したモノクロ写真が展示されている。"
+      },
+      "dimensions_px": [
+        1280,
+        1600
+      ],
+      "sha256": "c9f0646b8ae6f82647fe6b872a6babd1bbc0351a7b826e3fef78e7d3939e7eaa",
+      "pages": [
+        "exhibitions/open-book-is-good-2026/index.html",
+        "en/exhibitions/open-book-is-good-2026/index.html",
+        "ja/exhibitions/open-book-is-good-2026/index.html"
+      ],
+      "needs_confirmation": false
+    },
+    {
+      "path": "assets/img/exhibitions/open-book-is-good-2026/open-book-is-good-2026-installation-view-05-1600.webp",
+      "old_path": "assets/img/exhibitions/open-book-is-good-2026/open-book-is-good-2026-installation-view-05-1600.webp",
+      "names": {
+        "zh": "黑色孔板展牆上的彩色肖像，人物戴華麗冠飾、蓄長鬚，胸前可見龜與蛇。",
+        "en": "A color portrait on a black pegboard wall depicts a long-bearded figure in an ornate crown, with a turtle and a snake visible in front of the figure.",
+        "ja": "黒い有孔ボードの展示壁に、華やかな冠飾りを着け、長いひげをたくわえた人物のカラーの肖像が展示されている。胸元には亀と蛇が見える。"
+      },
+      "dimensions_px": [
+        1200,
+        1600
+      ],
+      "sha256": "947d4b944a699ef777935da9280d7c28ad4dd275acbe46a1cb7d4a88dbc7c9ac",
+      "pages": [
+        "exhibitions/open-book-is-good-2026/index.html",
+        "en/exhibitions/open-book-is-good-2026/index.html",
+        "ja/exhibitions/open-book-is-good-2026/index.html"
+      ],
+      "needs_confirmation": false
+    },
+    {
+      "path": "assets/img/exhibitions/open-book-is-good-2026/open-book-is-good-2026-installation-view-05-2400.jpg",
+      "old_path": "assets/img/exhibitions/open-book-is-good-2026/open-book-is-good-2026-installation-view-05-2400.jpg",
+      "names": {
+        "zh": "黑色孔板展牆上的彩色肖像，人物戴華麗冠飾、蓄長鬚，胸前可見龜與蛇。",
+        "en": "A color portrait on a black pegboard wall depicts a long-bearded figure in an ornate crown, with a turtle and a snake visible in front of the figure.",
+        "ja": "黒い有孔ボードの展示壁に、華やかな冠飾りを着け、長いひげをたくわえた人物のカラーの肖像が展示されている。胸元には亀と蛇が見える。"
+      },
+      "dimensions_px": [
+        1800,
+        2400
+      ],
+      "sha256": "b3bf3edbbcfc56625738f75b8c073df541910f858978e838b4cf48429a0ee098",
+      "pages": [
+        "exhibitions/open-book-is-good-2026/index.html",
+        "en/exhibitions/open-book-is-good-2026/index.html",
+        "ja/exhibitions/open-book-is-good-2026/index.html"
+      ],
+      "needs_confirmation": false
+    },
+    {
+      "path": "assets/img/exhibitions/open-book-is-good-2026/open-book-is-good-2026-installation-view-05-800.webp",
+      "old_path": "assets/img/exhibitions/open-book-is-good-2026/open-book-is-good-2026-installation-view-05-800.webp",
+      "names": {
+        "zh": "黑色孔板展牆上的彩色肖像，人物戴華麗冠飾、蓄長鬚，胸前可見龜與蛇。",
+        "en": "A color portrait on a black pegboard wall depicts a long-bearded figure in an ornate crown, with a turtle and a snake visible in front of the figure.",
+        "ja": "黒い有孔ボードの展示壁に、華やかな冠飾りを着け、長いひげをたくわえた人物のカラーの肖像が展示されている。胸元には亀と蛇が見える。"
+      },
+      "dimensions_px": [
+        600,
+        800
+      ],
+      "sha256": "0466ffa0498e412b99564d575f74c49902ce5dd89c3d29b6893434653b242eac",
+      "pages": [
+        "exhibitions/open-book-is-good-2026/index.html",
+        "en/exhibitions/open-book-is-good-2026/index.html",
+        "ja/exhibitions/open-book-is-good-2026/index.html"
+      ],
+      "needs_confirmation": false
+    },
+    {
+      "path": "assets/img/exhibitions/open-book-is-good-2026/open-book-is-good-2026-installation-view-05.jpg",
+      "old_path": "assets/img/exhibitions/open-book-is-good-2026/open-book-is-good-2026-installation-view-05.jpg",
+      "names": {
+        "zh": "黑色孔板展牆上的彩色肖像，人物戴華麗冠飾、蓄長鬚，胸前可見龜與蛇。",
+        "en": "A color portrait on a black pegboard wall depicts a long-bearded figure in an ornate crown, with a turtle and a snake visible in front of the figure.",
+        "ja": "黒い有孔ボードの展示壁に、華やかな冠飾りを着け、長いひげをたくわえた人物のカラーの肖像が展示されている。胸元には亀と蛇が見える。"
+      },
+      "dimensions_px": [
+        1200,
+        1600
+      ],
+      "sha256": "bdc22b8ea6fbc79cd38f72bef0b0e13e63583cdb31dc9a3f91213046f41e4651",
+      "pages": [
+        "exhibitions/open-book-is-good-2026/index.html",
+        "en/exhibitions/open-book-is-good-2026/index.html",
+        "ja/exhibitions/open-book-is-good-2026/index.html"
+      ],
+      "needs_confirmation": false
+    },
+    {
+      "path": "assets/img/exhibitions/open-book-is-good-2026/open-book-is-good-2026-installation-view-06-1600.webp",
+      "old_path": "assets/img/exhibitions/open-book-is-good-2026/open-book-is-good-2026-installation-view-06-1600.webp",
+      "names": {
+        "zh": "近拍密集排列的紅藍影像，其中嵌入一張金色人物圖像。",
+        "en": "A close view of a dense grid of red-and-blue images, with a gold-toned human figure inserted among them.",
+        "ja": "赤と青の画像が密集して並ぶ部分を捉えた接写。その中に、金色の人物の画像が一枚組み込まれている。"
+      },
+      "dimensions_px": [
+        1200,
+        1600
+      ],
+      "sha256": "46533da70ac593fd395910d9a50a6a9de6f54d3d8f4e5bc627455b4a23c947be",
+      "pages": [
+        "exhibitions/open-book-is-good-2026/index.html",
+        "en/exhibitions/open-book-is-good-2026/index.html",
+        "ja/exhibitions/open-book-is-good-2026/index.html"
+      ],
+      "needs_confirmation": false
+    },
+    {
+      "path": "assets/img/exhibitions/open-book-is-good-2026/open-book-is-good-2026-installation-view-06-2400.jpg",
+      "old_path": "assets/img/exhibitions/open-book-is-good-2026/open-book-is-good-2026-installation-view-06-2400.jpg",
+      "names": {
+        "zh": "近拍密集排列的紅藍影像，其中嵌入一張金色人物圖像。",
+        "en": "A close view of a dense grid of red-and-blue images, with a gold-toned human figure inserted among them.",
+        "ja": "赤と青の画像が密集して並ぶ部分を捉えた接写。その中に、金色の人物の画像が一枚組み込まれている。"
+      },
+      "dimensions_px": [
+        1800,
+        2400
+      ],
+      "sha256": "942691d4ea4d7576a8ee2f61790aa4e411171eb8cc3627e7e192e55000cbdb1c",
+      "pages": [
+        "exhibitions/open-book-is-good-2026/index.html",
+        "en/exhibitions/open-book-is-good-2026/index.html",
+        "ja/exhibitions/open-book-is-good-2026/index.html"
+      ],
+      "needs_confirmation": false
+    },
+    {
+      "path": "assets/img/exhibitions/open-book-is-good-2026/open-book-is-good-2026-installation-view-06-800.webp",
+      "old_path": "assets/img/exhibitions/open-book-is-good-2026/open-book-is-good-2026-installation-view-06-800.webp",
+      "names": {
+        "zh": "近拍密集排列的紅藍影像，其中嵌入一張金色人物圖像。",
+        "en": "A close view of a dense grid of red-and-blue images, with a gold-toned human figure inserted among them.",
+        "ja": "赤と青の画像が密集して並ぶ部分を捉えた接写。その中に、金色の人物の画像が一枚組み込まれている。"
+      },
+      "dimensions_px": [
+        600,
+        800
+      ],
+      "sha256": "1bf7374e3549d7cac9b2757bdd808032c55ae348b54364f1b99783e50d45d32f",
+      "pages": [
+        "exhibitions/open-book-is-good-2026/index.html",
+        "en/exhibitions/open-book-is-good-2026/index.html",
+        "ja/exhibitions/open-book-is-good-2026/index.html"
+      ],
+      "needs_confirmation": false
+    },
+    {
+      "path": "assets/img/exhibitions/open-book-is-good-2026/open-book-is-good-2026-installation-view-06.jpg",
+      "old_path": "assets/img/exhibitions/open-book-is-good-2026/open-book-is-good-2026-installation-view-06.jpg",
+      "names": {
+        "zh": "近拍密集排列的紅藍影像，其中嵌入一張金色人物圖像。",
+        "en": "A close view of a dense grid of red-and-blue images, with a gold-toned human figure inserted among them.",
+        "ja": "赤と青の画像が密集して並ぶ部分を捉えた接写。その中に、金色の人物の画像が一枚組み込まれている。"
+      },
+      "dimensions_px": [
+        1200,
+        1600
+      ],
+      "sha256": "7f13da4e26bff3f06a3d2dd284e6cf91d247c024fc81cba36b981b8c163ba618",
+      "pages": [
+        "exhibitions/open-book-is-good-2026/index.html",
+        "en/exhibitions/open-book-is-good-2026/index.html",
+        "ja/exhibitions/open-book-is-good-2026/index.html"
+      ],
+      "needs_confirmation": false
+    },
+    {
+      "path": "assets/img/exhibitions/open-book-is-good-2026/open-book-is-good-2026-poster-1600.webp",
+      "old_path": "assets/img/exhibitions/open-book-is-good-2026/open-book-is-good-2026-poster-1600.webp",
+      "names": {
+        "zh": "《開卷有益》個展主視覺：神明造型肖像與展名、展期及場地資訊。",
+        "en": "Open Book Is Good exhibition poster: a deity-costume portrait with the title, dates and venue.",
+        "ja": "《開卷有益》の展覧会ポスター。神の装いの肖像と展覧会名、会期、会場の情報。"
+      },
+      "dimensions_px": [
+        1280,
+        1600
+      ],
+      "sha256": "606cde3e742024a6b9614cc6375187ab3100abaccef5cea18709e3a047fc0082",
+      "pages": [
+        "exhibitions/open-book-is-good-2026/index.html",
+        "en/exhibitions/open-book-is-good-2026/index.html",
+        "ja/exhibitions/open-book-is-good-2026/index.html"
+      ],
+      "needs_confirmation": false
+    },
+    {
+      "path": "assets/img/exhibitions/open-book-is-good-2026/open-book-is-good-2026-poster-2400.jpg",
+      "old_path": "assets/img/exhibitions/open-book-is-good-2026/open-book-is-good-2026-poster-2400.jpg",
+      "names": {
+        "zh": "《開卷有益》個展主視覺：神明造型肖像與展名、展期及場地資訊。",
+        "en": "Open Book Is Good exhibition poster: a deity-costume portrait with the title, dates and venue.",
+        "ja": "《開卷有益》の展覧会ポスター。神の装いの肖像と展覧会名、会期、会場の情報。"
+      },
+      "dimensions_px": [
+        1920,
+        2400
+      ],
+      "sha256": "54da623d3062836302f2bcad831f0d65b62daf9a8c16b6ccc4d50d883d4c1559",
+      "pages": [
+        "exhibitions/open-book-is-good-2026/index.html",
+        "en/exhibitions/open-book-is-good-2026/index.html",
+        "ja/exhibitions/open-book-is-good-2026/index.html"
+      ],
+      "needs_confirmation": false
+    },
+    {
+      "path": "assets/img/exhibitions/open-book-is-good-2026/open-book-is-good-2026-poster-800.webp",
+      "old_path": "assets/img/exhibitions/open-book-is-good-2026/open-book-is-good-2026-poster-800.webp",
+      "names": {
+        "zh": "《開卷有益》個展主視覺：神明造型肖像與展名、展期及場地資訊。",
+        "en": "Open Book Is Good exhibition poster: a deity-costume portrait with the title, dates and venue.",
+        "ja": "《開卷有益》の展覧会ポスター。神の装いの肖像と展覧会名、会期、会場の情報。"
+      },
+      "dimensions_px": [
+        640,
+        800
+      ],
+      "sha256": "8a81f748b843344558ce24436a6d4876086e9c7b85e939dddd7767e8bf20a202",
+      "pages": [
+        "exhibitions/open-book-is-good-2026/index.html",
+        "en/exhibitions/open-book-is-good-2026/index.html",
+        "ja/exhibitions/open-book-is-good-2026/index.html"
+      ],
+      "needs_confirmation": false
+    },
+    {
+      "path": "assets/img/exhibitions/open-book-is-good-2026/open-book-is-good-2026-poster.jpg",
+      "old_path": "assets/img/exhibitions/open-book-is-good-2026/open-book-is-good-2026-poster.jpg",
+      "names": {
+        "zh": "《開卷有益》個展主視覺：神明造型肖像與展名、展期及場地資訊。",
+        "en": "Open Book Is Good exhibition poster: a deity-costume portrait with the title, dates and venue.",
+        "ja": "《開卷有益》の展覧会ポスター。神の装いの肖像と展覧会名、会期、会場の情報。"
+      },
+      "dimensions_px": [
+        1280,
+        1600
+      ],
+      "sha256": "2448e1294e6334e495f3cf2f621b91616dcf8f255887fc97380b6340e089db94",
+      "pages": [
+        "exhibitions/open-book-is-good-2026/index.html",
+        "en/exhibitions/open-book-is-good-2026/index.html",
+        "ja/exhibitions/open-book-is-good-2026/index.html"
+      ],
+      "needs_confirmation": false
+    },
+    {
+      "path": "assets/img/exhibitions/open-book-is-good-2026/open-book-is-good-2026-video-poster.jpg",
+      "old_path": "assets/img/exhibitions/open-book-is-good-2026/open-book-is-good-2026-video-poster.jpg",
+      "names": {
+        "zh": "以《開卷有益》展覽主視覺作為影片播放封面。",
+        "en": "The Open Book Is Good exhibition poster, used as the film play cover.",
+        "ja": "映像の再生カバーとして使用した《開卷有益》の展覧会ポスター。"
+      },
+      "dimensions_px": [
+        480,
+        600
+      ],
+      "sha256": "c3992667893b2d53b8808ea1fc4beb41e65897d196db516bab00d8fc464622d5",
+      "pages": [
+        "exhibitions/open-book-is-good-2026/index.html",
+        "en/exhibitions/open-book-is-good-2026/index.html",
+        "ja/exhibitions/open-book-is-good-2026/index.html"
+      ],
+      "needs_confirmation": false
     }
   ]
 }

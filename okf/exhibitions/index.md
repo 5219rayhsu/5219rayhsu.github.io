@@ -16,6 +16,7 @@ resources:
   ja: https://5219rayhsu.github.io/ja/exhibitions/
 related_entities:
   exhibitions:
+  - ./open-book-is-good-2026/index.md
   - ./seikai-tokyo-2026/index.md
   - ./answer-keelung-2025/index.md
   - ./medicine-2025/index.md
@@ -23,9 +24,9 @@ related_entities:
   - ./subtropical-signals-singapore-2026/index.md
   - ./exhibition-timeline/index.md
   artist: ../artist/index.md
-updated: '2026-08-28'
+updated: '2026-10-03'
 ---
 
 # Exhibitions index
 
-Category index for exhibition entities: three solo exhibitions, two group exhibitions with full curator/venue detail (Observation Synthesis, Subtropical Signals), and the full exhibition timeline (35 entries as of 2026-08-28).
+Category index for exhibition entities: four solo exhibitions, two group exhibitions with full curator/venue detail (Observation Synthesis, Subtropical Signals), and the full exhibition timeline (36 entries as of 2026-10-03).

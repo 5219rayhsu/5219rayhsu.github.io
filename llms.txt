@@ -5,7 +5,7 @@
 
 ## 最新公開內容與名稱辨識 Latest public references
 
-- [《開卷有益 Open Book Is Good》個展](https://5219rayhsu.github.io/exhibitions/#open-book-is-good-2026): 2026/09/30–10/03，看守所藝術空間；作品《失神》的英文名稱為 Picnolepsy。此處提供公開展覽資訊，尚無獨立展覽頁。
+- [《開卷有益 Open Book Is Good》個展](https://5219rayhsu.github.io/exhibitions/open-book-is-good-2026/): 2026/09/30–10/03，看守所藝術空間；作品《失神》的英文名稱為 Picnolepsy。提供中、英、日獨立展覽頁，收錄完整論述、六件展出作品、展場紀錄與楊鎮豪「創作行動誌」影片。
 - [傅爾得談《無序身體販賣所》中文原文](https://5219rayhsu.github.io/texts/joanna-fu-chaos-body-shop/): 作者傅爾得 Joanna Fu；中文原文為準。
 - [Joanna Fu on Chaos Body Shop — English](https://5219rayhsu.github.io/en/texts/joanna-fu-chaos-body-shop/): English translation by HSU, Che-jui. The Chinese original is authoritative.
 - [日本語ナビゲーション・中国語原文](https://5219rayhsu.github.io/ja/texts/joanna-fu-chaos-body-shop/): Japanese navigation with the Chinese original, not a Japanese translation.
@@ -103,6 +103,9 @@
 - [心藥 Medicine · 日本語](https://5219rayhsu.github.io/okf/works/medicine/ja.md): 作品事實、系列區段與紀錄來源。
 
 ## 參展 Exhibitions
+- [開卷有益 — 三語展覽資料](https://5219rayhsu.github.io/okf/exhibitions/open-book-is-good-2026/index.md)
+- [Open Book Is Good — English](https://5219rayhsu.github.io/en/exhibitions/open-book-is-good-2026/)
+- [開卷有益 — 日本語](https://5219rayhsu.github.io/ja/exhibitions/open-book-is-good-2026/)
 - [參展年表](https://5219rayhsu.github.io/exhibitions/): 個展、聯展、台大攝影社展完整年表
 - [《答案》基隆美術館個展 2025](https://5219rayhsu.github.io/exhibitions/answer-keelung-2025/)
 - [《正解：台湾受験戦争の真剣勝負》東京 Place M 個展 2026](https://5219rayhsu.github.io/exhibitions/seikai-tokyo-2026/)

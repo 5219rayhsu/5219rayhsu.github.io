@@ -1,8 +1,7 @@
 {
   "index.html": {
-    "main_text_sha256": "c1d80046aba6125da20eec3f53841f99f55e45f95b01277be96fc992e4ac9ee8",
     "title": "許哲睿 HSU Che-jui — 攝影與複合媒材藝術家",
-    "canonical": "https://5219rayhsu.github.io/",
+    "main_text_sha256": "de6e2e14d4afbd629f4c9a34cda075a29ec678dec64f7fd22771f3c86d6fed37",
     "alt_sha256": "122c14ec7b7bb91a0ad597f70f0c65642a93f8298d4bb194917e0e25cbeaaeab"
   },
   "about/index.html": {
@@ -18,9 +17,8 @@
     "alt_sha256": "6d96ea7d96c1a84a15805abd6ef7ab128b00e1206df97b1c1887fe052c17bca9"
   },
   "ja/index.html": {
-    "main_text_sha256": "e1bb972428e230da7f6f244eb6d9ee961fa368d4e3cc259e814a1d4647c8e223",
     "title": "許哲睿 HSU Che-jui — 写真と複合メディアのアーティスト",
-    "canonical": "https://5219rayhsu.github.io/ja/",
+    "main_text_sha256": "7219ef50a543d8cf564ebf45f2043b488e03fefec90d4f8bc853098db70149ea",
     "alt_sha256": "43de0045dd353189d8979ea58e483fbcfa06ab94d2685298cd6e90b360c4e402"
   },
   "texts/index.html": {
@@ -30,9 +28,8 @@
     "alt_sha256": "4f53cda18c2baa0c0354bb5f9a3ecbe5ed12ab4d8e11ba873c2f11161202b945"
   },
   "en/index.html": {
-    "main_text_sha256": "dcc862f3b274b65892213e6650bec2d8ca74340db04133641c591bc2ed20dc87",
     "title": "HSU Che-jui — Photographer & Mixed-Media Artist",
-    "canonical": "https://5219rayhsu.github.io/en/",
+    "main_text_sha256": "ebbc2c9c83a56151252586de5e79a8e897a5acf5f001bffbe14b69f14377d826",
     "alt_sha256": "5421e2855a9c2202fcdb25d4e0c3b68827afb376a20fc0d4e116557839900c1a"
   },
   "exhibitions/index.html": {
@@ -232,5 +229,20 @@
     "title": "傅爾得（Joanna Fu）による《無序身體販賣所》論 — 許哲睿 HSU, Che-jui",
     "canonical": "https://5219rayhsu.github.io/ja/texts/joanna-fu-chaos-body-shop/",
     "alt_sha256": "4f53cda18c2baa0c0354bb5f9a3ecbe5ed12ab4d8e11ba873c2f11161202b945"
+  },
+  "exhibitions/open-book-is-good-2026/index.html": {
+    "title": "開卷有益 — 看守所藝術空間個展 2026 — 許哲睿 HSU, Che-jui",
+    "main_text_sha256": "02b262b7eafa07915d8de06365f8a4ca4eb984c46d33749877202a7101b5a2a6",
+    "alt_sha256": "94e54de90dbb002cad82835371ad78c43ff5b9143212c420cef607942f049eba"
+  },
+  "en/exhibitions/open-book-is-good-2026/index.html": {
+    "title": "Open Book Is Good — Beholding Cell Art Space 2026 — HSU, Che-jui",
+    "main_text_sha256": "8958365c6d423a12f091f61e81bcb73bec5344008cd478d490cf5a3b702ed75f",
+    "alt_sha256": "6c219a3dd8bf98a7cc69120f62b755ec4fce5628690ce45e30c41741078faf66"
+  },
+  "ja/exhibitions/open-book-is-good-2026/index.html": {
+    "title": "開卷有益 — 看守所藝術空間 個展 2026 — 許哲睿 HSU, Che-jui",
+    "main_text_sha256": "595f9cf06ccef214222e6ea9248c90bd22e7552fb1c0c4c808c3e558aa5501b3",
+    "alt_sha256": "2e38877a61854c9c7e6ceeeb1e51ff676fb9d7a68cd90588210436884a765824"
   }
 }
